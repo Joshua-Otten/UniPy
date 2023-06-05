@@ -1,0 +1,6 @@
+English,en
+French,fr
+Spanish,es
+Greek,el
+Mandarin,zh-CN
+Kurdish,ku

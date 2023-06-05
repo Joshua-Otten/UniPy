@@ -1,0 +1,1952 @@
+AssertionError: los encabezados (('Content-Type', 'text/plain')) deben
+('200', 'AssertionError: el estado debe tener al menos 4 caracteres'),
+('20X OK', 'AssertionError: el mensaje de estado debe comenzar con un código de 3 dígitos'),
+('200OK', 'AssertionError: el mensaje de estado debe tener un espacio después del código'),
+"imprimir('AssertionError:0:Error de CLOEXEC.')"]).esperar()
+self.assertIn('AssertionError: bad tearDown', result.failures[0][1])
+self.assertIn('AssertionError: bad tearDown', result.failures[0][1])
+excepto error de aserción:
+# Error de aserción: 'v@entry=()' != '()'
+Error de afirmación: 1 != 0
+Error de afirmación: 1 != 0
+Error de afirmación: 1 != 0
+Error de afirmación: 1 != 0
+AssertionError: "3" inesperadamente no mayor o igual a "4"
+AssertionError: se espera que se llame una vez. Llamado 2 veces.
+Error de aserción: esperado: (({6},), {})
+AssertionError: llamada esperada: simulacro ({1})
+AssertionError: Esperado: llamada (<__main__.Foo object at 0x...>)
+AssertionError: Esperado: ((<Objeto Matcher en 0x...>,), {})
+AssertionError: se esperaba que el 'método' se llamara una vez. Llamado 2 veces.
+AssertionError: se esperaba que se llamara a 'simulacro' una vez. Llamado 2 veces.
+AssertionError: se esperaba que no se llamara a 'hola'. Llamado 1 veces.
+AssertionError: se esperaba el simulacro esperado.
+AssertionError: se esperaba una vez el simulacro esperado. Esperado 2 veces.
+AssertionError: llamada esperada no encontrada.
+AssertionError: se esperaba una vez el simulacro esperado. Esperado 2 veces.
+AssertionError: simulacro ('otro') en espera no encontrado
+AssertionError: espera no encontrado.
+AssertionError: se esperaba que se llamara a 'simulacro' una vez. Llamado 2 veces.
+AttributeError: el objeto 'MyLocal' no tiene atributo 'color'
+A().a # Error de atributo generado: una instancia no tiene atributo 'a'
+# AttributeError: tipo de objeto 'Nombre' no tiene atributo 'x'
+# AttributeError: se especifica 'x' en _anónimo_ pero no en _campos_
+AttributeError: el atributo 'gi_running' de los objetos 'generator' no se puede escribir
+AttributeError: el objeto 'defaultdict2' no tiene el atributo 'x1'
+AttributeError: el módulo 'test.test_doctest' no tiene el atributo 'sillySetup'
+AttributeError: el módulo 'test.test_doctest' no tiene el atributo 'sillySetup'
+# AttributeError: el objeto 'str' no tiene atributo 'is_attachment'
+# AttributeError: el objeto 'SMTP' no tiene atributo 'sock')
+excepto AttributeError: # no todos los objetos tienen __dict__ (por ejemplo, la clase define las ranuras)
+excepto AttributeError: devuelve Ninguno
+excepto AttributeError: paso
+excepto AttributeError: paso
+excepto AttributeError: # Para plataformas sin _getframemodulename()
+excepto AttributeError: # sin socket
+excepto AttributeError: # sin socket
+excepto AttributeError: # shell puede haberse cerrado
+excepto AttributeError: # shell puede haberse cerrado
+excepto AttributeError: # puede ser un PyShell
+excepto AttributeError: # bpo-35379: cierre llamado dos veces
+AttributeError: el objeto 'método' no tiene atributo
+AttributeError: primero
+AttributeError: primero
+AttributeError: primero
+AttributeError: primero
+AttributeError: primero
+AttributeError: el módulo 'sys' no tiene el atributo '__file__'
+AttributeError: el objeto no tiene atributo 'old_method'
+AttributeError: el objeto 'NoneType' no tiene atributo 'group'
+Error de atributo: f
+AttributeError: <módulo 'sys' (incorporado)> no tiene el atributo 'non_existing_attribute'
+AttributeError: el objeto simulado no tiene el atributo 'assret_called_with'
+AttributeError: el objeto simulado no tiene el atributo 'assret_called_with'
+AttributeError: el objeto simulado no tiene el atributo 'a'
+AttributeError: el objeto simulado no tiene el atributo 'a'
+AttributeError: el objeto 'método' no tiene atributo 'whoami'
+AttributeError: el objeto 'módulo' no tiene atributo 'f'
+AttributeError: el objeto 'módulo' no tiene atributo 'f'
+AttributeError: el objeto 'módulo' no tiene atributo 'f'
+AttributeError: función 'MyOwnFunction' no encontrada
+AttributeError: función ordinal 0 no encontrada
+Error de atributo: x
+Error de atributo: x
+AttributeError: el objeto 'C' no tiene el atributo 'newattr'
+AttributeError: el objeto 'NoneType' no tiene atributo 'x'
+AttributeError: el módulo 'colecciones' no tiene el atributo 'namedtoplo'. Quiso decir: tupla nombrada
+AttributeError: el objeto 'ClassWithoutGetAttr' no tiene atributo 'z'
+AttributeError: el objeto 'C' no tiene el atributo '_C__x'
+AttributeError: el objeto 'Vehículo' no tiene el atributo 'id_nubmer'
+AttributeError: la propiedad 'depto' del objeto 'Inmutable' no tiene setter
+AttributeError: el objeto 'inmutable' no tiene atributo 'ubicación'
+AttributeError: el objeto 'H' no tiene el atributo 'xz'
+EXPORTAR_DATOS(PyExc_EOFError)
+FEO. Ahora genera :exc:`~ssl.SSLEOFError`, coincidiendo con el comportamiento anterior
+ssl.wrap_socket() ahora genera ssl.SSLEOFError en lugar de OSError cuando peer
+ya que ``read()`` puede generar :exc:`ssl.SSLEOFError` en Windows. parche por
+- Problema n.º 1159051: GzipFile ahora genera EOFError al leer un archivo dañado
+- Problema n.º 5334: array.fromfile() no pudo insertar valores cuando se generó EOFError.
+[datos.PyExc_EOFError]
+Objetos/excepciones.c: PyExc_EOFError estático PyTypeObject PyExc_EOFError
+Objetos/excepciones.c:_PyExc_EOFError estático PyTypeObject _PyExc_EOFError
+Objetos/excepciones.c - _PyExc_EOFError -
+Objetos/excepciones.c - PyExc_EOFError -
+Si el usuario presiona EOF (*nix: Ctrl-D, Windows: Ctrl-Z+Return), genera EOFError.
+PyErr_SetNone(PyExc_EOFError);
+PyErr_SetString(PyExc_EOFError,
+PyErr_SetString(PyExc_EOFError,
+PyErr_SetString(PyExc_EOFError,
+PyErr_SetString(PyExc_EOFError,
+PyErr_SetString(PyExc_EOFError,
+formato marshal incompatible de la versión), generar EOFError, ValueError o
+Si no se encuentra un valor válido, genere EOFError, ValueError o TypeError. Extra
+Si el usuario presiona EOF (*nix: Ctrl-D, Windows: Ctrl-Z+Return), genera EOFError.\n
+formato marshal incompatible de la versión), genere EOFError, ValueError o\n
+Si no se encuentra un valor válido, genere EOFError, ValueError o TypeError. Extra\n
+PyAPI_DATA(PyObject *) PyExc_EOFError;
+* EOFError extiende la Excepción
+SimpleExtendsException(PyExc_Exception, EOFError,
+ARTÍCULO (EOFError),
+PyErr_SetString(PyExc_EOFError,
+PyErr_SetString(PyExc_EOFError,
+excepto EOFError:
+excepto (EOFError, aifc.Error):
+excepto (EOFError, wave.Error):
+raise EOFError("El archivo comprimido finalizó antes del "
+raise EOFError("El archivo comprimido finalizó antes del "
+aumentar EOFError ("El archivo comprimido finalizó antes del final de la transmisión"
+excepto (OSError, EOFError, ValueError) como error:
+excepto (OSError, EOFError):
+Genera EOFError si la conexión está cerrada.
+si no hay línea: aumentar EOFError
+EOFError
+excepto EOFError:
+aumentar EOFError('EOF leído donde no se esperaba')
+aumentar EOFError('EOF leído donde no se esperaba')
+aumentar EOFError('EOF leído donde no se esperaba')
+excepto ssl.SSLEOFError:
+con self.assertRaises(EOFError):
+excepto EOFError:
+self.assertRaises(EOFError, telnet.read_very_lazy)
+excepto EOFError:
+self.assertRaises(EOFError, gzip.descomprimir, datos_comprimidos[:-4])
+self.assertRaises(EOFError, gzip.descomprimir, datos_comprimidos[:-8])
+self.assertRaises(EOFError, f.read)
+self.assertRaises(EOFError, f.read, 1)
+self.assertRaises(EOFError, f.read, 1)
+self.assertRaises(EOFError, conn.recv)
+self.assertRaises(EOFError, conn.recv_bytes)
+excepto EOFError:
+self.assertRaises(EOFError, marshal.loads, data[0: i])
+con self.assertRaises(EOFError):
+con self.assertRaises(EOFError):
+con self.assertRaises(EOFError):
+con self.assertRaises(EOFError):
+PyExc_EOFError
+excepto (OSError, EOFError):
+EOF_ERRORS = (EOFError,)
+EOF_ERRORS += (ssl.SSLEOFError,)
+errores_truncados = (pickle.UnpicklingError, EOFError,
+errores_truncados = (pickle.UnpicklingError, EOFError,
+EOFError,
+self.check_unpickling_error(EOFError, b'')
+self.check_unpickling_error(EOFError, b'N')
+self.assertRaises((EOFError, struct.error, pickle.UnpicklingError), self.load, s)
+self.assertRaises(EOFError, unpickler.load)
+self.assertRaises(EOFError, lzd.decompress, b"quux")
+self.assertRaises(EOFError, lzd.decompress, b"nyan")
+self.assertRaises(EOFError, f.read)
+self.assertRaises(EOFError, f.read)
+self.assertRaises(EOFError, f.read, 1)
+self.assertRaises(EOFError, f.read, 1)
+con self.assertRaises(EOFError):
+self.assertRaises(EOFError, b.fromfile, f, len(self.example)+1)
+# en lugar de EOFError.
+con self.assertRaises(EOFError):
+con self.assertRaises(EOFError):
+# más genera EOFError.
+# aumentar EOFError.
+# Cuando las banderas son parciales, regenerar el .pyc, de lo contrario generar EOFError.
+# Cuando el hash es parcial, regenerar el .pyc, de lo contrario generar EOFError.
+# aumentar EOFError.
+# Cuando solo existe el número mágico y la marca de tiempo, genera EOFError.
+con self.assertRaises(EOFError):
+con self.assertRaises(EOFError):
+con self.assertRaises(EOFError):
+con self.assertRaises(EOFError):
+con self.assertRaises(EOFError):
+# Si se utiliza el código de bytes, Marshal generará EOFError.
+# Si se utiliza el código de bytes, Marshal generará EOFError.
+excepto EOFError: pase
+excepto (EOFError, TypeError, ZeroDivisionError): pasar
+excepto (EOFError, TypeError, ZeroDivisionError) como msg: pass
+excepto* EOFError: pasa
+excepto* (EOFError, TypeError, ZeroDivisionError): pasar
+excepto* (EOFError, TypeError, ZeroDivisionError) como mensaje: pasar
+self.assertRaises(EOFError, f.read)
+self.assertRaises(EOFError, f.read, 1)
+self.assertRaises(EOFError, f.read, 1)
+def testEOFError(self):
+self.assertRaises(EOFError, bz2d.decompress, b"cualquier cosa")
+self.assertRaises(EOFError, bz2d.descomprimir, b"")
+self.raise_catch(EOFError, "EOFError")
+excepto EOFError:
+con self.assertRaises(EOFError):
+con self.assertRaises(EOFError):
+con self.assertRaises(EOFError):
+# Algunos buildbot win32 generan EOFError si se hereda stdin
+├── EOFError
+self.assertRaises(ssl.SSLEOFError, sslobj.read)
+excepto ssl.SSLEOFError:
+self.assertRaises(EOFError, getpass._raw_input, input=input)
+("EOFError" en err.reason))) o
+def testEOFError(self):
+self.assertRaises(EOFError, zlibd.decompress, b"cualquier cosa")
+self.assertRaises(EOFError, zlibd.descomprimir, b"")
+self.infunc.side_effect = EOFError('Terminado')
+self.infunc.side_effect = EOFError('Terminado')
+self.infunc.side_effect = ["'antioch'", "", EOFError('Terminado')]
+self.infunc.side_effect = ["indefinido", EOFError('Terminado')]
+EOFError('Terminado')]
+self.infunc.side_effect = EOFError('Terminado')
+self.infunc.side_effect = EOFError('Terminado')
+self.infunc.side_effect = EOFError('Terminado')
+self.infunc.side_effect = EOFError('Terminado')
+self.infunc.side_effect = EOFError('Terminado')
+EOFError('Terminado')]
+EOFError('Terminado')]
+self.assertRaises(EOFError, aifc._read_ulong, f)
+self.assertRaises(EOFError, aifc._read_long, f)
+self.assertRaises(EOFError, aifc._read_ushort, f)
+self.assertRaises(EOFError, aifc._read_short, f)
+excepto EOFError: pase
+excepto (EOFError, TypeError, ZeroDivisionError): pasar
+excepto (EOFError, TypeError, ZeroDivisionError), mensaje: pasar
+excepto EOFError: pase
+excepto (EOFError, TypeError, ZeroDivisionError): pasar
+excepto (EOFError, TypeError, ZeroDivisionError) como msg: pass
+self.assertRaises(EOFError, entrada)
+para exctype en OSError, EOFError, RuntimeError:
+self.assertRaises(EOFError, up.unpack_uint)
+EOFError)
+excepto (OSError, EOFError):
+aumentar EOFError
+elevar EOFError de Ninguno
+aumentar EOFError
+excepto EOFError:
+elevar EOFError de Ninguno
+elevar EOFError de Ninguno
+aumentar EOFError
+elevar EOFError de Ninguno
+raise EOFError("El archivo comprimido finalizó antes del "
+aumentar EOFError
+aumentar EOFError('EOF inesperado')
+aumentar EOFError
+aumentar EOFError
+excepto (EOFError, OSError):
+util.debug('el trabajador obtuvo EOFError u OSError -- saliendo')
+excepto (OSError, EOFError):
+util.debug('el controlador de resultados obtuvo EOFError/OSError -- saliendo')
+excepto (OSError, EOFError):
+util.debug('el controlador de resultados obtuvo EOFError/OSError -- saliendo')
+excepto (OSError, EOFError):
+excepto (OSError, EOFError):
+excepto EOFError:
+aumentar EOFError
+excepto EOFError:
+Cuando el usuario ingresa la secuencia de teclas EOF, se genera EOFError.
+excepto (Interrupción de teclado, EOFError):
+excepto (Interrupción de teclado, EOFError):
+aumentar EOFError
+aumentar EOFError
+aumentar EOFError
+aumentar EOFError
+aumentar EOFError
+all_errors = (Error, OSError, EOFError)
+excepto (OSError, EOFError):
+# Levantar EOFError si la conexión está cerrada
+aumentar EOFError
+todos_errores = (Error, OSError, EOFError, ssl.SSLError)
+del archivo, la creación de una nueva instancia fallará con un EOFError
+excepto EOFError:
+aumentar EOFError
+elevar EOFError de Ninguno
+aumentar EOFError
+excepto EOFError:
+comió los datos. Esta es la razón por la que se necesita EOFError en algunos casos para distinguir
+generar EOFError cuando se lee el final de la conexión, porque
+posiblemente la cadena vacía. Genera EOFError si la conexión
+Generar EOFError si la conexión está cerrada y no hay datos cocidos
+Generar EOFError si la conexión está cerrada y no hay datos cocidos
+Genera EOFError si la conexión está cerrada y no hay datos disponibles.
+Genera EOFError si la conexión está cerrada y no hay datos disponibles.
+aumentar EOFError ('conexión telnet cerrada')
+excepto EOFError: # generado por self.rawq_getchar()
+Bloquear si no hay datos disponibles de inmediato. Aumentar EOFError
+aumentar EOFError
+excepto EOFError:
+excepto EOFError:
+Si se lee EOF y no se leyó ningún texto, genera EOFError.
+aumentar EOFError
+EOFError: Si nuestra entrada tty o stdin estaba cerrada.
+aumentar EOFError
+(pero no necesariamente limitado a) AttributeError, EOFError, ImportError,
+aumentar EOFError
+aumentar EOFError
+excepto (OSError, EOFError) como e:
+excepto (LZMAError, EOFError) como e:
+el campo no es válido. EOFError se genera cuando se encuentra que los datos están truncados.
+aumentar EOFError (mensaje)
+excepto (ImportError, EOFError):
+Anule la clase base: simplemente vuelva a aumentar EOFError
+aumentar EOFError
+excepto (EOFError, OSError, KeyboardInterrupt):
+excepto EOFError:
+aumentar EOFError
+nunca llega y sale en EOFError.
+excepto EOFError:
+aumentar EOFError
+aumentar EOFError
+excepto EOFError:
+aumentar EOFError
+excepto EOFError:
+SSLSyscallError, SSLEOFError, SSLCertVerificationError
+clase Error de lectura incompleta (EOFError):
+elevar EOFError de Ninguno
+elevar EOFError de Ninguno
+elevar EOFError de Ninguno
+elevar EOFError de Ninguno
+excepto EOFError:
+excepto EOFError:
+'EOFError', 'Ellipsis', 'EnvironmentError', 'Exception', 'False',
+lanza un :exc:`EOFError`. Cualquier dato encontrado después del final del
+read, se genera :exc:`EOFError`. Ejemplo::
+Esta excepción es una subclase de :exc:`EOFError`.
+format), subir :exc:`EOFError`, :exc:`ValueError` o :exc:`TypeError`. El
+:exc:`EOFError`, :exc:`ValueError` o :exc:`TypeError`. Bytes adicionales en el
+nueva línea. Cuando el usuario ingresa la secuencia de teclas EOF, se genera :exc:`EOFError`.
+(pero no necesariamente limitado a) AttributeError, EOFError, ImportError y
+excepto EOFError:
+:exc:`EOFError` se genera, pero los elementos que estaban disponibles todavía están
+la instancia fallará con una excepción :exc:`EOFError`.
+:exc:`EOFError` cuando se lee el final de la conexión, porque pueden volver
+bytes Levantar :exc:`EOFError` si la conexión está cerrada y no hay datos cocidos
+Genera :exc:`EOFError` si la conexión está cerrada y no hay datos cocidos disponibles.
+Genera :exc:`EOFError` si la conexión está cerrada y no hay datos cocidos disponibles.
+Genera :exc:`EOFError` si la conexión está cerrada y no hay datos disponibles. Devolver
+Genera :exc:`EOFError` si la conexión está cerrada y no hay datos disponibles. Devolver
+Si se encuentra el final del archivo y no se leyeron bytes, genere :exc:`EOFError`.
+:exc:`EOFError` y :exc:`zlib.error` también se pueden generar para gzip no válido
+cuatro excepciones enumeradas anteriormente, así como :exc:`OSError` y :exc:`EOFError`.
+.. excepción:: SSLEOFError
+:exc: excepción `SSLEOFError`.
+:exc:`EOFError` si no queda nada por recibir
+Plantea :exc:`EOFError` si no queda nada
+:exc:`EOFError` si no queda nada por recibir y el otro extremo fue
+excepto EOFError:
+lanza un :exc:`EOFError`. Cualquier dato encontrado después del final del
+.. excepción:: EOFError
+Genera :exc:`EOFError` si la entrada finaliza prematuramente.
+var, PyExc_EOFError, 3.2,,
+En caso de error, establece la excepción adecuada (:exc:`EOFError`) y devuelve
+En caso de error, establece la excepción adecuada (:exc:`EOFError`) y devuelve
+En caso de error, establece la excepción adecuada (:exc:`EOFError`, :exc:`ValueError`
+En caso de error, establece la excepción adecuada (:exc:`EOFError`, :exc:`ValueError`
+En caso de error, establece la excepción adecuada (:exc:`EOFError`, :exc:`ValueError`
+.. index:: single: EOFError (excepción incorporada)
+``0``, sin embargo, se lee una línea independientemente de la longitud, pero :exc:`EOFError` es
+único: PyExc_EOFError
+| :c:datos:`PyExc_EOFError` | :exc:`EOFError` | |
+PyErr_SetString(PyExc_EOFError,
+EOFError. Todos los datos encontrados después del final de la transmisión se ignoran y se guardan en
+PyErr_SetString(PyExc_EOFError, "Ya al ​​final de la transmisión");
+PyErr_Format(PyExc_EOFError, "Se quedó sin entrada");
+EOFError. Todos los datos encontrados después del final de la transmisión se ignoran y se guardan en
+PyErr_SetString(PyExc_EOFError, "Final de flujo ya alcanzado");
+PyDoc_STRVAR(SSLEOFError_doc,
+tipo = estado->PySSLEOFErrorObject;
+tipo = estado->PySSLEOFErrorObject;
+tipo = estado->PySSLEOFErrorObject;
+estado->PySSLEOFErrorObject,
+SSLEOFError
+SSLEOFError_doc,
+Py_VISIT(estado->PySSLEOFErrorObject);
+Py_CLEAR(estado->PySSLEOFErrorObject);
+PyErr_SetString(PyExc_EOFError,
+EOFError. Todos los datos encontrados después del final de la transmisión se ignoran y se guardan en
+PyErr_SetString(PyExc_EOFError, "Final de flujo ya alcanzado");
+EOFError. Todos los datos encontrados después del final de la transmisión se ignoran y se guardan en\n
+EOFError. Todos los datos encontrados después del final de la transmisión se ignoran y se guardan en\n
+EOFError. Todos los datos encontrados después del final de la transmisión se ignoran y se guardan en\n
+PyObject *PySSLEOFErrorObject;
+* Excepciones de excepción XXX. ImportError: 'Ningún módulo llamado sha'
+# ImportError: si nombre_paquete no existe (por ejemplo, si tzdata no es
+excepto ImportError: # pragma: nocover
+- ZipImportError: excepción lanzada por objetos zipimporter. Es un
+self.assertIn("ImportError: ningún módulo llamado t_main.__main__",
+excepto ImportError: # pragma: sin portada
+texto = 'ImportError: ' + str(exc)
+f'ImportError: el módulo {nombre} no admite la carga en subintérpretes',
+f'ImportError: el módulo {nombre} no admite la carga en subintérpretes',
+excepto ImportError: # en caso de que no haya módulo pwd
+excepto ImportError: # comentario\n
+excepto ImportError: # pragma: sin portada
+f'ImportError: 5\n')
+self.msgout(4, "generar ImportError: No se ha llamado módulo", qname)
+self.msgout(4, "generar ImportError: No se ha llamado módulo", mname)
+self.msgout(2, "generar ImportError: " + str(exc), nombre de ruta)
+excepto ImportError: # no se ejecuta en Windows - simula algo sensato
+excepto ImportError: # pragma: sin portada
+excepto ImportError: # pragma: sin portada
+excepto ImportError: # pragma: sin portada
+ImportError: no se puede importar el nombre 'chainmap' de 'colecciones'. ¿Quiso decir: 'mapa de cadena'?
+IndentationError: esperaba un bloque sangrado después de la declaración 'while' en la línea 1
+IndentationError: esperaba un bloque sangrado después de la declaración 'for' en la línea 1
+IndentationError: esperaba un bloque sangrado después de la declaración 'else' en la línea 3
+IndentationError: esperaba un bloque sangrado después de la declaración 'for' en la línea 1
+IndentationError: esperaba un bloque sangrado después de la declaración 'else' en la línea 3
+IndentationError: esperaba un bloque sangrado después de la declaración 'if' en la línea 1
+IndentationError: esperaba un bloque sangrado después de la declaración 'elif' en la línea 3
+IndentationError: esperaba un bloque sangrado después de la declaración 'else' en la línea 5
+IndentationError: esperaba un bloque sangrado después de la declaración 'try' en la línea 1
+IndentationError: esperaba un bloque sangrado después de la declaración 'excepto' en la línea 3
+IndentationError: esperaba un bloque sangrado después de la declaración 'excepto' en la línea 3
+IndentationError: se esperaba un bloque sangrado después de la declaración 'excepto*' en la línea 3
+IndentationError: esperaba un bloque sangrado después de la declaración 'finalmente' en la línea 5
+IndentationError: esperaba un bloque sangrado después de la declaración 'finalmente' en la línea 5
+IndentationError: esperaba un bloque sangrado después de la declaración 'with' en la línea 1
+IndentationError: esperaba un bloque sangrado después de la declaración 'with' en la línea 1
+IndentationError: esperaba un bloque sangrado después de la declaración 'with' en la línea 1
+IndentationError: esperaba un bloque sangrado después de la declaración 'with' en la línea 1
+IndentationError: esperaba un bloque sangrado después de la declaración 'with' en la línea 1
+IndentationError: esperaba un bloque sangrado después de la declaración 'with' en la línea 1
+IndentationError: esperaba un bloque sangrado después de la definición de función en la línea 1
+IndentationError: esperaba un bloque sangrado después de la definición de clase en la línea 1
+IndentationError: se esperaba un bloque sangrado después de la declaración 'coincidencia' en la línea 1
+IndentationError: se esperaba un bloque sangrado después de la declaración 'caso' en la línea 2
+IndentationError: se esperaba un bloque sangrado después de la declaración 'caso' en la línea 4
+IndentationError: esperaba un bloque sangrado después de la declaración 'if' en la línea 2
+>>> exc_msg = 'IndexError: pop de una lista vacía'
+('[].pop()\n', '', 'IndexError: pop de una lista vacía\n', 5, 4, {8: Verdadero})
+>>> exc_msg = 'IndexError: pop de una lista vacía'
+'IndexError: pop de una lista vacía\n'
+>>> exc_msg = 'IndexError: pop de una lista vacía\n'
+'IndexError: pop de una lista vacía\n'
+IndexError: pop de un deque vacío
+IndexError: índice de cadena fuera de rango
+IndexError: índice de tupla fuera de rango
+IndexError: índice de tupla fuera de rango
+IndexError: índice de tupla fuera de rango
+'IndexError: índice de tupla fuera de rango\n']
+['IndexError: índice de tupla fuera de rango\n']
+IndexError: índice de lista fuera de rango
+IndexError: índice inválido
+IndexError: pop de un deque vacío
+shutdown_error = "LookupError: codificación desconocida: ascii"
+shutdown_error = "LookupError: codificación desconocida: ascii"
+# LookupError: no se han registrado funciones de búsqueda de códecs: no se puede encontrar la codificación"
+excepto LookupError: # sin codificador incremental
+excepto LookupError: # sin codificador incremental
+excepto LookupError: # sin codificador incremental
+excepto LookupError: # sin codificador incremental
+LookupError: 'hex' no es una codificación de texto; use codecs.decode() para manejar códecs arbitrarios
+LookupError: 'rot13' no es una codificación de texto; use codecs.encode() para manejar códecs arbitrarios
+LookupError: 'hex' no es una codificación de texto; use codecs.open() para manejar códecs arbitrarios
+finalización Soluciona errores como: ``NameError: el nombre 'open' no está definido``.
+- Problema n.º 17032: el "global" en "NameError: el nombre global 'x' no está definido"
+excepto NameError: pasar
+self.assertNotIn(b"NameError: el nombre 'no válido' no está definido",
+((Pdb)) *** NameError: el nombre 'doesnotexist' no está definido
+excepto NameError: pasar
+excepto NameError: pasar
+*** NameError: el nombre 'foo' no está definido
+NameError: el nombre 'favorite_color' no está definido
+NameError: el nombre 'favorite_color' no está definido
+NameError: el nombre 'favorite_color' no está definido
+NameError: el nombre 'jamón' no está definido
+NameError: el nombre 'huevos' no está definido
+# conducir a "NameError: el nombre 'datos' no está definido"
+excepto NameError: # En caso de que python comenzara con -S.
+excepto NameError: # En caso de que el subproceso comenzara con -S (tal vez en el futuro).
+NameError: 'correo no deseado'\n
+'Error de nombre: spam\n'
+NameError: el nombre 'spam' no está definido
+NameError: Hola
+NameError: Hola
+NameError: el nombre 'n' no está definido
+NameError: el nombre 'celda' no está definido
+NameError: 'correo no deseado'
+Error de nombre: spam
+NameError: el nombre 'sys' no está definido. ¿Olvidaste importar 'sys'?
+NameError: el nombre 'blech' no está definido. ¿Quiso decir: 'self.blech'?
+NameError: el nombre 'schwarschild_black_hole' no está definido. ¿Quiso decir: schwarzschild_black_hole?
+NotImplementedError: el tipo de símbolo aún no es compatible con los scripts de Python.
+@Unitest.skip('xxx NotImplementationError: toList() solo admite vistas de bytes')
+NotImplementedError: no se puede crear una instancia de 'WindowsPath' en su sistema
+# OSError: [Errno 28] Argumento inválido: '.'
+excepto OSError: # Ej. mal ejecutable
+excepto OSError: # Ej. Comando no encontrado
+excepto OSError: # Ej. mal ejecutable
+excepto OSError: # Ej. Comando no encontrado
+excepto OSError: # Ej. mal ejecutable
+excepto OSError: # Use este nombre de error esta vez
+# getlogin() falla con "OSError: [Errno 25] ioctl inapropiado
+excepto OSError: # syslogd podría no estar disponible
+# "OSError: [Errno 12] No se puede asignar memoria"
+# con "OSError: [Errno 12] No se puede asignar memoria"
+'Excepción ignorada en.*\nOSError: .*')
+self.fail("Error de OSE esperado: struct.pack(%r, "
+self.fail("Error OSE esperado: %s" % excepción_deseado)
+self.fail("Error OSE esperado: %s" % excepción_deseado)
+self.fail("Error OSE esperado: %s" % excepción_deseado)
+self.assertIn(b'OSError: código fuente no disponible', stderr)
+if ('OSError: [Errno %d]' % errno.EBADF) not in err:
+self.assertIn(b'OSError: Señal 2 ignorada debido a condición de carrera', err)
+excepto OSError: # Asumir EIO
+# OSError: [Errno 9] Descriptor de archivo incorrecto
+# esto no debería generar OSError: [Errno 17] El archivo existe
+excepto OSError: #Linux
+excepto OSError: pase
+#OSError: [Errno 38] Función no implementada
+print("Subproceso IDLE: OSError: " + err.args[1] +
+excepto OSError: #pragma: sin portada
+excepto OSError: #pragma: sin portada
+| OSError: error 1
+| OSError: operación fallida
+| OSError: operación fallida
+| OSError: operación fallida
+OSError: [Errno 98] Dirección ya en uso
+OSError: [Errno 9] Descriptor de archivo incorrecto
+OSError: excepción: lectura de infracción de acceso 0x00000020
+OSError: [Errno 126] No se pudo encontrar el módulo especificado.
+# OverflowError: _unsafe_setprec, _unsafe_setemin, _unsafe_setemax
+OverflowError: no se puede redondear un infinito
+OverflowError: n demasiado grande
+OverflowError: n demasiado grande
+:mod:`asyncio` ya no arroja ``RuntimeError: Event loop is closed`` en
+Evite un posible *"RuntimeError: el diccionario cambió de tamaño durante la iteración"*
+Evite un posible *"RuntimeError: el diccionario cambió de tamaño durante la iteración"*
+en lugar de RuntimeError: OSError tiene un atributo errno.
+# RuntimeError: ¿Ni siquiera puede leer el objeto?
+# RuntimeError: punteros NULL
+# RuntimeError: el diccionario cambió de tamaño durante la iteración
+msg = '\nRuntimeError: error deliberado\n'
+self.assertTrue(r.exc_text.endswith('\nRuntimeError: '
+self.assertIn("RuntimeError: no se puede registrar una salida después del apagado",
+excepto RuntimeError: pasar
+RuntimeError: generador ignorado GeneratorExit
+RuntimeError: el diccionario cambió de tamaño durante la iteración
+RuntimeError: el diccionario cambió de tamaño durante la iteración
+self.assertIn("RuntimeError: no se pueden programar nuevos futuros", err.decode())
+excepto RuntimeError: pasar
+excepto RuntimeError: pasar
+excepto RuntimeError: # implementación definida
+excepto RuntimeError: # implementación definida
+err_msg = "Error de tiempo de ejecución: {0}". formato (mensaje_ascii)
+RuntimeError: si este método ya fue llamado o si set_result()
+' RuntimeError: Algo malo sucedió\n'
+' RuntimeError: Algo malo sucedió\n'
+' RuntimeError: Algo malo sucedió\n'
+RuntimeError: no se puede manejar el error
+RuntimeError: no se pudo abrir la base de datos
+RuntimeError: el generador no rindió
+en lugar de RuntimeError: OSError tiene un atributo errno.
+RuntimeError: generador generó StopIteration
+RuntimeError: el diccionario cambió de tamaño durante la iteración
+RuntimeError: Algo malo sucedió
+RuntimeError: Algo malo sucedió
+RuntimeError: Algo malo sucedió
+Detener iteración: 1
+Detener iteración: 1
+Iteración de parada interna: 1
+Iteración de parada interna: 1
+Tenga en cuenta que el retorno no siempre es equivalente a elevar StopIteration: el
+... excepto StopIteration: pasar
+Detener iteración:
+Detener iteración: spam
+Detener iteración: spam
+Error de sintaxis: esperado '('
+los caracteres que no sean ascii en su nombre podrían fallar con un error "SyntaxError: None".
+El siguiente código ahora genera un SyntaxError: foo(a = i for i in range(10))
+errprint("%s: SyntaxError: %s" % (file, str(se)))
+Error de sintaxis: ...
+Error de sintaxis: ...
+b'SyntaxError: f-string: expresión vacía no permitida',
+b'SyntaxError: secuencia de escape no válida \'\\q\''
+b'SyntaxError: el código fuente no puede contener bytes nulos'
+self.assertTrue(f"SyntaxError: sintaxis no válida" en tb)
+No se puede mostrar +: ** Error de sintaxis elevado: sintaxis no válida **
+'(Pdb) *** SyntaxError: \'(\' nunca se cerró',
+'*** SyntaxError: \'(\' nunca se cerró',
+SyntaxError: el nombre 'x' es un parámetro y global
+Error de sintaxis: sintaxis invalida
+SyntaxError: no se puede asignar a Ninguno
+Error de sintaxis: sintaxis invalida
+SyntaxError: no se puede asignar a True
+SyntaxError: no se pueden usar expresiones de asignación con True
+SyntaxError: no se puede asignar a __debug__
+SyntaxError: no se puede asignar a __debug__
+SyntaxError: no se puede asignar a __debug__
+SyntaxError: no se puede eliminar __debug__
+SyntaxError: no se puede asignar a la llamada de función aquí. ¿Quizás quisiste decir '==' en lugar de '='?
+SyntaxError: la asignación para producir expresión no es posible
+SyntaxError: no se puede eliminar la llamada de función
+SyntaxError: no se puede asignar a la expresión aquí. ¿Quizás quisiste decir '==' en lugar de '='?
+SyntaxError: no se puede asignar a la expresión del generador
+SyntaxError: no se puede asignar a literal aquí. ¿Quizás quisiste decir '==' en lugar de '='?
+SyntaxError: no se puede asignar a literal aquí. ¿Quizás quisiste decir '==' en lugar de '='?
+SyntaxError: no se puede asignar a literal aquí. ¿Quizás quisiste decir '==' en lugar de '='?
+SyntaxError: no se puede asignar puntos suspensivos aquí. ¿Quizás quisiste decir '==' en lugar de '='?
+Error de sintaxis: sintaxis invalida
+SyntaxError: no se puede asignar a literal
+SyntaxError: no se puede asignar a True
+SyntaxError: no se puede asignar a __debug__
+SyntaxError: no se puede asignar a True
+SyntaxError: no se puede asignar a __debug__
+SyntaxError: no se puede asignar a la expresión
+SyntaxError: no se puede asignar a la expresión
+SyntaxError: no se puede asignar a la expresión
+SyntaxError: no se puede asignar a la expresión condicional
+SyntaxError: se esperaba 'else' después de la expresión 'if'
+SyntaxError: se esperaba 'else' después de la expresión 'if'
+SyntaxError: se esperaba 'else' después de la expresión 'if'
+Error de sintaxis: sintaxis invalida
+SyntaxError: no se puede asignar a True
+SyntaxError: no se puede asignar a True
+SyntaxError: la asignación para producir expresión no es posible
+SyntaxError: 'tupla' es una expresión ilegal para la asignación aumentada
+SyntaxError: 'tupla' es una expresión ilegal para la asignación aumentada
+SyntaxError: 'list' es una expresión ilegal para la asignación aumentada
+SyntaxError: no se puede asignar a la llamada de función
+SyntaxError: no se puede asignar a la llamada de función
+SyntaxError: no se puede asignar a la llamada de función
+SyntaxError: no se puede asignar a la expresión
+SyntaxError: no se puede asignar a la llamada de función
+SyntaxError: no se puede asignar a la llamada de función
+SyntaxError: no se puede asignar a la expresión
+Error de sintaxis: sintaxis invalida
+Error de sintaxis: sintaxis invalida
+SyntaxError: no se puede asignar a la llamada de función
+SyntaxError: no se puede asignar a la llamada de función
+SyntaxError: no se puede asignar a la llamada de función
+SyntaxError: no se puede asignar a la expresión
+SyntaxError: no se puede asignar a la llamada de función
+SyntaxError: no se puede asignar a la llamada de función
+SyntaxError: esperado ':'
+Error de sintaxis: sintaxis invalida
+SyntaxError: ¿olvidó los paréntesis alrededor del objetivo de comprensión?
+SyntaxError: ¿olvidó los paréntesis alrededor del objetivo de comprensión?
+Error de sintaxis: sintaxis invalida. ¿Quizás olvidaste una coma?
+Error de sintaxis: sintaxis invalida. ¿Quizás olvidaste una coma?
+Error de sintaxis: sintaxis invalida. ¿Quizás olvidaste una coma?
+Error de sintaxis: sintaxis invalida. ¿Quizás olvidaste una coma?
+Error de sintaxis: sintaxis invalida
+Error de sintaxis: sintaxis invalida
+Error de sintaxis: sintaxis invalida
+Error de sintaxis: sintaxis invalida
+Error de sintaxis: sintaxis invalida
+Error de sintaxis: sintaxis invalida
+SyntaxError: el parámetro sin un valor predeterminado sigue al parámetro con un valor predeterminado
+SyntaxError: el parámetro sin un valor predeterminado sigue al parámetro con un valor predeterminado
+Error de sintaxis: sintaxis invalida
+Error de sintaxis: sintaxis invalida
+Error de sintaxis: sintaxis invalida
+SyntaxError: al menos un argumento debe preceder a /
+SyntaxError: / puede aparecer solo una vez
+SyntaxError: / puede aparecer solo una vez
+SyntaxError: / puede aparecer solo una vez
+SyntaxError: / puede aparecer solo una vez
+SyntaxError: / debe estar delante de *
+SyntaxError: / debe estar delante de *
+SyntaxError: el argumento var-posicional no puede tener un valor predeterminado
+SyntaxError: el argumento var-posicional no puede tener un valor predeterminado
+SyntaxError: el argumento var-keyword no puede tener un valor predeterminado
+SyntaxError: el argumento var-keyword no puede tener un valor predeterminado
+SyntaxError: los argumentos no pueden seguir el argumento var-keyword
+SyntaxError: los argumentos no pueden seguir el argumento var-keyword
+SyntaxError: los argumentos no pueden seguir el argumento var-keyword
+SyntaxError: los argumentos no pueden seguir el argumento var-keyword
+SyntaxError: los argumentos no pueden seguir el argumento var-keyword
+SyntaxError: * el argumento puede aparecer solo una vez
+SyntaxError: * el argumento puede aparecer solo una vez
+SyntaxError: * el argumento puede aparecer solo una vez
+SyntaxError: * el argumento puede aparecer solo una vez
+SyntaxError: coma esperada entre / y *
+SyntaxError: expresión de valor predeterminado esperado
+SyntaxError: expresión de valor predeterminado esperado
+SyntaxError: expresión de valor predeterminado esperado
+SyntaxError: al menos un argumento debe preceder a /
+SyntaxError: / puede aparecer solo una vez
+SyntaxError: / puede aparecer solo una vez
+SyntaxError: / puede aparecer solo una vez
+SyntaxError: / puede aparecer solo una vez
+SyntaxError: / debe estar delante de *
+SyntaxError: / debe estar delante de *
+SyntaxError: coma esperada entre / y *
+SyntaxError: el argumento var-posicional no puede tener un valor predeterminado
+SyntaxError: el argumento var-keyword no puede tener un valor predeterminado
+SyntaxError: los argumentos no pueden seguir el argumento var-keyword
+SyntaxError: los argumentos no pueden seguir el argumento var-keyword
+SyntaxError: los argumentos no pueden seguir el argumento var-keyword
+SyntaxError: los argumentos no pueden seguir el argumento var-keyword
+SyntaxError: los argumentos no pueden seguir el argumento var-keyword
+SyntaxError: * el argumento puede aparecer solo una vez
+SyntaxError: * el argumento puede aparecer solo una vez
+SyntaxError: * el argumento puede aparecer solo una vez
+SyntaxError: * el argumento puede aparecer solo una vez
+SyntaxError: expresión de valor predeterminado esperado
+SyntaxError: expresión de valor predeterminado esperado
+SyntaxError: el parámetro sin un valor predeterminado sigue al parámetro con un valor predeterminado
+SyntaxError: el parámetro sin un valor predeterminado sigue al parámetro con un valor predeterminado
+SyntaxError: bare * tiene un comentario de tipo asociado
+Error de sintaxis: sintaxis invalida
+SyntaxError: la expresión del generador debe estar entre paréntesis
+SyntaxError: la expresión del generador debe estar entre paréntesis
+SyntaxError: la expresión del generador debe estar entre paréntesis
+SyntaxError: la expresión del generador debe estar entre paréntesis
+SyntaxError: la expresión del generador debe estar entre paréntesis
+SyntaxError: la expresión del generador debe estar entre paréntesis
+SyntaxError: la expresión del generador debe estar entre paréntesis
+Error de sintaxis: sintaxis invalida
+SyntaxError: la expresión no puede contener la asignación, ¿quizás quiso decir "=="?
+Error de sintaxis: sintaxis invalida
+SyntaxError: la expresión no puede contener la asignación, ¿quizás quiso decir "=="?
+SyntaxError: la expresión no puede contener la asignación, ¿quizás quiso decir "=="?
+SyntaxError: la expresión no puede contener la asignación, ¿quizás quiso decir "=="?
+SyntaxError: la expresión no puede contener la asignación, ¿quizás quiso decir "=="?
+SyntaxError: no se puede asignar a True
+SyntaxError: no se puede asignar a False
+SyntaxError: no se puede asignar a Ninguno
+SyntaxError: no se puede asignar a __debug__
+SyntaxError: no se puede asignar a __debug__
+SyntaxError: expresión de valor de argumento esperado
+SyntaxError: expresión de valor de argumento esperado
+SyntaxError: expresión de valor de argumento esperado
+SyntaxError: no se puede asignar al desempaquetado de argumento iterable
+SyntaxError: no se puede asignar al desempaquetado de argumento iterable
+SyntaxError: no se puede asignar al desempaquetado del argumento de palabra clave
+SyntaxError: no se puede asignar al desempaquetado del argumento de palabra clave
+SyntaxError: 'generator expression' es una expresión ilegal para la asignación aumentada
+SyntaxError: 'Ninguno' es una expresión ilegal para la asignación aumentada
+SyntaxError: no se puede asignar a __debug__
+SyntaxError: 'llamada a función' es una expresión ilegal para asignación aumentada
+SyntaxError: 'continuar' no correctamente en bucle
+SyntaxError: 'romper' fuera del bucle
+SyntaxError: el nombre 'x' se usa antes de la declaración global
+SyntaxError: el nombre 'x' se asigna antes de la declaración global
+SyntaxError: el nombre 'x' es un parámetro y global
+SyntaxError: el nombre 'x' se usa antes de la declaración no local
+SyntaxError: el nombre 'x' se asigna antes de la declaración no local
+SyntaxError: el nombre 'x' es un parámetro y no local
+SyntaxError: el nombre 'x' no es local y es global
+SyntaxError: no se encontró ningún enlace para 'x' no local
+SyntaxError: declaración no local no permitida a nivel de módulo
+SyntaxError: no se encontró ningún enlace para '_A__x' no local
+SyntaxError: no se puede asignar a la llamada de función aquí. ¿Quizás quisiste decir '==' en lugar de '='?
+SyntaxError: no se puede asignar a la llamada de función aquí. ¿Quizás quisiste decir '==' en lugar de '='?
+SyntaxError: no se puede asignar a la llamada de función aquí. ¿Quizás quisiste decir '==' en lugar de '='?
+SyntaxError: no se puede asignar a la llamada de función aquí. ¿Quizás quisiste decir '==' en lugar de '='?
+SyntaxError: no se puede asignar a la llamada de función aquí. ¿Quizás quisiste decir '==' en lugar de '='?
+SyntaxError: esperado ':'
+SyntaxError: esperado ':'
+Error de sintaxis: sintaxis invalida
+SyntaxError: esperado ':'
+SyntaxError: esperado ':'
+SyntaxError: esperado ':'
+SyntaxError: esperado ':'
+Error de sintaxis: sintaxis invalida
+SyntaxError: esperado ':'
+SyntaxError: esperado ':'
+SyntaxError: esperado ':'
+SyntaxError: esperado ':'
+SyntaxError: esperado ':'
+SyntaxError: esperado ':'
+SyntaxError: esperado ':'
+SyntaxError: esperado ':'
+SyntaxError: esperado ':'
+Error de sintaxis: sintaxis invalida
+SyntaxError: esperado ':'
+SyntaxError: esperado ':'
+SyntaxError: esperado ':'
+Error de sintaxis: sintaxis invalida
+SyntaxError: esperado ':'
+SyntaxError: esperado ':'
+Error de sintaxis: sintaxis invalida. ¿Quizás quisiste decir '==' o ':=' en lugar de '='?
+Error de sintaxis: sintaxis invalida. ¿Quizás quisiste decir '==' o ':=' en lugar de '='?
+SyntaxError: no se puede asignar al atributo aquí. ¿Quizás quisiste decir '==' en lugar de '='?
+SyntaxError: no se puede asignar al atributo aquí. ¿Quizás quisiste decir '==' en lugar de '='?
+Error de sintaxis: esperado '('
+Error de sintaxis: esperado '('
+SyntaxError: los parámetros de la función no se pueden poner entre paréntesis
+SyntaxError: los parámetros de la función no se pueden poner entre paréntesis
+SyntaxError: los parámetros de la función no se pueden poner entre paréntesis
+SyntaxError: los parámetros de la función no se pueden poner entre paréntesis
+SyntaxError: los parámetros de la expresión Lambda no se pueden poner entre paréntesis
+SyntaxError: los parámetros de la expresión Lambda no se pueden poner entre paréntesis
+SyntaxError: los parámetros de la expresión Lambda no se pueden poner entre paréntesis
+SyntaxError: los parámetros de la expresión Lambda no se pueden poner entre paréntesis
+SyntaxError: bloque esperado 'excepto' o 'finalmente'
+SyntaxError: no puede tener tanto 'excepto' como 'excepto*' en el mismo 'intentar'
+SyntaxError: no puede tener tanto 'excepto' como 'excepto*' en el mismo 'intentar'
+SyntaxError: no puede tener tanto 'excepto' como 'excepto*' en el mismo 'intentar'
+SyntaxError: no puede tener tanto 'excepto' como 'excepto*' en el mismo 'intentar'
+Error de sintaxis: sintaxis invalida
+Error de sintaxis: sintaxis invalida
+Error de sintaxis: sintaxis invalida
+Error de sintaxis: sintaxis invalida
+SyntaxError: ':' esperado después de la clave del diccionario
+SyntaxError: expresión esperada después de la clave del diccionario y ':'
+SyntaxError: no se puede usar una expresión destacada en un valor de diccionario
+SyntaxError: no se puede usar una expresión destacada en un valor de diccionario
+SyntaxError: no se puede usar una expresión destacada en un valor de diccionario
+SyntaxError: expresión esperada después de la clave del diccionario y ':'
+Error de sintaxis: sintaxis invalida
+Error de sintaxis: sintaxis invalida
+Error de sintaxis: sintaxis invalida
+Error de sintaxis: sintaxis invalida
+Error de sintaxis: sintaxis invalida
+SyntaxError: varios tipos de excepción deben estar entre paréntesis
+SyntaxError: varios tipos de excepción deben estar entre paréntesis
+SyntaxError: varios tipos de excepción deben estar entre paréntesis
+SyntaxError: varios tipos de excepción deben estar entre paréntesis
+SyntaxError: varios tipos de excepción deben estar entre paréntesis
+SyntaxError: varios tipos de excepción deben estar entre paréntesis
+SyntaxError: varios tipos de excepción deben estar entre paréntesis
+SyntaxError: varios tipos de excepción deben estar entre paréntesis
+SyntaxError: se esperaba uno o más tipos de excepción
+SyntaxError: argumento de palabra clave repetido: a
+SyntaxError: no se puede asignar para configurar la visualización aquí. ¿Quizás quisiste decir '==' en lugar de '='?
+SyntaxError: no se puede asignar a dict literal aquí. ¿Quizás quisiste decir '==' en lugar de '='?
+SyntaxError: no se puede asignar a la expresión f-string aquí. ¿Quizás quisiste decir '==' en lugar de '='?
+SyntaxError: no se puede asignar a la expresión f-string aquí. ¿Quizás quisiste decir '==' en lugar de '='?
+Error de sintaxis: sintaxis invalida. ¿Quizás quisiste decir '==' o ':=' en lugar de '='?
+Error de sintaxis: sintaxis invalida. ¿Quizás quisiste decir '==' o ':=' en lugar de '='?
+Error de sintaxis: sintaxis invalida. ¿Quizás quisiste decir '==' o ':=' en lugar de '='?
+Error de sintaxis: sintaxis invalida. ¿Quizás quisiste decir '==' o ':=' en lugar de '='?
+Error de sintaxis: sintaxis invalida. ¿Quizás quisiste decir '==' o ':=' en lugar de '='?
+SyntaxError: coma final no permitida sin paréntesis alrededor
+SyntaxError: coma final no permitida sin paréntesis alrededor
+SyntaxError: ¿Querías usar 'desde... importar...' en su lugar?
+SyntaxError: ¿Querías usar 'desde... importar...' en su lugar?
+SyntaxError: ¿Querías usar 'desde... importar...' en su lugar?
+SyntaxError: ¿Querías usar 'desde... importar...' en su lugar?
+Error de sintaxis: sintaxis invalida
+SyntaxError: solo se puede anotar un objetivo único (no una tupla)
+SyntaxError: solo se puede anotar un objetivo único (no una lista)
+SyntaxError: solo se puede anotar un objetivo único (no una tupla)
+SyntaxError: solo se puede anotar un objetivo único (no una lista)
+SyntaxError: no se puede asignar a __debug__
+SyntaxError: no se puede asignar a __debug__
+SyntaxError: no se puede asignar a __debug__
+SyntaxError: los argumentos con nombre deben seguir al desnudo *
+SyntaxError: no se puede asignar a __debug__
+SyntaxError: no se puede asignar a __debug__
+Error de sintaxis: carácter no válido '£' (U+00A3)
+SyntaxError: no se puede usar '_' como objetivo
+SyntaxError: objetivo de patrón no válido
+SyntaxError: los patrones posicionales siguen patrones de palabras clave
+SyntaxError: los patrones posicionales siguen patrones de palabras clave
+SyntaxError: los patrones posicionales siguen patrones de palabras clave
+SyntaxError: los patrones posicionales siguen patrones de palabras clave
+Error de sintaxis: sintaxis invalida
+SyntaxError: no se puede usar la expresión destacada aquí
+Error de sintaxis: sintaxis invalida
+Error de sintaxis: sintaxis invalida
+Error de sintaxis: sintaxis invalida
+SyntaxError: no se puede usar la expresión destacada aquí
+Error de sintaxis: sintaxis invalida
+Error de sintaxis: sintaxis invalida
+Error de sintaxis: sintaxis invalida
+Error de sintaxis: sintaxis invalida
+Error de sintaxis: sintaxis invalida
+Error de sintaxis: sintaxis invalida
+Error de sintaxis: sintaxis invalida
+Error de sintaxis: sintaxis invalida
+Error de sintaxis: sintaxis invalida
+Error de sintaxis: sintaxis invalida
+Error de sintaxis: sintaxis invalida
+Error de sintaxis: sintaxis invalida
+Error de sintaxis: sintaxis invalida
+Error de sintaxis: sintaxis invalida
+Error de sintaxis: sintaxis invalida
+Error de sintaxis: sintaxis invalida
+Error de sintaxis: sintaxis invalida
+Error de sintaxis: sintaxis invalida
+Error de sintaxis: sintaxis invalida
+Error de sintaxis: sintaxis invalida
+Error de sintaxis: sintaxis invalida
+Error de sintaxis: sintaxis invalida
+Error de sintaxis: sintaxis invalida. ¿Quizás quisiste decir '==' o ':=' en lugar de '='?
+SyntaxError: no se puede asignar a la expresión del generador
+SyntaxError: 'generator expression' es una expresión ilegal para la asignación aumentada
+excepto SyntaxError: pasar
+SyntaxError: 'rendimiento' fuera de la función
+# SyntaxError: la asignación para producir expresión no es posible
+SyntaxError: no se puede asignar para producir expresión aquí. ¿Quizás quisiste decir '==' en lugar de '='?
+SyntaxError: 'expresión de rendimiento' es una expresión ilegal para la asignación aumentada
+excepto SyntaxError: pasar
+SyntaxError: malo malo
+SyntaxError: malo malo
+SyntaxError: malo malo
+SyntaxError: malo malo
+SyntaxError: malo malo
+SyntaxError: malo malo
+SyntaxError: malo malo
+SyntaxError: malo malo
+SyntaxError: malo malo
+self.assertIn("SyntaxError: código no UTF-8 que comienza con '\\x89' en el archivo", err[-1])
+SyntaxError: el desempaquetado iterable no se puede usar en comprensión
+SyntaxError: el desempaquetado iterable no se puede usar en comprensión
+SyntaxError: el desempaquetado iterable no se puede usar en comprensión
+SyntaxError: el desempaquetado iterable no se puede usar en comprensión
+SyntaxError: el desempaquetado de dictados no se puede usar en la comprensión de dictados
+#     Error de sintaxis: sintaxis invalida
+Error de sintaxis: sintaxis invalida
+SyntaxError: múltiples expresiones destacadas en la asignación
+SyntaxError: múltiples expresiones destacadas en la asignación
+SyntaxError: múltiples expresiones destacadas en la asignación
+SyntaxError: el destino de la asignación destacada debe estar en una lista o tupla
+SyntaxError: no se puede usar la expresión destacada aquí
+SyntaxError: no se puede usar la expresión destacada aquí
+SyntaxError: no se puede usar la expresión destacada aquí
+SyntaxError: no se puede usar la expresión destacada aquí
+SyntaxError: no se puede usar la expresión destacada aquí
+SyntaxError: no se puede usar la expresión destacada aquí
+SyntaxError: no se puede usar la expresión destacada aquí
+SyntaxError: no se puede usar la expresión destacada aquí
+SyntaxError: demasiadas expresiones en la asignación de desempaquetado de estrellas
+SyntaxError: demasiadas expresiones en la asignación de desempaquetado de estrellas
+'Error de sintaxis: sintaxis invalida'
+Error de sintaxis: ...
+Error de sintaxis: ...
+? # Error de sintaxis: sintaxis invalida
+self.assertTrue(err.endswith("SyntaxError: msg\n"))
+Error de sintaxis: sintaxis invalida
+SyntaxError: argumento de palabra clave repetido: metaclase
+error = "SyntaxError: (error Unicode) \\N escapes no admitidos " \
+['SyntaxError: mala sintaxis'])
+[' Archivo "<string>", línea 100', 'SyntaxError: mala sintaxis'])
+['SyntaxError: mala sintaxis (myfile.py)'])
+[' Archivo "myfile.py", línea 100', 'SyntaxError: mala sintaxis'])
+esperado.append("SyntaxError: msg")
+excepto SyntaxError: # Permitir que otros errores de compilación () se propaguen.
+self.write("Error de sintaxis: %s\n" % mensaje)
+Error de sintaxis: sintaxis invalida
+SyntaxError: ¿olvidó los paréntesis alrededor del objetivo de comprensión?
+Error de sintaxis: sintaxis invalida
+Error de sintaxis: sintaxis invalida
+SyntaxError: literal decimal no válido
+SyntaxError: literal de cadena sin terminar (detectado en la línea 1)
+SyntaxError: ¿Querías usar 'desde... importar...' en su lugar?
+*SyntaxError: EOF inesperado al analizar* o apuntar a alguna ubicación incorrecta.
+Error de sintaxis: sintaxis invalida
+SyntaxError: '{' nunca se cerró
+SyntaxError: la expresión del generador debe estar entre paréntesis
+SyntaxError: la expresión del generador debe estar entre paréntesis
+SyntaxError: esperado ':'
+SyntaxError: ¿olvidó los paréntesis alrededor del objetivo de comprensión?
+Error de sintaxis: sintaxis invalida. ¿Quizás olvidaste una coma?
+SyntaxError: varios tipos de excepción deben estar entre paréntesis
+SyntaxError: expresión esperada después de la clave del diccionario y ':'
+SyntaxError: ':' esperado después de la clave del diccionario
+SyntaxError: bloque esperado 'excepto' o 'finalmente'
+SyntaxError: no se puede asignar al atributo aquí. ¿Quizás quisiste decir '==' en lugar de '='?
+SyntaxError: f-string: no se puede usar la expresión destacada aquí
+else: self.fail("TabError no generado")
+ckmsg(s, "uso inconsistente de tabulaciones y espacios en la sangría", TabError)
+EXPORTAR_DATOS(PyExc_SystemError)
+generar :exc:`TypeError` en lugar de :exe:`System Error` cuando se realiza en
+PyObject_Call() y PyCFunction_Call() ahora generan un SystemError si una función
+devuelve un resultado y genera una excepción. El SystemError está encadenado al
+mucha memoria y planteó SystemError o MemoryError. Parche original de Aleksi
+Error del sistema.
+Genere un TypeError en lugar de SystemError en caso de que las advertencias.onceregistry sean
+fallando con SystemError. Importación relativa desde no paquete ahora falla con
+ImportError en lugar de SystemError.
+Evite que codecs.escape_encode() genere SystemError cuando esté vacío
+La importación genera ImportError en lugar de SystemError si se realiza una importación relativa.
+Genera ValueError en lugar de SystemError cuando se pasa una longitud negativa a
+Se corrigió SystemError generado por unpickler en datos de pickle rotos.
+SystemError ahora aparece en todos los errores de programación con el uso
+Unidades de formato "es#" y "et#". SystemError ahora se genera en lugar de
+Solucione un SystemError en la implementación de la declaración "raise". En un nuevo
+Error del sistema.
+Evite que codecs.escape_encode() genere SystemError cuando esté vacío
+Genera ``NotImplementedError`` en lugar de ``SystemError`` en plataformas donde
+generar :exc:`TypeError` en lugar de :exe:`System Error` cuando se realiza en
+Se corrigió SystemError si un abridor personalizado (para abrir ()) devuelve un número negativo
+Genera ``NotImplementedError`` en lugar de ``SystemError`` en plataformas donde
+Evite que codecs.escape_encode() genere SystemError cuando esté vacío
+Generar SystemError en la importación ahora tendrá su causa establecida en el original
+Arreglar SystemError / falla de segmentación en iter ``__reduce__`` cuando es interno
+Los iteradores invocables ya no generan :class:`SystemError` cuando el invocable
+Solucione un SystemError en la implementación de la declaración "raise". En un nuevo
+Eleve :exc:`ValueError` en lugar de :exe:`System Error` cuando los métodos de
+fallando con SystemError. Importación relativa desde no paquete ahora falla con
+ImportError en lugar de SystemError.
+Arreglar ``SystemError`` en :mod:`ctypes` cuando la excepción no se configuró durante
+Solucione una posible falla de aserción, error fatal o :exc:`SystemError` si un
+Anteriormente podía causar SystemError u otro comportamiento no deseado.
+:c:func:`PyUnicode_FromFormatV` ahora establece un :exc:`SystemError`. En anteriores
+Soluciona ``SystemError`` cuando :c:func:`PyArg_ParseTupleAndKeywords` es
+Corrige ``SystemError`` cuando la función anidada tiene una anotación solo posicional
+Genere un TypeError en lugar de SystemError en caso de que las advertencias.onceregistry sean
+fallando con SystemError. Importación relativa desde no paquete ahora falla con
+ImportError en lugar de SystemError.
+Solucione las fallas de segmento y :exe:`System Error`\ s al eliminar ciertos atributos.
+Se corrigió un SystemError al eliminar el atributo characters_write de un
+Solucione un error de sistema de estado de excepción no controlado de intérprete raro que solo se ve cuando
+generar :exc:`TypeError` en lugar de :exe:`System Error` cuando se realiza en
+Se corrigió :exc:`SystemError` en :c:func:`PyArg_ParseTupleAndKeywords` cuando el
+Excepciones :exc:`SystemError`. Parche de Victor Stinner.
+Soluciona un posible :exc:`SystemError` en ``math.{atan2,copysign,remainder}()``
+nombre del método en el mensaje de error SystemError "bad call flags" para facilitar la depuración.
+:c:func:`PyNumber_ToBase` ahora genera un :exc:`SystemError` en lugar de
+Se corrigió SystemError si un abridor personalizado (para abrir ()) devuelve un número negativo
+Genera ValueError en lugar de SystemError cuando se pasa una longitud negativa a
+importlib.__import__() genera SystemError como builtins.__import__() cuando
+Se corrigió SystemError generado por unpickler en datos de pickle rotos.
+Se corrigió el ``SystemError`` que surgía cuando se usaba ``PyArg_Parse*()`` con ``#`` pero
+- Problema n.º 23914: se corrigió el error del sistema generado por el despickler en los datos de pepinillo rotos.
+consumió demasiada memoria y generó SystemError o MemoryError.
+- Problema n.° 15839: convertir errores del sistema en `super()` en errores de tiempo de ejecución.
+- Problema n.º 15846: se corrigió el error del sistema que ocurría al usar `ast.parse()` en un
+- Problema n.° 17710: corrige que Pickle genere un SystemError en una entrada falsa.
+- Problema n.º 13343: corrige un error del sistema cuando una expresión lambda usa una expresión global
+- Problema n.º 6373: se corrigió un error del sistema al codificar con el códec latin-1 y el
+- Se corrigió SystemError desencadenado por "rango ([], 1, -1)".
+eso generaría SystemError.
+- Problema n.º 2221: se corrigió un "error de retorno" de SystemError sin excepción
+- Problema n.° 1973: bytes.fromhex('') generó SystemError.
+También solucione un SystemError cuando intente asignar expresiones de rendimiento.
+- Error n.º 1487966: corrige SystemError con expresión condicional en la asignación
+- Error de SF n.º 976608: corrige SystemError cuando mtime de un archivo importado es -1.
+- Error de SF 762891: "del p[key]" en el objeto proxy ya no genera SystemError.
+definiendo __delitem__. Anteriormente, generaba un SystemError.
+transformándolos en SystemError, dejamos la excepción original
+error y, por lo tanto, se deriva de Exception y no de SystemError. El
+[datos.PyExc_SystemError]
+Objetos/excepciones.c:PyExc_SystemError estático PyTypeObject PyExc_SystemError
+Objetos/excepciones.c:_PyExc_SystemError estático PyTypeObject _PyExc_SystemError
+Objetos/excepciones.c - _PyExc_SystemError -
+Objetos/excepciones.c - PyExc_SystemError -
+PyErr_SetString(PyExc_SystemError, "dígito agrupado no ascii");
+PyErr_SetString(PyExc_SystemError, "sin tabla de símbolos");
+PyErr_Format(PyExc_SystemError,
+PyErr_Format(PyExc_SystemError,
+PyErr_Format(PyExc_SystemError,
+PyErr_Format(PyExc_SystemError,
+PyErr_Format(PyExc_SystemError, "%s op %d no debería ser posible",
+PyErr_Format(PyExc_SystemError,
+PyErr_Format(PyExc_SystemError,
+PyErr_Format(PyExc_SystemError,
+PyErr_Format(PyExc_SystemError,
+PyErr_Format(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError, "saltar con objetivo NULL");
+PyErr_SetString(PyExc_SystemError,
+/* Genera SystemError si saltar o salir no es la última instrucción en el bloque. */
+PyErr_SetString(PyExc_SystemError, "gráfico de flujo de control con formato incorrecto");
+PyErr_SetString(PyExc_SystemError, "expresión inesperada");
+PyErr_SetString(PyExc_SystemError, "patrón inesperado");
+PyErr_SetString(PyExc_SystemError, "declaración inesperada");
+PyErr_SetString(PyExc_SystemError, "nodo de módulo imposible");
+PyErr_Format(PyExc_SystemError,
+PyErr_SetString(estado, PyExc_SystemError,
+_PyErr_SetString(tstate, PyExc_SystemError, "lasti no es un int");
+_PyErr_Format(tstate, PyExc_SystemError,
+_PyErr_Format(tstate, PyExc_SystemError,
+_PyErr_Format(tstate, PyExc_SystemError,
+_PyErr_Format(tstate, PyExc_SystemError,
+PyErr_SetString(estado, PyExc_SystemError,
+_PyErr_Format(tstate, PyExc_SystemError,
+PyErr_Format(PyExc_SystemError,
+PyErr_Format(PyExc_SystemError,
+PyErr_Format(PyExc_SystemError,
+PyErr_Format(PyExc_SystemError,
+PyErr_SetString(estado, PyExc_SystemError,
+_PyErr_SetString(tstate, PyExc_SystemError, "lasti no es un int");
+_PyErr_Format(tstate, PyExc_SystemError,
+_PyErr_Format(tstate, PyExc_SystemError,
+_PyErr_Format(tstate, PyExc_SystemError,
+_PyErr_Format(tstate, PyExc_SystemError,
+PyErr_SetString(estado, PyExc_SystemError,
+_PyErr_Format(tstate, PyExc_SystemError,
+PyExc_SystemError,
+PyExc_SystemError,
+PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_Format(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError, mensaje);
+PyErr_SetString(PyExc_SystemError, \
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_Format(PyExc_SystemError,
+PyErr_Format(PyExc_SystemError, "%s: '%s'", mensaje,
+PyErr_Format(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_Format(PyExc_SystemError,
+PyErr_Format(PyExc_SystemError, "%s: '%s'", mensaje,
+PyErr_Format(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(estado, PyExc_SystemError, "falta interpretación");
+_PyErr_SetString(tstate, PyExc_SystemError, "missing new_object func");
+_PyErr_Format(tstate, PyExc_SystemError,
+PyErr_SetString(estado, PyExc_SystemError,
+_PyErr_SetString(tstate, PyExc_SystemError, "el marco no existe");
+PyExc_SystemError,
+PyExc_SystemError,
+PyErr_Format(PyExc_SystemError,
+PyExc_SystemError,
+PyErr_Format(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError, \
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_Format(PyExc_SystemError, "el módulo '%s' no tiene __dict__",
+PyErr_SetString(PyExc_SystemError, "tipo de descripción de miembro incorrecto");
+PyErr_Format(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+_PyErr_Format(tstate, PyExc_SystemError,
+_PyErr_Format(tstate, PyExc_SystemError,
+_PyErr_Format(tstate, PyExc_SystemError,
+PyErr_SetString(estado, PyExc_SystemError,
+PyErr_SetString(estado, PyExc_SystemError,
+_PyErr_SetString(tstate, PyExc_SystemError, "función intrínseca no válida");
+PyErr_SetString(estado, PyExc_SystemError,
+PyAPI_DATA(PyObject *) PyExc_SystemError;
+PyErr_SetString(PyExc_SystemError,
+Está establecido. Devuelve NULL y genera una excepción en caso de error. Genera un SystemError si
+/* Generar SystemError al borrar o actualizar el conjunto congelado */
+asertarRaises(PySet_Clear(f) == -1, PyExc_SystemError);
+afirmarRaises(_PySet_Update(f, dup) == -1, PyExc_SystemError);
+asertarRaises(PySet_Add(f, elem) == -1, PyExc_SystemError);
+/* Genera SystemError cuando el argumento propio no es un conjunto o un conjunto congelado. */
+afirmar aumentos (PySet_Size (t) == -1, PyExc_SystemError);
+afirmarRaises(PySet_Contains(t, elem) == -1, PyExc_SystemError);
+/* Genera SystemError cuando el argumento propio no es un conjunto. */
+assertRaises(PySet_Discard(f, elem) == -1, PyExc_SystemError);
+asertarRaises(PySet_Pop(f) == NULL, PyExc_SystemError);
+PyErr_SetString(PyExc_SystemError,
+PyExc_SystemError,
+PyExc_SystemError,
+PyExc_SystemError,
+PyExc_SystemError,
+PyExc_SystemError,
+PyExc_SystemError,
+PyExc_SystemError,
+PyExc_SystemError,
+PyExc_SystemError,
+PyExc_SystemError,
+PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError, "módulo sin nombre");
+PyErr_SetString(PyExc_SystemError, "falta el nombre de archivo del módulo");
+PyErr_SetString(PyExc_SystemError, "Py_tp_bases no es una tupla");
+PyExc_SystemError,
+PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_Format(PyExc_SystemError,
+PyErr_Format(PyExc_SystemError,
+PyErr_Format(PyExc_SystemError,
+PyErr_Format(PyExc_SystemError,
+PyErr_Format(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_Format(PyExc_SystemError,
+PyErr_Format(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError, "cuántos no pueden ser negativos");
+PyErr_Format(PyExc_SystemError,
+PyErr_Format(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError, "tipo no válido");
+PyErr_Format(PyExc_SystemError,
+PyErr_Format(PyExc_SystemError, "cadena de formato no válido: %s", p);
+PyErr_SetString(PyExc_SystemError, "argumentos predeterminados que no son tuplas");
+PyErr_SetString(PyExc_SystemError,
+PyErr_Format(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_Format(PyExc_SystemError, "En structseq_repr(), el nombre del miembro %zd es NULL"
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(estado, PyExc_SystemError,
+PyErr_Format(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+* SystemError extiende la excepción
+SimpleExtendsException(PyExc_Exception, SystemError,
+ARTÍCULO (Error del sistema),
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(estado, PyExc_SystemError,
+_PyErr_Format(tstate, PyExc_SystemError,
+_PyErr_Format(tstate, PyExc_SystemError,
+Py_FatalError() registra la excepción SystemError planteada anteriormente. */
+estado, PyExc_SystemError,
+estado, PyExc_SystemError,
+Py_FatalError() registra la excepción SystemError planteada anteriormente. */
+PyErr_Format(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_Format(PyExc_SystemError,
+PyErr_Format(PyExc_SystemError,
+clase CodecRegistryError(LookupError, SystemError):
+aumentar SystemError("sizeof(%s) incorrecto: %d en lugar de %d" % \
+aumentar SystemError(f"Tamaño inesperado de(time_t): {SIZEOF_TIME_T=}")
+Error del sistema
+# lo siguiente desencadena un SystemError en 2.4
+# PyTuple_New genera SystemError si se pasó un argumento no válido.
+con self.assertRaises(SystemError):
+PyExc_SystemError
+# donde las llamadas iter `__reduce__` podrían conducir a un error de segmentación o SystemError
+Error del sistema,
+# Esto genera un SyntaxError, solía generar un SystemError. Contexto
+# Una prueba para el error SF #1022953. Asegúrese de que SystemError no se genere.
+con self.assertRaises(SystemError):
+con self.assertRaises(SystemError):
+# Test SystemError se genera por extensiones que se comportan mal.
+con self.assertRaises(SystemError) como cm:
+# con `SystemError`.
+# Esto falla con SystemError: bad arg to internal function
+self.assertRaises((OverflowError, MemoryError, SystemError),
+self.assertRaises((OverflowError, MemoryError, SystemError),
+# __setstate__ no debería generar un SystemError ni bloquearse en caso de que
+newcode = code.replace(co_name="func") # No debería generar SystemError
+con self.assertRaisesRegex(SystemError, msg):
+self.assertRaises(SystemError, SetExtra, 42, FREE_INDEX,
+self.assertRaises(SystemError, GetExtra, 42, FREE_INDEX,
+self.assertRaises(SystemError, SetExtra, f.__code__,
+self.raise_catch(SystemError, "SystemError")
+self.assertRaises(SystemError, _testcapi.raise_exception,
+self.assertRaises(SystemError, _testcapi.make_exception_with_doc,
+# generar un SystemError.
+def test_del__CHUNK_SIZE_SystemError(self):
+# warn_explicit() no debería generar un SystemError ni causar un
+# warn_explicit() no debería generar un SystemError en caso de que
+aumentar SystemError('kablooie')
+self.assertRaises(SystemError, simulacro, 1, 2, pez=3)
+aumentar SystemError('esto no debería generarse')
+aumentar SystemError('casi sin espacio')
+con self.assertRaises(SystemError) como error:
+# importar en un bloque 'finalmente' resultó en SystemError
+├── Error del sistema
+# pero solía dar un SystemError
+con self.assertRaises(SystemError):
+self.assertRaises(SystemError, getargs_s_hash_int, buf, "abc")
+self.assertRaises(SystemError, getargs_s_hash_int, buf, x=42)
+self.assertRaises(SystemError, getargs_s_hash_int, buf, x="abc")
+self.assertRaises(SystemError, getargs_s_hash_int2, buf, ("abc"))
+self.assertRaises(SystemError, getargs_s_hash_int2, buf, x=42)
+self.assertRaises(SystemError, getargs_s_hash_int2, buf, x="abc")
+# getargs_s_hash_int(buf) puede que no genere SystemError porque skipitem()
+excepto SystemError como e:
+excepto SystemError como e:
+con self.assertRaisesRegex(SystemError,
+con self.assertRaisesRegex(SystemError,
+self.assertRaises(SystemError, _testcapi.parse_tuple_and_keywords,
+self.assertRaises(SystemError, _testcapi.parse_tuple_and_keywords,
+self.assertRaises(SystemError, _testcapi.parse_tuple_and_keywords,
+self.assertRaises(SystemError, _testcapi.parse_tuple_and_keywords,
+self.assertRaises(SystemError, _testcapi.parse_tuple_and_keywords,
+self.assertRaises(SystemError, _testcapi.parse_tuple_and_keywords,
+self.assertRaises(SystemError, _testcapi.parse_tuple_and_keywords,
+self.assertRaises(SystemError, _testcapi.parse_tuple_and_keywords,
+self.assertRaises(SystemError, _testcapi.parse_tuple_and_keywords,
+self.assertRaises(SystemError, _testcapi.parse_tuple_and_keywords,
+con self.assertRaisesRegex(SystemError, r'Nombre de parámetro vacío después de \$'):
+con self.assertRaisesRegex(SystemError, 'Palabra clave vacía'):
+self.assertRaisesRegex(SystemError, 'cadena de formato no válido',
+self.assertRaisesRegex(SystemError, 'cadena de formato no válido',
+self.assertRaises(SystemError, unicode_asucs4, s, l-1, True)
+self.assertRaises(SystemError, unicode_asucs4, s, l-2, False)
+self.assertRaises(SystemError, unirse, '|', NULL)
+self.assertRaises(SystemError, format, 'x=%d!', NULL)
+self.assertRaises(SystemError, formato, NULL, 42)
+Error del sistema,
+self.assertRaises(SystemError, unicode_copycharacters, s, 1, s, 0, 5)
+self.assertRaises(SystemError, unicode_copycharacters, s, 0, s, 0, -1)
+self.assertRaises(SystemError, unicode_copycharacters, s, 0, b'', 0, 0)
+r'SystemError: <función integrada return_null_sin_error> '
+con self.assertRaises(SystemError) como cm:
+r'SystemError: <incorporado '
+con self.assertRaises(SystemError) como cm:
+si 'SystemError:' no está en error:
+con self.assertRaises(SystemError):
+self.assertRaises(SystemError, pynumber_tobase, 123, 0)
+con self.assertRaises(SystemError):
+con self.assertRaises(SystemError):
+con self.assertRaises(SystemError):
+con self.assertRaises(SystemError):
+con self.assertRaises(SystemError):
+con self.assertRaises(SystemError):
+con self.assertRaises(SystemError):
+con self.assertRaises(SystemError):
+con self.assertRaises(SystemError):
+# Esto solía generar un "SystemError: resultado NULL sin error"
+# solía fallar con un SystemError.
+# Se usa para generar SystemError('retorno de error sin conjunto de excepciones')
+self.assertRaises(SystemError, dict_getitem_knownhash, [], 1, hash(1))
+# Un SystemError no debe generarse si el primer argumento es atan2(),
+excepto SystemError:
+excepto SystemError: # el cambio de tamaño no es universalmente compatible
+excepto SystemError:
+excepto SystemError:
+# Error del sistema.
+aumentar SystemError('Error al cargar los códecs integrados: %s' % por qué)
+aumentar SystemError(
+aumentar SystemError (cómo, qué)
+... excs = [OSError('error 1'), SystemError('error 2')]
+| Error del sistema: error 2
+... Error del sistema (2),
+... excepto* SystemError como e:
+... print("Hubo errores del sistema")
+Hubo errores del sistema
+'StopIteration', 'SyntaxError', 'SyntaxWarning', 'SystemError',
+.. excepción:: SystemError
+Se generará :exc:`ImportError`. Anteriormente, :exc:`SystemError` podría ser
+:c:func:`PyUnicode_FromFormatV` ahora establece un :exc:`SystemError`.
+donde, PyExc_SystemError, 3.2,,
+Esta función genera :exc:`SystemError` cuando:
+Un carácter de formato no reconocido ahora establece un :exc:`SystemError`.
+en particular, un :exc:`SystemError` si *buflen* es menor que la longitud de
+genera :exc:`MemoryError` o :exc:`SystemError`.
+Genera :exc:`SystemError` y devuelve ``-1`` en caso de falla.
+Genera :exc:`SystemError` y devuelve ``-1`` en caso de falla.
+Genera :exc:`SystemError` y devuelve ``-1`` en caso de falla.
+``len(cualquier conjunto)``. Genera un :exc:`PyExc_SystemError` si *anyset* no es un
+la *clave* no se puede modificar. Eleve :exc:`PyExc_SystemError` si *anyset* no es un
+:exc:`SystemError` si *set* no es una instancia de :class:`set` o su
+congelados temporales. Eleve :exc:`PyExc_SystemError` si *set* no es un
+el conjunto está vacío. Genera un :exc:`SystemError` si *set* no es una instancia de
+del objeto *o*. En caso de falla, genera :exc:`SystemError` y devuelve ``NULL``. Este
+Se genera :exc:`SystemError` y se devuelve ``NULL``.
+único: SystemError (excepción incorporada)
+o si no es una cadena, se genera :exc:`SystemError` y se devuelve ``NULL``.
+único: SystemError (excepción incorporada)
+cadena unicode, levante :exc:`SystemError` y devuelva ``NULL``; de lo contrario volver
+plantear una excepción. Si aún no se ha generado una excepción, :exc:`SystemError` es
+Si hay un error en la cadena de formato, la excepción :exc:`SystemError` es
+Esta es una forma abreviada de ``PyErr_SetString(PyExc_SystemError, message)``,
+único: PyExc_SystemError
+| :c:datos:`PyExc_SystemError` | :exc:`SystemError` | |
+PyErr_SetString(PyExc_SystemError, "no se pudieron unir las rutas");
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError, "def no coincide");
+PyErr_SetString(PyExc_SystemError, "función de exportación incorrecta");
+PyErr_SetString(PyExc_SystemError, "función de exportación incorrecta");
+PyErr_SetString(PyExc_SystemError, "función de creación incorrecta");
+PyErr_SetString(PyExc_SystemError, "función de creación incorrecta");
+PyErr_SetString(PyExc_SystemError, "función ejecutiva incorrecta");
+PyErr_SetString(PyExc_SystemError, "función ejecutiva incorrecta");
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+si (PyErr_ExceptionMatches(PyExc_SystemError)) {
+si (! PyErr_ExceptionMatches (PyExc_SystemError)) {
+si (! PyErr_ExceptionMatches (PyExc_SystemError)) {
+si (! PyErr_ExceptionMatches (PyExc_SystemError)) {
+si (! PyErr_ExceptionMatches (PyExc_SystemError)) {
+PyErr_Format(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError, "_WindowsConsoleIO tiene un modo no válido");
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+/* Tenemos un KeyboardInterrupt o un SystemError; vuelve a subirlo */
+if (desempaquetado == NULL && PyErr_ExceptionMatches(PyExc_SystemError)) {
+SystemError no generado: %s
+si (PyErr_ExceptionMatches(PyExc_SystemError)) {
+si (! PyErr_ExceptionMatches (PyExc_SystemError)) {
+"algo que no sea SystemError");
+PyErr_Format(PyExc_SystemError,
+aumentar SystemExit('Por favor, ajuste su mapa JIS X 0213 usando jisx0213-2000-std.txt.diff')
+aumentar SystemExit(f'{fuente} es necesario')
+aumentar SystemExit("Debe ejecutarse como programa principal")
+aumentar SystemExit("Solo se permite uno de --8 bits y --unicode")
+aumentar SystemExit(exit_status)
+- exit(sts): subir SystemExit
+aumentar SystemExit (código)
+raise SystemExit("Solo se puede obtener información de un archivo")
+raise SystemExit("La edición de archivos en el lugar no es compatible")
+raise SystemExit("No se puede cambiar la función principal al copiar")
+aumentar SystemExit(0)"""
+subir SistemaSalir
+subir SistemaSalir
+subir SistemaSalir
+rc, out, err = assert_python_failure('-c', 'raise SystemExit(47)')
+subir SistemaSalir
+interpreters.run_string(self.id, 'raise SystemExit(42)')
+subir SistemaSalir
+subir SistemaSalir
+aumentar SystemExit (código)
+elevar SystemExit(e)
+aumentar SystemExit(1)
+subir SistemaSalir
+# Comprobar que el directorio de usuario no existe y que la creación falló debería generar SystemExit
+# Comprobar que el directorio de usuario no existe y que la creación falló debería generar SystemExit
+Esto es sinónimo de ``elevar SystemExit''. Causará la corriente\n\
+generar un TypeError: "el objeto 'tuple' no se puede llamar" en lugar del esperado
+* TypeError: el objeto 'NoneType' no se puede suscribir
+const char *const msg = "TypeError: print_exception(): Excepción esperada"
+TypeError: si se pasa una lista de objetos de versiones mixtas.
+TypeError: si uno mismo y otro tienen direcciones diferentes
+excepto TypeError: pasar
+# TypeError: BNotMeta no es ni un
+excepto TypeError: pasar
+excepto TypeError: pasar
+excepto TypeError: pasar
+excepto TypeError: pasar
+excepto TypeError: pasar
+excepto TypeError: pasar
+excepto TypeError: pasar
+excepto TypeError: pasar
+##excepto TypeError: paso
+prueba: pasa\nexcepto ValueError: pasa\nexcepto* TypeError: pasa\n
+prueba: pasa\nexcepto* ValueError: pasa\nexcepto TypeError: pasa\n
+intente: pase\nexcepto ValueError como e: pase\nexcepto* TypeError: pase\n
+intente: pase\nexcepto* ValueError como e: pase\nexcepto TypeError: pase\n
+TypeError: no se puede descomprimir el objeto int no iterable
+TypeError: no se puede descomprimir el objeto int no iterable
+TypeError: exec() arg 1 debe ser una cadena, bytes u objeto de código
+TypeError: eval() arg 1 debe ser una cadena, bytes u objeto de código
+self._check_error("intentar: aprobar\nexcepto ValueError: aprobar\nexcepto* TypeError: aprobar",
+self._check_error("intentar: aprobar\nexcepto* ValueError: aprobar\nexcepto TypeError: aprobar",
+TypeError: el objeto 'int' no es iterable
+# Definitivamente debería generar TypeError: la lista solo toma un argumento.
+# `TypeError: no se pueden establecer atributos del tipo incorporado/de extensión 'dict'`
+(Teléfono)Error de tipo:
+"(Teléfono) TypeError: demasiados inicializadores")
+# TypeError: int esperado en lugar de instancia de str
+# TypeError: int esperado en lugar de instancia de str
+# TypeError: int esperado en lugar de instancia flotante
+# TypeError: no tiene método from_param
+# en Python 2.3, esto genera TypeError: conflicto MRO entre clases base,
+argumento 1: TypeError: bytes de un carácter,
+argumento 2: TypeError: cadena unicode esperada
+argumento 2: TypeError: cadena unicode de un carácter
+# TypeError: _anónimo_ debe ser una secuencia
+TypeError: no se puede enviar un valor que no sea Ninguno a un generador recién iniciado
+TypeError: la excepción de instancia puede no tener un valor separado
+TypeError: el tercer argumento throw() debe ser un objeto de rastreo
+TypeError: las excepciones deben ser clases o instancias derivadas de BaseException, no str
+TypeError: las excepciones deben ser clases o instancias derivadas de BaseException, no int
+TypeError: las excepciones deben ser clases o instancias derivadas de BaseException, no de tipo
+Error de tipo: ¡vaya!
+excepto TypeError: pasar
+TypeError: el objeto 'int' no es iterable
+TypeError: el objeto 'int' no es una asignación
+TypeError: el objeto 'lista' no es una asignación
+TypeError: test.test_unpack_ex.f() obtuvo múltiples valores para el argumento de palabra clave 'x'
+TypeError: test.test_unpack_ex.f() obtuvo múltiples valores para el argumento de palabra clave 'x'
+TypeError: test.test_unpack_ex.f() obtuvo múltiples valores para el argumento de palabra clave 'x'
+TypeError: test.test_unpack_ex.f() obtuvo múltiples valores para el argumento de palabra clave 'x'
+TypeError: test.test_unpack_ex.f() obtuvo múltiples valores para el argumento de palabra clave '1'
+TypeError: no se puede descomprimir el objeto int no iterable
+# "TypeError: fork_exec() toma exactamente N argumentos (M dado)"
+self.assertIn('TypeError: bad cleanup1', formatted_exc)
+self.assertIn('TypeError: bad cleanup1', formatted_exc)
+self.assertIn('TypeError: bad cleanup1', formatted_exc)
+self.assertIn('TypeError: bad cleanup1', formatted_exc)
+self.assertIn('TypeError: bad cleanup1', formatted_exc)
+self.assertIn('TypeError: bad cleanup1', formatted_exc)
+...TypeError: tipo incorrecto
+TypeError: tipo incorrecto
+self.assertTrue("TypeError: print_exception(): Excepción esperada para " \
+TypeError: __build_class__() obtuvo múltiples valores para el argumento de palabra clave 'metaclase'
+# TypeError: el argumento debe ser un int, o tener un método fileno().
+f' | Error de tipo: 2\n')
+('TypeError: print_exception(): '
+f' | Error de tipo: 2\n'
+f' | Error de tipo: 2\n'
+f' | Error de tipo: 4\n'
+f' | Error de tipo: 2\n'
+f' | Error de tipo: 4\n'
+f' | Error de tipo: 2\n'
+f' | Error de tipo: 3\n'
+f' | Error de tipo: 0',
+f' | Error de tipo: 1',
+# TypeError: BNotMeta no es ni un
+TypeError: test.test_extcall.f() obtuvo múltiples valores para el argumento de palabra clave 'a'
+TypeError: test.test_extcall.f() obtuvo múltiples valores para el argumento de palabra clave 'a'
+TypeError: test.test_extcall.f() obtuvo múltiples valores para el argumento de palabra clave 'a'
+TypeError: e() obtuvo un argumento de palabra clave inesperado 'c'
+TypeError: g () falta 1 argumento posicional requerido: 'x'
+TypeError: g () falta 1 argumento posicional requerido: 'x'
+TypeError: g () falta 1 argumento posicional requerido: 'x'
+TypeError: el argumento test.test_extcall.g() después de * debe ser iterable, no Nothing
+TypeError: el argumento test.test_extcall.g() después de * debe ser iterable, no Nothing
+Error de tipo: mi error
+Error de tipo: mi error
+Error de tipo: mi error
+Error de tipo: mi error
+Error de tipo: mi error
+Error de tipo: mi error
+Error de tipo: mi error
+Error de tipo: mi error
+TypeError: g () obtuvo múltiples valores para el argumento 'x'
+TypeError: las palabras clave deben ser cadenas
+TypeError: h() obtuvo un argumento de palabra clave inesperado 'e'
+TypeError: el argumento test.test_extcall.h() después de * debe ser una función iterable, no
+TypeError: el valor después de * debe ser iterable, no una función
+TypeError: el valor después de * debe ser iterable, no una función
+TypeError: el argumento dir() después de * debe ser una función iterable, no
+TypeError: Ningún argumento después de * debe ser iterable, \
+TypeError: el argumento test.test_extcall.h() después de ** debe ser una asignación, no una función
+TypeError: el argumento test.test_extcall.h() después de ** debe ser una asignación, no una lista
+TypeError: el argumento test.test_extcall.h() después de ** debe ser una asignación, no una función
+TypeError: el argumento test.test_extcall.h() después de ** debe ser una asignación, no una lista
+TypeError: el argumento test.test_extcall.h() después de ** debe ser una asignación, no una función
+TypeError: el argumento test.test_extcall.h() después de ** debe ser una asignación, no una lista
+TypeError: el argumento dir() después de ** debe ser una asignación, no una función
+TypeError: ningún argumento después de ** debe ser una asignación, \
+TypeError: dir () obtuvo múltiples valores para el argumento de palabra clave 'b'
+TypeError: test.test_extcall.g() obtuvo múltiples valores para el argumento de palabra clave 'x'
+TypeError: test.test_extcall.g() obtuvo múltiples valores para el argumento de palabra clave 'x'
+TypeError: test.test_extcall.g() obtuvo múltiples valores para el argumento de palabra clave 'x'
+TypeError: s3() falta 1 argumento requerido solo de palabra clave: 'n'
+TypeError: id () no toma argumentos de palabras clave
+TypeError: f () toma 0 argumentos posicionales pero se le dio 1
+TypeError: f () toma 1 argumento posicional pero se dieron 2
+TypeError: f () toma de 1 a 2 argumentos posicionales pero se dieron 3
+TypeError: f () toma 0 argumentos posicionales pero se proporcionó 1 argumento posicional (y 1 argumento solo de palabra clave)
+TypeError: f () toma 0 argumentos posicionales pero se dieron 3 argumentos posicionales (y 2 argumentos solo de palabras clave)
+TypeError: f () toma de 1 a 2 argumentos posicionales pero se dieron 3 argumentos posicionales (y 1 argumento solo de palabra clave)
+TypeError: f () falta 1 argumento posicional requerido: 'a'
+TypeError: f () faltan 2 argumentos posicionales requeridos: 'a' y 'b'
+TypeError: f () faltan 3 argumentos posicionales requeridos: 'a', 'b' y 'c'
+TypeError: f () faltan 5 argumentos posicionales requeridos: 'a', 'b', 'c', 'd' y 'e'
+TypeError: f () falta 1 argumento posicional requerido: 'a'
+TypeError: f () falta 1 argumento requerido solo de palabra clave: 'w'
+TypeError: f() faltan 5 argumentos requeridos de solo palabras clave: 'a', 'b', 'c', 'd' y 'e'
+# TypeError: setvar() toma exactamente 3 argumentos (2 dados)
+TypeError: files () toma de 0 a 1 argumentos posicionales pero se dieron 2
+excepto TypeError: # parámetros no modificables
+excepto TypeError: # clases integradas
+TypeError: f() obtuvo múltiples valores para el argumento de palabra clave 'a'\n
+TypeError: el objeto de tipo 'C' no tiene len()\n
+TypeError: el descriptor '__hash__' del objeto 'int' necesita un
+TypeError: solo puede concatenar str (no "int") a str
+TypeError: tipos de operandos no admitidos para /: 'str' y 'str'
+TypeError: mal tipo
+TypeError: function () obtuvo múltiples valores para el argumento 'a'
+TypeError: pos_only_arg() obtuvo algunos argumentos de solo posición pasados ​​como argumentos de palabra clave: 'arg'
+TypeError: kwd_only_arg() toma 0 argumentos posicionales pero se le dio 1
+TypeError: combine_example() toma 2 argumentos posicionales pero se dieron 3
+TypeError: combine_example() obtuvo algunos argumentos solo posicionales pasados ​​como argumentos de palabras clave: 'pos_only'
+TypeError: foo () obtuvo múltiples valores para el argumento 'nombre'
+TypeError: el objeto 'tuple' no admite la asignación de elementos
+TypeError: el objeto 'str' no admite la asignación de elementos
+TypeError: el objeto 'str' no admite la asignación de elementos
+TypeError: divmod() no toma argumentos de palabras clave
+TypeError: el objeto 'tuple' no admite la asignación de elementos
+TypeError: el objeto 'tuple' no admite la asignación de elementos
+TypeError: el objeto 'tuple' no admite la asignación de elementos
+TypeError: el objeto 'tuple' no admite la asignación de elementos
+TypeError: no se puede eliminar el atributo numérico/char
+TypeError: se requiere un número entero (se obtuvo el tipo str)
+TypeError: no se puede eliminar el primer atributo
+TypeError: el valor del primer atributo debe ser una cadena
+TypeError: se requiere un número entero (se obtuvo el tipo str)
+TypeError: no se puede eliminar el primer atributo
+TypeError: no se puede eliminar el atributo numérico/char
+TypeError: el valor del primer atributo debe ser una cadena
+TypeError: se requiere un número entero (se obtuvo el tipo str)
+TypeError: '>' no se admite entre instancias de 'datetime.timedelta' e 'int'
+TypeError: f () falta 1 argumento posicional requerido: 'a'
+TypeError: tipos de operandos no admitidos para +: 'int' y 'NoneType'
+TypeError: tipos de operandos no admitidos para +: 'int' y 'NoneType'
+TypeError: '<' no se admite entre instancias de 'PureWindowsPath' y 'PurePosixPath'
+TypeError: <lambda>() toma exactamente 3 argumentos (1 dado)
+TypeError: el objeto 'NonCallableMock' no se puede llamar
+TypeError: <lambda>() toma al menos 2 argumentos (1 dado)
+TypeError: no se puede modificar la memoria de solo lectura
+TypeError: el argumento 2 de isinstance() no puede ser un genérico parametrizado
+TypeError: No quedan variables de tipo en dict[str]
+TypeError: el argumento 2 de isinstance() no puede contener un genérico parametrizado
+TypeError: no se pueden crear instancias 'types.UnionType'
+ArgumentError: argumento 2: TypeError: no sé cómo convertir el parámetro 2
+ArgumentError: argumento 2: TypeError: tipo incorrecto
+ctypes.ArgumentError: argumento 2: TypeError: bytes de un carácter, bytearray o entero esperado
+TypeError: demasiados inicializadores
+TypeError: se esperaba c_long en lugar de int
+TypeError: tipos incompatibles, instancia c_byte_Array_4 en lugar de instancia LP_c_long
+TypeError: %b requiere bytes, o un objeto que implementa __bytes__, no 'str'
+TypeError: 'str' no es compatible con la interfaz de búfer
+TypeError: la codificación con el códec 'bz2' falló (TypeError: 'str' no es compatible con la interfaz de búfer)
+TypeError: puede interactuar Decimal solo con tipos de datos int, long o Decimal.
+TypeError: no se puede instanciar la clase abstracta Circle con métodos abstractos dibujar
+TypeError: no se puede modificar la memoria de solo lectura
+TypeError: f () toma al menos 1 argumento (0 dado)
+TypeError: el objeto 'NoneType' no se puede suscribir
+TypeError: tipo no modificable: 'set'
+TypeError: tipo no modificable: 'set'
+TypeError: mean () obtuvo algunos argumentos solo posicionales pasados ​​​​como argumentos de palabras clave: 'datos'
+TypeError: solo puede concatenar str (no "custom.Custom") a str
+TypeError: reduce () de secuencia vacía sin valor inicial
+TypeError: 'SQUARE' ya definido como 2
+TypeError: '<' no se admite entre instancias de 'Color' y 'Color'
+TypeError: <enum 'MoreColor'> no se puede extender <enum 'Color'>
+TypeError: el orden de los miembros no coincide con _order_:
+TypeError: tipos de operandos no admitidos para ** o pow(): 'str' e 'int'
+TypeError: '>=' no compatible entre instancias de 'NoneType' e 'int'
+TypeError: se esperaba que 'V' fuera un int o float
+TypeError: No hay atributo '__dict__' en la instancia 'CP' para almacenar en caché la propiedad 'pi'.
+TypeError: el objeto de tipo 'C' no tiene len()
+TypeError: el descriptor '__hash__' del objeto 'int' necesita un argumento
+TypeError: f () obtuvo múltiples valores para el argumento de palabra clave 'a'
+UnboundLocalError: variable local 'x' referenciada antes de la asignación
+aumentar UnicodeError("Carácter no válido %r" % c)
+aumentar UnicodeError("Violación del requisito BIDI 2")
+aumentar UnicodeError("Violación del requisito BIDI 3")
+aumentar UnicodeError("etiqueta vacía o demasiado larga")
+aumentar UnicodeError("etiqueta vacía o demasiado larga")
+aumentar UnicodeError ("La etiqueta comienza con el prefijo ACE")
+aumentar UnicodeError("etiqueta vacía o demasiado larga")
+aumentar UnicodeError ("etiqueta demasiado larga")
+aumentar UnicodeError("Carácter no válido en la etiqueta IDN")
+aumentar UnicodeError("IDNA no hace ida y vuelta", etiqueta, etiqueta2)
+aumentar UnicodeError("manejo de errores no compatible "+errores)
+aumentar UnicodeError("etiqueta vacía o demasiado larga")
+aumentar UnicodeError("etiqueta demasiado larga")
+aumentar UnicodeError("Gestión de errores no compatible "+errores)
+aumentar UnicodeError("manejo de errores no compatible "+errores)
+aumentar UnicodeError("Gestión de errores no compatible "+errores)
+aumentar UnicodeError("cadena punicode incompleta")
+raise UnicodeError("Punto de código extendido no válido '%s'"
+aumentar UnicodeError("Carácter no válido U+%x" % char)
+aumentar UnicodeError("Gestión de errores no compatible "+errores)
+aumentar UnicodeError("Gestión de errores no compatible "+self.errors)
+aumentar UnicodeError ("codificación indefinida")
+aumentar UnicodeError ("codificación indefinida")
+aumentar UnicodeError ("codificación indefinida")
+aumentar UnicodeError ("codificación indefinida")
+aumentar UnicodeError ("La transmisión UTF-32 no comienza con BOM")
+aumentar UnicodeError ("La transmisión UTF-32 no comienza con BOM")
+aumentar UnicodeError ("La transmisión UTF-16 no comienza con BOM")
+aumentar UnicodeError ("La transmisión UTF-16 no comienza con BOM")
+aumentar UnicodeError
+aumentar UnicodeError
+aumentar UnicodeError
+aumentar UnicodeError("URL" + repr(url) +
+# UnicodeEncodeError: si nombre_paquete o nombre_recurso no son UTF-8,
+self.assertIn(b"UnicodeEncodeError: el códec \'ascii\' no puede codificar el carácter "
+``UnicodeEncodeError: el códec 'latin-1' no puede codificar el carácter '\u1234' en
+UnicodeEncodeError: el códec 'ascii' no puede codificar el carácter '\ua000' en
+# UnicodeDecodeError: no se pudo decodificar la cadena de bytes tp_name
+# UnicodeDecodeError: string() no puede decodificar la cadena de bytes
+UnicodeDecodeError: el códec 'utf-8' no puede decodificar el byte 0x80 en la posición 0:
+// ValueError: zip() el argumento 2 es más corto que el argumento 1
+// ValueError: zip() el argumento 3 es más corto que los argumentos 1-2
+ValueError: si la *dirección* pasada no es una v4 o una v6
+ValueError: si la cadena pasada no es v4 o v6
+ValueError: si la cadena pasada no es v4 o v6
+ValueError: si el número entero es negativo o demasiado grande para ser un
+ValueError: si la entrada entremezcla ceros y unos
+NetmaskValueError: si la entrada no es una máscara de red válida
+NetmaskValueError: si la entrada no es una máscara de red/máscara de host válida
+ValueError: Si otro no está completamente contenido por uno mismo.
+ValueError: el prefixlen_diff es demasiado pequeño o demasiado grande.
+ValueError: si self.prefixlen - prefixlen_diff < 0. Es decir, tiene
+AddressValueError: si ip_str no es una dirección IPv4 válida.
+ValueError: si el octeto no es estrictamente un decimal de [0..255].
+AddressValueError: si la dirección IP no es una dirección IPv4 válida.
+AddressValueError: si la dirección IP no es una dirección IPv4 válida.
+NetmaskValueError: si la máscara de red no es válida para
+ValueError: si estricto es verdadero y una dirección de red no lo es
+AddressValueError: si ip_str no es una dirección IPv6 válida.
+ValueError: si la entrada no es estrictamente un número hexadecimal de
+ValueError: La dirección es mayor que 128 bits de todos unos.
+AddressValueError: si la dirección no es una dirección IPv6 válida.
+AddressValueError: si la dirección no es una dirección IPv6 válida.
+NetmaskValueError: si la máscara de red no es válida para
+ValueError: si estricto era verdadero y una dirección de red no era
+si b'ValueError: el número de fotogramas debe estar dentro del rango' en stderr:
+si b'ValueError: el número de fotogramas debe estar dentro del rango' en stderr:
+excepto ValueError: pasar
+excepto ValueError: pasar
+excepto ValueError: pasar
+excepto ValueError: pasar
+prueba: pasa\nexcepto ValueError: pasa\nexcepto* TypeError: pasa\n
+prueba: pasa\nexcepto* ValueError: pasa\nexcepto TypeError: pasa\n
+intente: pase\nexcepto ValueError: pase\nexcepto* TypeError as e: pase\n
+intente: pase\nexcepto* ValueError: pase\nexcepto TypeError as e: pase\n
+prueba: pasa\nexcepto ValueError: pasa\nexcepto*: pasa\n
+prueba: pasa\nexcepto* ValueError: pasa\nexcepto: pasa\n
+self.assertIn("ValueError: algún error", err)
+ValueError: demasiados valores para desempaquetar (se esperaban 2)
+ValueError: demasiados valores para desempaquetar (se esperaban 2)
+ValueError: no hay suficientes valores para desempaquetar (se esperaban 4, se obtuvieron 3)
+ValueError: demasiados valores para desempaquetar (se esperaban 2)
+ValueError: demasiados valores para desempaquetar (esperado 0)
+self.assertIn('ValueError: ejecución fallida', stderr)
+self.assertIn('ValorError: error', stderr)
+self._check_error("intentar: aprobar\nexcepto ValueError: aprobar\nexcepto* TypeError: aprobar",
+self._check_error("intentar: aprobar\nexcepto* ValueError: aprobar\nexcepto TypeError: aprobar",
+ValueError: el generador ya se está ejecutando
+# ValueError: _inseguro_setprec, _inseguro_setemin, _inseguro_setemax
+# ValueError: solo se puede asignar una secuencia del mismo tamaño
+# ArgumentError: argumento 1: ValueError: 99
+ValueError: el generador ya se está ejecutando
+Error de valor: 6
+Error de valor: 7
+ValueError: error de dominio matemático
+ValueError: error de dominio matemático
+ValueError: error de dominio matemático
+ValueError: error de dominio matemático
+ValueError: error de dominio matemático
+ValueError: error de dominio matemático
+ValueError: error de dominio matemático
+ValueError: error de dominio matemático
+ValueError: no hay suficientes valores para desempaquetar (se esperaban al menos 4, obtuve 3)
+ValueError: no hay suficientes valores para desempaquetar (se esperaban al menos 4, obtuve 3)
+# "ValueError: operación de E/S en archivo cerrado" que se registra como un
+self.assertIn('ValueError: bad cleanup2', formatted_exc)
+self.assertIn('ValueError: bad cleanup2', formatted_exc)
+self.assertIn('ValueError: bad cleanup2', formatted_exc)
+self.assertIn('ValueError: bad cleanup2', formatted_exc)
+self.assertIn('ValueError: bad cleanup2', formatted_exc)
+self.assertIn('ValueError: bad cleanup2', formatted_exc)
+self.assertIn('ValueError: bad cleanup2', formatted_exc)
+self.assertIn('ValueError: bad cleanup2', formatted_exc)
+self.assertIn('ValueError: bad cleanup2', formatted_exc)
+con self._assert_logged('ValueError: error en el inicializador'):
+ValueError: [rutinas de sobres digitales: EVP_DigestInit_ex] deshabilitadas para FIPS
+ValueError: tipo de hash no compatible md4
+>>> exc_msg = 'ValorError: 1\n 2'
+'ValorError: 1\n 2\n'
+>>> exc_msg = 'ValorError: 1\n 2\n'
+'ValorError: 1\n 2\n'
+ValueError: la línea 4 de la cadena de documentación para some_test tiene un espacio en blanco inicial inconsistente: 'sangría'
+ValueError: la línea 2 de la cadena de documentación para some_test tiene un espacio en blanco inicial inconsistente: '... 2))'
+ValueError: la línea 1 de la cadena de documentación para some_test no está en blanco después de >>>: '>>>print(1)'
+ValueError: la línea 2 de la cadena de documentación para some_test no está en blanco después de...: '...print(1)'
+... ValorError: multi
+... ValueError: mensaje incorrecto
+ValueError: mensaje incorrecto
+ValueError: mensaje
+... ValueError: mensaje incorrecto
+ValueError: mensaje
+Error de valor: 2
+Error de valor: 2
+ValueError: la línea 1 del doctest para s tiene una opción no válida: '+BADOPTION'
+ValueError: la línea 1 del doctest para s tiene una opción no válida: 'ELIPSIS'
+ValueError: la línea 0 de doctest para s tiene una directiva de opción en una línea sin ejemplo: '# doctest: +ELLIPSIS'
+ValueError: el paquete solo se puede especificar para rutas relativas al módulo.
+self.assertTrue(err.getvalue().endswith("ValueError: 42\n"))
+self.assertIn('ValueError: 42\n', err)
+r'ValueError: error\n'
+# ValueError: el descriptor del archivo no puede ser un entero negativo (-1)
+f' | Error de valor: 1\n'
+exp = 'Archivo "<no existe>", línea 3, en <módulo>\nValueError: 42\n'
+f' | Error de valor: 1\n'
+f' | Error de valor: 1\n'
+f' | Error de valor: 3\n'
+f' | Error de valor: 1\n'
+f' | Error de valor: 3\n'
+f' | Error de valor: 1\n'
+f' | Error de valor: 4\n'
+f' | Error de valor: 5\n'
+' | Error de valor: 0\n'
+' | Error de valor: 1\n'
+' | Error de valor: 2\n'
+' | Error de valor: 3\n'
+' | Error de valor: 4\n'
+' | Error de valor: 5\n'
+' | Error de valor: 6\n'
+' | Error de valor: 7\n'
+' | Error de valor: 8\n'
+' | Error de valor: 9\n'
+' | Error de valor: 10\n'
+' | Error de valor: 11\n'
+' | Error de valor: 12\n'
+' | Error de valor: 13\n'
+' | Error de valor: 14\n'
+' | Error de valor: 999\n'
+' | Error de valor: 998\n'
+' | Error de valor: 997\n'
+' | Error de valor: 996\n'
+' | Error de valor: 995\n'
+' | Error de valor: 994\n'
+' | Error de valor: 993\n'
+' | Error de valor: 992\n'
+' | Error de valor: 991\n'
+' | Error de valor: 990\n'
+' | Error de valor: -990\n'
+' | Error de valor: -991\n'
+' | Error de valor: -992\n'
+' | Error de valor: -993\n'
+' | Error de valor: -994\n'
+' | Error de valor: -995\n'
+' | Error de valor: -996\n'
+' | Error de valor: -997\n'
+' | Error de valor: -998\n'
+' | Error de valor: -999\n'
+f' | ValueError: valor incorrecto\n'
+f' | ValueError: terrible valor\n'
+f' | ValueError: valor incorrecto\n'
+f' | ValueError: terrible valor\n'
+f' | Error de valor: 42',
+f' | Error de valor: 24',
+f' | Error de valor: 0',
+f' | Error de valor: 1',
+f' | ValorError: -2',
+f' | ValorError: -1',
+f' | Error de valor: 1',
+f' | Error de valor: 2',
+excepto ValueError: pasar
+excepto ValueError: pasar
+excepto ValueError: # ValueError: la señal solo funciona en el hilo principal
+ValueError: no hay comillas de cadena alrededor de b''
+ValueError: no se encontró una nueva línea al intentar leer stringnl
+ValueError: se esperaban 50331648 bytes en una cadena4, pero solo quedan 6
+ValueError: se esperaban 50331648 bytes en bytes4, pero solo quedan 6
+ValueError: esperado... bytes en un bytes8, pero solo quedan 6
+ValueError: esperado... bytes en un bytearray8, pero solo quedan 6
+ValueError: se esperaban 7 bytes en un unicodestring1, pero solo quedan 6
+ValueError: se esperaban 7 bytes en un unicodestring4, pero solo quedan 6
+ValueError: se esperaban 7 bytes en un unicodestring8, pero solo quedan 6
+ValueError: literal no válido para int() con base 10: b'1234L'
+ValueError: ('Solo se permiten indicadores de informe', 8)
+ValueError: esperaba exactamente un elemento en iterable, pero obtuvo 1, 2,
+:aumenta ValueError: cuando se proporciona un valor no válido para el nombre.
+excepto ValueError: # solo agregar si falta, es decir, hacerlo una vez
+excepto ValueError: # Necesito esto hasta que se arregle.
+excepto ValueError: # ver problema1207589
+' | Error de valor: 1\n'
+' | Error de valor: 1\n'
+ValueError: no se puede redondear un NaN
+excepto ValueError: # pragma: sin portada
+ValueError: operación de E/S en archivo cerrado.
+ValueError: zip() el argumento 2 es más largo que el argumento 1
+ValueError: no es un valor booleano: no
+ValueError: alias encontrados en <enumeración 'Color'>: CRIMSON -> RED
+ValueError: enumeración no válida 'Color': valores faltantes 3, 4
+ValueError: Indicador no válido 'Color': a los alias WHITE y NEON les faltan los valores combinados de 0x18 [use enum.show_flag_values(value) para obtener más detalles]
+ValueError: <flag 'StrictFlag'> valor no válido 20
+ValueError: valores duplicados encontrados en <enumeración 'Error'>: CUATRO -> TRES
+ValueError: n debe ser >= 0
+ValueError: n debe ser un entero exacto
+ValueError: list.remove(x): x no está en la lista
+Error de valor: multi
+Error de valor: multi
+``ValueError: 42 is prime`` pasará si :exc:`ValueError` es realmente
+Por ejemplo, un ejemplo que espera ``ValueError: 42`` pasará si el valor real
+excepción planteada es ``ValueError: 3*14``, pero fallará si, digamos, un
+ValueError: '/etc/passwd' no está en la subruta de '/usr' O una ruta es relativa y la otra es absoluta.
+ValueError: '/etc/passwd' no está en la misma unidad que 'foo' O una ruta es relativa y la otra es absoluta.
+ValueError: PureWindowsPath('c:/') tiene un nombre vacío
+ValueError: PureWindowsPath('c:/') tiene un nombre vacío
+ValueError: zip() el argumento 2 es más corto que el argumento 1
+ValueError: marcador de posición no válido en la cadena: línea 1, columna 11
+ValueError: ¡Define la variable `my_name`!
+ValueError: asignación de vista de memoria: lvalue y rvalue tienen estructuras diferentes
+ValueError: operación prohibida en el objeto de vista de memoria liberado
+ValueError: operación prohibida en el objeto de vista de memoria liberado
+ValueError: vista de memoria: valor no válido para el formato "B"
+ValueError: supera el límite (4300 dígitos) para la conversión de cadenas enteras: el valor tiene 5432 dígitos; use sys.set_int_max_str_digits() para aumentar el límite.
+ValueError: supera el límite (4300 dígitos) para la conversión de cadenas enteras: el valor tiene 8599 dígitos; use sys.set_int_max_str_digits() para aumentar el límite.
+ipaddress.AddressValueError: 4294967296 (>= 2**32) no está permitido como dirección IPv4
+ValueError: el nuevo prefijo debe ser más largo
+ValueError: excede el almacenamiento disponible para str existente
+ValueError: procedimiento probablemente llamado sin suficientes argumentos (faltan 4 bytes)
+ValueError: procedimiento probablemente llamado con demasiados argumentos (4 bytes en exceso)
+ValueError: acceso de puntero NULL
+ValueError: acceso de puntero NULL
+ValueError: el tamaño mínimo es 8
+ValueError: no es un decimal
+ValueError: nodo o cadena con formato incorrecto: <_ast.Call object at 0x101739a10>
+ValueError: intento de asignar una secuencia de tamaño 3 a una porción extendida de tamaño 2
+ValueError: muestra más grande que la población
+excepto TypeError, ValueError: # ¡Incorrecto!
+ValueError: cadena con formato incorrecto
+ValueError: valores duplicados encontrados en <enumeración 'Error'>: CUATRO -> TRES
+ValueError: alias no permitidos en DuplicateFreeEnum: 'GRENE' --> 'GREEN'
+ValueError: 192.0.2.1/24 tiene bits de host establecidos
+ValueError: '192.168.0.256' no parece ser una dirección IPv4 o IPv6
+ipaddress.AddressValueError: Octeto 256 (> 255) no permitido en '192.168.0.256'
+ValueError: '192.168.0.1/64' no parece ser una red IPv4 o IPv6
+ipaddress.NetmaskValueError: '64' no es una máscara de red válida
+ValueError: se esperaba que el <método 'isupper' de los objetos 'str'> fuera verdadero para 'Widget'
+ValueError: se esperaba que 'metle' fuera uno de {'metal', 'plastic', 'wood'}
+ValueError: se esperaba que -5 fuera al menos 0
+| Error de valor: 1
+excepto ZeroDivisionError: pasa
+ZeroDivisionError: división por cero
+ZeroDivisionError: división entera o módulo por cero
+ZeroDivisionError: división entera o módulo por cero
+ZeroDivisionError: 0.0 no se puede elevar a una potencia negativa
+excepto ZeroDivisionError: pasa
+self.assertIn('ZeroDivisionError: división por cero', formatted_exc)
+self.assertIn('ZeroDivisionError: división por cero', formatted_exc)
+self.assertIn('ZeroDivisionError: división por cero', formatted_exc)
+self.assertIn('ZeroDivisionError: división por cero', formatted_exc)
+self.assertIn('ZeroDivisionError: división por cero', formatted_exc)
+self.assertIn('ZeroDivisionError: división por cero', formatted_exc)
+self.assertIn('ZeroDivisionError: división por cero', formatted_exc)
+self.assertIn('ZeroDivisionError: división por cero', formatted_exc)
+self.assertIn('ZeroDivisionError: división por cero', formatted_exc)
+self.assertIn('ZeroDivisionError: división por cero', formatted_exc)
+self.assertIn('ZeroDivisionError: división por cero', formatted_exc)
+self.assertIn('ZeroDivisionError: división por cero', formatted_exc)
+... ZeroDivisionError: división entera o módulo por cero
+... ZeroDivisionError: división entera o módulo por cero
+ZeroDivisionError: división entera o módulo por cero
+ZeroDivisionError: división entera o módulo por cero
+b'ZeroDivisionError: división por cero'
+self.assertEqual(líneas[3], b'ZeroDivisionError: división por cero')
+self.assertEqual(líneas[3], b'ZeroDivisionError: división por cero')
+b'ZeroDivisionError: división por cero']
+'ZeroDivisionError: división por cero',
+f' | ZeroDivisionError: división por cero',
+excepto ZeroDivisionError: pasa
+excepto ZeroDivisionError: pasa
+excepto ZeroDivisionError: pasa
+excepto ZeroDivisionError: pasa
+excepto ZeroDivisionError: pasa
+excepto ZeroDivisionError: pasa
+' ZeroDivisionError: división por cero\n'
+' ZeroDivisionError: división por cero\n'
+ZeroDivisionError: división por cero
+ZeroDivisionError: división entera o módulo por cero
+ZeroDivisionError: división entera o módulo por cero
+ZeroDivisionError: división por cero
+logging.exception('ZeroDivisionError: %s', e)
+28/01/2015 07:21:23|ERROR|ZeroDivisionError: división entera o módulo por cero|'Rastreo (última llamada más reciente):\n Archivo "logtest7.py", línea 30, en main\n x = 1 / 0\nZeroDivisionError: división entera o módulo por cero'|
+ADVERTENCIA: demostración: ZeroDivisionError: división por cero
+ZeroDivisionError: división por cero
+ZeroDivisionError: división por cero
+NameError: el nombre 'valeur' ​​no está definido
+SyntaxError: sin coincidencia ')'
+NameError: el nombre 'imprime' no está definido
+SyntaxError: EOL al escanear literal de cadena
+NameError: el nombre 'z' no está definido
+NameError: el nombre 'impimir' no está definido
+NameError: el nombre 'imprimer' no está definido
+NameError: el nombre 'imprimir' no está definido

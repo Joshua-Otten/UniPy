@@ -16,7 +16,7 @@ Lang1_list = list()
 Lang2_list = list()
 
 
-Lang1_file = open('LanguageData/'+sys.argv[2]+'Key.txt','r')
+Lang1_file = open(sys.argv[2]+'Key.txt','r')
 # reading data for first language
 line = Lang1_file.readline()
 while line != "":
@@ -25,7 +25,7 @@ while line != "":
 Lang1_file.close()
 
 
-Lang2_file = open('LanguageData/'+sys.argv[3]+'Key.txt','r')
+Lang2_file = open(sys.argv[3]+'Key.txt','r')
 # reading data for second language
 line = Lang2_file.readline()
 while line != "":
@@ -36,7 +36,7 @@ Lang2_file.close()
 
 
 # create new py file as the result:
-'''
+
 # get rid of .xxpy
 new_py_name = ""
 for i in str(sys.argv[1]):
@@ -45,11 +45,8 @@ for i in str(sys.argv[1]):
     else:
         new_py_name += i
         
-new_py_name = new_py_name + str(sys.argv[4])
-'''
-new_py_name = "code2.unipy" # this is simpler for the sake of the demo
-
-new_py = open(new_py_name, 'w')
+new_py = new_py_name + str(sys.argv[4])
+new_py = open(new_py, 'w')
 #new_py = open("test_translation.py","w")
 
 original = open(sys.argv[1],'r')
@@ -124,16 +121,4 @@ while line != "":
     line = original.readline()
     
 original.close()
-new_py.close()
-
-# ADDED STUFF FOR THE WEB DEMO
-# STUFF BEFORE IS JUST THE CodeTranslator.py FILE
-new_py = open(new_py_name, 'r')
-line = new_py.readline()
-to_return = line
-while line != '':
-    line = new_py.readline()
-    to_return += line
-print(to_return)
-
 new_py.close()

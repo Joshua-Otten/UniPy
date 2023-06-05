@@ -1,0 +1,1952 @@
+AssertionError: Headers (('Content-Type', 'text/plain')) 必须
+('200', 'AssertionError: Status must be at least 4 characters'),
+('20X OK', 'AssertionError: Status message must begin with 3-digit code'),
+('200OK', 'AssertionError: Status message must have a space after code'),
+"print('AssertionError:0:CLOEXEC 失败。')"]).wait()
+self.assertIn('AssertionError: bad tearDown', result.failures[0][1])
+self.assertIn('AssertionError: bad tearDown', result.failures[0][1])
+除了断言错误：
+# AssertionError: 'v@entry=()' != '()'
+断言错误：1！= 0
+断言错误：1！= 0
+断言错误：1！= 0
+断言错误：1！= 0
+AssertionError：“3”意外不大于或等于“4”
+AssertionError：预计被调用一次。调用了 2 次。
+断言错误：预期：（（{6}，），{}）
+AssertionError：预期调用：mock({1})
+AssertionError：预期：调用（<__main__.Foo object at 0x...>）
+AssertionError：预期：（（<0x 处的匹配器对象...>，），{}）
+AssertionError：预期“方法”已被调用一次。调用了 2 次。
+AssertionError：预期“模拟”被调用一次。调用了 2 次。
+AssertionError：预期的“你好”没有被调用。调用 1 次。
+AssertionError：已等待预期模拟。
+AssertionError：预期模拟已等待一次。等了2次。
+AssertionError：未找到预期的调用。
+AssertionError：预期模拟已等待一次。等了2次。
+AssertionError：模拟（'其他'）等待未找到
+AssertionError：未找到等待。
+AssertionError：预期“模拟”被调用一次。调用了 2 次。
+AttributeError: 'MyLocal' 对象没有属性 'color'
+A().a # 引发的 AttributeError：一个实例没有属性 'a'
+# AttributeError: 类型对象 'Name' 没有属性 'x'
+# AttributeError: 'x' 在_anonymous_ 中指定但不在_fields_ 中指定
+AttributeError: 'generator' 对象的属性 'gi_running' 不可写
+AttributeError: 'defaultdict2' 对象没有属性 'x1'
+AttributeError: 模块 'test.test_doctest' 没有属性 'sillySetup'
+AttributeError: 模块 'test.test_doctest' 没有属性 'sillySetup'
+# AttributeError: 'str' 对象没有属性 'is_attachment'
+# AttributeError: 'SMTP' 对象没有属性 'sock')
+except AttributeError: # 并非所有对象都有 __dict__ （例如类定义槽）
+除了 AttributeError：返回无
+除了 AttributeError：通过
+除了 AttributeError：通过
+除了 AttributeError: # 对于没有 _getframemodulename() 的平台
+除了 AttributeError: # 没有套接字
+除了 AttributeError: # 没有套接字
+除了 AttributeError: # shell 可能已经关闭
+除了 AttributeError: # shell 可能已经关闭
+除了 AttributeError: # 可能是 PyShell
+除了 AttributeError: # bpo-35379: close 调用了两次
+AttributeError：“方法”对象没有属性
+属性错误：第一
+属性错误：第一
+属性错误：第一
+属性错误：第一
+属性错误：第一
+AttributeError: 模块 'sys' 没有属性 '__file__'
+AttributeError: 对象没有属性 'old_method'
+AttributeError: 'NoneType' 对象没有属性 'group'
+属性错误：f
+AttributeError: <module 'sys' (built-in)> 没有属性 'non_existing_attribute'
+AttributeError：模拟对象没有属性“assret_called_with”
+AttributeError：模拟对象没有属性“assret_called_with”
+AttributeError：模拟对象没有属性“a”
+AttributeError：模拟对象没有属性“a”
+AttributeError：“方法”对象没有属性“whoami”
+AttributeError: 'module' 对象没有属性 'f'
+AttributeError: 'module' 对象没有属性 'f'
+AttributeError: 'module' 对象没有属性 'f'
+AttributeError：找不到函数“MyOwnFunction”
+AttributeError：函数序号 0 未找到
+属性错误：x
+属性错误：x
+AttributeError: 'C' 对象没有属性 'newattr'
+AttributeError: 'NoneType' 对象没有属性 'x'
+AttributeError：模块“collections”没有属性“namedtoplo”。您是说：namedtuple 吗？
+AttributeError: 'ClassWithoutGetAttr' 对象没有属性 'z'
+AttributeError: 'C' 对象没有属性 '_C__x'
+AttributeError: 'Vehicle' 对象没有属性 'id_nubmer'
+AttributeError：“不可变”对象的属性“部门”没有设置器
+AttributeError：“不可变”对象没有属性“位置”
+AttributeError: 'H' 对象没有属性 'xz'
+EXPORT_DATA（PyExc_EOFError）
+EOF。它现在引发 :exc:`~ssl.SSLEOFError`，匹配之前的行为
+ssl.wrap_socket() 现在在 peer 时引发 ssl.SSLEOFError 而不是 OSError
+因为 ``read()`` 可以在 Windows 上引发 :exc:`ssl.SSLEOFError`。修补程序
+- 问题 #1159051：GzipFile 现在在读取损坏的文件时引发 EOFError
+- 问题 #5334：引发 EOFError 时，array.fromfile() 无法插入值。
+[数据.PyExc_EOFError]
+对象/exceptions.c:PyExc_EOFError static PyTypeObject PyExc_EOFError
+对象/exceptions.c:_PyExc_EOFError 静态 PyTypeObject _PyExc_EOFError
+对象/exceptions.c - _PyExc_EOFError -
+对象/exceptions.c - PyExc_EOFError -
+如果用户点击 EOF（*nix：Ctrl-D，Windows：Ctrl-Z+Return），引发 EOFError。
+PyErr_SetNone(PyExc_EOFError);
+PyErr_SetString(PyExc_EOFError,
+PyErr_SetString(PyExc_EOFError,
+PyErr_SetString(PyExc_EOFError,
+PyErr_SetString(PyExc_EOFError,
+PyErr_SetString(PyExc_EOFError,
+版本的不兼容编组格式），引发 EOFError、ValueError 或
+如果未找到有效值，则引发 EOFError、ValueError 或 TypeError。额外的
+如果用户点击 EOF（*nix：Ctrl-D，Windows：Ctrl-Z+Return），引发 EOFError。\n
+版本不兼容的编组格式），引发 EOFError、ValueError 或\n
+如果未找到有效值，则引发 EOFError、ValueError 或 TypeError。额外\n
+PyAPI_DATA(PyObject *) PyExc_EOFError;
+* EOFError 扩展异常
+SimpleExtendsException（PyExc_Exception，EOFError，
+项目（EOFError），
+PyErr_SetString(PyExc_EOFError,
+PyErr_SetString(PyExc_EOFError,
+除了 EOFError：
+除了（EOFError，aifc.Error）：
+除了（EOFError，wave.Error）：
+raise EOFError("压缩文件在"之前结束
+raise EOFError("压缩文件在"之前结束
+raise EOFError("压缩文件在流结束前结束"
+除了 (OSError, EOFError, ValueError) 作为错误：
+除了（OSError，EOFError）：
+如果连接关闭，则引发 EOFError。
+如果不是行：提高 EOFError
+EOFE错误
+除了 EOFError：
+raise EOFError('EOF 读到的地方不是预期的')
+raise EOFError('EOF 读到的地方不是预期的')
+raise EOFError('EOF 读到的地方不是预期的')
+除了 ssl.SSLEOFError：
+使用 self.assertRaises(EOFError)：
+除了 EOFError：
+self.assertRaises（EOFError，telnet.read_very_lazy）
+除了 EOFError：
+self.assertRaises(EOFError, gzip.decompress, compressed_data[:-4])
+self.assertRaises(EOFError, gzip.decompress, compressed_data[:-8])
+self.assertRaises（EOFError，f.read）
+self.assertRaises(EOFError, f.read, 1)
+self.assertRaises(EOFError, f.read, 1)
+self.assertRaises（EOFError，conn.recv）
+self.assertRaises（EOFError，conn.recv_bytes）
+除了 EOFError：
+self.assertRaises(EOFError, marshal.loads, data[0: i])
+使用 self.assertRaises(EOFError)：
+使用 self.assertRaises(EOFError)：
+使用 self.assertRaises(EOFError)：
+使用 self.assertRaises(EOFError)：
+PyExc_EOFError
+除了（OSError，EOFError）：
+EOF_ERRORS = (EOFError,)
+EOF_ERRORS += (ssl.SSLEOFError,)
+truncated_errors = (pickle.UnpicklingError, EOFError,
+truncated_errors = (pickle.UnpicklingError, EOFError,
+EOFE错误，
+self.check_unpickling_error(EOFError, b'')
+self.check_unpickling_error（EOFError，b'N'）
+self.assertRaises((EOFError, struct.error, pickle.UnpicklingError), self.load, s)
+self.assertRaises（EOFError，unpickler.load）
+self.assertRaises（EOFError，lzd.decompress，b“quux”）
+self.assertRaises（EOFError，lzd.decompress，b“nyan”）
+self.assertRaises（EOFError，f.read）
+self.assertRaises（EOFError，f.read）
+self.assertRaises(EOFError, f.read, 1)
+self.assertRaises(EOFError, f.read, 1)
+使用 self.assertRaises(EOFError)：
+self.assertRaises(EOFError, b.fromfile, f, len(self.example)+1)
+# 而不是 EOFError。
+使用 self.assertRaises(EOFError)：
+使用 self.assertRaises(EOFError)：
+# 否则引发 EOFError。
+# 引发 EOFError。
+# 当标记为部分时，重新生成 .pyc，否则引发 EOFError。
+# 当散列是部分时，重新生成 .pyc，否则引发 EOFError。
+# 引发 EOFError。
+# 当只有幻数和时间戳时，引发 EOFError。
+使用 self.assertRaises(EOFError)：
+使用 self.assertRaises(EOFError)：
+使用 self.assertRaises(EOFError)：
+使用 self.assertRaises(EOFError)：
+使用 self.assertRaises(EOFError)：
+# 如果使用字节码，那么元帅将引发 EOFError。
+# 如果使用字节码，那么元帅将引发 EOFError。
+除了 EOFError：通过
+除了（EOFError，TypeError，ZeroDivisionError）：通过
+除了 (EOFError, TypeError, ZeroDivisionError) as msg: pass
+除了* EOFError：通过
+除了* (EOFError, TypeError, ZeroDivisionError): 通过
+除了* (EOFError, TypeError, ZeroDivisionError) as msg: pass
+self.assertRaises（EOFError，f.read）
+self.assertRaises(EOFError, f.read, 1)
+self.assertRaises(EOFError, f.read, 1)
+def testEOFError（自我）：
+self.assertRaises(EOFError, bz2d.decompress, b"anything")
+self.assertRaises(EOFError, bz2d.decompress, b"")
+self.raise_catch(EOFError, "EOFError")
+除了 EOFError：
+使用 self.assertRaises(EOFError)：
+使用 self.assertRaises(EOFError)：
+使用 self.assertRaises(EOFError)：
+# 如果标准输入被继承，某些 win32 buildbot 会引发 EOFError
+├── EOFError
+self.assertRaises（ssl.SSLEOFError，sslobj.read）
+除了 ssl.SSLEOFError：
+self.assertRaises（EOFError，getpass._raw_input，输入=输入）
+（err.reason 中的“EOFError”）））或
+def testEOFError（自我）：
+self.assertRaises(EOFError, zlibd.decompress, b"anything")
+self.assertRaises(EOFError, zlibd.decompress, b"")
+self.infunc.side_effect = EOFError('完成')
+self.infunc.side_effect = EOFError('完成')
+self.infunc.side_effect = ["'antioch'", "", EOFError('Finished')]
+self.infunc.side_effect = ["undefined", EOFError('Finished')]
+EOFError('完成')]
+self.infunc.side_effect = EOFError('完成')
+self.infunc.side_effect = EOFError('完成')
+self.infunc.side_effect = EOFError('完成')
+self.infunc.side_effect = EOFError('完成')
+self.infunc.side_effect = EOFError('完成')
+EOFError('完成')]
+EOFError('完成')]
+self.assertRaises（EOFError，aifc._read_ulong，f）
+self.assertRaises（EOFError，aifc._read_long，f）
+self.assertRaises（EOFError，aifc._read_ushort，f）
+self.assertRaises（EOFError，aifc._read_short，f）
+除了 EOFError：通过
+除了（EOFError，TypeError，ZeroDivisionError）：通过
+除了 (EOFError, TypeError, ZeroDivisionError), msg: pass
+除了 EOFError：通过
+除了（EOFError，TypeError，ZeroDivisionError）：通过
+除了 (EOFError, TypeError, ZeroDivisionError) as msg: pass
+self.assertRaises（EOFError，输入）
+对于 OSError、EOFError、RuntimeError 中的 exctype：
+self.assertRaises（EOFError，up.unpack_uint）
+EOFError)
+除了（OSError，EOFError）：
+提高 EOFError
+从 None 提高 EOFError
+提高 EOFError
+除了 EOFError：
+从 None 提高 EOFError
+从 None 提高 EOFError
+提高 EOFError
+从 None 提高 EOFError
+raise EOFError("压缩文件在"之前结束
+提高 EOFError
+提高 EOFError('意外的 EOF')
+提高 EOFError
+提高 EOFError
+除了（EOFError，OSError）：
+util.debug('worker got EOFError or OSError -- exiting')
+除了（OSError，EOFError）：
+util.debug('结果处理程序得到 EOFError/OSError -- 退出')
+除了（OSError，EOFError）：
+util.debug('结果处理程序得到 EOFError/OSError -- 退出')
+除了（OSError，EOFError）：
+除了（OSError，EOFError）：
+除了 EOFError：
+提高 EOFError
+除了 EOFError：
+当用户输入 EOF 键序列时，会引发 EOFError。
+除了（键盘中断，EOFError）：
+除了（键盘中断，EOFError）：
+提高 EOFError
+提高 EOFError
+提高 EOFError
+提高 EOFError
+提高 EOFError
+all_errors = (错误, OSError, EOFError)
+除了（OSError，EOFError）：
+# 如果连接关闭则引发 EOFError
+提高 EOFError
+all_errors = (错误, OSError, EOFError, ssl.SSLError)
+文件，创建新实例将失败并出现 EOFError
+除了 EOFError：
+提高 EOFError
+从 None 提高 EOFError
+提高 EOFError
+除了 EOFError：
+吃了数据这就是为什么在某些情况下需要 EOFError 来区分
+当读取连接结束时引发 EOFError，因为
+可能是空字符串。提高 EOFError 如果连接
+如果连接关闭且没有熟数据，则引发 EOFError
+如果连接关闭且没有熟数据，则引发 EOFError
+如果连接关闭且没有可用数据，则引发 EOFError。
+如果连接关闭且没有可用数据，则引发 EOFError。
+raise EOFError('telnet 连接关闭')
+除了 EOFError: # 由 self.rawq_getchar() 引发
+如果没有数据立即可用则阻塞。提高 EOFError
+提高 EOFError
+除了 EOFError：
+除了 EOFError：
+如果读取了 EOF 但未读取任何文本，则引发 EOFError。
+提高 EOFError
+EOFError：如果我们的输入 tty 或 stdin 被关闭。
+提高 EOFError
+（但不一定限于）AttributeError、EOFError、ImportError、
+提高 EOFError
+提高 EOFError
+除了 (OSError, EOFError) 作为 e:
+除了 (LZMAError, EOFError) 作为 e:
+字段无效。当发现数据被截断时会引发 EOFError。
+提高 EOFError（消息）
+除了（导入错误，EOFError）：
+覆盖基类 - 只需重新引发 EOFError
+提高 EOFError
+除了（EOFError、OSError、KeyboardInterrupt）：
+除了 EOFError：
+提高 EOFError
+永远不会出现，并在 EOFError 上退出。
+除了 EOFError：
+提高 EOFError
+提高 EOFError
+除了 EOFError：
+提高 EOFError
+除了 EOFError：
+SSLSyscallError、SSLEOFError、SSLCertVerificationError
+类 IncompleteReadError（EOFError）：
+从 None 提高 EOFError
+从 None 提高 EOFError
+从 None 提高 EOFError
+从 None 提高 EOFError
+除了 EOFError：
+除了 EOFError：
+'EOFError', '省略号', 'EnvironmentError', '异常', '假',
+提出一个：exc：`EOFError`。结束后找到的任何数据
+读取，:exc:`EOFError` 被引发。例子：：
+此异常是 :exc:`EOFError` 的子类。
+格式），引发：exc:`EOFError`、:exc:`ValueError` 或 :exc:`TypeError`。这
+:exc:`EOFError`、:exc:`ValueError` 或 :exc:`TypeError`。中的额外字节
+新队。当用户输入 EOF 键序列时，会引发：exc:`EOFError`。
+（但不一定限于）AttributeError、EOFError、ImportError 和
+除了 EOFError：
+:exc:`EOFError` 被引发，但可用的项目仍然存在
+实例将失败并出现 :exc:`EOFError` 异常。
+:exc:`EOFError` 当读取连接结束时，因为它们可以返回
+字节。如果连接关闭且没有熟数据，则引发 :exc:`EOFError`
+如果连接关闭并且没有可用的熟数据，则引发 :exc:`EOFError`。
+如果连接关闭并且没有可用的熟数据，则引发 :exc:`EOFError`。
+如果连接关闭且没有可用数据，则引发 :exc:`EOFError`。返回
+如果连接关闭且没有可用数据，则引发 :exc:`EOFError`。返回
+如果找到文件末尾且未读取任何字节，则引发：exc:`EOFError`。
+:exc:`EOFError` 和 :exc:`zlib.error` 也可以针对无效的 gzip 引发
+上面列出的四个异常以及 :exc:`OSError` 和 :exc:`EOFError`。
+.. 异常:: SSLEOFError
+:exc:`SSLEOFError` 异常。
+:exc:`EOFError` 如果没有什么可以接收
+如果什么都没有，则引发 :exc:`EOFError`
+:exc:`EOFError` 如果没有任何东西可以接收并且另一端是
+除了 EOFError：
+提出一个：exc：`EOFError`。结束后找到的任何数据
+..异常:: EOFError
+如果输入过早终止，它会引发 :exc:`EOFError`。
+var,PyExc_EOFError,3.2,,
+出错时，设置适当的异常 (:exc:`EOFError`) 并返回
+出错时，设置适当的异常 (:exc:`EOFError`) 并返回
+出错时，设置适当的异常（：exc：`EOFError`，：exc：`ValueError`
+出错时，设置适当的异常（：exc：`EOFError`，：exc：`ValueError`
+出错时，设置适当的异常（：exc：`EOFError`，：exc：`ValueError`
+.. index:: single: EOFError (内置异常)
+``0``，然而，无论长度如何，都读取一行，但是 :exc:`EOFError` 是
+单个：PyExc_EOFError
+| :c:data:`PyExc_EOFError` | :exc:`EOFError` | |
+PyErr_SetString(PyExc_EOFError,
+EOFEror。在流结束后找到的任何数据都将被忽略并保存在
+PyErr_SetString(PyExc_EOFError, "已经在流的末尾");
+PyErr_Format(PyExc_EOFError, "输入不足");
+EOFEror。在流结束后找到的任何数据都将被忽略并保存在
+PyErr_SetString(PyExc_EOFError, "流结束已经到达");
+PyDoc_STRVAR（SSLEOFError_doc，
+type = state->PySSLEOFErrorObject;
+type = state->PySSLEOFErrorObject;
+type = state->PySSLEOFErrorObject;
+状态->PySSLEOFErrorObject，
+SSLEOFError
+SSLEOFError_doc，
+Py_VISIT(状态->PySSLEOFErrorObject);
+Py_CLEAR(状态->PySSLEOFErrorObject);
+PyErr_SetString(PyExc_EOFError,
+EOFEror。在流结束后找到的任何数据都将被忽略并保存在
+PyErr_SetString(PyExc_EOFError, "流结束已经到达");
+EOFEror。在流结束后找到的任何数据都将被忽略并保存在\n
+EOFEror。在流结束后找到的任何数据都将被忽略并保存在\n
+EOFEror。在流结束后找到的任何数据都将被忽略并保存在\n
+PyObject *PySSLEOFErrorObject;
+* XXX 异常 exceptions.ImportError: 'No module named sha'
+# ImportError: 如果 package_name 不存在（例如，如果 tzdata 不存在
+除了 ImportError: # pragma: nocover
+- ZipImportError：zipimporter 对象引发的异常。它是
+self.assertIn("ImportError: No module named t_main.__main__",
+除了 ImportError: # pragma: 没有覆盖
+text = 'ImportError: ' + str(exc)
+f'ImportError: 模块 {name} 不支持在子解释器中加载',
+f'ImportError: 模块 {name} 不支持在子解释器中加载',
+except ImportError: # 如果没有 pwd 模块
+除了 ImportError: # comment\n
+除了 ImportError: # pragma: 没有覆盖
+f'导入错误：5\n')
+self.msgout(4, "raise ImportError: No module named", qname)
+self.msgout(4, "raise ImportError: No module named", mname)
+self.msgout(2, "raise ImportError: " + str(exc), 路径名)
+Except ImportError: # not running on Windows - 模拟一些合理的东西
+除了 ImportError: # pragma: 没有覆盖
+除了 ImportError: # pragma: 没有覆盖
+除了 ImportError: # pragma: 没有覆盖
+ImportError：无法从“collections”导入名称“chainmap”。您是说：'ChainMap' 吗？
+IndentationError：预期在第 1 行的“while”语句之后有一个缩进块
+IndentationError：预期在第 1 行的“for”语句之后有一个缩进块
+IndentationError：预期在第 3 行的“else”语句之后有一个缩进块
+IndentationError：预期在第 1 行的“for”语句之后有一个缩进块
+IndentationError：预期在第 3 行的“else”语句之后有一个缩进块
+IndentationError：预期在第 1 行的“if”语句之后有一个缩进块
+IndentationError：预期在第 3 行的“elif”语句之后有一个缩进块
+IndentationError：预期在第 5 行的“else”语句之后有一个缩进块
+IndentationError：预期在第 1 行的“try”语句之后有一个缩进块
+IndentationError：在第 3 行的“except”语句之后需要一个缩进块
+IndentationError：在第 3 行的“except”语句之后需要一个缩进块
+IndentationError：预期在第 3 行的“except*”语句之后有一个缩进块
+IndentationError：预期在第 5 行的“finally”语句之后有一个缩进块
+IndentationError：预期在第 5 行的“finally”语句之后有一个缩进块
+IndentationError：预期在第 1 行的“with”语句之后有一个缩进块
+IndentationError：预期在第 1 行的“with”语句之后有一个缩进块
+IndentationError：预期在第 1 行的“with”语句之后有一个缩进块
+IndentationError：预期在第 1 行的“with”语句之后有一个缩进块
+IndentationError：预期在第 1 行的“with”语句之后有一个缩进块
+IndentationError：预期在第 1 行的“with”语句之后有一个缩进块
+IndentationError：在第 1 行的函数定义之后需要一个缩进块
+IndentationError：在第 1 行的类定义之后需要一个缩进块
+IndentationError：预期在第 1 行的“匹配”语句之后有一个缩进块
+IndentationError：预期在第 2 行的“case”语句之后有一个缩进块
+IndentationError：预期在第 4 行的“case”语句之后有一个缩进块
+IndentationError：在第 2 行的“if”语句之后需要一个缩进块
+>>> exc_msg = 'IndexError: 从空列表中弹出'
+('[].pop()\n', '', 'IndexError: 从空列表中弹出\n', 5, 4, {8: True})
+>>> exc_msg = 'IndexError: 从空列表中弹出'
+'IndexError: 从空列表中弹出\n'
+>>> exc_msg = 'IndexError: 从空列表中弹出\n'
+'IndexError: 从空列表中弹出\n'
+IndexError：从一个空的双端队列中弹出
+IndexError：字符串索引超出范围
+IndexError：元组索引超出范围
+IndexError：元组索引超出范围
+IndexError：元组索引超出范围
+'IndexError: 元组索引超出范围\n']
+['IndexError: 元组索引超出范围\n']
+IndexError：列表索引超出范围
+IndexError：索引无效
+IndexError：从一个空的双端队列中弹出
+shutdown_error = "LookupError: 未知编码: ascii"
+shutdown_error = "LookupError: 未知编码: ascii"
+# LookupError：没有注册编解码器搜索功能：找不到编码”
+LookupError 除外：# 没有 IncrementalEncoder
+LookupError 除外：# 没有 IncrementalEncoder
+LookupError 除外：# 没有 IncrementalEncoder
+LookupError 除外：# 没有 IncrementalEncoder
+LookupError: 'hex' 不是文本编码；使用 codecs.decode() 来处理任意编解码器
+LookupError: 'rot13' 不是文本编码；使用 codecs.encode() 来处理任意编解码器
+LookupError: 'hex' 不是文本编码；使用 codecs.open() 来处理任意编解码器
+定稿。修复错误，例如：``NameError: name 'open' is not defined``。
+- 问题 #17032：“NameError: global name 'x' is not defined”中的“global”
+除了 NameError：通过
+self.assertNotIn(b"NameError: name 'invalid' is not defined",
+((Pdb)) *** NameError: 名称 'doesnotexist' 未定义
+除了 NameError：通过
+除了 NameError：通过
+*** NameError：未定义名称“foo”
+NameError：未定义名称“favorite_color”
+NameError：未定义名称“favorite_color”
+NameError：未定义名称“favorite_color”
+NameError: 名称 'ham' 未定义
+NameError：未定义名称“鸡蛋”
+# 导致“NameError: name 'data' is not defined”
+除了 NameError: # 如果 python 以 -S 开头。
+除了 NameError: # 如果子进程以 -S 开始（可能在将来）。
+名称错误：“垃圾邮件”\n
+' NameError: 垃圾邮件\n'
+NameError：未定义名称“垃圾邮件”
+NameError: 你好
+NameError: 你好
+NameError: 名称 'n' 未定义
+NameError：未定义名称“cell”
+名称错误：“垃圾邮件”
+名称错误：垃圾邮件
+NameError: 名称 'sys' 未定义。您是否忘记导入“sys”？
+NameError：未定义名称“blech”。您是指“self.blech”吗？
+NameError：未定义名称“schwarschild_black_hole”。您是指：schwarzschild_black_hole 吗？
+NotImplementedError：Python 脚本尚不支持符号类型。
+@Unitest.skip('xxx NotImplementationError: toList() 只支持字节视图')
+NotImplementedError：无法在您的系统上实例化“WindowsPath”
+# OSError: [Errno 28] 无效参数: '.'
+除了 OSError: # 例如糟糕的可执行文件
+除了 OSError: # 例如找不到命令
+除了 OSError: # 例如糟糕的可执行文件
+除了 OSError: # 例如找不到命令
+除了 OSError: # 例如糟糕的可执行文件
+except OSError: # 这次使用这个错误名称
+# getlogin() 失败并显示“OSError: [Errno 25] Inappropriate ioctl
+OSError 除外：# syslogd 可能不可用
+# "OSError: [Errno 12] 无法分配内存"
+# with "OSError: [Errno 12] 无法分配内存"
+'忽略异常。*\nOSError: .*')
+self.fail("预期的 OSError: struct.pack(%r, "
+self.fail("预期的 OSError: %s" % desired_exception)
+self.fail("预期的 OSError: %s" % desired_exception)
+self.fail("预期的 OSError: %s" % desired_exception)
+self.assertIn(b'OSError: source code not available', stderr)
+if ('OSError: [Errno %d]' % errno.EBADF) 不在错误中：
+self.assertIn(b'OSError: Signal 2 ignored due to race condition', err)
+除了 OSError: # 假设 EIO
+# OSError: [Errno 9] 错误的文件描述符
+# 这不应该引发 OSError: [Errno 17] 文件存在
+除了 OSError: # Linux
+除了 OSError：通过
+# OSError: [Errno 38] 函数未实现
+print("IDLE 子进程: OSError: " + err.args[1] +
+除了 OSError: #pragma: no cover
+除了 OSError: #pragma: no cover
+|操作系统错误：错误 1
+| OSError：操作失败
+| OSError：操作失败
+| OSError：操作失败
+OSError: [Errno 98] 地址已被使用
+OSError: [Errno 9] 错误的文件描述符
+OSError：异常：访问冲突读取 0x00000020
+OSError: [Errno 126] 找不到指定的模块。
+# 溢出错误：_unsafe_setprec, _unsafe_setemin, _unsafe_setemax
+OverflowError：无法舍入无穷大
+OverflowError: n 太大
+OverflowError: n 太大
+:mod:`asyncio` 不再抛出 ``RuntimeError: Event loop is closed``
+避免可能的 *"RuntimeError: dictionary changed size during iteration"*
+避免可能的 *"RuntimeError: dictionary changed size during iteration"*
+而不是 RuntimeError: OSError 有一个 errno 属性。
+# RuntimeError: 根本无法读取对象？
+# 运行时错误：空指针
+# RuntimeError：字典在迭代期间改变了大小
+msg = '\nRuntimeError: 故意的错误\n'
+self.assertTrue(r.exc_text.endswith('\nRuntimeError: '
+self.assertIn("RuntimeError: 无法在关机后注册 atexit",
+除了 RuntimeError：通过
+RuntimeError：生成器忽略了 GeneratorExit
+RuntimeError：字典在迭代期间改变了大小
+RuntimeError：字典在迭代期间改变了大小
+self.assertIn("RuntimeError: cannot schedule new futures", err.decode())
+除了 RuntimeError：通过
+除了 RuntimeError：通过
+除了 RuntimeError: # 实现已定义
+除了 RuntimeError: # 实现已定义
+err_msg = "RuntimeError: {0}".format(message_ascii)
+RuntimeError：如果这个方法已经被调用或者如果 set_result()
+' RuntimeError: 发生了不好的事情\n'
+' RuntimeError: 发生了不好的事情\n'
+' RuntimeError: 发生了不好的事情\n'
+RuntimeError：无法处理错误
+RuntimeError：无法打开数据库
+RuntimeError：生成器没有产生
+而不是 RuntimeError: OSError 有一个 errno 属性。
+RuntimeError：生成器引发了 StopIteration
+RuntimeError：字典在迭代期间改变了大小
+RuntimeError：发生了不好的事情
+RuntimeError：发生了不好的事情
+RuntimeError：发生了不好的事情
+停止迭代：1
+停止迭代：1
+内部停止迭代：1
+内部停止迭代：1
+请注意，返回并不总是等同于提高 StopIteration：
+... 除了 StopIteration：通过
+停止迭代：
+停止迭代：垃圾邮件
+停止迭代：垃圾邮件
+语法错误：预期'（'
+其名称中的非 ascii 字符可能会失败并出现“SyntaxError: None”错误。
+下面的代码现在引发语法错误：foo(a = i for i in range(10))
+errprint("%s: SyntaxError: %s" % (file, str(se)))
+语法错误：...
+语法错误：...
+b'SyntaxError: f-string: 空表达式不允许',
+b'SyntaxError: 无效的转义序列 \'\\q\''
+b'语法错误：源代码不能包含空字节'
+self.assertTrue(f"SyntaxError: invalid syntax" in tb)
+无法显示 +: ** 引发 SyntaxError: invalid syntax **
+'(Pdb) *** SyntaxError: \'(\' 从未关闭',
+'*** SyntaxError: \'(\' 从未关闭',
+SyntaxError: name 'x' is parameter and global
+语法错误：语法无效
+SyntaxError：无法分配给 None
+语法错误：语法无效
+SyntaxError：无法分配给 True
+SyntaxError: 不能将赋值表达式与 True 一起使用
+SyntaxError：无法分配给 __debug__
+SyntaxError：无法分配给 __debug__
+SyntaxError：无法分配给 __debug__
+语法错误：无法删除 __debug__
+SyntaxError：无法分配给此处的函数调用。也许您的意思是“==”而不是“=”？
+SyntaxError：无法分配给 yield 表达式
+语法错误：无法删除函数调用
+SyntaxError：无法在此处分配给表达式。也许您的意思是“==”而不是“=”？
+语法错误：无法分配给生成器表达式
+SyntaxError：无法在此处分配给文字。也许您的意思是“==”而不是“=”？
+SyntaxError：无法在此处分配给文字。也许您的意思是“==”而不是“=”？
+SyntaxError：无法在此处分配给文字。也许您的意思是“==”而不是“=”？
+SyntaxError：无法在此处分配给省略号。也许您的意思是“==”而不是“=”？
+语法错误：语法无效
+语法错误：无法分配给文字
+SyntaxError：无法分配给 True
+SyntaxError：无法分配给 __debug__
+SyntaxError：无法分配给 True
+SyntaxError：无法分配给 __debug__
+语法错误：无法分配给表达式
+语法错误：无法分配给表达式
+语法错误：无法分配给表达式
+语法错误：无法分配给条件表达式
+语法错误：'if' 表达式后应为 'else'
+语法错误：'if' 表达式后应为 'else'
+语法错误：'if' 表达式后应为 'else'
+语法错误：语法无效
+SyntaxError：无法分配给 True
+SyntaxError：无法分配给 True
+SyntaxError：无法分配给 yield 表达式
+SyntaxError: 'tuple' 是扩充赋值的非法表达式
+SyntaxError: 'tuple' 是扩充赋值的非法表达式
+SyntaxError: 'list' 是扩充赋值的非法表达式
+语法错误：无法分配给函数调用
+语法错误：无法分配给函数调用
+语法错误：无法分配给函数调用
+语法错误：无法分配给表达式
+语法错误：无法分配给函数调用
+语法错误：无法分配给函数调用
+语法错误：无法分配给表达式
+语法错误：语法无效
+语法错误：语法无效
+语法错误：无法分配给函数调用
+语法错误：无法分配给函数调用
+语法错误：无法分配给函数调用
+语法错误：无法分配给表达式
+语法错误：无法分配给函数调用
+语法错误：无法分配给函数调用
+语法错误：应为“：”
+语法错误：语法无效
+SyntaxError：您是否忘记了理解目标周围的括号？
+SyntaxError：您是否忘记了理解目标周围的括号？
+语法错误：语法无效。也许你忘了一个逗号？
+语法错误：语法无效。也许你忘了一个逗号？
+语法错误：语法无效。也许你忘了一个逗号？
+语法错误：语法无效。也许你忘了一个逗号？
+语法错误：语法无效
+语法错误：语法无效
+语法错误：语法无效
+语法错误：语法无效
+语法错误：语法无效
+语法错误：语法无效
+SyntaxError：没有默认值的参数跟随有默认值的参数
+SyntaxError：没有默认值的参数跟随有默认值的参数
+语法错误：语法无效
+语法错误：语法无效
+语法错误：语法无效
+SyntaxError: 至少一个参数必须在 / 之前
+SyntaxError: / 可能只出现一次
+SyntaxError: / 可能只出现一次
+SyntaxError: / 可能只出现一次
+SyntaxError: / 可能只出现一次
+SyntaxError: / 必须在 * 之前
+SyntaxError: / 必须在 * 之前
+SyntaxError: var-positional 参数不能有默认值
+SyntaxError: var-positional 参数不能有默认值
+SyntaxError: var-keyword 参数不能有默认值
+SyntaxError: var-keyword 参数不能有默认值
+语法错误：参数不能跟在 var 关键字参数之后
+语法错误：参数不能跟在 var 关键字参数之后
+语法错误：参数不能跟在 var 关键字参数之后
+语法错误：参数不能跟在 var 关键字参数之后
+语法错误：参数不能跟在 var 关键字参数之后
+SyntaxError: * 参数可能只出现一次
+SyntaxError: * 参数可能只出现一次
+SyntaxError: * 参数可能只出现一次
+SyntaxError: * 参数可能只出现一次
+SyntaxError: / 和 * 之间需要逗号
+SyntaxError：预期的默认值表达式
+SyntaxError：预期的默认值表达式
+SyntaxError：预期的默认值表达式
+SyntaxError: 至少一个参数必须在 / 之前
+SyntaxError: / 可能只出现一次
+SyntaxError: / 可能只出现一次
+SyntaxError: / 可能只出现一次
+SyntaxError: / 可能只出现一次
+SyntaxError: / 必须在 * 之前
+SyntaxError: / 必须在 * 之前
+SyntaxError: / 和 * 之间需要逗号
+SyntaxError: var-positional 参数不能有默认值
+SyntaxError: var-keyword 参数不能有默认值
+语法错误：参数不能跟在 var 关键字参数之后
+语法错误：参数不能跟在 var 关键字参数之后
+语法错误：参数不能跟在 var 关键字参数之后
+语法错误：参数不能跟在 var 关键字参数之后
+语法错误：参数不能跟在 var 关键字参数之后
+SyntaxError: * 参数可能只出现一次
+SyntaxError: * 参数可能只出现一次
+SyntaxError: * 参数可能只出现一次
+SyntaxError: * 参数可能只出现一次
+SyntaxError：预期的默认值表达式
+SyntaxError：预期的默认值表达式
+SyntaxError：没有默认值的参数跟随有默认值的参数
+SyntaxError：没有默认值的参数跟随有默认值的参数
+SyntaxError: bare * 有关联的类型注释
+语法错误：语法无效
+SyntaxError: 生成器表达式必须加括号
+SyntaxError: 生成器表达式必须加括号
+SyntaxError: 生成器表达式必须加括号
+SyntaxError: 生成器表达式必须加括号
+SyntaxError: 生成器表达式必须加括号
+SyntaxError: 生成器表达式必须加括号
+SyntaxError: 生成器表达式必须加括号
+语法错误：语法无效
+SyntaxError: 表达式不能包含赋值，也许你的意思是“==”？
+语法错误：语法无效
+SyntaxError: 表达式不能包含赋值，也许你的意思是“==”？
+SyntaxError: 表达式不能包含赋值，也许你的意思是“==”？
+SyntaxError: 表达式不能包含赋值，也许你的意思是“==”？
+SyntaxError: 表达式不能包含赋值，也许你的意思是“==”？
+SyntaxError：无法分配给 True
+SyntaxError：无法分配给 False
+SyntaxError：无法分配给 None
+SyntaxError：无法分配给 __debug__
+SyntaxError：无法分配给 __debug__
+SyntaxError：预期的参数值表达式
+SyntaxError：预期的参数值表达式
+SyntaxError：预期的参数值表达式
+SyntaxError：无法分配给可迭代参数解包
+SyntaxError：无法分配给可迭代参数解包
+SyntaxError：无法分配给关键字参数解包
+SyntaxError：无法分配给关键字参数解包
+SyntaxError: 'generator expression' 是扩充赋值的非法表达式
+SyntaxError: 'None' 是扩充赋值的非法表达式
+SyntaxError：无法分配给 __debug__
+SyntaxError: 'function call' 是扩充赋值的非法表达式
+SyntaxError: 'continue' 在循环中不正确
+SyntaxError: 'break' 外循环
+语法错误：在全局声明之前使用了名称“x”
+SyntaxError: name 'x' is assigned to before global declaration
+SyntaxError: name 'x' is parameter and global
+SyntaxError：在非本地声明之前使用了名称“x”
+SyntaxError: name 'x' assigned to before nonlocal declaration
+SyntaxError: name 'x' is parameter and nonlocal
+语法错误：名称“x”是非本地的和全局的
+语法错误：未找到非本地“x”的绑定
+SyntaxError：模块级别不允许非本地声明
+语法错误：未找到非本地“_A__x”的绑定
+SyntaxError：无法分配给此处的函数调用。也许您的意思是“==”而不是“=”？
+SyntaxError：无法分配给此处的函数调用。也许您的意思是“==”而不是“=”？
+SyntaxError：无法分配给此处的函数调用。也许您的意思是“==”而不是“=”？
+SyntaxError：无法分配给此处的函数调用。也许您的意思是“==”而不是“=”？
+SyntaxError：无法分配给此处的函数调用。也许您的意思是“==”而不是“=”？
+语法错误：应为“：”
+语法错误：应为“：”
+语法错误：语法无效
+语法错误：应为“：”
+语法错误：应为“：”
+语法错误：应为“：”
+语法错误：应为“：”
+语法错误：语法无效
+语法错误：应为“：”
+语法错误：应为“：”
+语法错误：应为“：”
+语法错误：应为“：”
+语法错误：应为“：”
+语法错误：应为“：”
+语法错误：应为“：”
+语法错误：应为“：”
+语法错误：应为“：”
+语法错误：语法无效
+语法错误：应为“：”
+语法错误：应为“：”
+语法错误：应为“：”
+语法错误：语法无效
+语法错误：应为“：”
+语法错误：应为“：”
+语法错误：语法无效。也许您的意思是“==”或“:=”而不是“=”？
+语法错误：语法无效。也许您的意思是“==”或“:=”而不是“=”？
+SyntaxError：无法在此处分配给属性。也许您的意思是“==”而不是“=”？
+SyntaxError：无法在此处分配给属性。也许您的意思是“==”而不是“=”？
+语法错误：预期'（'
+语法错误：预期'（'
+SyntaxError: 函数参数不能用括号括起来
+SyntaxError: 函数参数不能用括号括起来
+SyntaxError: 函数参数不能用括号括起来
+SyntaxError: 函数参数不能用括号括起来
+SyntaxError: Lambda 表达式参数不能用括号括起来
+SyntaxError: Lambda 表达式参数不能用括号括起来
+SyntaxError: Lambda 表达式参数不能用括号括起来
+SyntaxError: Lambda 表达式参数不能用括号括起来
+SyntaxError: 预期的 'except' 或 'finally' 块
+SyntaxError: 不能在同一个 'try' 上同时具有 'except' 和 'except*'
+SyntaxError: 不能在同一个 'try' 上同时具有 'except' 和 'except*'
+SyntaxError: 不能在同一个 'try' 上同时具有 'except' 和 'except*'
+SyntaxError: 不能在同一个 'try' 上同时具有 'except' 和 'except*'
+语法错误：语法无效
+语法错误：语法无效
+语法错误：语法无效
+语法错误：语法无效
+SyntaxError: ':' 应在字典键之后
+SyntaxError：在字典键和“：”之后预期的表达式
+SyntaxError: 不能在字典值中使用带星号的表达式
+SyntaxError: 不能在字典值中使用带星号的表达式
+SyntaxError: 不能在字典值中使用带星号的表达式
+SyntaxError：在字典键和“：”之后预期的表达式
+语法错误：语法无效
+语法错误：语法无效
+语法错误：语法无效
+语法错误：语法无效
+语法错误：语法无效
+SyntaxError: 多个异常类型必须用括号括起来
+SyntaxError: 多个异常类型必须用括号括起来
+SyntaxError: 多个异常类型必须用括号括起来
+SyntaxError: 多个异常类型必须用括号括起来
+SyntaxError: 多个异常类型必须用括号括起来
+SyntaxError: 多个异常类型必须用括号括起来
+SyntaxError: 多个异常类型必须用括号括起来
+SyntaxError: 多个异常类型必须用括号括起来
+SyntaxError：预期一种或多种异常类型
+SyntaxError：关键字参数重复：a
+SyntaxError：无法在此处分配设置显示。也许您的意思是“==”而不是“=”？
+SyntaxError: 无法在此处分配给 dict 文字。也许您的意思是“==”而不是“=”？
+SyntaxError：无法在此处分配给 f 字符串表达式。也许您的意思是“==”而不是“=”？
+SyntaxError：无法在此处分配给 f 字符串表达式。也许您的意思是“==”而不是“=”？
+语法错误：语法无效。也许您的意思是“==”或“:=”而不是“=”？
+语法错误：语法无效。也许您的意思是“==”或“:=”而不是“=”？
+语法错误：语法无效。也许您的意思是“==”或“:=”而不是“=”？
+语法错误：语法无效。也许您的意思是“==”或“:=”而不是“=”？
+语法错误：语法无效。也许您的意思是“==”或“:=”而不是“=”？
+SyntaxError: 在没有括号的情况下不允许尾随逗号
+SyntaxError: 在没有括号的情况下不允许尾随逗号
+SyntaxError: 你是不是想用'from ... import ...'代替？
+SyntaxError: 你是不是想用'from ... import ...'代替？
+SyntaxError: 你是不是想用'from ... import ...'代替？
+SyntaxError: 你是不是想用'from ... import ...'代替？
+语法错误：语法无效
+SyntaxError：只能注释单个目标（不是元组）
+语法错误：只能注释单个目标（不是列表）
+SyntaxError：只能注释单个目标（不是元组）
+语法错误：只能注释单个目标（不是列表）
+SyntaxError：无法分配给 __debug__
+SyntaxError：无法分配给 __debug__
+SyntaxError：无法分配给 __debug__
+SyntaxError: 命名参数必须跟在 bare * 后面
+SyntaxError：无法分配给 __debug__
+SyntaxError：无法分配给 __debug__
+SyntaxError: 无效字符 '£' (U+00A3)
+语法错误：不能使用“_”作为目标
+SyntaxError：无效的模式目标
+SyntaxError：位置模式遵循关键字模式
+SyntaxError：位置模式遵循关键字模式
+SyntaxError：位置模式遵循关键字模式
+SyntaxError：位置模式遵循关键字模式
+语法错误：语法无效
+SyntaxError: 不能在这里使用加星号的表达式
+语法错误：语法无效
+语法错误：语法无效
+语法错误：语法无效
+SyntaxError: 不能在这里使用加星号的表达式
+语法错误：语法无效
+语法错误：语法无效
+语法错误：语法无效
+语法错误：语法无效
+语法错误：语法无效
+语法错误：语法无效
+语法错误：语法无效
+语法错误：语法无效
+语法错误：语法无效
+语法错误：语法无效
+语法错误：语法无效
+语法错误：语法无效
+语法错误：语法无效
+语法错误：语法无效
+语法错误：语法无效
+语法错误：语法无效
+语法错误：语法无效
+语法错误：语法无效
+语法错误：语法无效
+语法错误：语法无效
+语法错误：语法无效
+语法错误：语法无效
+语法错误：语法无效。也许您的意思是“==”或“:=”而不是“=”？
+语法错误：无法分配给生成器表达式
+SyntaxError: 'generator expression' 是扩充赋值的非法表达式
+除了语法错误：通过
+SyntaxError: 'yield' 外部函数
+# SyntaxError: 赋值给 yield 表达式是不可能的
+SyntaxError: 无法在此处分配给 yield 表达式。也许您的意思是“==”而不是“=”？
+SyntaxError: 'yield expression' 是扩充赋值的非法表达式
+除了语法错误：通过
+语法错误：坏坏
+语法错误：坏坏
+语法错误：坏坏
+语法错误：坏坏
+语法错误：坏坏
+语法错误：坏坏
+语法错误：坏坏
+语法错误：坏坏
+语法错误：坏坏
+self.assertIn("SyntaxError: Non-UTF-8 code starting with '\\x89' in file", err[-1])
+SyntaxError：可迭代拆包不能用于理解
+SyntaxError：可迭代拆包不能用于理解
+SyntaxError：可迭代拆包不能用于理解
+SyntaxError：可迭代拆包不能用于理解
+SyntaxError: 字典解包不能用于字典理解
+# SyntaxError: 语法无效
+语法错误：语法无效
+SyntaxError: 赋值中有多个加星号的表达式
+SyntaxError: 赋值中有多个加星号的表达式
+SyntaxError: 赋值中有多个加星号的表达式
+语法错误：加星号的赋值目标必须在列表或元组中
+SyntaxError: 不能在这里使用加星号的表达式
+SyntaxError: 不能在这里使用加星号的表达式
+SyntaxError: 不能在这里使用加星号的表达式
+SyntaxError: 不能在这里使用加星号的表达式
+SyntaxError: 不能在这里使用加星号的表达式
+SyntaxError: 不能在这里使用加星号的表达式
+SyntaxError: 不能在这里使用加星号的表达式
+SyntaxError: 不能在这里使用加星号的表达式
+SyntaxError: 星号拆包赋值中的表达式太多
+SyntaxError: 星号拆包赋值中的表达式太多
+'语法错误：语法无效'
+语法错误：...
+语法错误：...
+？ # SyntaxError: 语法无效
+self.assertTrue(err.endswith("SyntaxError: msg\n"))
+语法错误：语法无效
+SyntaxError：关键字参数重复：元类
+error = "SyntaxError: (unicode error) \\N escapes not supported " \
+['SyntaxError: 语法错误'])
+['文件“<string>”，第 100 行'，'SyntaxError：语法错误'])
+['SyntaxError: 语法错误 (myfile.py)'])
+['文件“myfile.py”，第 100 行'，'SyntaxError：语法错误'])
+expected.append("SyntaxError: msg")
+except SyntaxError: # 让其他 compile() 错误传播。
+self.write("SyntaxError: %s\n" % msg)
+语法错误：语法无效
+SyntaxError：您是否忘记了理解目标周围的括号？
+语法错误：语法无效
+语法错误：语法无效
+语法错误：无效的十进制文字
+SyntaxError：未终止的字符串文字（在第 1 行检测到）
+SyntaxError: 你是不是想用'from ... import ...'代替？
+*语法错误：解析时出现意外的 EOF* 或指向某些不正确的位置。
+语法错误：语法无效
+语法错误：“{”从未关闭
+SyntaxError: 生成器表达式必须加括号
+SyntaxError: 生成器表达式必须加括号
+语法错误：应为“：”
+SyntaxError：您是否忘记了理解目标周围的括号？
+语法错误：语法无效。也许你忘了一个逗号？
+SyntaxError: 多个异常类型必须用括号括起来
+SyntaxError：在字典键和“：”之后预期的表达式
+SyntaxError: ':' 应在字典键之后
+SyntaxError: 预期的 'except' 或 'finally' 块
+SyntaxError：无法在此处分配给属性。也许您的意思是“==”而不是“=”？
+SyntaxError: f-string: 不能在这里使用加星号的表达式
+else: self.fail("未引发 TabError")
+ckmsg(s, "缩进中制表符和空格的使用不一致", TabError)
+EXPORT_DATA（PyExc_SystemError）
+在执行时引发：exc:`TypeError` 而不是：exe:`System Error`
+PyObject_Call() 和 PyCFunction_Call() 现在在函数出现时引发 SystemError
+返回结果并引发异常。 SystemError 链接到
+大量内存并引发 SystemError 或 MemoryError。 Aleksi 的原始补丁
+系统错误。
+如果 warnings.onceregistry 是，则引发 TypeError 而不是 SystemError
+因系统错误而失败。从非包的相对导入现在失败了
+ImportError 而不是 SystemError。
+防止 codecs.escape_encode() 在空时引发 SystemError
+如果相对导入是 Import 引发 ImportError 而不是 SystemError
+将负长度传递给时引发 ValueError 而不是 SystemError
+修复了 unpickler 在损坏的 pickle 数据上引发的 SystemError。
+SystemError 现在在使用的所有编程错误中引发
+“es#”和“et#”格式单位。现在引发 SystemError 而不是
+修复执行“raise”语句时出现的 SystemError。在一个全新的
+系统错误。
+防止 codecs.escape_encode() 在空时引发 SystemError
+在平台上引发 ``NotImplementedError`` 而不是 ``SystemError``
+在执行时引发：exc:`TypeError` 而不是：exe:`System Error`
+如果自定义开启器（对于 open()）返回负数，则修复 SystemError
+在平台上引发 ``NotImplementedError`` 而不是 ``SystemError``
+防止 codecs.escape_encode() 在空时引发 SystemError
+在导入时引发 SystemError 现在会将其原因设置为原始原因
+修复内部时 iter ``__reduce__`` 中的 SystemError / 分段错误
+可调用迭代器在可调用时不再引发：class:`SystemError`
+修复执行“raise”语句时出现的 SystemError。在一个全新的
+引发 :exc:`ValueError` 而不是 :exe:`System Error` 当方法
+因系统错误而失败。从非包的相对导入现在失败了
+ImportError 而不是 SystemError。
+在 :mod:`ctypes` 期间未设置异常时修复 ``SystemError``
+修复可能的断言失败、致命错误或 :exc:`SystemError` 如果
+以前它可能会导致 SystemError 或其他不良行为。
+:c:func:`PyUnicode_FromFormatV` 现在设置一个 :exc:`SystemError`。在以前
+修复 :c:func:`PyArg_ParseTupleAndKeywords` 时引发的 ``SystemError``
+当嵌套函数在仅位置上有注释时修复 ``SystemError``
+如果 warnings.onceregistry 是，则引发 TypeError 而不是 SystemError
+因系统错误而失败。从非包的相对导入现在失败了
+ImportError 而不是 SystemError。
+在删除某些属性时修复段错误和 :exe:`System Error` s。
+修复了删除 characters_written 属性时的系统错误
+修复罕见的解释器未处理的异常状态 SystemError 仅在以下情况下出现
+在执行时引发：exc:`TypeError` 而不是：exe:`System Error`
+修复了：c:func:`PyArg_ParseTupleAndKeywords` 中的：exc:`SystemError`
+:exc:`SystemError` 异常。 Victor Stinner 的补丁。
+修复 ``math.{atan2,copysign,remainder}()`` 中可能出现的 :exc:`SystemError`
+SystemError“错误调用标志”错误消息中的方法名称以简化调试。
+:c:func:`PyNumber_ToBase` 现在引发一个 :exc:`SystemError` 而不是
+如果自定义开启器（对于 open()）返回负数，则修复 SystemError
+将负长度传递给时引发 ValueError 而不是 SystemError
+importlib.__import__() 像 builtins.__import__() 一样引发 SystemError when
+修复了 unpickler 在损坏的 pickle 数据上引发的 SystemError。
+修复当 ``PyArg_Parse*()`` 与 ``#`` 一起使用时引发的 ``SystemError`` 但是
+- 问题 #23914：修复了 unpickler 在损坏的 pickle 数据上引发的 SystemError。
+消耗过多内存并引发 SystemError 或 MemoryError。
+- 问题 #15839：将 `super()` 中的系统错误转换为运行时错误。
+- 问题 #15846：修复在使用 ast.parse() 时发生的系统错误
+- 问题 #17710：修复 pickle 在虚假输入时引发 SystemError。
+- 问题 #13343：修复 lambda 表达式使用全局变量时的系统错误
+- 问题 #6373：修复了使用 latin-1 编解码器和
+- 修复了由“range([], 1, -1)”触发的 SystemError。
+那会引发 SystemError。
+- 问题 #2221：更正了 SystemError“错误返回无一例外
+- 问题 #1973：bytes.fromhex('') 引发了 SystemError。
+还修复了尝试分配给 yield 表达式时的 SystemError。
+- 错误 #1487966：修复赋值中带有条件表达式的 SystemError
+- SF 错误 #976608：当导入文件的 mtime 为 -1 时修复系统错误。
+- SF 错误 762891：代理对象上的“del p[key]”不再引发 SystemError。
+定义 __delitem__。以前，它会生成一个 SystemError。
+将它们转化为 SystemError，我们让原来的异常
+error，所以它来自 Exception 而不是 SystemError。这
+[数据.PyExc_SystemError]
+对象/exceptions.c:PyExc_SystemError static PyTypeObject PyExc_SystemError
+对象/exceptions.c:_PyExc_SystemError 静态 PyTypeObject _PyExc_SystemError
+对象/exceptions.c - _PyExc_SystemError -
+对象/exceptions.c - PyExc_SystemError -
+PyErr_SetString(PyExc_SystemError, "非 ascii 分组数字");
+PyErr_SetString(PyExc_SystemError, "无符号表");
+PyErr_Format（PyExc_SystemError，
+PyErr_Format（PyExc_SystemError，
+PyErr_Format（PyExc_SystemError，
+PyErr_Format（PyExc_SystemError，
+PyErr_Format(PyExc_SystemError, "%s op %d 应该不可能",
+PyErr_Format（PyExc_SystemError，
+PyErr_Format（PyExc_SystemError，
+PyErr_Format（PyExc_SystemError，
+PyErr_Format（PyExc_SystemError，
+PyErr_Format（PyExc_SystemError，
+PyErr_SetString(PyExc_SystemError, "以空目标跳转");
+PyErr_SetString（PyExc_SystemError，
+/* 如果跳转或退出不是块中的最后一条指令，则引发 SystemError。 */
+PyErr_SetString(PyExc_SystemError, "格式错误的控制流图。");
+PyErr_SetString(PyExc_SystemError, "意外的表达式");
+PyErr_SetString(PyExc_SystemError, "意外模式");
+PyErr_SetString(PyExc_SystemError, "意外语句");
+PyErr_SetString(PyExc_SystemError, "不可能的模块节点");
+PyErr_Format（PyExc_SystemError，
+PyErr_SetString（状态，PyExc_SystemError，
+_PyErr_SetString(tstate, PyExc_SystemError, "lasti 不是 int");
+_PyErr_Format(tstate, PyExc_SystemError,
+_PyErr_Format(tstate, PyExc_SystemError,
+_PyErr_Format(tstate, PyExc_SystemError,
+_PyErr_Format(tstate, PyExc_SystemError,
+PyErr_SetString（状态，PyExc_SystemError，
+_PyErr_Format(tstate, PyExc_SystemError,
+PyErr_Format（PyExc_SystemError，
+PyErr_Format（PyExc_SystemError，
+PyErr_Format（PyExc_SystemError，
+PyErr_Format（PyExc_SystemError，
+PyErr_SetString（状态，PyExc_SystemError，
+_PyErr_SetString(tstate, PyExc_SystemError, "lasti 不是 int");
+_PyErr_Format(tstate, PyExc_SystemError,
+_PyErr_Format(tstate, PyExc_SystemError,
+_PyErr_Format(tstate, PyExc_SystemError,
+_PyErr_Format(tstate, PyExc_SystemError,
+PyErr_SetString（状态，PyExc_SystemError，
+_PyErr_Format(tstate, PyExc_SystemError,
+PyExc_SystemError,
+PyExc_SystemError,
+PyExc_SystemError,
+PyErr_SetString（PyExc_SystemError，
+PyErr_SetString（PyExc_SystemError，
+PyErr_Format（PyExc_SystemError，
+PyErr_SetString（PyExc_SystemError，
+PyErr_SetString（PyExc_SystemError，消息）；
+PyErr_SetString（PyExc_SystemError，\
+PyErr_SetString（PyExc_SystemError，
+PyErr_SetString（PyExc_SystemError，
+PyErr_SetString（PyExc_SystemError，
+PyErr_SetString（PyExc_SystemError，
+PyErr_SetString（PyExc_SystemError，
+PyErr_Format（PyExc_SystemError，
+PyErr_Format（PyExc_SystemError，“%s：'%s'”，味精，
+PyErr_Format（PyExc_SystemError，
+PyErr_SetString（PyExc_SystemError，
+PyErr_SetString（PyExc_SystemError，
+PyErr_SetString（PyExc_SystemError，
+PyErr_SetString（PyExc_SystemError，
+PyErr_SetString（PyExc_SystemError，
+PyErr_Format（PyExc_SystemError，
+PyErr_Format（PyExc_SystemError，“%s：'%s'”，味精，
+PyErr_Format（PyExc_SystemError，
+PyErr_SetString（PyExc_SystemError，
+PyErr_SetString(state, PyExc_SystemError, "missing interp");
+_PyErr_SetString(tstate, PyExc_SystemError, “缺少新对象函数”);
+_PyErr_Format(tstate, PyExc_SystemError,
+PyErr_SetString（状态，PyExc_SystemError，
+_PyErr_SetString(tstate, PyExc_SystemError, "框架不存在");
+PyExc_SystemError,
+PyExc_SystemError,
+PyErr_Format（PyExc_SystemError，
+PyExc_SystemError,
+PyErr_Format（PyExc_SystemError，
+PyErr_SetString（PyExc_SystemError，
+PyErr_SetString（PyExc_SystemError，
+PyErr_SetString（PyExc_SystemError，
+PyErr_SetString（PyExc_SystemError，
+PyErr_SetString（PyExc_SystemError，
+PyErr_SetString（PyExc_SystemError，
+PyErr_SetString（PyExc_SystemError，
+PyErr_SetString（PyExc_SystemError，\
+PyErr_SetString（PyExc_SystemError，
+PyErr_SetString（PyExc_SystemError，
+PyErr_SetString（PyExc_SystemError，
+PyErr_Format(PyExc_SystemError, "模块 '%s' 没有 __dict__",
+PyErr_SetString(PyExc_SystemError, "错误的成员描述类型");
+PyErr_Format（PyExc_SystemError，
+PyErr_SetString（PyExc_SystemError，
+PyErr_SetString（PyExc_SystemError，
+PyErr_SetString（PyExc_SystemError，
+PyErr_SetString（PyExc_SystemError，
+PyErr_SetString（PyExc_SystemError，
+PyErr_SetString（PyExc_SystemError，
+_PyErr_Format(tstate, PyExc_SystemError,
+_PyErr_Format(tstate, PyExc_SystemError,
+_PyErr_Format(tstate, PyExc_SystemError,
+PyErr_SetString（状态，PyExc_SystemError，
+PyErr_SetString（状态，PyExc_SystemError，
+_PyErr_SetString(tstate, PyExc_SystemError, "无效的内部函数");
+PyErr_SetString（状态，PyExc_SystemError，
+PyAPI_DATA(PyObject *) PyExc_SystemError;
+PyErr_SetString（PyExc_SystemError，
+已设置。返回 NULL 并在出错时引发异常。如果
+/* 在清除或更新冻结集时引发 SystemError */
+assertRaises(PySet_Clear(f) == -1, PyExc_SystemError);
+assertRaises(_PySet_Update(f, dup) == -1, PyExc_SystemError);
+assertRaises(PySet_Add(f, elem) == -1, PyExc_SystemError);
+/* 当 self 参数不是 set 或 frozenset 时引发 SystemError。 */
+assertRaises(PySet_Size(t) == -1, PyExc_SystemError);
+assertRaises(PySet_Contains(t, elem) == -1, PyExc_SystemError);
+/* 当 self 参数不是集合时引发 SystemError。 */
+assertRaises(PySet_Discard(f, elem) == -1, PyExc_SystemError);
+assertRaises(PySet_Pop(f) == NULL, PyExc_SystemError);
+PyErr_SetString（PyExc_SystemError，
+PyExc_SystemError,
+PyExc_SystemError,
+PyExc_SystemError,
+PyExc_SystemError,
+PyExc_SystemError,
+PyExc_SystemError,
+PyExc_SystemError,
+PyExc_SystemError,
+PyExc_SystemError,
+PyExc_SystemError,
+PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError, "无名模块");
+PyErr_SetString(PyExc_SystemError, "模块文件名丢失");
+PyErr_SetString(PyExc_SystemError, "Py_tp_bases 不是元组");
+PyExc_SystemError,
+PyExc_SystemError,
+PyErr_SetString（PyExc_SystemError，
+PyErr_Format（PyExc_SystemError，
+PyErr_Format（PyExc_SystemError，
+PyErr_Format（PyExc_SystemError，
+PyErr_Format（PyExc_SystemError，
+PyErr_Format（PyExc_SystemError，
+PyErr_SetString（PyExc_SystemError，
+PyErr_Format（PyExc_SystemError，
+PyErr_Format（PyExc_SystemError，
+PyErr_SetString（PyExc_SystemError，
+PyErr_SetString（PyExc_SystemError，
+PyErr_SetString（PyExc_SystemError，
+PyErr_SetString（PyExc_SystemError，
+PyErr_SetString(PyExc_SystemError, "how_many 不能为负数");
+PyErr_Format（PyExc_SystemError，
+PyErr_Format（PyExc_SystemError，
+PyErr_SetString（PyExc_SystemError，
+PyErr_SetString（PyExc_SystemError，
+PyErr_SetString(PyExc_SystemError, "无效种类");
+PyErr_Format（PyExc_SystemError，
+PyErr_Format(PyExc_SystemError, "无效格式字符串: %s", p);
+PyErr_SetString(PyExc_SystemError, "非元组默认参数");
+PyErr_SetString（PyExc_SystemError，
+PyErr_Format（PyExc_SystemError，
+PyErr_SetString（PyExc_SystemError，
+PyErr_SetString（PyExc_SystemError，
+PyErr_Format(PyExc_SystemError, "In structseq_repr(), member %zd name is NULL"
+PyErr_SetString（PyExc_SystemError，
+PyErr_SetString（PyExc_SystemError，
+PyErr_SetString（PyExc_SystemError，
+PyErr_SetString（PyExc_SystemError，
+PyErr_SetString（PyExc_SystemError，
+PyErr_SetString（PyExc_SystemError，
+PyErr_SetString（状态，PyExc_SystemError，
+PyErr_Format（PyExc_SystemError，
+PyErr_SetString（PyExc_SystemError，
+* SystemError 扩展异常
+SimpleExtendsException（PyExc_Exception，系统错误，
+项目（系统错误），
+PyErr_SetString（PyExc_SystemError，
+PyErr_SetString（PyExc_SystemError，
+PyErr_SetString（状态，PyExc_SystemError，
+_PyErr_Format(tstate, PyExc_SystemError,
+_PyErr_Format(tstate, PyExc_SystemError,
+Py_FatalError() 记录上面引发的 SystemError 异常。 */
+tstate, PyExc_SystemError,
+tstate, PyExc_SystemError,
+Py_FatalError() 记录上面引发的 SystemError 异常。 */
+PyErr_Format（PyExc_SystemError，
+PyErr_SetString（PyExc_SystemError，
+PyErr_SetString（PyExc_SystemError，
+PyErr_Format（PyExc_SystemError，
+PyErr_Format（PyExc_SystemError，
+类 CodecRegistryError（LookupError，SystemError）：
+raise SystemError("sizeof(%s) 错误：%d 而不是 %d" % \
+引发系统错误（f“意外的sizeof（time_t）：{SIZEOF_TIME_T =}”）
+系统错误
+# 以下触发 2.4 中的 SystemError
+# 如果传递了无效参数，PyTuple_New 会引发 SystemError。
+使用 self.assertRaises(SystemError)：
+PyExc_SystemError
+# iter `__reduce__` 调用可能导致段错误或 SystemError
+系统错误，
+# 这引发了一个 SyntaxError，它曾经引发一个 SystemError。语境
+# SF 错误 #1022953 的测试。确保未引发 SystemError。
+使用 self.assertRaises(SystemError)：
+使用 self.assertRaises(SystemError)：
+# 测试 SystemError 因行为不当的扩展而引发。
+以 self.assertRaises(SystemError) 作为 cm：
+# 与 `SystemError`。
+# 失败并出现 SystemError: bad arg to internal function
+self.assertRaises((OverflowError, MemoryError, SystemError),
+self.assertRaises((OverflowError, MemoryError, SystemError),
+# __setstate__ 既不应该引发系统错误也不应该崩溃以防万一
+newcode = code.replace(co_name="func") # 不应引发 SystemError
+使用 self.assertRaisesRegex(SystemError, msg)：
+self.assertRaises(SystemError, SetExtra, 42, FREE_INDEX,
+self.assertRaises(SystemError, GetExtra, 42, FREE_INDEX,
+self.assertRaises(SystemError, SetExtra, f.__code__,
+self.raise_catch（系统错误，“系统错误”）
+self.assertRaises(SystemError, _testcapi.raise_exception,
+self.assertRaises(SystemError, _testcapi.make_exception_with_doc,
+# 引发系统错误。
+def test_del__CHUNK_SIZE_SystemError（自我）：
+# warn_explicit() 既不应该引发 SystemError 也不应该导致
+# warn_explicit() 不应该引发 SystemError 以防万一
+提高系统错误（'kablooie'）
+self.assertRaises(SystemError, mock, 1, 2, fish=3)
+raise SystemError('这不应该被引发')
+raise SystemError('空间快用完了')
+以 self.assertRaises(SystemError) 为错误：
+# 在“finally”块中导入导致 SystemError
+├── 系统错误
+# 但它曾经给出一个 SystemError
+使用 self.assertRaises(SystemError)：
+self.assertRaises(SystemError, getargs_s_hash_int, buf, "abc")
+self.assertRaises(SystemError, getargs_s_hash_int, buf, x=42)
+self.assertRaises(SystemError, getargs_s_hash_int, buf, x="abc")
+self.assertRaises(SystemError, getargs_s_hash_int2, buf, ("abc",))
+self.assertRaises(SystemError, getargs_s_hash_int2, buf, x=42)
+self.assertRaises(SystemError, getargs_s_hash_int2, buf, x="abc")
+# getargs_s_hash_int(buf) 可能不会引发 SystemError 因为 skipitem()
+除了 SystemError 为 e:
+除了 SystemError 为 e:
+用 self.assertRaisesRegex(SystemError,
+用 self.assertRaisesRegex(SystemError,
+self.assertRaises(SystemError, _testcapi.parse_tuple_and_keywords,
+self.assertRaises(SystemError, _testcapi.parse_tuple_and_keywords,
+self.assertRaises(SystemError, _testcapi.parse_tuple_and_keywords,
+self.assertRaises(SystemError, _testcapi.parse_tuple_and_keywords,
+self.assertRaises(SystemError, _testcapi.parse_tuple_and_keywords,
+self.assertRaises(SystemError, _testcapi.parse_tuple_and_keywords,
+self.assertRaises(SystemError, _testcapi.parse_tuple_and_keywords,
+self.assertRaises(SystemError, _testcapi.parse_tuple_and_keywords,
+self.assertRaises(SystemError, _testcapi.parse_tuple_and_keywords,
+self.assertRaises(SystemError, _testcapi.parse_tuple_and_keywords,
+with self.assertRaisesRegex(SystemError, r'\$' 后为空参数名称):
+使用 self.assertRaisesRegex(SystemError, 'Empty keyword'):
+self.assertRaisesRegex(SystemError, '无效的格式字符串',
+self.assertRaisesRegex(SystemError, '无效的格式字符串',
+self.assertRaises(SystemError, unicode_asucs4, s, l-1, True)
+self.assertRaises(SystemError, unicode_asucs4, s, l-2, False)
+self.assertRaises(SystemError, join, '|', NULL)
+self.assertRaises（系统错误，格式，'x=%d！'，NULL）
+self.assertRaises（系统错误，格式，NULL，42）
+系统错误，
+self.assertRaises(SystemError, unicode_copycharacters, s, 1, s, 0, 5)
+self.assertRaises(SystemError, unicode_copycharacters, s, 0, s, 0, -1)
+self.assertRaises(SystemError, unicode_copycharacters, s, 0, b'', 0, 0)
+r'SystemError: <内置函数 return_null_without_error> '
+以 self.assertRaises(SystemError) 作为 cm：
+r'系统错误：<内置'
+以 self.assertRaises(SystemError) 作为 cm：
+如果'SystemError：'不在错误中：
+使用 self.assertRaises(SystemError)：
+self.assertRaises(SystemError, pynumber_tobase, 123, 0)
+使用 self.assertRaises(SystemError)：
+使用 self.assertRaises(SystemError)：
+使用 self.assertRaises(SystemError)：
+使用 self.assertRaises(SystemError)：
+使用 self.assertRaises(SystemError)：
+使用 self.assertRaises(SystemError)：
+使用 self.assertRaises(SystemError)：
+使用 self.assertRaises(SystemError)：
+使用 self.assertRaises(SystemError)：
+# 这用于引发“SystemError: NULL result without error”
+# 曾经因系统错误而失败。
+# 用于引发 SystemError('error return without exception set')
+self.assertRaises(SystemError, dict_getitem_knownhash, [], 1, hash(1))
+# 如果 atan2() 的第一个参数不应该引发 SystemError，
+除了系统错误：
+除了 SystemError: # resize 不是普遍支持的
+除了系统错误：
+除了系统错误：
+＃ 系统错误。
+raise SystemError('无法加载内置编解码器：%s' % 为什么)
+提出系统错误（
+提出系统错误（如何，什么）
+... excs = [OSError('错误 1'), SystemError('错误 2')]
+|系统错误：错误 2
+...系统错误（2），
+... 除了 * SystemError 作为 e:
+...打印（“有系统错误”）
+有系统错误
+'StopIteration', 'SyntaxError', 'SyntaxWarning', 'SystemError',
+..异常::系统错误
+:exc:`ImportError` 将被引发。以前，:exc:`SystemError` 可能是
+:c:func:`PyUnicode_FromFormatV` 现在设置一个 :exc:`SystemError`。
+其中，PyExc_SystemError，3.2，，
+此函数在以下情况下引发 :exc:`SystemError`：
+无法识别的格式字符现在会设置 :exc:`SystemError`。
+特别是，一个 :exc:`SystemError` 如果 *buflen* 小于
+引发 :exc:`MemoryError` 或 :exc:`SystemError`。
+引发 :exc:`SystemError` 并在失败时返回 ``-1``。
+引发 :exc:`SystemError` 并在失败时返回 ``-1``。
+引发 :exc:`SystemError` 并在失败时返回 ``-1``。
+``len（任何设置）``。如果 *anyset* 不是一个：exc:`PyExc_SystemError`
+*key* 不可散列。如果 *anyset* 不是
+:exc:`SystemError` 如果 *set* 不是 :class:`set` 或其实例
+临时冻结集。如果 *set* 不是
+集合为空。如果 *set* 不是一个 :exc:`SystemError` 的实例
+对象 *o*。失败时，引发 :exc:`SystemError` 并返回 ``NULL``。这
+:exc:`SystemError` 被引发并返回 ``NULL``。
+single: SystemError（内置异常）
+或者如果它不是字符串，则会引发 :exc:`SystemError` 并返回 ``NULL``。
+single: SystemError（内置异常）
+unicode 字符串，引发 :exc:`SystemError` 并返回 ``NULL``；否则返回
+引发异常。如果尚未引发异常，则 :exc:`SystemError` 是
+如果格式字符串中有错误，则 :exc:`SystemError` 异常是
+这是``PyErr_SetString(PyExc_SystemError, message)`` 的简写，
+单一：PyExc_SystemError
+| :c:data:`PyExc_SystemError` | :exc:`系统错误` | |
+PyErr_SetString(PyExc_SystemError, "加入路径失败");
+PyErr_SetString（PyExc_SystemError，
+PyErr_SetString（PyExc_SystemError，
+PyErr_SetString(PyExc_SystemError, "def 不匹配");
+PyErr_SetString(PyExc_SystemError, "错误的导出函数");
+PyErr_SetString(PyExc_SystemError, "错误的导出函数");
+PyErr_SetString(PyExc_SystemError, "错误的创建函数");
+PyErr_SetString(PyExc_SystemError, "错误的创建函数");
+PyErr_SetString(PyExc_SystemError, "错误的执行函数");
+PyErr_SetString(PyExc_SystemError, "错误的执行函数");
+PyErr_SetString（PyExc_SystemError，
+PyErr_SetString（PyExc_SystemError，
+PyErr_SetString（PyExc_SystemError，
+如果（PyErr_ExceptionMatches（PyExc_SystemError））{
+如果（！PyErr_ExceptionMatches（PyExc_SystemError））{
+如果（！PyErr_ExceptionMatches（PyExc_SystemError））{
+如果（！PyErr_ExceptionMatches（PyExc_SystemError））{
+如果（！PyErr_ExceptionMatches（PyExc_SystemError））{
+PyErr_Format（PyExc_SystemError，
+PyErr_SetString(PyExc_SystemError, "_WindowsConsoleIO 有无效模式");
+PyErr_SetString（PyExc_SystemError，
+PyErr_SetString（PyExc_SystemError，
+PyErr_SetString（PyExc_SystemError，
+/* 我们有一个 KeyboardInterrupt 或一个 SystemError；重新加注 */
+如果（解包 == NULL && PyErr_ExceptionMatches（PyExc_SystemError））{
+未引发 SystemError：%s
+如果（PyErr_ExceptionMatches（PyExc_SystemError））{
+如果（！PyErr_ExceptionMatches（PyExc_SystemError））{
+“SystemError 以外的东西”）；
+PyErr_Format（PyExc_SystemError，
+raise SystemExit('请使用 jisx0213-2000-std.txt.diff 调整您的 JIS X 0213 映射')
+raise SystemExit(f'{source} is needed')
+raise SystemExit("必须作为主程序运行")
+raise SystemExit("只允许--8位和--unicode之一")
+提高 SystemExit(exit_status)
+-退出（sts）：提高SystemExit
+提高系统退出（代码）
+raise SystemExit("Can only get info for an archive file")
+raise SystemExit("不支持就地编辑档案")
+raise SystemExit("复制时不能改变主函数")
+提高 SystemExit(0)"""
+提高系统退出
+提高系统退出
+提高系统退出
+rc, out, err = assert_python_failure('-c', 'raise SystemExit(47)')
+提高系统退出
+interpreters.run_string(self.id, 'raise SystemExit(42)')
+提高系统退出
+提高系统退出
+提高系统退出（代码）
+提高 SystemExit(e)
+提高 SystemExit(1)
+提高系统退出
+# 检查用户目录不存在并且创建失败应该引发 SystemExit
+# 检查用户目录不存在并且创建失败应该引发 SystemExit
+这是 ``raise SystemExit'' 的同义词。它将导致当前\n\
+引发 TypeError: "'tuple' object is not callable" 而不是预期的
+* TypeError: 'NoneType' 对象不可订阅
+const char *const msg = "TypeError: print_exception(): Exception expected "
+TypeError：如果传递了混合版本对象列表。
+TypeError: 如果 self 和 other 的地址不同
+除了类型错误：通过
+# TypeError: BNotMeta 既不是
+除了类型错误：通过
+除了类型错误：通过
+除了类型错误：通过
+除了类型错误：通过
+除了类型错误：通过
+除了类型错误：通过
+除了类型错误：通过
+除了类型错误：通过
+##除了类型错误：通过
+try: pass\nexcept ValueError: pass\nexcept* TypeError: pass\n
+try: pass\nexcept* ValueError: pass\nexcept 类型错误: pass\n
+try: pass\nexcept ValueError 作为 e: pass\nexcept* TypeError: pass\n
+try: pass\nexcept* ValueError as e: pass\nexcept TypeError: pass\n
+类型错误：无法解压不可迭代的 int 对象
+类型错误：无法解压不可迭代的 int 对象
+TypeError: exec() arg 1 必须是字符串、字节或代码对象
+TypeError: eval() arg 1 必须是字符串、字节或代码对象
+self._check_error("try: pass\nexcept ValueError: pass\nexcept* TypeError: pass",
+self._check_error("try: pass\nexcept* ValueError: pass\nexcept TypeError: pass",
+TypeError: 'int' 对象不可迭代
+# 绝对应该引发 TypeError：list 只接受一个参数。
+# `TypeError: 无法设置内置/扩展类型 'dict' 的属性
+（电话）类型错误：
+“（电话）类型错误：初始值设定项太多”）
+# TypeError: int expected instead of str 实例
+# TypeError: int expected instead of str 实例
+# 类型错误：int expected instead of float instance
+# TypeError: 没有 from_param 方法
+# 在 Python 2.3 中，这会引发类型错误：基类之间的 MRO 冲突，
+参数 1：TypeError：一个字符字节，
+参数 2：TypeError：应为 unicode 字符串
+参数 2：TypeError：一个字符的 unicode 字符串
+# TypeError: _anonymous_ 必须是一个序列
+TypeError：无法将非 None 值发送到刚启动的生成器
+TypeError：实例异常可能没有单独的值
+TypeError: throw() 第三个参数必须是回溯对象
+TypeError：异常必须是从 BaseException 派生的类或实例，而不是 str
+TypeError：异常必须是从 BaseException 派生的类或实例，而不是 int
+TypeError：异常必须是从 BaseException 派生的类或实例，而不是类型
+类型错误：呸！
+除了类型错误：通过
+TypeError: 'int' 对象不可迭代
+TypeError: 'int' 对象不是映射
+类型错误：“列表”对象不是映射
+TypeError: test.test_unpack_ex.f() 得到关键字参数 'x' 的多个值
+TypeError: test.test_unpack_ex.f() 得到关键字参数 'x' 的多个值
+TypeError: test.test_unpack_ex.f() 得到关键字参数 'x' 的多个值
+TypeError: test.test_unpack_ex.f() 得到关键字参数 'x' 的多个值
+TypeError: test.test_unpack_ex.f() 得到关键字参数 '1' 的多个值
+类型错误：无法解压不可迭代的 int 对象
+# “TypeError: fork_exec() 恰好接受 N 个参数（给定 M 个）”
+self.assertIn('TypeError: bad cleanup1', formatted_exc)
+self.assertIn('TypeError: bad cleanup1', formatted_exc)
+self.assertIn('TypeError: bad cleanup1', formatted_exc)
+self.assertIn('TypeError: bad cleanup1', formatted_exc)
+self.assertIn('TypeError: bad cleanup1', formatted_exc)
+self.assertIn('TypeError: bad cleanup1', formatted_exc)
+...TypeError：类型错误
+TypeError：类型错误
+self.assertTrue("TypeError: print_exception(): Exception expected for " \
+TypeError: __build_class__() 得到了关键字参数 'metaclass' 的多个值
+# TypeError: 参数必须是一个整数，或者有一个 fileno() 方法。
+f' |类型错误：2\n')
+('TypeError: print_exception(): '
+f' |类型错误：2\n'
+f' |类型错误：2\n'
+f' |类型错误：4\n'
+f' |类型错误：2\n'
+f' |类型错误：4\n'
+f' |类型错误：2\n'
+f' |类型错误：3\n'
+f' |类型错误：0'，
+f' |类型错误：1'，
+# TypeError: BNotMeta 既不是
+TypeError: test.test_extcall.f() 得到关键字参数 'a' 的多个值
+TypeError: test.test_extcall.f() 得到关键字参数 'a' 的多个值
+TypeError: test.test_extcall.f() 得到关键字参数 'a' 的多个值
+TypeError: e() 得到了一个意外的关键字参数 'c'
+类型错误：g() 缺少 1 个必需的位置参数：'x'
+类型错误：g() 缺少 1 个必需的位置参数：'x'
+类型错误：g() 缺少 1 个必需的位置参数：'x'
+TypeError: * 之后的 test.test_extcall.g() 参数必须是可迭代的，而不是 Nothing
+TypeError: * 之后的 test.test_extcall.g() 参数必须是可迭代的，而不是 Nothing
+类型错误：我的错误
+类型错误：我的错误
+类型错误：我的错误
+类型错误：我的错误
+类型错误：我的错误
+类型错误：我的错误
+类型错误：我的错误
+类型错误：我的错误
+TypeError: g() 为参数 'x' 获取了多个值
+类型错误：关键字必须是字符串
+TypeError: h() 得到了一个意外的关键字参数 'e'
+TypeError: * 之后的 test.test_extcall.h() 参数必须是可迭代的，而不是函数
+类型错误：* 之后的值必须是可迭代的，而不是函数
+类型错误：* 之后的值必须是可迭代的，而不是函数
+TypeError: * 之后的 dir() 参数必须是可迭代的，而不是函数
+TypeError：* 之后的参数必须是可迭代的，\
+TypeError: ** 之后的 test.test_extcall.h() 参数必须是一个映射，而不是函数
+TypeError: ** 之后的 test.test_extcall.h() 参数必须是一个映射，而不是列表
+TypeError: ** 之后的 test.test_extcall.h() 参数必须是一个映射，而不是函数
+TypeError: ** 之后的 test.test_extcall.h() 参数必须是一个映射，而不是列表
+TypeError: ** 之后的 test.test_extcall.h() 参数必须是一个映射，而不是函数
+TypeError: ** 之后的 test.test_extcall.h() 参数必须是一个映射，而不是列表
+TypeError: ** 之后的 dir() 参数必须是一个映射，而不是函数
+TypeError: None argument after ** must be a mapping, \
+TypeError: dir() 得到关键字参数 'b' 的多个值
+TypeError: test.test_extcall.g() 得到关键字参数 'x' 的多个值
+TypeError: test.test_extcall.g() 得到关键字参数 'x' 的多个值
+TypeError: test.test_extcall.g() 得到关键字参数 'x' 的多个值
+类型错误：s3() 缺少 1 个必需的仅关键字参数：'n'
+TypeError: id() 没有关键字参数
+类型错误：f() 采用 0 个位置参数，但给出了 1 个
+类型错误：f() 采用 1 个位置参数，但给出了 2 个
+TypeError: f() 接受 1 到 2 个位置参数，但给出了 3 个
+TypeError: f() 采用 0 个位置参数，但给出了 1 个位置参数（和 1 个仅关键字参数）
+TypeError: f() 采用 0 个位置参数，但给出了 3 个位置参数（和 2 个仅关键字参数）
+TypeError: f() 接受 1 到 2 个位置参数，但给出了 3 个位置参数（和 1 个仅关键字参数）
+类型错误：f() 缺少 1 个必需的位置参数：'a'
+TypeError: f() 缺少 2 个必需的位置参数：'a' 和 'b'
+类型错误：f() 缺少 3 个必需的位置参数：“a”、“b”和“c”
+类型错误：f() 缺少 5 个必需的位置参数：“a”、“b”、“c”、“d”和“e”
+类型错误：f() 缺少 1 个必需的位置参数：'a'
+TypeError: f() missing 1 required keyword-only argument: 'w'
+TypeError: f() 缺少 5 个必需的仅关键字参数：'a'、'b'、'c'、'd' 和 'e'
+# TypeError: setvar() 正好接受 3 个参数（给定 2 个）
+TypeError: files() 采用 0 到 1 个位置参数，但给出了 2 个
+除了 TypeError: # 不可散列的参数
+除了 TypeError: # 内置类
+TypeError: f() 为关键字参数“a”获取了多个值\n
+TypeError: 'C' 类型的对象没有 len()\n
+TypeError: 'int' 对象的描述符 '__hash__' 需要一个
+类型错误：只能将 str（不是“int”）连接到 str
+TypeError: /: 'str' 和 'str' 不支持的操作数类型
+类型错误：类型错误
+TypeError: function() 为参数 'a' 获取了多个值
+TypeError: pos_only_arg() 得到了一些作为关键字参数传递的位置参数：'arg'
+类型错误：kwd_only_arg() 采用 0 个位置参数，但给出了 1 个
+TypeError: combined_example() 采用 2 个位置参数，但给出了 3 个
+TypeError: combined_example() 得到了一些作为关键字参数传递的位置参数：'pos_only'
+类型错误：foo() 为参数“名称”获取了多个值
+类型错误：“元组”对象不支持项目分配
+TypeError: 'str' 对象不支持项目分配
+TypeError: 'str' 对象不支持项目分配
+TypeError: divmod() 没有关键字参数
+类型错误：“元组”对象不支持项目分配
+类型错误：“元组”对象不支持项目分配
+类型错误：“元组”对象不支持项目分配
+类型错误：“元组”对象不支持项目分配
+类型错误：无法删除数字/字符属性
+类型错误：需要一个整数（得到类型 str）
+类型错误：无法删除第一个属性
+TypeError: 第一个属性值必须是字符串
+类型错误：需要一个整数（得到类型 str）
+类型错误：无法删除第一个属性
+类型错误：无法删除数字/字符属性
+TypeError: 第一个属性值必须是字符串
+类型错误：需要一个整数（得到类型 str）
+TypeError: '>' 在 'datetime.timedelta' 和 'int' 的实例之间不支持
+类型错误：f() 缺少 1 个必需的位置参数：'a'
+类型错误：+ 不支持的操作数类型：“int”和“NoneType”
+类型错误：+ 不支持的操作数类型：“int”和“NoneType”
+TypeError：“PureWindowsPath”和“PurePosixPath”实例之间不支持“<”
+TypeError: <lambda>() 正好需要 3 个参数（给定 1 个）
+TypeError: 'NonCallableMock' 对象不可调用
+类型错误：<lambda>() 至少需要 2 个参数（给定 1 个）
+类型错误：无法修改只读内存
+TypeError: isinstance() 参数 2 不能是参数化泛型
+TypeError: dict[str] 中没有类型变量
+TypeError: isinstance() 参数 2 不能包含参数化泛型
+类型错误：无法创建“types.UnionType”实例
+ArgumentError: argument 2: TypeError: 不知道如何转换参数 2
+ArgumentError：参数 2：TypeError：类型错误
+ctypes.ArgumentError: argument 2: TypeError: 需要一个字符字节、字节数组或整数
+TypeError: 初始化器太多
+类型错误：应为 c_long 而不是 int
+类型错误：类型不兼容，c_byte_Array_4 实例而不是 LP_c_long 实例
+TypeError: %b 需要字节，或者一个实现了 __bytes__ 的对象，而不是 'str'
+TypeError: 'str' 不支持缓冲区接口
+TypeError: encoding with 'bz2' 编解码器失败（TypeError: 'str' 不支持缓冲区接口）
+TypeError：您只能与 int、long 或 Decimal 数据类型交互 Decimal。
+TypeError：无法使用抽象方法 draw 实例化抽象类 Circle
+类型错误：无法修改只读内存
+类型错误：f() 至少需要 1 个参数（给定 0）
+TypeError: 'NoneType' 对象不可订阅
+TypeError：无法散列的类型：'set'
+TypeError：无法散列的类型：'set'
+TypeError: mean() 得到了一些作为关键字参数传递的位置参数：'data'
+类型错误：只能将 str（不是“custom.Custom”）连接到 str
+TypeError: reduce() of empty sequence with no initial value 没有初始值的空序列
+TypeError: 'SQUARE' 已经定义为 2
+类型错误：“颜色”和“颜色”实例之间不支持“<”
+TypeError: <enum 'MoreColor'> 无法扩展 <enum 'Color'>
+类型错误：成员顺序与_order_不匹配：
+类型错误：** 或 pow() 不支持的操作数类型：“str”和“int”
+TypeError: '>=' 在 'NoneType' 和 'int' 的实例之间不支持
+类型错误：预期“V”为整数或浮点数
+类型错误：“CP”实例上没有“__dict__”属性来缓存“pi”属性。
+类型错误：“C”类型的对象没有 len()
+类型错误：“int”对象的描述符“__hash__”需要一个参数
+TypeError: f() 为关键字参数 'a' 获取了多个值
+UnboundLocalError：赋值前引用的局部变量“x”
+raise UnicodeError("无效字符 %r" % c)
+raise UnicodeError("违反 BIDI 要求 2")
+raise UnicodeError("违反 BIDI 要求 3")
+提高 UnicodeError（“标签为空或太长”）
+提高 UnicodeError（“标签为空或太长”）
+raise UnicodeError("标签以 ACE 前缀开头")
+提高 UnicodeError（“标签为空或太长”）
+引发 UnicodeError（“标签太长”）
+raise UnicodeError("IDN 标签中的无效字符")
+raise UnicodeError("IDNA 不往返", label, label2)
+提高 UnicodeError（“不支持的错误处理”+错误）
+提高 UnicodeError（“标签为空或太长”）
+引发 UnicodeError（“标签太长”）
+raise UnicodeError("不支持的错误处理"+errors)
+提高 UnicodeError（“不支持的错误处理”+错误）
+raise UnicodeError("不支持的错误处理"+errors)
+提高 UnicodeError（“不完整的 punicode 字符串”）
+raise UnicodeError("无效的扩展代码点 '%s'"
+raise UnicodeError("无效字符 U+%x" % char)
+raise UnicodeError("不支持的错误处理"+errors)
+raise UnicodeError("不支持的错误处理"+self.errors)
+提高 UnicodeError（“未定义的编码”）
+提高 UnicodeError（“未定义的编码”）
+提高 UnicodeError（“未定义的编码”）
+提高 UnicodeError（“未定义的编码”）
+raise UnicodeError("UTF-32 流不以 BOM 开头")
+raise UnicodeError("UTF-32 流不以 BOM 开头")
+raise UnicodeError("UTF-16 流不以 BOM 开头")
+raise UnicodeError("UTF-16 流不以 BOM 开头")
+引发 UnicodeError
+引发 UnicodeError
+引发 UnicodeError
+引发 UnicodeError("URL" + repr(url) +
+# UnicodeEncodeError：如果 package_name 或 resource_name 不是 UTF-8，
+self.assertIn(b"UnicodeEncodeError: \'ascii\' codec can\'t encode character "
+``UnicodeEncodeError: 'latin-1' codec can't encode character '\u1234' in
+UnicodeEncodeError: 'ascii' 编解码器无法对字符 '\ua000' 进行编码
+# UnicodeDecodeError：解码 tp_name 字节串失败
+# UnicodeDecodeError: string() 无法解码字节串
+UnicodeDecodeError：“utf-8”编解码器无法解码位置 0 中的字节 0x80：
+// ValueError: zip() 参数 2 比参数 1 短
+// ValueError: zip() 参数 3 比参数 1-2 短
+ValueError：如果传递的 *address* 不是 v4 或 v6
+ValueError：如果传递的字符串不是 v4 或 v6
+ValueError：如果传递的字符串不是 v4 或 v6
+ValueError：如果整数为负数或太大而不能成为
+ValueError：如果输入混合零和一
+NetmaskValueError：如果输入不是有效的网络掩码
+NetmaskValueError：如果输入不是有效的网络掩码/主机掩码
+ValueError：如果 other 没有被 self 完全包含。
+ValueError：prefixlen_diff 太小或太大。
+ValueError：如果 self.prefixlen - prefixlen_diff < 0。即，你有
+AddressValueError：如果 ip_str 不是有效的 IPv4 地址。
+ValueError：如果八位字节不是 [0..255] 中的严格小数。
+AddressValueError：如果 ipaddress 不是有效的 IPv4 地址。
+AddressValueError：如果 ipaddress 不是有效的 IPv4 地址。
+NetmaskValueError：如果网络掩码不适用于
+ValueError：如果严格为 True 而网络地址不是
+AddressValueError：如果 ip_str 不是有效的 IPv6 地址。
+ValueError：如果输入不是严格的十六进制数
+ValueError：地址大于全128位。
+AddressValueError：如果地址不是有效的 IPv6 地址。
+AddressValueError：如果地址不是有效的 IPv6 地址。
+NetmaskValueError：如果网络掩码不适用于
+ValueError：如果严格为 True 而网络地址不是
+如果 b'ValueError: 帧数必须在范围内' in stderr:
+如果 b'ValueError: 帧数必须在范围内' in stderr:
+除了 ValueError：通过
+除了 ValueError：通过
+除了 ValueError：通过
+除了 ValueError：通过
+try: pass\nexcept ValueError: pass\nexcept* TypeError: pass\n
+try: pass\nexcept* ValueError: pass\nexcept 类型错误: pass\n
+try: pass\nexcept ValueError: pass\nexcept* TypeError 作为 e: pass\n
+尝试: pass\nexcept* ValueError: pass\nexcept TypeError as e: pass\n
+try: pass\nexcept ValueError: pass\nexcept*: pass\n
+try: pass\nexcept* ValueError: pass\nexcept: pass\n
+self.assertIn("ValueError: 一些错误", err)
+ValueError：要解压的值太多（预期为 2）
+ValueError：要解压的值太多（预期为 2）
+ValueError：没有足够的值来解压（预期 4，得到 3）
+ValueError：要解压的值太多（预期为 2）
+ValueError：要解压的值太多（预期为 0）
+self.assertIn('ValueError: 运行失败', stderr)
+self.assertIn('ValueError: bug', stderr)
+self._check_error("try: pass\nexcept ValueError: pass\nexcept* TypeError: pass",
+self._check_error("try: pass\nexcept* ValueError: pass\nexcept TypeError: pass",
+ValueError：生成器已经在执行
+# ValueError: _unsafe_setprec, _unsafe_setemin, _unsafe_setemax
+# ValueError: 只能分配相同大小的序列
+# ArgumentError: 参数 1: ValueError: 99
+ValueError：生成器已经在执行
+值错误：6
+值错误：7
+ValueError：数学域错误
+ValueError：数学域错误
+ValueError：数学域错误
+ValueError：数学域错误
+ValueError：数学域错误
+ValueError：数学域错误
+ValueError：数学域错误
+ValueError：数学域错误
+ValueError：没有足够的值来解压（预计至少 4 个，得到 3 个）
+ValueError：没有足够的值来解压（预计至少 4 个，得到 3 个）
+# "ValueError: I/O operation on closed file" 被记录为
+self.assertIn('ValueError: bad cleanup2', formatted_exc)
+self.assertIn('ValueError: bad cleanup2', formatted_exc)
+self.assertIn('ValueError: bad cleanup2', formatted_exc)
+self.assertIn('ValueError: bad cleanup2', formatted_exc)
+self.assertIn('ValueError: bad cleanup2', formatted_exc)
+self.assertIn('ValueError: bad cleanup2', formatted_exc)
+self.assertIn('ValueError: bad cleanup2', formatted_exc)
+self.assertIn('ValueError: bad cleanup2', formatted_exc)
+self.assertIn('ValueError: bad cleanup2', formatted_exc)
+with self._assert_logged('ValueError: error in initializer'):
+ValueError：[数字信封例程：EVP_DigestInit_ex] 禁用 FIPS
+ValueError：不支持的哈希类型 md4
+>>> exc_msg = 'ValueError: 1\n 2'
+'值错误：1\n 2\n'
+>>> exc_msg = 'ValueError: 1\n 2\n'
+'值错误：1\n 2\n'
+ValueError：some_test 文档字符串的第 4 行具有不一致的前导空格：“缩进”
+ValueError：some_test 的文档字符串的第 2 行具有不一致的前导空格：'... 2))'
+ValueError：some_test 的文档字符串的第 1 行在 >>> 之后缺少空白：'>>>print(1)'
+ValueError：some_test 的文档字符串的第 2 行在...之后缺少空白：'...print(1)'
+... ValueError：多
+... ValueError：错误信息
+ValueError：错误信息
+值错误：消息
+... ValueError：错误信息
+值错误：消息
+值错误：2
+值错误：2
+ValueError：s 的 doctest 第 1 行有一个无效选项：'+BADOPTION'
+ValueError：s 的 doctest 第 1 行有一个无效选项：'ELLIPSIS'
+ValueError: s 的 doctest 的第 0 行在没有示例的行上有一个选项指令：'# doctest: +ELLIPSIS'
+ValueError：只能为模块相对路径指定包。
+self.assertTrue(err.getvalue().endswith("ValueError: 42\n"))
+self.assertIn('ValueError: 42\n', err)
+r'ValueError: 错误\n'
+# ValueError: 文件描述符不能为负整数 (-1)
+f' |值错误：1\n'
+exp = ' 文件“<不存在>”，第 3 行，在 <模块>\nValueError: 42\n'
+f' |值错误：1\n'
+f' |值错误：1\n'
+f' |值错误：3\n'
+f' |值错误：1\n'
+f' |值错误：3\n'
+f' |值错误：1\n'
+f' |值错误：4\n'
+f' |值错误：5\n'
+' |值错误：0\n'
+' |值错误：1\n'
+' |值错误：2\n'
+' |值错误：3\n'
+' |值错误：4\n'
+' |值错误：5\n'
+' |值错误：6\n'
+' |值错误：7\n'
+' |值错误：8\n'
+' |值错误：9\n'
+' |值错误：10\n'
+' |值错误：11\n'
+' |值错误：12\n'
+' |值错误：13\n'
+' |值错误：14\n'
+' |值错误：999\n'
+' |值错误：998\n'
+' |值错误：997\n'
+' |值错误：996\n'
+' |值错误：995\n'
+' |值错误：994\n'
+' |值错误：993\n'
+' |值错误：992\n'
+' |值错误：991\n'
+' |值错误：990\n'
+' |值错误：-990\n'
+' |值错误：-991\n'
+' |值错误：-992\n'
+' |值错误：-993\n'
+' |值错误：-994\n'
+' |值错误：-995\n'
+' |值错误：-996\n'
+' |值错误：-997\n'
+' |值错误：-998\n'
+' |值错误：-999\n'
+f' | ValueError: 错误值\n'
+f' | ValueError: 糟糕的值\n'
+f' | ValueError: 错误值\n'
+f' | ValueError: 糟糕的值\n'
+f' |值错误：42'，
+f' |值错误：24'，
+f' |值错误：0'，
+f' |值错误：1'，
+f' |值错误：-2'，
+f' |值错误：-1'，
+f' |值错误：1'，
+f' |值错误：2'，
+除了 ValueError：通过
+除了 ValueError：通过
+除了 ValueError: # ValueError: signal only works in main thread
+ValueError：b'' 周围没有字符串引号
+ValueError：尝试读取 stringnl 时未找到换行符
+ValueError：string4 中应有 50331648 个字节，但只剩下 6 个
+ValueError：bytes4 中预期有 50331648 个字节，但只剩下 6 个
+ValueError: expected ... bytes8 中的字节，但只剩下 6 个
+ValueError: expected ... bytearray8 中的字节，但只剩下 6 个字节
+ValueError：unicodestring1 中应有 7 个字节，但只剩下 6 个字节
+ValueError：unicodestring4 中应有 7 个字节，但只剩下 6 个字节
+ValueError：unicodestring8 中应有 7 个字节，但只剩下 6 个字节
+ValueError：以 10 为底的 int() 无效文字：b'1234L'
+ValueError: ('只允许报告标志', 8)
+ValueError：在可迭代项中只需要一个项目，但得到了 1、2、
+:raises ValueError: 当为名称提供无效值时。
+except ValueError: # 仅在缺少时添加，即执行一次
+除了 ValueError: # Need this until .Get fixed.
+除了 ValueError：#see issue1207589
+' |值错误：1\n'
+' |值错误：1\n'
+ValueError：无法舍入 NaN
+除了 ValueError: # pragma: 没有覆盖
+ValueError：对已关闭文件的 I/O 操作。
+ValueError: zip() 参数 2 比参数 1 长
+ValueError：不是布尔值：不
+ValueError：在 <enum 'Color'> 中找到的别名：CRIMSON -> RED
+ValueError：无效的枚举“颜色”：缺少值 3、4
+ValueError：无效标志“颜色”：别名 WHITE 和 NEON 缺少组合值 0x18 [使用 enum.show_flag_values(value) 了解详情]
+ValueError: <flag 'StrictFlag'> 无效值 20
+ValueError：在 <enum 'Mistake'> 中找到重复值：四个 -> 三
+ValueError：n 必须 >= 0
+ValueError：n 必须是精确的整数
+ValueError: list.remove(x): x 不在列表中
+值错误：多
+值错误：多
+``ValueError: 42 is prime`` 将传递是否：exc:`ValueError` 实际上是
+例如，一个期望 ``ValueError: 42`` 的例子将通过，如果实际
+抛出的异常是 ``ValueError: 3*14``，但会失败，比如说，一个
+ValueError: '/etc/passwd' 不在 '/usr' 的子路径中，或者一个路径是相对路径，另一个是绝对路径。
+ValueError：“/etc/passwd”与“foo”不在同一驱动器上，或者一个路径是相对路径，另一个是绝对路径。
+ValueError: PureWindowsPath('c:/') 的名称为空
+ValueError: PureWindowsPath('c:/') 的名称为空
+ValueError: zip() 参数 2 比参数 1 短
+ValueError：字符串中的占位符无效：第 1 行，第 11 列
+ValueError：定义变量“my_name”！
+ValueError：内存视图分配：左值和右值具有不同的结构
+ValueError：禁止对已释放的内存视图对象执行操作
+ValueError：禁止对已释放的内存视图对象执行操作
+ValueError：内存视图：格式“B”的无效值
+ValueError: Exceeded the limit (4300 digits) for integer string conversion: value has 5432 digits;使用 sys.set_int_max_str_digits() 来增加限制。
+ValueError: Exceeded the limit (4300 digits) for integer string conversion: value has 8599 digits；使用 sys.set_int_max_str_digits() 来增加限制。
+ipaddress.AddressValueError: 4294967296 (>= 2**32) 不允许作为 IPv4 地址
+ValueError：新前缀必须更长
+ValueError：超出现有 str 的可用存储空间
+ValueError：可能调用的过程没有足够的参数（缺少 4 个字节）
+ValueError：可能使用太多参数调用了过程（超过 4 个字节）
+ValueError：空指针访问
+ValueError：空指针访问
+ValueError：最小尺寸为 8
+ValueError：不是小数
+ValueError：节点或字符串格式错误：<_ast.Call object at 0x101739a10>
+ValueError：尝试将大小为 3 的序列分配给大小为 2 的扩展切片
+ValueError：样本大于总体
+除了 TypeError, ValueError: # 错误！
+ValueError：格式错误的字符串
+ValueError：在 <enum 'Mistake'> 中找到重复值：四个 -> 三
+ValueError：DuplicateFreeEnum 中不允许使用别名：'GRENE' --> 'GREEN'
+ValueError：192.0.2.1/24 已设置主机位
+ValueError：“192.168.0.256”似乎不是 IPv4 或 IPv6 地址
+ipaddress.AddressValueError：“192.168.0.256”中不允许八位字节 256（> 255）
+ValueError：“192.168.0.1/64”似乎不是 IPv4 或 IPv6 网络
+ipaddress.NetmaskValueError: '64' 不是有效的网络掩码
+ValueError：预期 <method 'isupper' of 'str' objects> 对于 'Widget' 为真
+ValueError：预期'metle'是{'metal'，'plastic'，'wood'}之一
+ValueError：预期 -5 至少为 0
+|值错误：1
+除了 ZeroDivisionError：通过
+ZeroDivisionError：除以零
+ZeroDivisionError：整数除法或以零为模
+ZeroDivisionError：整数除法或以零为模
+ZeroDivisionError: 0.0 不能提高到负幂
+除了 ZeroDivisionError：通过
+self.assertIn('ZeroDivisionError: 除以零', formatted_exc)
+self.assertIn('ZeroDivisionError: 除以零', formatted_exc)
+self.assertIn('ZeroDivisionError: 除以零', formatted_exc)
+self.assertIn('ZeroDivisionError: 除以零', formatted_exc)
+self.assertIn('ZeroDivisionError: 除以零', formatted_exc)
+self.assertIn('ZeroDivisionError: 除以零', formatted_exc)
+self.assertIn('ZeroDivisionError: 除以零', formatted_exc)
+self.assertIn('ZeroDivisionError: 除以零', formatted_exc)
+self.assertIn('ZeroDivisionError: 除以零', formatted_exc)
+self.assertIn('ZeroDivisionError: 除以零', formatted_exc)
+self.assertIn('ZeroDivisionError: 除以零', formatted_exc)
+self.assertIn('ZeroDivisionError: 除以零', formatted_exc)
+... ZeroDivisionError：整数除法或以零为模
+... ZeroDivisionError：整数除法或以零为模
+ZeroDivisionError：整数除法或以零为模
+ZeroDivisionError：整数除法或以零为模
+b'ZeroDivisionError: 除以零'
+self.assertEqual(lines[3], b'ZeroDivisionError: 除以零')
+self.assertEqual(lines[3], b'ZeroDivisionError: 除以零')
+b'ZeroDivisionError: 除以零']
+'ZeroDivisionError：除以零'，
+f' | ZeroDivisionError: 除以零',
+除了 ZeroDivisionError：通过
+除了 ZeroDivisionError：通过
+除了 ZeroDivisionError：通过
+除了 ZeroDivisionError：通过
+除了 ZeroDivisionError：通过
+除了 ZeroDivisionError：通过
+' ZeroDivisionError: 除以零\n'
+' ZeroDivisionError: 除以零\n'
+ZeroDivisionError：除以零
+ZeroDivisionError：整数除法或以零为模
+ZeroDivisionError：整数除法或以零为模
+ZeroDivisionError：除以零
+logging.exception('ZeroDivisionError: %s', e)
+28/01/2015 07:21:23|ERROR|ZeroDivisionError：整数除法或模数为零|'Traceback（最近调用最后一次）：\n 文件“logtest7.py”，第 30 行，在 main\n x = 1 / 0\nZeroDivisionError: 整数除法或模零'|
+警告：演示：ZeroDivisionError：除以零
+ZeroDivisionError：除以零
+ZeroDivisionError：除以零
+NameError：未定义名称“valeur”
+语法错误：不匹配的“）”
+NameError：未定义名称“imprime”
+SyntaxError：扫描字符串文字时 EOL
+NameError: 名称 'z' 未定义
+NameError：未定义名称“impimir”
+NameError：名称“imprimer”未定义
+NameError：未定义名称“imprimir”

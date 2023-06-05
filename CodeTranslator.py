@@ -16,7 +16,7 @@ Lang1_list = list()
 Lang2_list = list()
 
 
-Lang1_file = open(sys.argv[2]+'Key.txt','r')
+Lang1_file = open('LanguageData/'+sys.argv[2]+'Key.txt','r')
 # reading data for first language
 line = Lang1_file.readline()
 while line != "":
@@ -25,7 +25,7 @@ while line != "":
 Lang1_file.close()
 
 
-Lang2_file = open(sys.argv[3]+'Key.txt','r')
+Lang2_file = open('LanguageData/'+sys.argv[3]+'Key.txt','r')
 # reading data for second language
 line = Lang2_file.readline()
 while line != "":

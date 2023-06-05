@@ -49,9 +49,13 @@ app.get('/Python', (req, res) => {
 // this is for translation
 app.post('/Python', (req, res) => {
   const code = req.body.code;
+  const lang1 = req.body.lang1;
+  const lang2 = req.body.lang2;
   console.log('code:', code);
+  console.log('lang1:', lang1);
+  console.log('lang2:', lang2);
 
-  const filename = 'code.py';
+  const filename = 'code1.unipy';
 
   fs.writeFile(filename, code, (error) => {
     if (error) {
@@ -62,14 +66,14 @@ app.post('/Python', (req, res) => {
 
     console.log('Python code written to file:', filename);
 
-    exec(`python StringCodeTranslator.py code.py English French .frpy`, (error, stdout, stderr) => {
+    exec(`python StringCodeTranslator.py code1.unipy `+lang1+` `+lang2+` .unipy`, (error, stdout, stderr) => {
       if (error) {
         console.error('Error translating Python code:', error);
         res.status(500).json({ error: 'Error translating Python code' });
         return;
       }
       
-      console.log('code.py translated');
+      console.log('code1.unipy translated');
       const this_result = stdout.trim(); // Assign the result to the variable and remove leading/trailing whitespace
       console.log('returning:', this_result);
       
@@ -85,10 +89,25 @@ app.get('/RunCode',(req, res) => {
     res.json(result)
 })
 app.post('/RunCode',(req, res) => {
+    const code = req.body.code;
+    const lang = req.body.lang;
+    console.log('language indicated for execution:', lang);
+    const filename = 'code1.unipy';
+
+    fs.writeFile(filename, code, (error) => {
+        if (error) {
+            console.error('Error writing Python code to file:', error);
+            res.status(500).json({ error: 'Error writing Python code to file' });
+            return;
+        }
+        
+        console.log('Python code written to file:', filename);
+    });
     // Executing the french code!
     // WARNING:  CONSIDER CYBERSECURITY RISKS OF CODE EXECUTION
     let this_result = ''
-    exec(`python frpython.py code.frpy`, (error, stdout, stderr) => {
+    //exec(`python frpython.py code.frpy`, (error, stdout, stderr) => {
+    exec(`python uniPython.py `+lang+` code1.unipy`, (error, stdout, stderr) => {
         this_result = [stdout];
         console.log('returning output:',this_result);
         
@@ -96,6 +115,39 @@ app.post('/RunCode',(req, res) => {
         res.status(200).json({ result: this_result });
     });
 });
+
+app.post('/RunCode2',(req, res) => {
+    const code = req.body.code;
+    console.log('code is:',code)
+    const lang = req.body.lang;
+    console.log('language indicated for execution:', lang);
+    const filename = 'code2.unipy';
+
+    fs.writeFile(filename, code, (error) => {
+        if (error) {
+            console.error('Error writing Python code to file:', error);
+            res.status(500).json({ error: 'Error writing Python code to file' });
+            return;
+        }
+        
+        console.log('Python code written to file:', filename);
+    });
+    // Executing the french code!
+    // WARNING:  CONSIDER CYBERSECURITY RISKS OF CODE EXECUTION
+    let this_result = ''
+    //exec(`python frpython.py code.frpy`, (error, stdout, stderr) => {
+    exec(`python uniPython.py `+lang+` code2.unipy`, (error, stdout, stderr) => {
+        this_result = [stdout];
+        console.log('returning output:',this_result);
+        
+        // Send the result to the frontend
+        res.status(200).json({ result: this_result });
+    });
+});
+
+
+
+
 
 // The "catchall" handler: for any request that doesn't
 // match one above, send back React's index.html file.

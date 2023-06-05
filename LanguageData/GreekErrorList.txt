@@ -1,0 +1,1952 @@
+Σφάλμα ισχυρισμού: Οι κεφαλίδες (('Τύπος περιεχομένου', 'κείμενο/απλό')) πρέπει
+('200', 'AssertionError: Η κατάσταση πρέπει να αποτελείται από τουλάχιστον 4 χαρακτήρες'),
+('20X OK', 'AssertionError: Το μήνυμα κατάστασης πρέπει να ξεκινά με 3ψήφιο κωδικό'),
+('200OK', 'AssertionError: Το μήνυμα κατάστασης πρέπει να έχει κενό μετά τον κωδικό'),
+"print('AssertionError:0:CLOEXEC αποτυχία.')"]).wait()
+self.assertIn('AssertionError: bad tearDown', result.failures[0][1])
+self.assertIn('AssertionError: bad tearDown', result.failures[0][1])
+εκτός από AssertionError:
+# AssertionError: 'v@entry=()' != '()'
+Σφάλμα ισχυρισμού: 1 != 0
+Σφάλμα ισχυρισμού: 1 != 0
+Σφάλμα ισχυρισμού: 1 != 0
+Σφάλμα ισχυρισμού: 1 != 0
+AssertionError: "3" απροσδόκητα όχι μεγαλύτερο ή ίσο με "4"
+AssertionError: Αναμένεται να κληθεί μία φορά. Κάλεσαν 2 φορές.
+AssertionError: Αναμενόμενο: (({6},), {})
+AssertionError: Αναμενόμενη κλήση: mock({1})
+Σφάλμα ισχυρισμού: Αναμενόμενο: κλήση (<__main__. Αντικείμενο Foo στο 0x...>)
+Σφάλμα ισχυρισμού: Αναμενόμενο: ((<Αντιστοιχία αντικειμένου στο 0x...>,), {})
+Επιβεβαίωση Σφάλμα: Αναμενόταν η «μέθοδος» να έχει κληθεί μία φορά. Κάλεσαν 2 φορές.
+AssertionError: Αναμενόταν να κληθεί μια φορά το 'mock'. Κάλεσαν 2 φορές.
+Επιβεβαίωση Σφάλμα: Αναμενόταν «γεια» να μην έχει κληθεί. Κάλεσαν 1 φορές.
+Επιβεβαίωση Σφάλμα: Αναμενόταν η μακέτα.
+Επιβεβαίωση Σφάλμα: Αναμενόταν η μακέτα να αναμενόταν μία φορά. Αναμενόταν 2 φορές.
+AssertionError: η αναμενόμενη κλήση δεν βρέθηκε.
+Επιβεβαίωση Σφάλμα: Αναμενόταν η μακέτα να αναμενόταν μία φορά. Αναμενόταν 2 φορές.
+Επιβεβαίωση Σφάλμα: το mock('other') await δεν βρέθηκε
+Σφάλμα επιβεβαίωσης: Η αναμονή δεν βρέθηκε.
+AssertionError: Αναμενόταν να κληθεί μια φορά το 'mock'. Κάλεσαν 2 φορές.
+AttributeError: Το αντικείμενο "MyLocal" δεν έχει χαρακτηριστικό "color"
+A().a # Raised AttributeError: Μια παρουσία δεν έχει χαρακτηριστικό "a"
+# AttributeError: πληκτρολογήστε το αντικείμενο "Όνομα" δεν έχει χαρακτηριστικό "x"
+# AttributeError: Το 'x' καθορίζεται στο _anonymous_ αλλά όχι στα _fields_
+Χαρακτηριστικό Σφάλμα: το χαρακτηριστικό «gi_running» των αντικειμένων «γεννήτρια» δεν είναι εγγράψιμο
+AttributeError: το αντικείμενο 'defaultdict2' δεν έχει χαρακτηριστικό 'x1'
+Χαρακτηριστικό Σφάλμα: η ενότητα "test.test_doctest" δεν έχει χαρακτηριστικό "sillySetup"
+Χαρακτηριστικό Σφάλμα: η ενότητα "test.test_doctest" δεν έχει χαρακτηριστικό "sillySetup"
+# AttributeError: Το αντικείμενο "str" ​​δεν έχει χαρακτηριστικό "is_attachment"
+# AttributeError: Το αντικείμενο "SMTP" δεν έχει χαρακτηριστικό "sock")
+εκτός από το AttributeError: # δεν έχουν όλα τα αντικείμενα __dict__ (π.χ. η κλάση ορίζει υποδοχές)
+εκτός από το AttributeError: επιστροφή Κανένα
+εκτός από το AttributeError: pass
+εκτός από το AttributeError: pass
+εκτός από το AttributeError: # Για πλατφόρμες χωρίς _getframemodulename()
+εκτός από το AttributeError: # δεν υπάρχει υποδοχή
+εκτός από το AttributeError: # δεν υπάρχει υποδοχή
+εκτός από το AttributeError: # κέλυφος μπορεί να έχει κλείσει
+εκτός από το AttributeError: # κέλυφος μπορεί να έχει κλείσει
+εκτός από το AttributeError: # μπορεί να είναι PyShell
+εκτός από το AttributeError: # bpo-35379: κλήθηκε δύο φορές
+Χαρακτηριστικό Σφάλμα: Το αντικείμενο "μέθοδος" δεν έχει χαρακτηριστικό
+Χαρακτηριστικό Σφάλμα: πρώτο
+Χαρακτηριστικό Σφάλμα: πρώτο
+Χαρακτηριστικό Σφάλμα: πρώτο
+Χαρακτηριστικό Σφάλμα: πρώτο
+Χαρακτηριστικό Σφάλμα: πρώτο
+Χαρακτηριστικό Σφάλμα: η ενότητα 'sys' δεν έχει χαρακτηριστικό '__file__'
+Χαρακτηριστικό Σφάλμα: το αντικείμενο δεν έχει χαρακτηριστικό 'old_method'
+AttributeError: Το αντικείμενο "NoneType" δεν έχει χαρακτηριστικό "ομάδα"
+Χαρακτηριστικό Σφάλμα: f
+Χαρακτηριστικό Σφάλμα: Το <module 'sys' (built-in)> δεν έχει το χαρακτηριστικό 'non_existing_attribute'
+Χαρακτηριστικό Σφάλμα: Το εικονικό αντικείμενο δεν έχει χαρακτηριστικό "assret_called_with"
+Χαρακτηριστικό Σφάλμα: Το εικονικό αντικείμενο δεν έχει χαρακτηριστικό "assret_called_with"
+Χαρακτηριστικό Σφάλμα: Το εικονικό αντικείμενο δεν έχει χαρακτηριστικό "a"
+Χαρακτηριστικό Σφάλμα: Το εικονικό αντικείμενο δεν έχει χαρακτηριστικό "a"
+Χαρακτηριστικό Σφάλμα: το αντικείμενο "μέθοδος" δεν έχει χαρακτηριστικό "whoami"
+AttributeError: το αντικείμενο "module" δεν έχει χαρακτηριστικό "f"
+AttributeError: το αντικείμενο "module" δεν έχει χαρακτηριστικό "f"
+AttributeError: το αντικείμενο "module" δεν έχει χαρακτηριστικό "f"
+Χαρακτηριστικό Σφάλμα: η συνάρτηση «MyOwnFunction» δεν βρέθηκε
+Χαρακτηριστικό Σφάλμα: η συνάρτηση τακτικής 0 δεν βρέθηκε
+Χαρακτηριστικό Σφάλμα: x
+Χαρακτηριστικό Σφάλμα: x
+AttributeError: Το αντικείμενο "C" δεν έχει χαρακτηριστικό "newattr"
+AttributeError: Το αντικείμενο "NoneType" δεν έχει χαρακτηριστικό "x"
+Χαρακτηριστικό Σφάλμα: η ενότητα 'συλλογές' δεν έχει χαρακτηριστικό 'namedtoplo'. Μήπως εννοούσατε: namedtuple;
+AttributeError: Το αντικείμενο "ClassWithoutGetAttr" δεν έχει χαρακτηριστικό "z"
+Χαρακτηριστικό Σφάλμα: Το αντικείμενο "C" δεν έχει χαρακτηριστικό "_C__x"
+Χαρακτηριστικό Σφάλμα: Το αντικείμενο "Όχημα" δεν έχει χαρακτηριστικό "id_nubmer"
+Χαρακτηριστικό Σφάλμα: η ιδιότητα 'dept' του αντικειμένου 'Immutable' δεν έχει ρυθμιστή
+AttributeError: Το αντικείμενο "Immutable" δεν έχει χαρακτηριστικό "location"
+AttributeError: Το αντικείμενο "H" δεν έχει χαρακτηριστικό "xz"
+EXPORT_DATA (PyExc_EOFEσφάλμα)
+ΕΟΦ. Τώρα δημιουργεί :exc:`~ssl.SSLEOFError`, ταιριάζοντας με τη συμπεριφορά στο προηγούμενο
+Η ssl.wrap_socket() αυξάνει τώρα το ssl.SSLEOFError αντί για το OSError όταν γίνεται ομότιμος
+αφού το ``read()`` μπορεί να αυξήσει το :exc:`ssl.SSLEOFError` στα Windows. Patch by
+- Θέμα #1159051: Το GzipFile δημιουργεί τώρα σφάλμα EOFE κατά την ανάγνωση ενός κατεστραμμένου αρχείου
+- Θέμα #5334: Η array.fromfile() απέτυχε να εισαγάγει τιμές όταν αυξήθηκε το σφάλμα EOFE.
+[data.PyExc_EOFError]
+Objects/exceptions.c:PyExc_EOFError στατικό PyTypeObject PyExc_EOFError
+Αντικείμενα/εξαιρέσεις.c:_PyExc_EOFError στατικό PyTypeObject _PyExc_EOFError
+Objects/exceptions.c - _PyExc_EOFError -
+Objects/exceptions.c - PyExc_EOFError -
+Εάν ο χρήστης χτυπήσει EOF (*nix: Ctrl-D, Windows: Ctrl-Z+Return), αυξήστε το EOFError.
+PyErr_SetNone(PyExc_EOFError);
+PyErr_SetString(PyExc_EOFEσφάλμα,
+PyErr_SetString(PyExc_EOFEσφάλμα,
+PyErr_SetString(PyExc_EOFEσφάλμα,
+PyErr_SetString(PyExc_EOFEσφάλμα,
+PyErr_SetString(PyExc_EOFEσφάλμα,
+μη συμβατή μορφή marshal έκδοσης), αυξήστε EOFError, ValueError ή
+Εάν δεν βρεθεί έγκυρη τιμή, αυξήστε τα EOFError, ValueError ή TypeError. Επιπλέον
+Εάν ο χρήστης πατήσει EOF (*nix: Ctrl-D, Windows: Ctrl-Z+Return), αυξήστε το EOFError.\n
+μη συμβατή μορφή marshal έκδοσης), αυξήστε EOFError, ValueError ή\n
+Εάν δεν βρεθεί έγκυρη τιμή, αυξήστε τα EOFError, ValueError ή TypeError. Επιπλέον\n
+PyAPI_DATA(PyObject *) PyExc_EOFError;
+* Το EOFError επεκτείνει την Εξαίρεση
+SimpleExtendsException(PyExc_Exception, EOFError,
+ITEM(EOFEσφάλμα),
+PyErr_SetString(PyExc_EOFEσφάλμα,
+PyErr_SetString(PyExc_EOFEσφάλμα,
+εκτός EOFError:
+εκτός (EOFError, aifc.Error):
+εκτός από (EOFEerror, wave.Error):
+raise EOFError("Το συμπιεσμένο αρχείο έληξε πριν από το "
+raise EOFError("Το συμπιεσμένο αρχείο έληξε πριν από το "
+αύξηση EOFError ("Το συμπιεσμένο αρχείο έληξε πριν από το τέλος της ροής "
+εκτός από (OSError, EOFError, ValueError) ως err:
+εκτός από (OSError, EOFError):
+Αυξήστε το σφάλμα EOFE εάν η σύνδεση είναι κλειστή.
+αν όχι γραμμή: αυξήστε το EOFError
+Λάθος ΕΟΦΕ
+εκτός EOFError:
+αύξηση EOFError ('EOF ανάγνωση όπου δεν αναμένεται')
+αύξηση EOFError ('EOF ανάγνωση όπου δεν αναμένεται')
+αύξηση EOFError ('EOF ανάγνωση όπου δεν αναμένεται')
+εκτός ssl.SSLEOFEσφάλμα:
+με self.assertRaises(EOFError):
+εκτός EOFError:
+self.assertRaises(EOFError, telnet.read_very_lazy)
+εκτός EOFError:
+self.assertRaises(EOFError, gzip.decompress, compressed_data[:-4])
+self.assertRaises(EOFError, gzip.decompress, compressed_data[:-8])
+self.assertRaises(EOFError, f.read)
+self.assertRaises(EOFError, f.read, 1)
+self.assertRaises(EOFError, f.read, 1)
+self.assertRaises(EOFError, conn.recv)
+self.assertRaises(EOFError, conn.recv_bytes)
+εκτός EOFError:
+self.assertRaises(EOFError, marshal.loads, data[0: i])
+με self.assertRaises(EOFError):
+με self.assertRaises(EOFError):
+με self.assertRaises(EOFError):
+με self.assertRaises(EOFError):
+PyExc_EOFEσφάλμα
+εκτός από (OSError, EOFError):
+EOF_ERRORS = (EOFEσφάλμα,)
+EOF_ERRORS += (ssl.SSLEOFEσφάλμα,)
+truncated_errors = (pickle.UnpicklingError, EOFError,
+truncated_errors = (pickle.UnpicklingError, EOFError,
+EOFE σφάλμα,
+self.check_unpickling_error(EOFError, b'')
+self.check_unpickling_error(EOFEσφάλμα, b'N')
+self.assertRaises((EOFError, struct.error, pickle.UnpicklingError), self.load, s)
+self.assertRaises(EOFError, unpickler.load)
+self.assertRaises(EOFError, lzd.decompress, b"quux")
+self.assertRaises(EOFError, lzd.decompress, b"nyan")
+self.assertRaises(EOFError, f.read)
+self.assertRaises(EOFError, f.read)
+self.assertRaises(EOFError, f.read, 1)
+self.assertRaises(EOFError, f.read, 1)
+με self.assertRaises(EOFError):
+self.assertRaises(EOFError, b.fromfile, f, len(self.example)+1)
+# αντί για EOFError.
+με self.assertRaises(EOFError):
+με self.assertRaises(EOFError):
+#άλλο αυξήστε EOFEσφάλμα.
+# αυξήστε EOFEσφάλμα.
+# Όταν οι σημαίες είναι μερικές, δημιουργήστε ξανά το .pyc, διαφορετικά αυξήστε το σφάλμα EOFE.
+# Όταν ο κατακερματισμός είναι μερικός, δημιουργήστε ξανά το .pyc, διαφορετικά αυξήστε το σφάλμα EOFE.
+# αυξήστε EOFEσφάλμα.
+# Όταν υπάρχει μόνο ο μαγικός αριθμός και η χρονική σήμανση, αυξήστε το EOFError.
+με self.assertRaises(EOFError):
+με self.assertRaises(EOFError):
+με self.assertRaises(EOFError):
+με self.assertRaises(EOFError):
+με self.assertRaises(EOFError):
+# Εάν χρησιμοποιείται bytecode, τότε το EOFError θα αυξηθεί από τον Marshal.
+# Εάν χρησιμοποιείται bytecode, τότε το EOFError θα αυξηθεί από τον Marshal.
+εκτός EOFError: pass
+εκτός (EOFError, TypeError, ZeroDivisionError): pass
+εκτός από (EOFError, TypeError, ZeroDivisionError) ως μήνυμα: pass
+εκτός* ΕΟΦΕλάθος: περ
+εκτός* (EOFError, TypeError, ZeroDivisionError): pass
+εκτός* (EOFError, TypeError, ZeroDivisionError) ως μήνυμα: pass
+self.assertRaises(EOFError, f.read)
+self.assertRaises(EOFError, f.read, 1)
+self.assertRaises(EOFError, f.read, 1)
+def testEOFError(self):
+self.assertRaises(EOFError, bz2d.decompress, b"οτιδήποτε")
+self.assertRaises(EOFError, bz2d.decompress, b"")
+self.raise_catch(EOFEσφάλμα, "EOFError")
+εκτός EOFError:
+με self.assertRaises(EOFError):
+με self.assertRaises(EOFError):
+με self.assertRaises(EOFError):
+# Κάποιο win32 buildbot αυξάνει το EOFE Error εάν το stdin κληρονομηθεί
+├── EOFEσφάλμα
+self.assertRaises(ssl.SSLEOFError, sslobj.read)
+εκτός ssl.SSLEOFEσφάλμα:
+self.assertRaises(EOFEσφάλμα, getpass._raw_input, input=input)
+("EOFEσφάλμα" σε σφάλμα.λόγος))) ή
+def testEOFError(self):
+self.assertRaises(EOFError, zlibd.decompress, b"οτιδήποτε")
+self.assertRaises(EOFError, zlibd.decompress, b"")
+self.infunc.side_effect = EOFError('Ολοκληρώθηκε')
+self.infunc.side_effect = EOFError('Ολοκληρώθηκε')
+self.infunc.side_effect = ["'antioch'", "", EOFError('Finished')]
+self.infunc.side_effect = ["undefined", EOFError('Finished')]
+EOFError ('Ολοκληρώθηκε')]
+self.infunc.side_effect = EOFError('Ολοκληρώθηκε')
+self.infunc.side_effect = EOFError('Ολοκληρώθηκε')
+self.infunc.side_effect = EOFError('Ολοκληρώθηκε')
+self.infunc.side_effect = EOFError('Ολοκληρώθηκε')
+self.infunc.side_effect = EOFError('Ολοκληρώθηκε')
+EOFError ('Ολοκληρώθηκε')]
+EOFError ('Ολοκληρώθηκε')]
+self.assertRaises(EOFError, aifc._read_ulong, f)
+self.assertRaises(EOFError, aifc._read_long, f)
+self.assertRaises(EOFError, aifc._read_ushort, f)
+self.assertRaises(EOFError, aifc._read_short, f)
+εκτός EOFError: pass
+εκτός (EOFError, TypeError, ZeroDivisionError): pass
+εκτός από (EOFError, TypeError, ZeroDivisionError), msg: pass
+εκτός EOFError: pass
+εκτός (EOFError, TypeError, ZeroDivisionError): pass
+εκτός από (EOFError, TypeError, ZeroDivisionError) ως μήνυμα: pass
+self.assertRaises(EOFEσφάλμα, είσοδος)
+για exctype σε OSError, EOFError, Runtime Error:
+self.assertRaises(EOFEσφάλμα, up.unpack_uint)
+EOFE σφάλμα)
+εκτός από (OSError, EOFError):
+σηκώστε EOFError
+σηκώστε EOFError από None
+σηκώστε EOFError
+εκτός EOFError:
+σηκώστε EOFError από None
+σηκώστε EOFError από None
+σηκώστε EOFError
+σηκώστε EOFError από None
+raise EOFError("Το συμπιεσμένο αρχείο έληξε πριν από το "
+σηκώστε EOFError
+αύξηση EOFError ('μη αναμενόμενο EOF')
+σηκώστε EOFError
+σηκώστε EOFError
+εκτός (EOFError, OSError):
+util.debug('Ο εργαζόμενος έχει σφάλμα EOFE ή OSError -- έξοδος')
+εκτός από (OSError, EOFError):
+util.debug('Ο χειριστής αποτελεσμάτων πήρε EOFError/OSError -- έξοδος')
+εκτός από (OSError, EOFError):
+util.debug('Ο χειριστής αποτελεσμάτων πήρε EOFError/OSError -- έξοδος')
+εκτός από (OSError, EOFError):
+εκτός από (OSError, EOFError):
+εκτός EOFError:
+σηκώστε EOFError
+εκτός EOFError:
+Όταν ο χρήστης εισάγει την ακολουθία πλήκτρων EOF, το EOFError αυξάνεται.
+εκτός (KeyboardInterrupt, EOFError):
+εκτός (KeyboardInterrupt, EOFError):
+σηκώστε EOFError
+σηκώστε EOFError
+σηκώστε EOFError
+σηκώστε EOFError
+σηκώστε EOFError
+all_errors = (Σφάλμα, OSError, EOFError)
+εκτός από (OSError, EOFError):
+# Αύξηση σφάλματος EOFE εάν η σύνδεση είναι κλειστή
+σηκώστε EOFError
+all_errors = (Σφάλμα, OSError, EOFError, ssl.SSLEσφάλμα)
+του αρχείου, η δημιουργία μιας νέας παρουσίας θα αποτύχει με σφάλμα EOFE
+εκτός EOFError:
+σηκώστε EOFError
+σηκώστε EOFError από None
+σηκώστε EOFError
+εκτός EOFError:
+έφαγε τα δεδομένα. Αυτός είναι ο λόγος που το EOFError χρειάζεται σε ορισμένες περιπτώσεις για να γίνει διάκριση
+αυξήστε το EOFError όταν διαβάζεται το τέλος της σύνδεσης, επειδή
+πιθανώς η κενή συμβολοσειρά. Αύξηση EOFE Error εάν η σύνδεση
+Αυξήστε το σφάλμα EOFE εάν η σύνδεση είναι κλειστή και δεν υπάρχουν μαγειρεμένα δεδομένα
+Αυξήστε το σφάλμα EOFE εάν η σύνδεση είναι κλειστή και δεν υπάρχουν μαγειρεμένα δεδομένα
+Αυξήστε το σφάλμα EOFE εάν η σύνδεση είναι κλειστή και δεν υπάρχουν διαθέσιμα δεδομένα.
+Αυξήστε το σφάλμα EOFE εάν η σύνδεση είναι κλειστή και δεν υπάρχουν διαθέσιμα δεδομένα.
+αύξηση EOFE Error ("σύνδεση telnet κλειστή")
+εκτός από EOFEσφάλμα: # αυξήθηκε από self.rawq_getchar()
+Αποκλεισμός εάν δεν υπάρχουν άμεσα διαθέσιμα δεδομένα. Αύξηση EOFError
+σηκώστε EOFError
+εκτός EOFError:
+εκτός EOFError:
+Εάν διαβάζεται ο ΕΟΦ και δεν διαβάζεται κείμενο, σηκώστε το EOFError.
+σηκώστε EOFError
+Σφάλμα EOFE: Εάν η είσοδος tty ή stdin ήταν κλειστή.
+σηκώστε EOFError
+(αλλά δεν περιορίζεται απαραίτητα σε) AttributeError, EOFError, ImportError,
+σηκώστε EOFError
+σηκώστε EOFError
+εκτός από (OSError, EOFError) ως e:
+εκτός από (LZMAError, EOFError) ως e:
+το πεδίο δεν είναι έγκυρο. Το σφάλμα EOFE δημιουργείται όταν διαπιστωθεί ότι τα δεδομένα έχουν περικοπεί.
+αύξηση EOFE Error (μήνυμα)
+εκτός από (ImportError, EOFError):
+Παράκαμψη της βασικής κλάσης - απλώς αυξήστε ξανά το EOFError
+σηκώστε EOFError
+εκτός (EOFError, OSError, KeyboardInterrupt):
+εκτός EOFError:
+σηκώστε EOFError
+ποτέ δεν έρχεται, και βγείτε στο EOFError.
+εκτός EOFError:
+σηκώστε EOFError
+σηκώστε EOFError
+εκτός EOFError:
+σηκώστε EOFError
+εκτός EOFError:
+SSLSyscallError, SSLEOFError, SSLCertVerification Error
+class IncompleteReadError(EOFError):
+σηκώστε EOFError από None
+σηκώστε EOFError από None
+σηκώστε EOFError από None
+σηκώστε EOFError από None
+εκτός EOFError:
+εκτός EOFError:
+'EOFError', 'Ellipsis', 'EnvironmentError', 'Exception', 'False',
+εγείρει ένα :exc:`EOFError`. Τυχόν δεδομένα που βρέθηκαν μετά το τέλος του
+read, :exc:`EOFError` εγείρεται. Παράδειγμα::
+Αυτή η εξαίρεση είναι μια υποκλάση του :exc:`EOFError`.
+μορφή), αύξηση :exc:`EOFError`, :exc:`ValueError` ή :exc:`TypeError`. ο
+:exc:`EOFError`, :exc:`ValueError` ή :exc:`TypeError`. Επιπλέον byte στο
+νέα γραμμή. Όταν ο χρήστης εισάγει την ακολουθία πλήκτρων EOF, το :exc:`EOFError` αυξάνεται.
+(αλλά δεν περιορίζεται απαραίτητα σε) AttributeError, EOFError, ImportError και
+εκτός EOFError:
+Το :exc:`EOFError` εγείρεται, αλλά τα στοιχεία που ήταν διαθέσιμα εξακολουθούν να είναι
+η παρουσία θα αποτύχει με μια εξαίρεση :exc:`EOFError`.
+:exc:`EOFEσφάλμα` όταν διαβάζεται το τέλος της σύνδεσης, γιατί μπορούν να επιστρέψουν
+byte. Αύξηση :exc:`EOFError` εάν η σύνδεση είναι κλειστή και δεν υπάρχουν μαγειρεμένα δεδομένα
+Αύξηση :exc:`EOFError` εάν η σύνδεση είναι κλειστή και δεν υπάρχουν διαθέσιμα μαγειρεμένα δεδομένα.
+Αύξηση :exc:`EOFError` εάν η σύνδεση είναι κλειστή και δεν υπάρχουν διαθέσιμα μαγειρεμένα δεδομένα.
+Αύξηση :exc:`EOFError` εάν η σύνδεση είναι κλειστή και δεν υπάρχουν διαθέσιμα δεδομένα. ΕΠΙΣΤΡΟΦΗ
+Αύξηση :exc:`EOFError` εάν η σύνδεση είναι κλειστή και δεν υπάρχουν διαθέσιμα δεδομένα. ΕΠΙΣΤΡΟΦΗ
+Εάν βρεθεί το τέλος του αρχείου και δεν διαβάστηκαν byte, αυξήστε το :exc:`EOFError`.
+Τα :exc:`EOFError` και :exc:`zlib.error` μπορούν επίσης να αυξηθούν για μη έγκυρο gzip
+τέσσερις εξαιρέσεις που αναφέρονται παραπάνω καθώς και τα :exc:`OSError` και :exc:`EOFError`.
+.. εξαίρεση:: SSLEOFEσφάλμα
+Εξαίρεση :exc:`SSLEOFError`.
+:exc:`EOFEσφάλμα` αν δεν υπάρχει τίποτα άλλο για λήψη
+Ανεβάζει το :exc:`EOFError` αν δεν έχει μείνει τίποτα
+:exc:`EOFError` αν δεν έχει μείνει τίποτα για λήψη και το άλλο άκρο ήταν
+εκτός EOFError:
+εγείρει ένα :exc:`EOFError`. Τυχόν δεδομένα που βρέθηκαν μετά το τέλος του
+.. εξαίρεση:: EOFEσφάλμα
+Αυξάνει το :exc:`EOFError` εάν η είσοδος τερματιστεί πρόωρα.
+var,PyExc_EOFError,3.2,,
+Στο σφάλμα, ορίζει την κατάλληλη εξαίρεση (:exc:`EOFError`) και επιστρέφει
+Στο σφάλμα, ορίζει την κατάλληλη εξαίρεση (:exc:`EOFError`) και επιστρέφει
+Στο σφάλμα, ορίζει την κατάλληλη εξαίρεση (:exc:`EOFError`, :exc:`ValueError`
+Στο σφάλμα, ορίζει την κατάλληλη εξαίρεση (:exc:`EOFError`, :exc:`ValueError`
+Στο σφάλμα, ορίζει την κατάλληλη εξαίρεση (:exc:`EOFError`, :exc:`ValueError`
+.. index:: single: EOFError (ενσωματωμένη εξαίρεση)
+``0``, ωστόσο, μια γραμμή διαβάζεται ανεξάρτητα από το μήκος, αλλά το :exc:`EOFError` είναι
+single: PyExc_EOFError
+| :c:data:`PyExc_EOFError` | :exc:`EOFEσφάλμα` | |
+PyErr_SetString(PyExc_EOFEσφάλμα,
+Λάθος ΕΟΦΕ. Τυχόν δεδομένα που βρέθηκαν μετά το τέλος της ροής αγνοούνται και αποθηκεύονται
+PyErr_SetString(PyExc_EOFError, "Ήδη στο τέλος της ροής");
+PyErr_Format(PyExc_EOFError, "Τελείωσε η είσοδος");
+Λάθος ΕΟΦΕ. Τυχόν δεδομένα που βρέθηκαν μετά το τέλος της ροής αγνοούνται και αποθηκεύονται
+PyErr_SetString(PyExc_EOFError, "Έφτασε ήδη το τέλος της ροής");
+PyDoc_STRVAR(SSLEOFError_doc,
+type = state->PySSLEOFErrorObject;
+type = state->PySSLEOFErrorObject;
+type = state->PySSLEOFErrorObject;
+state->PySSLEOFErrorObject,
+SSLEOFEΛάθος
+SSLEOFError_doc,
+Py_VISIT(state->PySSLEOFErrorObject);
+Py_CLEAR(state->PySSLEOFErrorObject);
+PyErr_SetString(PyExc_EOFEσφάλμα,
+Λάθος ΕΟΦΕ. Τυχόν δεδομένα που βρέθηκαν μετά το τέλος της ροής αγνοούνται και αποθηκεύονται
+PyErr_SetString(PyExc_EOFError, "Έφτασε ήδη το τέλος της ροής");
+Λάθος ΕΟΦΕ. Τυχόν δεδομένα που βρέθηκαν μετά το τέλος της ροής αγνοούνται και αποθηκεύονται στο\n
+Λάθος ΕΟΦΕ. Τυχόν δεδομένα που βρέθηκαν μετά το τέλος της ροής αγνοούνται και αποθηκεύονται στο\n
+Λάθος ΕΟΦΕ. Τυχόν δεδομένα που βρέθηκαν μετά το τέλος της ροής αγνοούνται και αποθηκεύονται στο\n
+PyObject *PySSLEOFErrorObject;
+* Εξαιρέσεις XXX Εξαιρέσεις.Εισαγωγή Σφάλμα: "Δεν υπάρχει ενότητα με το όνομα sha"
+# ImportError: Εάν το πακέτο_όνομα δεν υπάρχει (π.χ. εάν το tzdata δεν υπάρχει
+εκτός από το ImportError: # pragma: nocover
+- ZipImportError: εξαίρεση που δημιουργείται από αντικείμενα zipimporter. Είναι ένα
+self.assertIn("ImportError: Δεν υπάρχει ενότητα με όνομα t_main.__main__",
+εκτός από το ImportError: # pragma: χωρίς εξώφυλλο
+text = 'ImportError: ' + str(exc)
+f'ImportError: η ενότητα {name} δεν υποστηρίζει τη φόρτωση σε υποδιερμηνείς',
+f'ImportError: η ενότητα {name} δεν υποστηρίζει τη φόρτωση σε υποδιερμηνείς',
+εκτός από το ImportError: # σε περίπτωση που δεν υπάρχει μονάδα pwd
+εκτός από το ImportError: # σχόλιο\n
+εκτός από το ImportError: # pragma: χωρίς εξώφυλλο
+f'Σφάλμα εισαγωγής: 5\n')
+self.msgout(4, "raise ImportError: No module named", qname)
+self.msgout(4, "raise ImportError: No module named", mname)
+self.msgout(2, "raise ImportError: " + str(exc), όνομα διαδρομής)
+εκτός από το ImportError: # δεν εκτελείται στα Windows - μακέτα κάτι λογικό
+εκτός από το ImportError: # pragma: χωρίς εξώφυλλο
+εκτός από το ImportError: # pragma: χωρίς εξώφυλλο
+εκτός από το ImportError: # pragma: χωρίς εξώφυλλο
+ImportError: δεν είναι δυνατή η εισαγωγή του ονόματος "chainmap" από τις "συλλογές". Μήπως εννοούσατε: 'ChainMap';
+IndentationError: αναμενόταν ένα μπλοκ με εσοχή μετά τη δήλωση "while" στη γραμμή 1
+IndentationError: αναμενόταν ένα μπλοκ με εσοχή μετά τη δήλωση "για" στη γραμμή 1
+IndentationError: αναμενόταν ένα μπλοκ με εσοχή μετά τη δήλωση "άλλο" στη γραμμή 3
+IndentationError: αναμενόταν ένα μπλοκ με εσοχή μετά τη δήλωση "για" στη γραμμή 1
+IndentationError: αναμενόταν ένα μπλοκ με εσοχή μετά τη δήλωση "άλλο" στη γραμμή 3
+IndentationError: αναμενόταν ένα μπλοκ με εσοχή μετά τη δήλωση "if" στη γραμμή 1
+IndentationError: αναμενόταν ένα μπλοκ με εσοχή μετά τη δήλωση "elif" στη γραμμή 3
+IndentationError: αναμενόταν ένα μπλοκ με εσοχή μετά τη δήλωση "άλλο" στη γραμμή 5
+IndentationError: αναμενόταν ένα μπλοκ με εσοχή μετά τη δήλωση "try" στη γραμμή 1
+IndentationError: αναμενόταν ένα μπλοκ με εσοχή μετά τη δήλωση «εκτός» στη γραμμή 3
+IndentationError: αναμενόταν ένα μπλοκ με εσοχή μετά τη δήλωση «εκτός» στη γραμμή 3
+IndentationError: αναμενόταν ένα μπλοκ με εσοχή μετά τη δήλωση «εκτός*» στη γραμμή 3
+IndentationError: αναμενόταν ένα μπλοκ με εσοχή μετά τη δήλωση "τελικά" στη γραμμή 5
+IndentationError: αναμενόταν ένα μπλοκ με εσοχή μετά τη δήλωση "τελικά" στη γραμμή 5
+IndentationError: αναμενόταν ένα μπλοκ με εσοχή μετά τη δήλωση "με" στη γραμμή 1
+IndentationError: αναμενόταν ένα μπλοκ με εσοχή μετά τη δήλωση "με" στη γραμμή 1
+IndentationError: αναμενόταν ένα μπλοκ με εσοχή μετά τη δήλωση "με" στη γραμμή 1
+IndentationError: αναμενόταν ένα μπλοκ με εσοχή μετά τη δήλωση "με" στη γραμμή 1
+IndentationError: αναμενόταν ένα μπλοκ με εσοχή μετά τη δήλωση "με" στη γραμμή 1
+IndentationError: αναμενόταν ένα μπλοκ με εσοχή μετά τη δήλωση "με" στη γραμμή 1
+IndentationError: αναμένεται ένα μπλοκ με εσοχή μετά τον ορισμό της συνάρτησης στη γραμμή 1
+IndentationError: αναμένεται ένα μπλοκ με εσοχή μετά τον ορισμό κλάσης στη γραμμή 1
+IndentationError: αναμενόταν ένα μπλοκ με εσοχή μετά τη δήλωση "match" στη γραμμή 1
+IndentationError: αναμενόταν ένα μπλοκ με εσοχή μετά τη δήλωση "case" στη γραμμή 2
+IndentationError: αναμενόταν ένα μπλοκ με εσοχή μετά τη δήλωση "case" στη γραμμή 4
+IndentationError: αναμενόταν ένα μπλοκ με εσοχή μετά τη δήλωση "if" στη γραμμή 2
+>>> exc_msg = 'Σφάλμα ευρετηρίου: αναδυόμενος από μια κενή λίστα'
+('[].pop()\n', '', 'IndexError: αναδυόμενος από μια κενή λίστα\n', 5, 4, {8: True})
+>>> exc_msg = 'Σφάλμα ευρετηρίου: αναδυόμενος από μια κενή λίστα'
+'IndexError: αναδυόμενος από μια κενή λίστα\n'
+>>> exc_msg = 'Σφάλμα ευρετηρίου: αναδυόμενος από μια κενή λίστα\n'
+'IndexError: αναδυόμενος από μια κενή λίστα\n'
+IndexError: αναδύεται από ένα κενό deque
+IndexError: ευρετήριο συμβολοσειράς εκτός εύρους
+IndexError: πολλαπλάσιος δείκτης εκτός εύρους
+IndexError: πολλαπλάσιος δείκτης εκτός εύρους
+IndexError: πολλαπλάσιος δείκτης εκτός εύρους
+'Σφάλμα ευρετηρίου: πολλαπλάσιος δείκτης εκτός εύρους\n']
+['Σφάλμα ευρετηρίου: πολλαπλάσιος δείκτης εκτός εύρους\n']
+IndexError: ευρετήριο λίστας εκτός εύρους
+IndexError: μη έγκυρο ευρετήριο
+IndexError: αναδύεται από ένα κενό deque
+shutdown_error = "Σφάλμα αναζήτησης: άγνωστη κωδικοποίηση: ascii"
+shutdown_error = "Σφάλμα αναζήτησης: άγνωστη κωδικοποίηση: ascii"
+# LookupError: δεν έχουν καταχωρηθεί συναρτήσεις αναζήτησης κωδικοποιητή: δεν είναι δυνατή η εύρεση κωδικοποίησης"
+εκτός LookupError: # no IncrementalEncoder
+εκτός LookupError: # no IncrementalEncoder
+εκτός LookupError: # no IncrementalEncoder
+εκτός LookupError: # no IncrementalEncoder
+LookupError: Το 'hex' δεν είναι κωδικοποίηση κειμένου. χρησιμοποιήστε codecs.decode() για να χειριστείτε αυθαίρετους κωδικοποιητές
+LookupError: Το 'rot13' δεν είναι κωδικοποίηση κειμένου. χρησιμοποιήστε codecs.encode() για να χειριστείτε αυθαίρετους κωδικοποιητές
+LookupError: Το 'hex' δεν είναι κωδικοποίηση κειμένου. χρησιμοποιήστε codecs.open() για να χειριστείτε αυθαίρετους κωδικοποιητές
+οριστικοποίηση. Διορθώστε σφάλματα όπως: ``Σφάλμα ονόματος: το όνομα 'ανοιχτό' δεν έχει οριστεί``.
+- Θέμα #17032: Το "global" στο "NameError: το καθολικό όνομα "x" δεν έχει οριστεί"
+εκτός από NameError: pass
+self.assertNotIn(b"Σφάλμα ονόματος: το όνομα "invalid" δεν έχει οριστεί",
+((Pdb)) *** ΌνομαΣφάλμα: το όνομα "δεν υπάρχει" δεν έχει οριστεί
+εκτός από NameError: pass
+εκτός από NameError: pass
+*** NameError: το όνομα 'foo' δεν έχει οριστεί
+NameError: το όνομα 'favorite_color' δεν έχει οριστεί
+NameError: το όνομα 'favorite_color' δεν έχει οριστεί
+NameError: το όνομα 'favorite_color' δεν έχει οριστεί
+NameError: το όνομα "ζαμπόν" δεν έχει οριστεί
+NameError: το όνομα 'αυγά' δεν έχει οριστεί
+# οδηγεί σε "ΌνομαΣφάλμα: το όνομα "δεδομένα" δεν έχει οριστεί"
+εκτός από NameError: # Σε περίπτωση που η python ξεκίνησε με -S.
+εκτός από NameError: # Σε περίπτωση που η υποδιεργασία ξεκίνησε με -S (ίσως στο μέλλον).
+NameError: 'spam'\n
+'Σφάλμα ονόματος: ανεπιθύμητο\n'
+NameError: το όνομα 'spam' δεν έχει οριστεί
+NameError: Hi There
+NameError: Hi There
+NameError: το όνομα 'n' δεν έχει οριστεί
+NameError: το όνομα 'κελί' δεν έχει οριστεί
+NameError: 'spam'
+ΌνομαΣφάλμα: ανεπιθύμητη αλληλογραφία
+NameError: το όνομα 'sys' δεν έχει οριστεί. Ξεχάσατε να εισαγάγετε το 'sys';
+NameError: το όνομα 'blech' δεν έχει οριστεί. Μήπως εννοούσατε: 'self.blech';
+NameError: το όνομα 'schwarschild_black_hole' δεν έχει οριστεί. Μήπως εννοούσατε: schwarzschild_black_hole;
+NotImplementedError: Ο τύπος συμβόλου δεν υποστηρίζεται ακόμη σε σενάρια Python.
+@Unitest.skip('xxx NotImplementationError: toList() υποστηρίζει μόνο προβολές byte')
+NotImplementedError: δεν είναι δυνατή η δημιουργία του "WindowsPath" στο σύστημά σας
+# OSError: [Errno 28] Μη έγκυρο όρισμα: '.'
+εκτός από το σφάλμα OSE: # Π.χ. κακό εκτελέσιμο
+εκτός από το σφάλμα OSE: # Π.χ. η εντολή δεν βρέθηκε
+εκτός από το σφάλμα OSE: # Π.χ. κακό εκτελέσιμο
+εκτός από το σφάλμα OSE: # Π.χ. η εντολή δεν βρέθηκε
+εκτός από το σφάλμα OSE: # Π.χ. κακό εκτελέσιμο
+εκτός από το OSError: # Χρησιμοποιήστε αυτό το όνομα σφάλματος αυτή τη φορά
+# getlogin() αποτυγχάνει με "OSError: [Errno 25] Ακατάλληλο ioctl
+εκτός από το σφάλμα OSE: # syslogd ενδέχεται να μην είναι διαθέσιμο
+# "OSError: [Errno 12] Δεν είναι δυνατή η εκχώρηση μνήμης"
+# με "OSError: [Errno 12] Δεν είναι δυνατή η εκχώρηση μνήμης"
+'Η εξαίρεση αγνοήθηκε.*\nΣφάλμα: .*')
+self.fail("Αναμενόμενο σφάλμα OSE: struct.pack(%r, "
+self.fail("Αναμενόμενο σφάλμα OSE: %s" % επιθυμητή_εξαίρεση)
+self.fail("Αναμενόμενο σφάλμα OSE: %s" % επιθυμητή_εξαίρεση)
+self.fail("Αναμενόμενο σφάλμα OSE: %s" % επιθυμητή_εξαίρεση)
+self.assertIn(b'OSError: ο πηγαίος κώδικας δεν είναι διαθέσιμος', stderr)
+εάν ('OSError: [Errno %d]' % errno.EBADF) δεν είναι σε σφάλμα:
+self.assertIn(b'OSError: Το σήμα 2 αγνοήθηκε λόγω συνθήκης αγώνα', err)
+εκτός από το σφάλμα OSE: # Υποθέστε EIO
+# OSError: [Errno 9] Εσφαλμένη περιγραφή αρχείου
+# αυτό δεν πρέπει να προκαλεί το OSError: [Errno 17] Το αρχείο υπάρχει
+εκτός από το σφάλμα OSE: # Linux
+εκτός από το OSError: pass
+# OSError: [Errno 38] Η λειτουργία δεν υλοποιήθηκε
+print("IDLE Subprocess: OSError: " + err.args[1] +
+εκτός από το OSError: #pragma: χωρίς εξώφυλλο
+εκτός από το OSError: #pragma: χωρίς εξώφυλλο
+| Σφάλμα OSE: σφάλμα 1
+| Σφάλμα OSE: η λειτουργία απέτυχε
+| Σφάλμα OSE: η λειτουργία απέτυχε
+| Σφάλμα OSE: η λειτουργία απέτυχε
+Σφάλμα OSE: [Errno 98] Η διεύθυνση χρησιμοποιείται ήδη
+Σφάλμα OSE: [Errno 9] Εσφαλμένη περιγραφή αρχείου
+Σφάλμα OSE: εξαίρεση: ανάγνωση παραβίασης πρόσβασης 0x00000020
+Σφάλμα OSE: [Errno 126] Δεν ήταν δυνατή η εύρεση της καθορισμένης μονάδας.
+# OverflowError: _unsafe_setprec, _unsafe_setemin, _unsafe_setemax
+Σφάλμα υπερχείλισης: δεν μπορεί να στρογγυλοποιηθεί το άπειρο
+Σφάλμα υπερχείλισης: n πολύ μεγάλο
+Σφάλμα υπερχείλισης: n πολύ μεγάλο
+:mod:`asyncio` δεν ρίχνει πλέον το ``Σφάλμα χρόνου εκτέλεσης: Ο βρόχος συμβάντος είναι κλειστός`` στο
+Αποφύγετε ένα πιθανό *"Σφάλμα χρόνου εκτέλεσης: το λεξικό άλλαξε μέγεθος κατά την επανάληψη"*
+Αποφύγετε ένα πιθανό *"Σφάλμα χρόνου εκτέλεσης: το λεξικό άλλαξε μέγεθος κατά την επανάληψη"*
+αντί για Runtime Error: Το OSError έχει ένα χαρακτηριστικό errno.
+# Σφάλμα χρόνου εκτέλεσης: Δεν μπορείτε καν να διαβάσετε το αντικείμενο καθόλου;
+# Σφάλμα χρόνου εκτέλεσης: NULL δείκτες
+# Σφάλμα χρόνου εκτέλεσης: το λεξικό άλλαξε μέγεθος κατά την επανάληψη
+msg = '\nΣφάλμα χρόνου εκτέλεσης: εσκεμμένο λάθος\n'
+self.assertTrue(r.exc_text.endswith('\nΣφάλμα χρόνου εκτέλεσης: '
+self.assertIn("Σφάλμα χρόνου εκτέλεσης: δεν είναι δυνατή η εγγραφή του atexit μετά τον τερματισμό",
+εκτός από RuntimeError: pass
+Σφάλμα χρόνου εκτέλεσης: η γεννήτρια αγνόησε το GeneratorExit
+Σφάλμα χρόνου εκτέλεσης: το λεξικό άλλαξε μέγεθος κατά την επανάληψη
+Σφάλμα χρόνου εκτέλεσης: το λεξικό άλλαξε μέγεθος κατά την επανάληψη
+self.assertIn("Σφάλμα χρόνου εκτέλεσης: δεν είναι δυνατός ο προγραμματισμός νέων συμβάσεων μελλοντικής εκπλήρωσης", err.decode())
+εκτός από RuntimeError: pass
+εκτός από RuntimeError: pass
+εκτός από Σφάλμα χρόνου εκτέλεσης: ορίστηκε # υλοποίηση
+εκτός από Σφάλμα χρόνου εκτέλεσης: ορίστηκε # υλοποίηση
+err_msg = "Σφάλμα χρόνου εκτέλεσης: {0}".format(message_ascii)
+Σφάλμα χρόνου εκτέλεσης: αν αυτή η μέθοδος είχε ήδη κληθεί ή αν set_result()
+'Σφάλμα χρόνου εκτέλεσης: Συνέβη κάτι κακό\n'
+'Σφάλμα χρόνου εκτέλεσης: Συνέβη κάτι κακό\n'
+'Σφάλμα χρόνου εκτέλεσης: Συνέβη κάτι κακό\n'
+Σφάλμα χρόνου εκτέλεσης: δεν είναι δυνατός ο χειρισμός του σφάλματος
+Σφάλμα χρόνου εκτέλεσης: Απέτυχε το άνοιγμα της βάσης δεδομένων
+Σφάλμα χρόνου εκτέλεσης: η γεννήτρια δεν απέδωσε
+αντί για Runtime Error: Το OSError έχει ένα χαρακτηριστικό errno.
+Σφάλμα χρόνου εκτέλεσης: η γεννήτρια αύξησε το StopIteration
+Σφάλμα χρόνου εκτέλεσης: το λεξικό άλλαξε μέγεθος κατά την επανάληψη
+Σφάλμα χρόνου εκτέλεσης: Συνέβη κάτι κακό
+Σφάλμα χρόνου εκτέλεσης: Συνέβη κάτι κακό
+Σφάλμα χρόνου εκτέλεσης: Συνέβη κάτι κακό
+Διακοπή Επανάληψης: 1
+Διακοπή Επανάληψης: 1
+Εσωτερική Διακοπή Επανάληψης: 1
+Εσωτερική Διακοπή Επανάληψης: 1
+Σημειώστε ότι η επιστροφή δεν είναι πάντα ισοδύναμη με την αύξηση του StopIteration: το
+... εκτός από το StopIteration: pass
+StopΕπανάληψη:
+StopIteration: spam
+StopIteration: spam
+Σφάλμα σύνταξης: αναμενόμενο '('
+Οι χαρακτήρες που δεν είναι ascii στο όνομά του θα μπορούσαν να αποτύχουν με ένα σφάλμα "SyntaxError: None".
+Ο ακόλουθος κώδικας δημιουργεί τώρα ένα SyntaxError: foo(a = i για i στην περιοχή (10))
+errprint("%s: SyntaxError: %s" % (αρχείο, str(se)))
+Συντακτικό λάθος: ...
+Συντακτικό λάθος: ...
+b'Σφάλμα σύνταξης: f-string: δεν επιτρέπεται η κενή έκφραση',
+b'SyntaxError: μη έγκυρη ακολουθία διαφυγής \'\\q\''
+b'SyntaxError: ο πηγαίος κώδικας δεν μπορεί να περιέχει null byte'
+self.assertTrue(f"Σφάλμα σύνταξης: μη έγκυρη σύνταξη" στο tb)
+Δεν είναι δυνατή η εμφάνιση +: ** αυξήθηκε Σύνταξη Σφάλμα: μη έγκυρη σύνταξη **
+'(Pdb) *** Σφάλμα σύνταξης: \'(\' δεν έκλεισε ποτέ',
+'*** Σφάλμα σύνταξης: \'(\' δεν έκλεισε ποτέ',
+SyntaxError: το όνομα 'x' είναι παράμετρος και καθολικό
+SyntaxError: μη έγκυρη σύνταξη
+SyntaxError: δεν είναι δυνατή η αντιστοίχιση στο None
+SyntaxError: μη έγκυρη σύνταξη
+SyntaxError: δεν είναι δυνατή η αντιστοίχιση στο True
+SyntaxError: δεν είναι δυνατή η χρήση εκφράσεων ανάθεσης με True
+Σφάλμα σύνταξης: δεν είναι δυνατή η ανάθεση στο __debug__
+Σφάλμα σύνταξης: δεν είναι δυνατή η ανάθεση στο __debug__
+Σφάλμα σύνταξης: δεν είναι δυνατή η ανάθεση στο __debug__
+SyntaxError: δεν είναι δυνατή η διαγραφή __debug__
+SyntaxError: δεν είναι δυνατή η αντιστοίχιση σε κλήση συνάρτησης εδώ. Ίσως εννοούσατε '==' αντί για '=';
+SyntaxError: δεν είναι δυνατή η εκχώρηση στην απόδοση έκφρασης
+SyntaxError: δεν είναι δυνατή η διαγραφή της κλήσης συνάρτησης
+Συντακτικό Σφάλμα: δεν είναι δυνατή η ανάθεση στην έκφραση εδώ. Ίσως εννοούσατε '==' αντί για '=';
+SyntaxError: δεν είναι δυνατή η ανάθεση σε έκφραση γεννήτριας
+Συντακτικό Σφάλμα: δεν είναι δυνατή η ανάθεση στο literal εδώ. Ίσως εννοούσατε '==' αντί για '=';
+Συντακτικό Σφάλμα: δεν είναι δυνατή η ανάθεση στο literal εδώ. Ίσως εννοούσατε '==' αντί για '=';
+Συντακτικό Σφάλμα: δεν είναι δυνατή η ανάθεση στο literal εδώ. Ίσως εννοούσατε '==' αντί για '=';
+Συντακτικό Σφάλμα: δεν είναι δυνατή η αντιστοίχιση σε έλλειψη εδώ. Ίσως εννοούσατε '==' αντί για '=';
+SyntaxError: μη έγκυρη σύνταξη
+Σφάλμα σύνταξης: δεν είναι δυνατή η ανάθεση στο literal
+SyntaxError: δεν είναι δυνατή η αντιστοίχιση στο True
+Σφάλμα σύνταξης: δεν είναι δυνατή η ανάθεση στο __debug__
+SyntaxError: δεν είναι δυνατή η αντιστοίχιση στο True
+Σφάλμα σύνταξης: δεν είναι δυνατή η ανάθεση στο __debug__
+SyntaxError: δεν είναι δυνατή η ανάθεση στην έκφραση
+SyntaxError: δεν είναι δυνατή η ανάθεση στην έκφραση
+SyntaxError: δεν είναι δυνατή η ανάθεση στην έκφραση
+SyntaxError: δεν είναι δυνατή η ανάθεση σε έκφραση υπό όρους
+SyntaxError: αναμενόμενο "άλλο" μετά την έκφραση "αν".
+SyntaxError: αναμενόμενο "άλλο" μετά την έκφραση "αν".
+SyntaxError: αναμενόμενο "άλλο" μετά την έκφραση "αν".
+SyntaxError: μη έγκυρη σύνταξη
+SyntaxError: δεν είναι δυνατή η αντιστοίχιση στο True
+SyntaxError: δεν είναι δυνατή η αντιστοίχιση στο True
+SyntaxError: δεν είναι δυνατή η εκχώρηση στην απόδοση έκφρασης
+SyntaxError: Το "tuple" είναι μια παράνομη έκφραση για επαυξημένη ανάθεση
+SyntaxError: Το "tuple" είναι μια παράνομη έκφραση για επαυξημένη ανάθεση
+SyntaxError: Το 'list' είναι μια παράνομη έκφραση για επαυξημένη ανάθεση
+SyntaxError: δεν είναι δυνατή η αντιστοίχιση σε κλήση συνάρτησης
+SyntaxError: δεν είναι δυνατή η αντιστοίχιση σε κλήση συνάρτησης
+SyntaxError: δεν είναι δυνατή η αντιστοίχιση σε κλήση συνάρτησης
+SyntaxError: δεν είναι δυνατή η ανάθεση στην έκφραση
+SyntaxError: δεν είναι δυνατή η αντιστοίχιση σε κλήση συνάρτησης
+SyntaxError: δεν είναι δυνατή η αντιστοίχιση σε κλήση συνάρτησης
+SyntaxError: δεν είναι δυνατή η ανάθεση στην έκφραση
+SyntaxError: μη έγκυρη σύνταξη
+SyntaxError: μη έγκυρη σύνταξη
+SyntaxError: δεν είναι δυνατή η αντιστοίχιση σε κλήση συνάρτησης
+SyntaxError: δεν είναι δυνατή η αντιστοίχιση σε κλήση συνάρτησης
+SyntaxError: δεν είναι δυνατή η αντιστοίχιση σε κλήση συνάρτησης
+SyntaxError: δεν είναι δυνατή η ανάθεση στην έκφραση
+SyntaxError: δεν είναι δυνατή η αντιστοίχιση σε κλήση συνάρτησης
+SyntaxError: δεν είναι δυνατή η αντιστοίχιση σε κλήση συνάρτησης
+Σφάλμα σύνταξης: αναμενόμενο ':'
+SyntaxError: μη έγκυρη σύνταξη
+SyntaxError: ξεχάσατε τις παρενθέσεις γύρω από τον στόχο κατανόησης;
+SyntaxError: ξεχάσατε τις παρενθέσεις γύρω από τον στόχο κατανόησης;
+SyntaxError: μη έγκυρη σύνταξη. Ίσως ξεχάσατε ένα κόμμα;
+SyntaxError: μη έγκυρη σύνταξη. Ίσως ξεχάσατε ένα κόμμα;
+SyntaxError: μη έγκυρη σύνταξη. Ίσως ξεχάσατε ένα κόμμα;
+SyntaxError: μη έγκυρη σύνταξη. Ίσως ξεχάσατε ένα κόμμα;
+SyntaxError: μη έγκυρη σύνταξη
+SyntaxError: μη έγκυρη σύνταξη
+SyntaxError: μη έγκυρη σύνταξη
+SyntaxError: μη έγκυρη σύνταξη
+SyntaxError: μη έγκυρη σύνταξη
+SyntaxError: μη έγκυρη σύνταξη
+SyntaxError: παράμετρος χωρίς προεπιλογή ακολουθεί την παράμετρο με προεπιλογή
+SyntaxError: παράμετρος χωρίς προεπιλογή ακολουθεί την παράμετρο με προεπιλογή
+SyntaxError: μη έγκυρη σύνταξη
+SyntaxError: μη έγκυρη σύνταξη
+SyntaxError: μη έγκυρη σύνταξη
+SyntaxError: τουλάχιστον ένα όρισμα πρέπει να προηγείται /
+SyntaxError: / μπορεί να εμφανιστεί μόνο μία φορά
+SyntaxError: / μπορεί να εμφανιστεί μόνο μία φορά
+SyntaxError: / μπορεί να εμφανιστεί μόνο μία φορά
+SyntaxError: / μπορεί να εμφανιστεί μόνο μία φορά
+SyntaxError: / πρέπει να είναι μπροστά από *
+SyntaxError: / πρέπει να είναι μπροστά από *
+SyntaxError: Το όρισμα var-positional δεν μπορεί να έχει προεπιλεγμένη τιμή
+SyntaxError: Το όρισμα var-positional δεν μπορεί να έχει προεπιλεγμένη τιμή
+SyntaxError: το όρισμα var-keyword δεν μπορεί να έχει προεπιλεγμένη τιμή
+SyntaxError: το όρισμα var-keyword δεν μπορεί να έχει προεπιλεγμένη τιμή
+SyntaxError: τα ορίσματα δεν μπορούν να ακολουθήσουν το όρισμα var-keyword
+SyntaxError: τα ορίσματα δεν μπορούν να ακολουθήσουν το όρισμα var-keyword
+SyntaxError: τα ορίσματα δεν μπορούν να ακολουθήσουν το όρισμα var-keyword
+SyntaxError: τα ορίσματα δεν μπορούν να ακολουθήσουν το όρισμα var-keyword
+SyntaxError: τα ορίσματα δεν μπορούν να ακολουθήσουν το όρισμα var-keyword
+SyntaxError: Το όρισμα * μπορεί να εμφανιστεί μόνο μία φορά
+SyntaxError: Το όρισμα * μπορεί να εμφανιστεί μόνο μία φορά
+SyntaxError: Το όρισμα * μπορεί να εμφανιστεί μόνο μία φορά
+SyntaxError: Το όρισμα * μπορεί να εμφανιστεί μόνο μία φορά
+SyntaxError: αναμενόμενο κόμμα μεταξύ / και *
+SyntaxError: αναμενόμενη προεπιλεγμένη έκφραση τιμής
+SyntaxError: αναμενόμενη προεπιλεγμένη έκφραση τιμής
+SyntaxError: αναμενόμενη προεπιλεγμένη έκφραση τιμής
+SyntaxError: τουλάχιστον ένα όρισμα πρέπει να προηγείται /
+SyntaxError: / μπορεί να εμφανιστεί μόνο μία φορά
+SyntaxError: / μπορεί να εμφανιστεί μόνο μία φορά
+SyntaxError: / μπορεί να εμφανιστεί μόνο μία φορά
+SyntaxError: / μπορεί να εμφανιστεί μόνο μία φορά
+SyntaxError: / πρέπει να είναι μπροστά από *
+SyntaxError: / πρέπει να είναι μπροστά από *
+SyntaxError: αναμενόμενο κόμμα μεταξύ / και *
+SyntaxError: Το όρισμα var-positional δεν μπορεί να έχει προεπιλεγμένη τιμή
+SyntaxError: το όρισμα var-keyword δεν μπορεί να έχει προεπιλεγμένη τιμή
+SyntaxError: τα ορίσματα δεν μπορούν να ακολουθήσουν το όρισμα var-keyword
+SyntaxError: τα ορίσματα δεν μπορούν να ακολουθήσουν το όρισμα var-keyword
+SyntaxError: τα ορίσματα δεν μπορούν να ακολουθήσουν το όρισμα var-keyword
+SyntaxError: τα ορίσματα δεν μπορούν να ακολουθήσουν το όρισμα var-keyword
+SyntaxError: τα ορίσματα δεν μπορούν να ακολουθήσουν το όρισμα var-keyword
+SyntaxError: Το όρισμα * μπορεί να εμφανιστεί μόνο μία φορά
+SyntaxError: Το όρισμα * μπορεί να εμφανιστεί μόνο μία φορά
+SyntaxError: Το όρισμα * μπορεί να εμφανιστεί μόνο μία φορά
+SyntaxError: Το όρισμα * μπορεί να εμφανιστεί μόνο μία φορά
+SyntaxError: αναμενόμενη προεπιλεγμένη έκφραση τιμής
+SyntaxError: αναμενόμενη προεπιλεγμένη έκφραση τιμής
+SyntaxError: παράμετρος χωρίς προεπιλογή ακολουθεί την παράμετρο με προεπιλογή
+SyntaxError: παράμετρος χωρίς προεπιλογή ακολουθεί την παράμετρο με προεπιλογή
+Σφάλμα σύνταξης: bare * έχει συσχετισμένο τύπο σχολίου
+SyntaxError: μη έγκυρη σύνταξη
+SyntaxError: Η έκφραση γεννήτριας πρέπει να μπει σε παρένθεση
+SyntaxError: Η έκφραση γεννήτριας πρέπει να μπει σε παρένθεση
+SyntaxError: Η έκφραση γεννήτριας πρέπει να μπει σε παρένθεση
+SyntaxError: Η έκφραση γεννήτριας πρέπει να μπει σε παρένθεση
+SyntaxError: Η έκφραση γεννήτριας πρέπει να μπει σε παρένθεση
+SyntaxError: Η έκφραση γεννήτριας πρέπει να μπει σε παρένθεση
+SyntaxError: Η έκφραση γεννήτριας πρέπει να μπει σε παρένθεση
+SyntaxError: μη έγκυρη σύνταξη
+SyntaxError: η έκφραση δεν μπορεί να περιέχει εκχώρηση, ίσως εννοούσατε "==";
+SyntaxError: μη έγκυρη σύνταξη
+SyntaxError: η έκφραση δεν μπορεί να περιέχει εκχώρηση, ίσως εννοούσατε "==";
+SyntaxError: η έκφραση δεν μπορεί να περιέχει εκχώρηση, ίσως εννοούσατε "==";
+SyntaxError: η έκφραση δεν μπορεί να περιέχει εκχώρηση, ίσως εννοούσατε "==";
+SyntaxError: η έκφραση δεν μπορεί να περιέχει εκχώρηση, ίσως εννοούσατε "==";
+SyntaxError: δεν είναι δυνατή η αντιστοίχιση στο True
+SyntaxError: δεν είναι δυνατή η ανάθεση σε False
+SyntaxError: δεν είναι δυνατή η αντιστοίχιση στο None
+Σφάλμα σύνταξης: δεν είναι δυνατή η ανάθεση στο __debug__
+Σφάλμα σύνταξης: δεν είναι δυνατή η ανάθεση στο __debug__
+SyntaxError: αναμενόμενη έκφραση τιμής ορίσματος
+SyntaxError: αναμενόμενη έκφραση τιμής ορίσματος
+SyntaxError: αναμενόμενη έκφραση τιμής ορίσματος
+SyntaxError: δεν είναι δυνατή η αντιστοίχιση σε επαναληπτική αποσυσκευασία ορίσματος
+SyntaxError: δεν είναι δυνατή η αντιστοίχιση σε επαναληπτική αποσυσκευασία ορίσματος
+SyntaxError: δεν είναι δυνατή η ανάθεση στην αποσυσκευασία του ορίσματος λέξης-κλειδιού
+SyntaxError: δεν είναι δυνατή η ανάθεση στην αποσυσκευασία του ορίσματος λέξης-κλειδιού
+SyntaxError: Η "έκφραση γεννήτριας" είναι μια παράνομη έκφραση για επαυξημένη ανάθεση
+SyntaxError: "Κανένα" είναι μια παράνομη έκφραση για επαυξημένη ανάθεση
+Σφάλμα σύνταξης: δεν είναι δυνατή η ανάθεση στο __debug__
+SyntaxError: Η "κλήση συνάρτησης" είναι μια παράνομη έκφραση για επαυξημένη ανάθεση
+Σφάλμα σύνταξης: «συνέχεια» δεν είναι σωστά στο βρόχο
+Σφάλμα σύνταξης: "σπάσιμο" εξωτερικού βρόχου
+Σφάλμα σύνταξης: το όνομα 'x' χρησιμοποιείται πριν από την καθολική δήλωση
+SyntaxError: το όνομα 'x' έχει εκχωρηθεί πριν από την καθολική δήλωση
+SyntaxError: το όνομα 'x' είναι παράμετρος και καθολικό
+SyntaxError: το όνομα 'x' χρησιμοποιείται πριν από τη μη τοπική δήλωση
+SyntaxError: το όνομα 'x' εκχωρείται πριν από τη μη τοπική δήλωση
+SyntaxError: το όνομα 'x' είναι παράμετρος και μη τοπικό
+SyntaxError: το όνομα 'x' δεν είναι τοπικό και καθολικό
+SyntaxError: δεν βρέθηκε δέσμευση για μη τοπικό 'x'
+SyntaxError: η μη τοπική δήλωση δεν επιτρέπεται σε επίπεδο λειτουργικής μονάδας
+SyntaxError: δεν βρέθηκε δέσμευση για μη τοπικό '_A__x'
+SyntaxError: δεν είναι δυνατή η αντιστοίχιση σε κλήση συνάρτησης εδώ. Ίσως εννοούσατε '==' αντί για '=';
+SyntaxError: δεν είναι δυνατή η αντιστοίχιση σε κλήση συνάρτησης εδώ. Ίσως εννοούσατε '==' αντί για '=';
+SyntaxError: δεν είναι δυνατή η αντιστοίχιση σε κλήση συνάρτησης εδώ. Ίσως εννοούσατε '==' αντί για '=';
+SyntaxError: δεν είναι δυνατή η αντιστοίχιση σε κλήση συνάρτησης εδώ. Ίσως εννοούσατε '==' αντί για '=';
+SyntaxError: δεν είναι δυνατή η αντιστοίχιση σε κλήση συνάρτησης εδώ. Ίσως εννοούσατε '==' αντί για '=';
+Σφάλμα σύνταξης: αναμενόμενο ':'
+Σφάλμα σύνταξης: αναμενόμενο ':'
+SyntaxError: μη έγκυρη σύνταξη
+Σφάλμα σύνταξης: αναμενόμενο ':'
+Σφάλμα σύνταξης: αναμενόμενο ':'
+Σφάλμα σύνταξης: αναμενόμενο ':'
+Σφάλμα σύνταξης: αναμενόμενο ':'
+SyntaxError: μη έγκυρη σύνταξη
+Σφάλμα σύνταξης: αναμενόμενο ':'
+Σφάλμα σύνταξης: αναμενόμενο ':'
+Σφάλμα σύνταξης: αναμενόμενο ':'
+Σφάλμα σύνταξης: αναμενόμενο ':'
+Σφάλμα σύνταξης: αναμενόμενο ':'
+Σφάλμα σύνταξης: αναμενόμενο ':'
+Σφάλμα σύνταξης: αναμενόμενο ':'
+Σφάλμα σύνταξης: αναμενόμενο ':'
+Σφάλμα σύνταξης: αναμενόμενο ':'
+SyntaxError: μη έγκυρη σύνταξη
+Σφάλμα σύνταξης: αναμενόμενο ':'
+Σφάλμα σύνταξης: αναμενόμενο ':'
+Σφάλμα σύνταξης: αναμενόμενο ':'
+SyntaxError: μη έγκυρη σύνταξη
+Σφάλμα σύνταξης: αναμενόμενο ':'
+Σφάλμα σύνταξης: αναμενόμενο ':'
+SyntaxError: μη έγκυρη σύνταξη. Ίσως εννοούσατε '==' ή ':=' αντί για '=';
+SyntaxError: μη έγκυρη σύνταξη. Ίσως εννοούσατε '==' ή ':=' αντί για '=';
+SyntaxError: δεν είναι δυνατή η ανάθεση χαρακτηριστικού εδώ. Ίσως εννοούσατε '==' αντί για '=';
+SyntaxError: δεν είναι δυνατή η ανάθεση χαρακτηριστικού εδώ. Ίσως εννοούσατε '==' αντί για '=';
+Σφάλμα σύνταξης: αναμενόμενο '('
+Σφάλμα σύνταξης: αναμενόμενο '('
+SyntaxError: Οι παράμετροι συνάρτησης δεν μπορούν να τεθούν σε παρένθεση
+SyntaxError: Οι παράμετροι συνάρτησης δεν μπορούν να τεθούν σε παρένθεση
+SyntaxError: Οι παράμετροι συνάρτησης δεν μπορούν να τεθούν σε παρένθεση
+SyntaxError: Οι παράμετροι συνάρτησης δεν μπορούν να τεθούν σε παρένθεση
+SyntaxError: Οι παράμετροι έκφρασης λάμδα δεν μπορούν να τεθούν σε παρένθεση
+SyntaxError: Οι παράμετροι έκφρασης λάμδα δεν μπορούν να τεθούν σε παρένθεση
+SyntaxError: Οι παράμετροι έκφρασης λάμδα δεν μπορούν να τεθούν σε παρένθεση
+SyntaxError: Οι παράμετροι έκφρασης λάμδα δεν μπορούν να τεθούν σε παρένθεση
+SyntaxError: αναμενόμενο αποκλεισμό "εκτός" ή "τελικά".
+SyntaxError: δεν μπορεί να έχει και το "except" και το "except*" στο ίδιο "try"
+SyntaxError: δεν μπορεί να έχει και το "except" και το "except*" στο ίδιο "try"
+SyntaxError: δεν μπορεί να έχει και το "except" και το "except*" στο ίδιο "try"
+SyntaxError: δεν μπορεί να έχει και το "except" και το "except*" στο ίδιο "try"
+SyntaxError: μη έγκυρη σύνταξη
+SyntaxError: μη έγκυρη σύνταξη
+SyntaxError: μη έγκυρη σύνταξη
+SyntaxError: μη έγκυρη σύνταξη
+Σφάλμα σύνταξης: ':' αναμένεται μετά το κλειδί λεξικού
+SyntaxError: αναμένεται έκφραση μετά το κλειδί λεξικού και το ':'
+SyntaxError: δεν είναι δυνατή η χρήση μιας έκφρασης με αστέρι σε μια τιμή λεξικού
+SyntaxError: δεν είναι δυνατή η χρήση μιας έκφρασης με αστέρι σε μια τιμή λεξικού
+SyntaxError: δεν είναι δυνατή η χρήση μιας έκφρασης με αστέρι σε μια τιμή λεξικού
+SyntaxError: αναμένεται έκφραση μετά το κλειδί λεξικού και το ':'
+SyntaxError: μη έγκυρη σύνταξη
+SyntaxError: μη έγκυρη σύνταξη
+SyntaxError: μη έγκυρη σύνταξη
+SyntaxError: μη έγκυρη σύνταξη
+SyntaxError: μη έγκυρη σύνταξη
+SyntaxError: πρέπει να μπουν σε παρένθεση πολλαπλοί τύποι εξαιρέσεων
+SyntaxError: πρέπει να μπουν σε παρένθεση πολλαπλοί τύποι εξαιρέσεων
+SyntaxError: πρέπει να μπουν σε παρένθεση πολλαπλοί τύποι εξαιρέσεων
+SyntaxError: πρέπει να μπουν σε παρένθεση πολλαπλοί τύποι εξαιρέσεων
+SyntaxError: πρέπει να μπουν σε παρένθεση πολλαπλοί τύποι εξαιρέσεων
+SyntaxError: πρέπει να μπουν σε παρένθεση πολλαπλοί τύποι εξαιρέσεων
+SyntaxError: πρέπει να μπουν σε παρένθεση πολλαπλοί τύποι εξαιρέσεων
+SyntaxError: πρέπει να μπουν σε παρένθεση πολλαπλοί τύποι εξαιρέσεων
+SyntaxError: αναμένεται ένας ή περισσότεροι τύποι εξαίρεσης
+Σφάλμα σύνταξης: επαναλαμβάνεται το όρισμα λέξης-κλειδιού: α
+Συντακτικό Σφάλμα: δεν είναι δυνατή η ανάθεση για να ορίσετε την εμφάνιση εδώ. Ίσως εννοούσατε '==' αντί για '=';
+Σφάλμα σύνταξης: δεν είναι δυνατή η αντιστοίχιση στην κυριολεξία εδώ. Ίσως εννοούσατε '==' αντί για '=';
+Συντακτικό Σφάλμα: δεν είναι δυνατή η αντιστοίχιση στην έκφραση f-string εδώ. Ίσως εννοούσατε '==' αντί για '=';
+Συντακτικό Σφάλμα: δεν είναι δυνατή η αντιστοίχιση στην έκφραση f-string εδώ. Ίσως εννοούσατε '==' αντί για '=';
+SyntaxError: μη έγκυρη σύνταξη. Ίσως εννοούσατε '==' ή ':=' αντί για '=';
+SyntaxError: μη έγκυρη σύνταξη. Ίσως εννοούσατε '==' ή ':=' αντί για '=';
+SyntaxError: μη έγκυρη σύνταξη. Ίσως εννοούσατε '==' ή ':=' αντί για '=';
+SyntaxError: μη έγκυρη σύνταξη. Ίσως εννοούσατε '==' ή ':=' αντί για '=';
+SyntaxError: μη έγκυρη σύνταξη. Ίσως εννοούσατε '==' ή ':=' αντί για '=';
+Σφάλμα σύνταξης: δεν επιτρέπεται το ακραίο κόμμα χωρίς παρενθέσεις
+Σφάλμα σύνταξης: δεν επιτρέπεται το ακραίο κόμμα χωρίς παρενθέσεις
+SyntaxError: Μήπως εννοούσατε να χρησιμοποιήσετε το 'από ... εισαγωγή ...';
+SyntaxError: Μήπως εννοούσατε να χρησιμοποιήσετε το 'από ... εισαγωγή ...';
+SyntaxError: Μήπως εννοούσατε να χρησιμοποιήσετε το 'από ... εισαγωγή ...';
+SyntaxError: Μήπως εννοούσατε να χρησιμοποιήσετε το 'από ... εισαγωγή ...';
+SyntaxError: μη έγκυρη σύνταξη
+Σφάλμα σύνταξης: μόνο μεμονωμένος στόχος (όχι πλειάδα) μπορεί να σχολιαστεί
+Σφάλμα σύνταξης: μόνο μεμονωμένος στόχος (όχι λίστα) μπορεί να σχολιαστεί
+Σφάλμα σύνταξης: μόνο μεμονωμένος στόχος (όχι πλειάδα) μπορεί να σχολιαστεί
+Σφάλμα σύνταξης: μόνο μεμονωμένος στόχος (όχι λίστα) μπορεί να σχολιαστεί
+Σφάλμα σύνταξης: δεν είναι δυνατή η ανάθεση στο __debug__
+Σφάλμα σύνταξης: δεν είναι δυνατή η ανάθεση στο __debug__
+Σφάλμα σύνταξης: δεν είναι δυνατή η ανάθεση στο __debug__
+Σφάλμα σύνταξης: τα ονομαστικά ορίσματα πρέπει να ακολουθούν γυμνά *
+Σφάλμα σύνταξης: δεν είναι δυνατή η ανάθεση στο __debug__
+Σφάλμα σύνταξης: δεν είναι δυνατή η ανάθεση στο __debug__
+Σφάλμα σύνταξης: μη έγκυρος χαρακτήρας '£' (U+00A3)
+SyntaxError: δεν είναι δυνατή η χρήση του '_' ως στόχο
+SyntaxError: μη έγκυρος στόχος μοτίβου
+SyntaxError: τα μοτίβα θέσης ακολουθούν τα μοτίβα λέξεων-κλειδιών
+SyntaxError: τα μοτίβα θέσης ακολουθούν τα μοτίβα λέξεων-κλειδιών
+SyntaxError: τα μοτίβα θέσης ακολουθούν τα μοτίβα λέξεων-κλειδιών
+SyntaxError: τα μοτίβα θέσης ακολουθούν τα μοτίβα λέξεων-κλειδιών
+SyntaxError: μη έγκυρη σύνταξη
+SyntaxError: δεν είναι δυνατή η χρήση της έκφρασης με αστέρι εδώ
+SyntaxError: μη έγκυρη σύνταξη
+SyntaxError: μη έγκυρη σύνταξη
+SyntaxError: μη έγκυρη σύνταξη
+SyntaxError: δεν είναι δυνατή η χρήση της έκφρασης με αστέρι εδώ
+SyntaxError: μη έγκυρη σύνταξη
+SyntaxError: μη έγκυρη σύνταξη
+SyntaxError: μη έγκυρη σύνταξη
+SyntaxError: μη έγκυρη σύνταξη
+SyntaxError: μη έγκυρη σύνταξη
+SyntaxError: μη έγκυρη σύνταξη
+SyntaxError: μη έγκυρη σύνταξη
+SyntaxError: μη έγκυρη σύνταξη
+SyntaxError: μη έγκυρη σύνταξη
+SyntaxError: μη έγκυρη σύνταξη
+SyntaxError: μη έγκυρη σύνταξη
+SyntaxError: μη έγκυρη σύνταξη
+SyntaxError: μη έγκυρη σύνταξη
+SyntaxError: μη έγκυρη σύνταξη
+SyntaxError: μη έγκυρη σύνταξη
+SyntaxError: μη έγκυρη σύνταξη
+SyntaxError: μη έγκυρη σύνταξη
+SyntaxError: μη έγκυρη σύνταξη
+SyntaxError: μη έγκυρη σύνταξη
+SyntaxError: μη έγκυρη σύνταξη
+SyntaxError: μη έγκυρη σύνταξη
+SyntaxError: μη έγκυρη σύνταξη
+SyntaxError: μη έγκυρη σύνταξη. Ίσως εννοούσατε '==' ή ':=' αντί για '=';
+SyntaxError: δεν είναι δυνατή η ανάθεση σε έκφραση γεννήτριας
+SyntaxError: Η "έκφραση γεννήτριας" είναι μια παράνομη έκφραση για επαυξημένη ανάθεση
+εκτός από SyntaxError: pass
+SyntaxError: "απόδοση" εξωτερική συνάρτηση
+# SyntaxError: δεν είναι δυνατή η εκχώρηση στην έκφραση απόδοσης
+Συντακτικό Σφάλμα: δεν είναι δυνατή η ανάθεση στην απόδοση έκφρασης εδώ. Ίσως εννοούσατε '==' αντί για '=';
+SyntaxError: Η 'έκφραση απόδοσης' είναι μια παράνομη έκφραση για επαυξημένη ανάθεση
+εκτός από SyntaxError: pass
+Σφάλμα σύνταξης: κακό κακό
+Σφάλμα σύνταξης: κακό κακό
+Σφάλμα σύνταξης: κακό κακό
+Σφάλμα σύνταξης: κακό κακό
+Σφάλμα σύνταξης: κακό κακό
+Σφάλμα σύνταξης: κακό κακό
+Σφάλμα σύνταξης: κακό κακό
+Σφάλμα σύνταξης: κακό κακό
+Σφάλμα σύνταξης: κακό κακό
+self.assertIn("Σφάλμα σύνταξης: Κώδικας που δεν είναι UTF-8 που ξεκινά με '\\x89' στο αρχείο", err[-1])
+Σφάλμα σύνταξης: η επαναληπτική αποσυσκευασία δεν μπορεί να χρησιμοποιηθεί για κατανόηση
+Σφάλμα σύνταξης: η επαναληπτική αποσυσκευασία δεν μπορεί να χρησιμοποιηθεί για κατανόηση
+Σφάλμα σύνταξης: η επαναληπτική αποσυσκευασία δεν μπορεί να χρησιμοποιηθεί για κατανόηση
+Σφάλμα σύνταξης: η επαναληπτική αποσυσκευασία δεν μπορεί να χρησιμοποιηθεί για κατανόηση
+Σφάλμα σύνταξης: Η αποσυσκευασία ψηφίσματος δεν μπορεί να χρησιμοποιηθεί στην κατανόηση ψηφίσματος
+# SyntaxError: μη έγκυρη σύνταξη
+SyntaxError: μη έγκυρη σύνταξη
+SyntaxError: πολλαπλές εκφράσεις με αστέρι στην ανάθεση
+SyntaxError: πολλαπλές εκφράσεις με αστέρι στην ανάθεση
+SyntaxError: πολλαπλές εκφράσεις με αστέρι στην ανάθεση
+SyntaxError: ο στόχος ανάθεσης με αστέρι πρέπει να βρίσκεται σε λίστα ή πλειάδα
+SyntaxError: δεν είναι δυνατή η χρήση της έκφρασης με αστέρι εδώ
+SyntaxError: δεν είναι δυνατή η χρήση της έκφρασης με αστέρι εδώ
+SyntaxError: δεν είναι δυνατή η χρήση της έκφρασης με αστέρι εδώ
+SyntaxError: δεν είναι δυνατή η χρήση της έκφρασης με αστέρι εδώ
+SyntaxError: δεν είναι δυνατή η χρήση της έκφρασης με αστέρι εδώ
+SyntaxError: δεν είναι δυνατή η χρήση της έκφρασης με αστέρι εδώ
+SyntaxError: δεν είναι δυνατή η χρήση της έκφρασης με αστέρι εδώ
+SyntaxError: δεν είναι δυνατή η χρήση της έκφρασης με αστέρι εδώ
+SyntaxError: πάρα πολλές εκφράσεις στην ανάθεση αποσυσκευασίας αστεριών
+SyntaxError: πάρα πολλές εκφράσεις στην ανάθεση αποσυσκευασίας αστεριών
+'Σφάλμα σύνταξης: μη έγκυρη σύνταξη'
+Συντακτικό λάθος: ...
+Συντακτικό λάθος: ...
+? # SyntaxError: μη έγκυρη σύνταξη
+self.assertTrue(err.endswith("Σφάλμα σύνταξης: msg\n"))
+SyntaxError: μη έγκυρη σύνταξη
+SyntaxError: επαναλαμβάνεται το όρισμα λέξης-κλειδιού: metaclass
+error = "SyntaxError: (σφάλμα uncode) \\N διαφυγές δεν υποστηρίζεται " \
+['Σφάλμα σύνταξης: κακή σύνταξη'])
+[' Αρχείο "<string>", γραμμή 100', 'Σφάλμα σύνταξης: κακή σύνταξη'])
+['Σφάλμα σύνταξης: κακή σύνταξη (myfile.py)'])
+[' Αρχείο "myfile.py", γραμμή 100", "Σφάλμα σύνταξης: κακή σύνταξη"])
+expect.append("Σφάλμα σύνταξης: msg")
+εκτός από SyntaxError: # Αφήστε άλλα σφάλματα compile() να διαδοθούν.
+self.write("Σφάλμα σύνταξης: %s\n" % msg)
+SyntaxError: μη έγκυρη σύνταξη
+SyntaxError: ξεχάσατε τις παρενθέσεις γύρω από τον στόχο κατανόησης;
+SyntaxError: μη έγκυρη σύνταξη
+SyntaxError: μη έγκυρη σύνταξη
+Σφάλμα σύνταξης: μη έγκυρο δεκαδικό γράμμα
+Σφάλμα σύνταξης: ατέρμονη συμβολοσειρά κυριολεκτικά (εντοπίζεται στη γραμμή 1)
+SyntaxError: Μήπως εννοούσατε να χρησιμοποιήσετε το 'από ... εισαγωγή ...';
+*Σφάλμα σύνταξης: απροσδόκητο EOF κατά την ανάλυση* ή κατάδειξη κάποιας λανθασμένης τοποθεσίας.
+SyntaxError: μη έγκυρη σύνταξη
+Σφάλμα σύνταξης: Το '{' δεν έκλεισε ποτέ
+SyntaxError: Η έκφραση γεννήτριας πρέπει να μπει σε παρένθεση
+SyntaxError: Η έκφραση γεννήτριας πρέπει να μπει σε παρένθεση
+Σφάλμα σύνταξης: αναμενόμενο ':'
+SyntaxError: ξεχάσατε τις παρενθέσεις γύρω από τον στόχο κατανόησης;
+SyntaxError: μη έγκυρη σύνταξη. Ίσως ξεχάσατε ένα κόμμα;
+SyntaxError: πρέπει να μπουν σε παρένθεση πολλαπλοί τύποι εξαιρέσεων
+SyntaxError: αναμένεται έκφραση μετά το κλειδί λεξικού και το ':'
+Σφάλμα σύνταξης: ':' αναμένεται μετά το κλειδί λεξικού
+SyntaxError: αναμενόμενο αποκλεισμό "εκτός" ή "τελικά".
+SyntaxError: δεν είναι δυνατή η ανάθεση χαρακτηριστικού εδώ. Ίσως εννοούσατε '==' αντί για '=';
+SyntaxError: f-string: δεν μπορεί να χρησιμοποιηθεί έκφραση με αστέρι εδώ
+else: self.fail ("TabError not raised")
+ckmsg(s, "ασυνεπής χρήση καρτελών και διαστημάτων σε εσοχή", TabError)
+EXPORT_DATA (PyExc_SystemError)
+αύξηση :exc:`TypeError` αντί για :exe:`Σφάλμα συστήματος` όταν εκτελείται σε
+Τα PyObject_Call() και PyCFunction_Call() δημιουργούν τώρα ένα SystemError εάν μια συνάρτηση
+επιστρέφει ένα αποτέλεσμα και δημιουργεί μια εξαίρεση. Το SystemError είναι συνδεδεμένο με το
+πολλή μνήμη και αυξημένο SystemError ή MemoryError. Πρωτότυπο patch από τον Aleksi
+Σφάλμα συστήματος.
+Αυξήστε ένα TypeError αντί για SystemError σε περίπτωση που το warnings.onceregistry είναι
+αποτυχία με SystemError. Η σχετική εισαγωγή από μη συσκευασία πλέον αποτυγχάνει με
+ImportError και όχι SystemError.
+Αποτρέψτε την codecs.escape_encode() από την αύξηση του SystemError όταν είναι κενό
+Η εισαγωγή αυξάνει το ImportError αντί για το SystemError, εάν υπάρχει σχετική εισαγωγή
+Raise ValueError αντί SystemError όταν μεταβιβάζεται ένα αρνητικό μήκος σε
+Διορθώθηκε το Σφάλμα συστήματος που προέκυψε από το πρόγραμμα απομάκρυνσης σε σπασμένα δεδομένα τουρσί.
+Το SystemError εμφανίζεται πλέον σε όλα τα σφάλματα προγραμματισμού με τη χρήση
+Μονάδες μορφής "es#" και "et#". Το SystemError εμφανίζεται τώρα αντί για
+Διορθώστε ένα Σφάλμα συστήματος κατά την εφαρμογή της δήλωσης "αύξηση". Σε ολοκαίνουργιο
+Σφάλμα συστήματος.
+Αποτρέψτε την codecs.escape_encode() από την αύξηση του SystemError όταν είναι κενό
+Αύξηση "NotImplementedError" αντί για "SystemError" σε πλατφόρμες όπου
+αύξηση :exc:`TypeError` αντί για :exe:`Σφάλμα συστήματος` όταν εκτελείται σε
+Διορθώθηκε το Σφάλμα συστήματος εάν ένα προσαρμοσμένο πρόγραμμα ανοίγματος (για open()) εμφανίσει αρνητικό αριθμό
+Αύξηση "NotImplementedError" αντί για "SystemError" σε πλατφόρμες όπου
+Αποτρέψτε την codecs.escape_encode() από την αύξηση του SystemError όταν είναι κενό
+Η αύξηση του σφάλματος συστήματος κατά την εισαγωγή θα έχει πλέον την αιτία του να οριστεί στην αρχική
+Διορθώστε το Σύστημα Σφάλμα / σφάλμα τμηματοποίησης στο iter ``__reduce__`` όταν είναι εσωτερικό
+Οι επαναλήπτες με δυνατότητα κλήσης δεν αυξάνουν πλέον το :class:`Σφάλμα συστήματος` όταν το καλέσιμο
+Διορθώστε ένα Σφάλμα συστήματος κατά την εφαρμογή της δήλωσης "αύξηση". Σε ολοκαίνουργιο
+Αύξηση :exc:`ValueError` αντί για :exe:`Σφάλμα συστήματος` όταν οι μέθοδοι
+αποτυχία με SystemError. Η σχετική εισαγωγή από μη συσκευασία πλέον αποτυγχάνει με
+ImportError και όχι SystemError.
+Διορθώστε το ``Σφάλμα συστήματος`` στο :mod:`ctypes` όταν δεν ορίστηκε εξαίρεση κατά τη διάρκεια
+Διορθώστε μια πιθανή αποτυχία διεκδίκησης, μοιραίο σφάλμα ή :exc:`Σφάλμα συστήματος` εάν
+Προηγουμένως θα μπορούσε να προκαλέσει Σφάλμα συστήματος ή άλλη ανεπιθύμητη συμπεριφορά.
+:c:func:`PyUnicode_FromFormatV` ορίζει τώρα ένα :exc:`Σφάλμα συστήματος`. Στο προηγούμενο
+Διορθώστε το "Σφάλμα συστήματος" που παρουσιάστηκε όταν το :c:func:`PyArg_ParseTupleAndKeywords" είναι
+Διορθώστε το ``Σφάλμα συστήματος`` όταν η ένθετη συνάρτηση έχει σχολιασμό μόνο σε θέση
+Αυξήστε ένα TypeError αντί για SystemError σε περίπτωση που το warnings.onceregistry είναι
+αποτυχία με SystemError. Η σχετική εισαγωγή από μη συσκευασία πλέον αποτυγχάνει με
+ImportError και όχι SystemError.
+Διορθώστε τα segfaults και τα :exe:`Σφάλμα συστήματος κατά τη διαγραφή ορισμένων χαρακτηριστικών.
+Διορθώθηκε ένα Σφάλμα συστήματος κατά τη διαγραφή του χαρακτηριστικού characters_written του an
+Διορθώστε μια κατάσταση εξαίρεσης που δεν χειρίστηκε σπάνια διερμηνέας Σφάλμα συστήματος που εμφανίζεται μόνο όταν
+αύξηση :exc:`TypeError` αντί για :exe:`Σφάλμα συστήματος` όταν εκτελείται σε
+Διορθώθηκε το :exc:`Σφάλμα συστήματος` στο :c:func:`PyArg_ParseTupleAndKeywords` όταν
+Εξαιρέσεις :exc:`Σφάλμα συστήματος`. Patch του Victor Stinner.
+Διορθώστε ένα πιθανό :exc:`Σφάλμα συστήματος` στο ``math.{atan2,copysign,remainder}()``
+όνομα μεθόδου στο μήνυμα σφάλματος SystemError "κακές σημαίες κλήσης" για διευκόλυνση του εντοπισμού σφαλμάτων.
+:c:func:`PyNumber_ToBase` τώρα δημιουργεί ένα :exc:`Σφάλμα συστήματος` αντί για
+Διορθώθηκε το Σφάλμα συστήματος εάν ένα προσαρμοσμένο πρόγραμμα ανοίγματος (για open()) εμφανίσει αρνητικό αριθμό
+Raise ValueError αντί SystemError όταν μεταβιβάζεται ένα αρνητικό μήκος σε
+importlib.__import__() αυξάνει το SystemError όπως ενσωματωμένα.__import__() όταν
+Διορθώθηκε το Σφάλμα συστήματος που προέκυψε από το πρόγραμμα απομάκρυνσης σε σπασμένα δεδομένα τουρσί.
+Διορθώστε το "Σφάλμα συστήματος" που παρουσιάστηκε όταν το "PyArg_Parse*()"" χρησιμοποιείται με το ""#" αλλά
+- Θέμα #23914: Διορθώθηκε το σφάλμα συστήματος που προέκυψε από το unpicler σε σπασμένα δεδομένα τουρσί.
+κατανάλωσε πάρα πολλή μνήμη και αύξησε το SystemError ή το MemoryError.
+- Θέμα #15839: Μετατροπή σφαλμάτων συστήματος στο `super()` σε Σφάλματα χρόνου εκτέλεσης.
+- Θέμα #15846: Διορθώστε το σφάλμα συστήματος που συνέβη κατά τη χρήση του "ast.parse()" σε ένα
+- Θέμα #17710: Διορθώστε το pickle raising a System Error σε ψευδή είσοδο.
+- Θέμα #13343: Διορθώστε ένα σφάλμα συστήματος όταν μια έκφραση λάμδα χρησιμοποιεί καθολικό
+- Θέμα #6373: Διορθώθηκε ένα σφάλμα συστήματος κατά την κωδικοποίηση με τον κωδικοποιητή latin-1 και το
+- Διορθώθηκε το σφάλμα συστήματος που ενεργοποιήθηκε από το "range([], 1, -1)".
+που θα προκαλούσε Σφάλμα συστήματος.
+- Θέμα #2221: Διορθώθηκε μια επιστροφή σφάλματος "Σφάλμα συστήματος χωρίς εξαίρεση
+- Θέμα #1973: Το bytes.fromhex('') προκάλεσε Σφάλμα συστήματος.
+Επίσης, διορθώστε ένα Σφάλμα συστήματος όταν προσπαθείτε να αντιστοιχίσετε παραστάσεις απόδοσης.
+- Σφάλμα #1487966: Διορθώστε το σφάλμα συστήματος με έκφραση υπό όρους στην ανάθεση
+- Σφάλμα SF #976608: Διορθώστε το Σφάλμα συστήματος όταν ο χρόνος mtime ενός εισαγόμενου αρχείου είναι -1.
+- Σφάλμα SF 762891: "del p[key]" στο αντικείμενο διακομιστή μεσολάβησης δεν προκαλεί πλέον Σφάλμα συστήματος.
+ορίζοντας __delitem__. Παλαιότερα, δημιουργούσε ένα Σφάλμα συστήματος.
+μετατρέποντάς τα σε SystemError, αφήνουμε την αρχική εξαίρεση
+σφάλμα και έτσι προέρχεται από το Exception και όχι από το SystemError. ο
+[data.PyExc_SystemError]
+Objects/exceptions.c:PyExc_SystemError στατικό PyTypeObject PyExc_SystemError
+Objects/exceptions.c:_PyExc_SystemError στατικό PyTypeObject _PyExc_SystemError
+Objects/exceptions.c - _PyExc_SystemError -
+Objects/exceptions.c - PyExc_SystemError -
+PyErr_SetString(PyExc_SystemError, "non-ascii grouped digit");
+PyErr_SetString(PyExc_SystemError, "no symtable");
+PyErr_Format(PyExc_SystemError,
+PyErr_Format(PyExc_SystemError,
+PyErr_Format(PyExc_SystemError,
+PyErr_Format(PyExc_SystemError,
+PyErr_Format(PyExc_SystemError, "%s op %d δεν πρέπει να είναι δυνατή",
+PyErr_Format(PyExc_SystemError,
+PyErr_Format(PyExc_SystemError,
+PyErr_Format(PyExc_SystemError,
+PyErr_Format(PyExc_SystemError,
+PyErr_Format(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError, "άλμα με στόχο NULL");
+PyErr_SetString(PyExc_SystemError,
+/* Αύξηση σφάλματος συστήματος εάν το άλμα ή η έξοδος δεν είναι η τελευταία εντολή στο μπλοκ. */
+PyErr_SetString(PyExc_SystemError, "κακόμορφο γράφημα ροής ελέγχου.");
+PyErr_SetString(PyExc_SystemError, "απροσδόκητη έκφραση");
+PyErr_SetString(PyExc_SystemError, "απροσδόκητο μοτίβο");
+PyErr_SetString(PyExc_SystemError, "απροσδόκητη δήλωση");
+PyErr_SetString(PyExc_SystemError, "αδύνατος κόμβος ενότητας");
+PyErr_Format(PyExc_SystemError,
+PyErr_SetString(κατάσταση, PyExc_SystemError,
+_PyErr_SetString(tstate, PyExc_SystemError, "lasti δεν είναι int");
+_PyErr_Format(tstate, PyExc_SystemError,
+_PyErr_Format(tstate, PyExc_SystemError,
+_PyErr_Format(tstate, PyExc_SystemError,
+_PyErr_Format(tstate, PyExc_SystemError,
+PyErr_SetString(κατάσταση, PyExc_SystemError,
+_PyErr_Format(tstate, PyExc_SystemError,
+PyErr_Format(PyExc_SystemError,
+PyErr_Format(PyExc_SystemError,
+PyErr_Format(PyExc_SystemError,
+PyErr_Format(PyExc_SystemError,
+PyErr_SetString(κατάσταση, PyExc_SystemError,
+_PyErr_SetString(tstate, PyExc_SystemError, "lasti δεν είναι int");
+_PyErr_Format(tstate, PyExc_SystemError,
+_PyErr_Format(tstate, PyExc_SystemError,
+_PyErr_Format(tstate, PyExc_SystemError,
+_PyErr_Format(tstate, PyExc_SystemError,
+PyErr_SetString(κατάσταση, PyExc_SystemError,
+_PyErr_Format(tstate, PyExc_SystemError,
+PyExc_SystemError,
+PyExc_SystemError,
+PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_Format(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError, μήνυμα);
+PyErr_SetString(PyExc_SystemError, \
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_Format(PyExc_SystemError,
+PyErr_Format(PyExc_SystemError, "%s: '%s'", μήνυμα,
+PyErr_Format(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_Format(PyExc_SystemError,
+PyErr_Format(PyExc_SystemError, "%s: '%s'", μήνυμα,
+PyErr_Format(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(state, PyExc_SystemError, "missing interp");
+_PyErr_SetString(tstate, PyExc_SystemError, "λείπει η λειτουργία new_object");
+_PyErr_Format(tstate, PyExc_SystemError,
+PyErr_SetString(κατάσταση, PyExc_SystemError,
+_PyErr_SetString(tstate, PyExc_SystemError, "το πλαίσιο δεν υπάρχει");
+PyExc_SystemError,
+PyExc_SystemError,
+PyErr_Format(PyExc_SystemError,
+PyExc_SystemError,
+PyErr_Format(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError, \
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_Format(PyExc_SystemError, "η ενότητα '%s' δεν έχει __dict__",
+PyErr_SetString(PyExc_SystemError, "bad Memberdescr type");
+PyErr_Format(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+_PyErr_Format(tstate, PyExc_SystemError,
+_PyErr_Format(tstate, PyExc_SystemError,
+_PyErr_Format(tstate, PyExc_SystemError,
+PyErr_SetString(κατάσταση, PyExc_SystemError,
+PyErr_SetString(κατάσταση, PyExc_SystemError,
+_PyErr_SetString(tstate, PyExc_SystemError, "μη έγκυρη εσωτερική συνάρτηση");
+PyErr_SetString(κατάσταση, PyExc_SystemError,
+PyAPI_DATA(PyObject *) PyExc_SystemError;
+PyErr_SetString(PyExc_SystemError,
+έχει οριστεί. Επιστρέψτε το NULL και δημιουργήστε μια εξαίρεση σε περίπτωση σφάλματος. Αυξήστε ένα Σφάλμα συστήματος εάν
+/* Αύξηση σφάλματος συστήματος κατά την εκκαθάριση ή την ενημέρωση του παγωμένου συνόλου */
+assertRaises(PySet_Clear(f) == -1, PyExc_SystemError);
+assertRaises(_PySet_Update(f, dup) == -1, PyExc_SystemError);
+assertRaises(PySet_Add(f, elem) == -1, PyExc_SystemError);
+/* Αύξηση Σφάλματος Συστήματος όταν το όρισμα αυτό δεν είναι σύνολο ή παγωμένο σύνολο. */
+assertRaises(PySet_Size(t) == -1, PyExc_SystemError);
+assertRaises(PySet_Contains(t, elem) == -1, PyExc_SystemError);
+/* Αύξηση σφάλματος συστήματος όταν το όρισμα του εαυτού δεν είναι σύνολο. */
+assertRaises(PySet_Discard(f, elem) == -1, PyExc_SystemError);
+assertRaises(PySet_Pop(f) == NULL, PyExc_SystemError);
+PyErr_SetString(PyExc_SystemError,
+PyExc_SystemError,
+PyExc_SystemError,
+PyExc_SystemError,
+PyExc_SystemError,
+PyExc_SystemError,
+PyExc_SystemError,
+PyExc_SystemError,
+PyExc_SystemError,
+PyExc_SystemError,
+PyExc_SystemError,
+PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError, "ανώνυμη μονάδα");
+PyErr_SetString(PyExc_SystemError, "Λείπει το όνομα αρχείου μονάδας");
+PyErr_SetString(PyExc_SystemError, "Py_tp_bases δεν είναι πλειάδα");
+PyExc_SystemError,
+PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_Format(PyExc_SystemError,
+PyErr_Format(PyExc_SystemError,
+PyErr_Format(PyExc_SystemError,
+PyErr_Format(PyExc_SystemError,
+PyErr_Format(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_Format(PyExc_SystemError,
+PyErr_Format(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError, "how_many δεν μπορεί να είναι αρνητικό");
+PyErr_Format(PyExc_SystemError,
+PyErr_Format(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError, "μη έγκυρο είδος");
+PyErr_Format(PyExc_SystemError,
+PyErr_Format(PyExc_SystemError, "invalid format string: %s", p);
+PyErr_SetString(PyExc_SystemError, "non-tuple default args");
+PyErr_SetString(PyExc_SystemError,
+PyErr_Format(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_Format(PyExc_SystemError, "In structseq_repr(), το όνομα του μέλους %zd είναι NULL"
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(κατάσταση, PyExc_SystemError,
+PyErr_Format(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+* Το SystemError επεκτείνει την Εξαίρεση
+SimpleExtendsException(PyExc_Exception, SystemError,
+ITEM (Σφάλμα συστήματος),
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(κατάσταση, PyExc_SystemError,
+_PyErr_Format(tstate, PyExc_SystemError,
+_PyErr_Format(tstate, PyExc_SystemError,
+Η Py_FatalError() καταγράφει την εξαίρεση SystemError που αναφέρθηκε παραπάνω. */
+tstate, PyExc_SystemError,
+tstate, PyExc_SystemError,
+Η Py_FatalError() καταγράφει την εξαίρεση SystemError που αναφέρθηκε παραπάνω. */
+PyErr_Format(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_Format(PyExc_SystemError,
+PyErr_Format(PyExc_SystemError,
+class CodecRegistryError(LookupError, SystemError):
+raise SystemError("sizeof(%s) λάθος: %d αντί για %d" % \
+raise SystemError(f"Μη αναμενόμενο μέγεθος(time_t): {SIZEOF_TIME_T=}")
+Σφάλμα συστήματος
+# το παρακάτω ενεργοποιεί ένα Σφάλμα συστήματος στην έκδοση 2.4
+# Το PyTuple_New αυξάνει το SystemError εάν περαστεί ένα μη έγκυρο όρισμα.
+με self.assertRaises(SystemError):
+PyExc_SystemError
+# όπου οι κλήσεις «__reduce__» θα μπορούσαν να οδηγήσουν σε segfault ή System Error
+Σφάλμα συστήματος,
+# Αυτό προκαλεί ένα SyntaxError, που χρησιμοποιείται για να εγείρει ένα SystemError. Συμφραζόμενα
+# Μια δοκιμή για το σφάλμα SF #1022953. Βεβαιωθείτε ότι το SystemError δεν έχει τεθεί.
+με self.assertRaises(SystemError):
+με self.assertRaises(SystemError):
+# Δοκιμή συστήματος Σφάλμα παρουσιάζεται για κακή συμπεριφορά επεκτάσεων.
+με self.assertRaises(SystemError) ως cm:
+# με το «Σφάλμα συστήματος».
+# Αυτό αποτυγχάνει με το SystemError: κακό arg στην εσωτερική λειτουργία
+self.assertRaises((OverflowError, MemoryError, SystemError),
+self.assertRaises((OverflowError, MemoryError, SystemError),
+Το # __setstate__ δεν πρέπει ούτε να εμφανίσει σφάλμα συστήματος ούτε να διακοπεί σε περίπτωση
+newcode = code.replace(co_name="func") # Δεν πρέπει να αυξηθεί το Σφάλμα συστήματος
+με self.assertRaisesRegex(Σφάλμα συστήματος, msg):
+self.assertRaises(SystemError, SetExtra, 42, FREE_INDEX,
+self.assertRaises(SystemError, GetExtra, 42, FREE_INDEX,
+self.assertRaises(SystemError, SetExtra, f.__code__,
+self.raise_catch(Σφάλμα συστήματος, "Σφάλμα συστήματος")
+self.assertRaises(SystemError, _testcapi.raise_exception,
+self.assertRaises(SystemError, _testcapi.make_exception_with_doc,
+# σηκώστε ένα Σφάλμα συστήματος.
+def test_del__CHUNK_SIZE_SystemError(self):
+Η # warn_explicit() δεν πρέπει ούτε να προκαλεί σφάλμα συστήματος ούτε να προκαλεί
+Η # warn_explicit() δεν θα πρέπει να δημιουργήσει Σφάλμα συστήματος σε περίπτωση
+raise SystemError('kablooie')
+self.assertRaises(SystemError, mock, 1, 2, fish=3)
+raise SystemError ("αυτό δεν πρέπει να ανέβει")
+raise SystemError ('σχεδόν δεν υπάρχει χώρος')
+με self.assertRaises(SystemError) ως err:
+Η # εισαγωγή σε ένα μπλοκ "επιτέλους" οδήγησε σε Σφάλμα συστήματος
+├── Σφάλμα συστήματος
+# αλλά έδινε ένα SystemError
+με self.assertRaises(SystemError):
+self.assertRaises(Σφάλμα συστήματος, getargs_s_hash_int, buf, "abc")
+self.assertRaises(Σφάλμα συστήματος, getargs_s_hash_int, buf, x=42)
+self.assertRaises(SystemError, getargs_s_hash_int, buf, x="abc")
+self.assertRaises(Σφάλμα συστήματος, getargs_s_hash_int2, buf, ("abc",))
+self.assertRaises(Σφάλμα συστήματος, getargs_s_hash_int2, buf, x=42)
+self.assertRaises(SystemError, getargs_s_hash_int2, buf, x="abc")
+Το # getargs_s_hash_int(buf) ενδέχεται να μην προκαλέσει SystemError επειδή το skipitem()
+εκτός από το Σύστημα Σφάλμα ως e:
+εκτός από το Σύστημα Σφάλμα ως e:
+με self.assertRaisesRegex(Σφάλμα συστήματος,
+με self.assertRaisesRegex(Σφάλμα συστήματος,
+self.assertRaises(SystemError, _testcapi.parse_tuple_and_keywords,
+self.assertRaises(SystemError, _testcapi.parse_tuple_and_keywords,
+self.assertRaises(SystemError, _testcapi.parse_tuple_and_keywords,
+self.assertRaises(SystemError, _testcapi.parse_tuple_and_keywords,
+self.assertRaises(SystemError, _testcapi.parse_tuple_and_keywords,
+self.assertRaises(SystemError, _testcapi.parse_tuple_and_keywords,
+self.assertRaises(SystemError, _testcapi.parse_tuple_and_keywords,
+self.assertRaises(SystemError, _testcapi.parse_tuple_and_keywords,
+self.assertRaises(SystemError, _testcapi.parse_tuple_and_keywords,
+self.assertRaises(SystemError, _testcapi.parse_tuple_and_keywords,
+με self.assertRaisesRegex(Σφάλμα συστήματος, r'Κενό όνομα παραμέτρου μετά το \$'):
+με self.assertRaisesRegex(Σφάλμα συστήματος, 'Κενή λέξη-κλειδί'):
+self.assertRaisesRegex(Σφάλμα συστήματος, 'μη έγκυρη συμβολοσειρά μορφής',
+self.assertRaisesRegex(Σφάλμα συστήματος, 'μη έγκυρη συμβολοσειρά μορφής',
+self.assertRaises(SystemError, unicode_asucs4, s, l-1, True)
+self.assertRaises(Σφάλμα συστήματος, unicode_asucs4, s, l-2, False)
+self.assertRaises(Σφάλμα συστήματος, join, '|', NULL)
+self.assertRaises(Σφάλμα συστήματος, μορφή, 'x=%d!', NULL)
+self.assertRaises (Σφάλμα συστήματος, μορφή, NULL, 42)
+Σφάλμα συστήματος,
+self.assertRaises(Σφάλμα συστήματος, unicode_copycharacters, s, 1, s, 0, 5)
+self.assertRaises(Σφάλμα συστήματος, unicode_copycharacters, s, 0, s, 0, -1)
+self.assertRaises(Σφάλμα συστήματος, unicode_copycharacters, s, 0, b'', 0, 0)
+r'Σφάλμα συστήματος: <ενσωματωμένη συνάρτηση return_null_without_error> '
+με self.assertRaises(SystemError) ως cm:
+r'Σφάλμα συστήματος: <ενσωματωμένο'
+με self.assertRaises(SystemError) ως cm:
+εάν 'Σφάλμα συστήματος: ' όχι σε σφάλμα:
+με self.assertRaises(SystemError):
+self.assertRaises(Σφάλμα συστήματος, pynumber_tobase, 123, 0)
+με self.assertRaises(SystemError):
+με self.assertRaises(SystemError):
+με self.assertRaises(SystemError):
+με self.assertRaises(SystemError):
+με self.assertRaises(SystemError):
+με self.assertRaises(SystemError):
+με self.assertRaises(SystemError):
+με self.assertRaises(SystemError):
+με self.assertRaises(SystemError):
+# Αυτό χρησιμοποιείται για την αύξηση ενός "Σφάλμα συστήματος: NULL αποτέλεσμα χωρίς σφάλμα"
+# χρησιμοποιείται για να αποτύχει με ένα Σφάλμα συστήματος.
+# Χρησιμοποιείται για την αύξηση του SystemError ('σύνολο επιστροφών σφαλμάτων χωρίς εξαίρεση')
+self.assertRaises(SystemError, dict_getitem_knownhash, [], 1, hash(1))
+# Ένα Σφάλμα Συστήματος δεν θα πρέπει να δημιουργηθεί εάν το πρώτο arg είναι atan2(),
+εκτός από Σφάλμα συστήματος:
+εκτός από Σφάλμα συστήματος: Η αλλαγή μεγέθους # δεν υποστηρίζεται καθολικά
+εκτός από Σφάλμα συστήματος:
+εκτός από Σφάλμα συστήματος:
+# Σφάλμα συστήματος.
+raise SystemError('Αποτυχία φόρτωσης των ενσωματωμένων κωδικοποιητών: %s' % γιατί)
+αυξήστε το σφάλμα συστήματος (
+αυξήστε το σφάλμα συστήματος (πώς, τι)
+... excs = [OSError('error 1'), SystemError('error 2')]
+| Σφάλμα συστήματος: σφάλμα 2
+...Σφάλμα συστήματος(2),
+... εκτός* Σφάλμα συστήματος ως e:
+... print ("Υπήρχαν σφάλματα συστήματος")
+Υπήρχαν σφάλματα συστήματος
+'StopIteration', 'SyntaxError', 'SyntaxWarning', 'SystemError',
+.. εξαίρεση:: Σφάλμα συστήματος
+Το :exc:`ImportError` θα εμφανιστεί. Προηγουμένως, θα μπορούσε να είναι :exc:`Σφάλμα συστήματος`
+:c:func:`PyUnicode_FromFormatV` ορίζει τώρα ένα :exc:`Σφάλμα συστήματος`.
+όπου,PyExc_SystemError,3.2,,
+Αυτή η συνάρτηση αυξάνει το :exc:`Σφάλμα συστήματος` όταν:
+Ένας χαρακτήρας μη αναγνωρισμένης μορφής ορίζει τώρα ένα :exc:`Σφάλμα συστήματος`.
+συγκεκριμένα, ένα :exc:`Σφάλμα συστήματος` εάν το *buflen* είναι μικρότερο από το μήκος του
+αυξάνει το :exc:`MemoryError` ή το :exc:`SystemError`.
+Αυξάνει το :exc:`SystemError` και επιστρέφει το ``-1`` σε περίπτωση αποτυχίας.
+Αυξάνει το :exc:`SystemError` και επιστρέφει το ``-1`` σε περίπτωση αποτυχίας.
+Αυξάνει το :exc:`SystemError` και επιστρέφει το ``-1`` σε περίπτωση αποτυχίας.
+``len(anyset)``. Αυξάνει ένα :exc:`PyExc_SystemError` εάν το *anyset* δεν είναι
+το *κλειδί* δεν μπορεί να καταργηθεί. Αύξηση :exc:`PyExc_SystemError` εάν το *anyset* δεν είναι
+:exc:`Σφάλμα συστήματος` εάν το *set* δεν είναι μια παρουσία του :class:`set` ή του
+προσωρινές παγώσεις. Αύξηση :exc:`PyExc_SystemError` εάν το *set* δεν είναι
+το σετ είναι άδειο. Αυξήστε ένα :exc:`Σφάλμα συστήματος` εάν το *set* δεν είναι παρουσία του
+του αντικειμένου *o*. Σε περίπτωση αποτυχίας, αυξάνει το :exc:`Σφάλμα συστήματος` και επιστρέφει το ``NULL``. Αυτό
+Το :exc:`Σφάλμα συστήματος" εμφανίζεται και το "NULL" επιστρέφεται.
+single: System Error (ενσωματωμένη εξαίρεση)
+ή αν δεν είναι συμβολοσειρά, το :exc:`Σφάλμα συστήματος` εμφανίζεται και επιστρέφεται το ``NULL``.
+single: System Error (ενσωματωμένη εξαίρεση)
+unicode string, raise :exc:`SystemError` και επιστροφή ``NULL``; διαφορετικά επιστρέψτε
+εγείρει μια εξαίρεση. Εάν δεν έχει γίνει ακόμη εξαίρεση, είναι :exc:`Σφάλμα συστήματος`
+Εάν υπάρχει σφάλμα στη συμβολοσειρά μορφοποίησης, η εξαίρεση :exc:`SystemError` είναι
+Αυτή είναι μια συντομογραφία για το ``PyErr_SetString(PyExc_SystemError, message)``,
+single: PyExc_SystemError
+| :c:data:`PyExc_SystemError` | :exc:`Σφάλμα συστήματος` | |
+PyErr_SetString(PyExc_SystemError, "αποτυχία σύνδεσης διαδρομών");
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError, "def δεν ταιριάζει");
+PyErr_SetString(PyExc_SystemError, "κακή συνάρτηση εξαγωγής");
+PyErr_SetString(PyExc_SystemError, "κακή συνάρτηση εξαγωγής");
+PyErr_SetString(PyExc_SystemError, "κακή λειτουργία δημιουργίας");
+PyErr_SetString(PyExc_SystemError, "κακή λειτουργία δημιουργίας");
+PyErr_SetString(PyExc_SystemError, "κακή λειτουργία exec");
+PyErr_SetString(PyExc_SystemError, "κακή λειτουργία exec");
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+if (PyErr_ExceptionMatches(PyExc_SystemError)) {
+εάν (!PyErr_ExceptionMatches(PyExc_SystemError)) {
+εάν (!PyErr_ExceptionMatches(PyExc_SystemError)) {
+εάν (!PyErr_ExceptionMatches(PyExc_SystemError)) {
+εάν (!PyErr_ExceptionMatches(PyExc_SystemError)) {
+PyErr_Format(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError, "_WindowsConsoleIO έχει μη έγκυρη λειτουργία");
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+/* Έχουμε ένα KeyboardInterrupt ή ένα System Error. ανέβασέ το ξανά */
+if (unpacked == NULL && PyErr_ExceptionMatches(PyExc_SystemError)) {
+Το σφάλμα συστήματος δεν αυξήθηκε: %s
+if (PyErr_ExceptionMatches(PyExc_SystemError)) {
+εάν (!PyErr_ExceptionMatches(PyExc_SystemError)) {
+"κάτι άλλο εκτός από Σφάλμα συστήματος");
+PyErr_Format(PyExc_SystemError,
+raise SystemExit ('Παρακαλώ προσαρμόστε τον χάρτη JIS X 0213 χρησιμοποιώντας jisx0213-2000-std.txt.diff')
+αυξήστε το SystemExit (απαιτείται f'{source}')
+raise SystemExit ("Πρέπει να εκτελείται ως κύριο πρόγραμμα")
+raise SystemExit ("Επιτρέπεται μόνο ένα από τα --8-bit και --unicode")
+αύξηση SystemExit(exit_status)
+- exit(sts): ανυψώστε το SystemExit
+αυξήστε το SystemExit (κωδικός)
+raise SystemExit ("Μπορούν να ληφθούν πληροφορίες μόνο για ένα αρχείο αρχειοθέτησης")
+raise SystemExit ("Η επιτόπια επεξεργασία των αρχείων δεν υποστηρίζεται")
+raise SystemExit ("Δεν είναι δυνατή η αλλαγή της κύριας λειτουργίας κατά την αντιγραφή")
+raise SystemExit(0)"""
+σηκώστε το SystemExit
+σηκώστε το SystemExit
+σηκώστε το SystemExit
+rc, out, err = assert_python_failure('-c', 'raise SystemExit(47)')
+σηκώστε το SystemExit
+interpreters.run_string(self.id, 'raise SystemExit(42)')
+σηκώστε το SystemExit
+σηκώστε το SystemExit
+αυξήστε το SystemExit (κωδικός)
+αύξηση SystemExit(e)
+raise SystemExit(1)
+σηκώστε το SystemExit
+# Ελέγξτε ότι η διεύθυνση χρήστη δεν υπάρχει και η δημιουργία απέτυχε θα αυξήσει το SystemExit
+# Ελέγξτε ότι η διεύθυνση χρήστη δεν υπάρχει και η δημιουργία απέτυχε θα αυξήσει το SystemExit
+Αυτό είναι συνώνυμο με το "raise SystemExit". Θα προκαλέσει το τρέχον\n\
+σηκώστε ένα TypeError: "Το αντικείμενο "τουπλού" δεν είναι καλέσιμο" αντί για το αναμενόμενο
+* TypeError: Το αντικείμενο "NoneType" δεν είναι εγγεγραμμένο
+const char *const msg = "TypeError: print_exception(): Αναμένεται εξαίρεση "
+TypeError: Εάν περάσει μια λίστα αντικειμένων μεικτής έκδοσης.
+TypeError: Εάν ο εαυτός και ο άλλος έχουν διαφορετική διεύθυνση
+εκτός από TypeError: pass
+# TypeError: Το BNotMeta δεν είναι ούτε α
+εκτός από TypeError: pass
+εκτός από TypeError: pass
+εκτός από TypeError: pass
+εκτός από TypeError: pass
+εκτός από TypeError: pass
+εκτός από TypeError: pass
+εκτός από TypeError: pass
+εκτός από TypeError: pass
+##εκτός TypeError: pass
+try: pass\nexcept ValueError: pass\nexcept* TypeError: pass\n
+try: pass\nexcept* ValueError: pass\nexcept TypeError: pass\n
+δοκιμάστε: pass\nexcept ValueError ως e: pass\nexcept* TypeError: pass\n
+δοκιμάστε: pass\nexcept* ValueError ως e: pass\nexcept TypeError: pass\n
+TypeError: δεν είναι δυνατή η αποσυσκευασία του μη επαναλαμβανόμενου αντικειμένου int
+TypeError: δεν είναι δυνατή η αποσυσκευασία του μη επαναλαμβανόμενου αντικειμένου int
+TypeError: exec() arg 1 πρέπει να είναι μια συμβολοσειρά, byte ή αντικείμενο κώδικα
+TypeError: eval() arg 1 πρέπει να είναι μια συμβολοσειρά, byte ή αντικείμενο κώδικα
+self._check_error("try: pass\nexcept ValueError: pass\nexcept* TypeError: pass",
+self._check_error("try: pass\nexcept* ValueError: pass\nexcept TypeError: pass",
+TypeError: Το αντικείμενο 'int' δεν μπορεί να επαναληφθεί
+# Πρέπει οπωσδήποτε να αυξηθεί το TypeError: η λίστα απαιτεί μόνο ένα όρισμα.
+# `TypeError: δεν είναι δυνατός ο ορισμός χαρακτηριστικών ενσωματωμένου/τύπου επέκτασης 'dict'».
+(Τηλέφωνο)TypeError:
+"(Τηλέφωνο) TypeError: πάρα πολλοί αρχικοποιητές")
+# TypeError: int αναμένεται αντί για παράδειγμα str
+# TypeError: int αναμένεται αντί για παράδειγμα str
+# TypeError: int αναμένεται αντί για float instance
+# TypeError: δεν έχει μέθοδο from_param
+# στην Python 2.3, αυτό προκαλεί TypeError: Σύγκρουση MRO μεταξύ των κλάσεων βάσεων,
+όρισμα 1: TypeError: byte ενός χαρακτήρα,
+όρισμα 2: TypeError: αναμένεται συμβολοσειρά unicode
+όρισμα 2: TypeError: συμβολοσειρά unicode ενός χαρακτήρα
+# TypeError: Το _anonymous_ πρέπει να είναι ακολουθία
+TypeError: δεν είναι δυνατή η αποστολή μη-καμία τιμή σε μια γεννήτρια που μόλις ξεκίνησε
+TypeError: η εξαίρεση της παρουσίας ενδέχεται να μην έχει ξεχωριστή τιμή
+TypeError: το τρίτο όρισμα throw() πρέπει να είναι αντικείμενο παρακολούθησης
+TypeError: οι εξαιρέσεις πρέπει να είναι κλάσεις ή στιγμιότυπα που προέρχονται από το BaseException και όχι από το str
+TypeError: οι εξαιρέσεις πρέπει να είναι κλάσεις ή παρουσίες που προέρχονται από το BaseException, όχι int
+TypeError: οι εξαιρέσεις πρέπει να είναι κλάσεις ή παρουσίες που προέρχονται από το BaseException και όχι τύπου
+Τύπος Σφάλμα: Φίε!
+εκτός από TypeError: pass
+TypeError: Το αντικείμενο 'int' δεν μπορεί να επαναληφθεί
+TypeError: Το αντικείμενο 'int' δεν είναι αντιστοίχιση
+TypeError: Το αντικείμενο "list" δεν είναι αντιστοίχιση
+TypeError: test.test_unpack_ex.f() πήρε πολλές τιμές για το όρισμα λέξης-κλειδιού "x"
+TypeError: test.test_unpack_ex.f() πήρε πολλές τιμές για το όρισμα λέξης-κλειδιού "x"
+TypeError: test.test_unpack_ex.f() πήρε πολλές τιμές για το όρισμα λέξης-κλειδιού "x"
+TypeError: test.test_unpack_ex.f() πήρε πολλές τιμές για το όρισμα λέξης-κλειδιού "x"
+TypeError: test.test_unpack_ex.f() πήρε πολλές τιμές για το όρισμα λέξης-κλειδιού "1"
+TypeError: δεν είναι δυνατή η αποσυσκευασία του μη επαναλαμβανόμενου αντικειμένου int
+# "TypeError: η fork_exec() παίρνει ακριβώς N ορίσματα (δίνονται M)"
+self.assertIn('TypeError: bad cleanup1', formatted_exc)
+self.assertIn('TypeError: bad cleanup1', formatted_exc)
+self.assertIn('TypeError: bad cleanup1', formatted_exc)
+self.assertIn('TypeError: bad cleanup1', formatted_exc)
+self.assertIn('TypeError: bad cleanup1', formatted_exc)
+self.assertIn('TypeError: bad cleanup1', formatted_exc)
+...TypeError: λάθος τύπος
+TypeError: λάθος τύπος
+self.assertTrue("TypeError: print_exception(): Αναμένεται εξαίρεση για " \
+TypeError: Το __build_class__() πήρε πολλές τιμές για το όρισμα λέξης-κλειδιού "metaclass"
+# TypeError: το όρισμα πρέπει να είναι μια μέθοδος int ή να έχει μια μέθοδο fileno().
+στ' | TypeError: 2\n')
+('TypeError: print_exception(): '
+στ' | TypeError: 2\n'
+στ' | TypeError: 2\n'
+στ' | TypeError: 4\n'
+στ' | TypeError: 2\n'
+στ' | TypeError: 4\n'
+στ' | TypeError: 2\n'
+στ' | TypeError: 3\n'
+στ' | TypeError: 0',
+στ' | TypeError: 1',
+# TypeError: Το BNotMeta δεν είναι ούτε α
+TypeError: test.test_extcall.f() έλαβε πολλές τιμές για το όρισμα λέξης-κλειδιού "a"
+TypeError: test.test_extcall.f() έλαβε πολλές τιμές για το όρισμα λέξης-κλειδιού "a"
+TypeError: test.test_extcall.f() έλαβε πολλές τιμές για το όρισμα λέξης-κλειδιού "a"
+TypeError: e() έλαβε ένα απροσδόκητο όρισμα λέξης-κλειδιού "c"
+TypeError: g() λείπει 1 απαιτούμενο όρισμα θέσης: 'x'
+TypeError: g() λείπει 1 απαιτούμενο όρισμα θέσης: 'x'
+TypeError: g() λείπει 1 απαιτούμενο όρισμα θέσης: 'x'
+TypeError: το όρισμα test.test_extcall.g() μετά το * πρέπει να είναι επαναλαμβανόμενο, όχι τίποτα
+TypeError: το όρισμα test.test_extcall.g() μετά το * πρέπει να είναι επαναλαμβανόμενο, όχι τίποτα
+TypeError: myerror
+TypeError: myerror
+TypeError: myerror
+TypeError: myerror
+TypeError: myerror
+TypeError: myerror
+TypeError: myerror
+TypeError: myerror
+TypeError: g() πήρε πολλές τιμές για το όρισμα 'x'
+TypeError: οι λέξεις-κλειδιά πρέπει να είναι συμβολοσειρές
+TypeError: h() έλαβε ένα απροσδόκητο όρισμα λέξης-κλειδιού "e"
+TypeError: το όρισμα test.test_extcall.h() μετά το * πρέπει να είναι επαναλαμβανόμενο, όχι συνάρτηση
+TypeError: Η τιμή μετά το * πρέπει να είναι επαναλαμβανόμενη και όχι συνάρτηση
+TypeError: Η τιμή μετά το * πρέπει να είναι επαναλαμβανόμενη και όχι συνάρτηση
+TypeError: το όρισμα dir() μετά το * πρέπει να είναι επαναλαμβανόμενο, όχι συνάρτηση
+TypeError: Κανένα όρισμα μετά το * δεν πρέπει να είναι επαναλαμβανόμενο, \
+TypeError: το όρισμα test.test_extcall.h() μετά το ** πρέπει να είναι αντιστοίχιση και όχι συνάρτηση
+TypeError: το όρισμα test.test_extcall.h() μετά το ** πρέπει να είναι αντιστοίχιση και όχι λίστα
+TypeError: το όρισμα test.test_extcall.h() μετά το ** πρέπει να είναι αντιστοίχιση και όχι συνάρτηση
+TypeError: το όρισμα test.test_extcall.h() μετά το ** πρέπει να είναι αντιστοίχιση και όχι λίστα
+TypeError: το όρισμα test.test_extcall.h() μετά το ** πρέπει να είναι αντιστοίχιση και όχι συνάρτηση
+TypeError: το όρισμα test.test_extcall.h() μετά το ** πρέπει να είναι αντιστοίχιση και όχι λίστα
+TypeError: το όρισμα dir() μετά το ** πρέπει να είναι αντιστοίχιση, όχι συνάρτηση
+TypeError: Κανένα όρισμα μετά το ** πρέπει να είναι αντιστοίχιση, \
+TypeError: dir() πήρε πολλές τιμές για το όρισμα λέξης-κλειδιού "b"
+TypeError: Το test.test_extcall.g() έλαβε πολλές τιμές για το όρισμα λέξης-κλειδιού "x"
+TypeError: Το test.test_extcall.g() έλαβε πολλές τιμές για το όρισμα λέξης-κλειδιού "x"
+TypeError: Το test.test_extcall.g() έλαβε πολλές τιμές για το όρισμα λέξης-κλειδιού "x"
+TypeError: s3() λείπει 1 απαιτούμενο όρισμα μόνο για λέξη-κλειδί: 'n'
+TypeError: id() δεν δέχεται ορίσματα λέξης-κλειδιού
+TypeError: η f() παίρνει 0 ορίσματα θέσης αλλά δόθηκε 1
+TypeError: η f() παίρνει 1 όρισμα θέσης αλλά δόθηκαν 2
+TypeError: η f() παίρνει από 1 έως 2 ορίσματα θέσης αλλά δόθηκαν 3
+TypeError: η f() παίρνει 0 ορίσματα θέσης αλλά δόθηκε 1 όρισμα θέσης (και 1 όρισμα μόνο για λέξη-κλειδί)
+TypeError: η f() παίρνει 0 ορίσματα θέσης, αλλά δόθηκαν 3 ορίσματα θέσης (και 2 ορίσματα μόνο για λέξεις-κλειδιά)
+TypeError: η f() παίρνει από 1 έως 2 ορίσματα θέσης, αλλά δόθηκαν 3 ορίσματα θέσης (και 1 όρισμα μόνο για λέξη-κλειδί)
+TypeError: f() λείπει 1 απαιτούμενο όρισμα θέσης: 'a'
+TypeError: f() λείπουν 2 απαιτούμενα ορίσματα θέσης: 'a' και 'b'
+TypeError: f() λείπουν 3 απαιτούμενα ορίσματα θέσης: 'a', 'b' και 'c'
+TypeError: f() λείπουν 5 απαιτούμενα ορίσματα θέσης: 'a', 'b', 'c', 'd' και 'e'
+TypeError: f() λείπει 1 απαιτούμενο όρισμα θέσης: 'a'
+TypeError: f() λείπει 1 απαιτούμενο όρισμα μόνο για λέξη-κλειδί: 'w'
+TypeError: f() λείπουν 5 απαιτούμενα ορίσματα μόνο για λέξεις-κλειδιά: 'a', 'b', 'c', 'd' και 'e'
+# TypeError: setvar() παίρνει ακριβώς 3 ορίσματα (2 δίνονται)
+TypeError: files() παίρνει από 0 έως 1 ορίσματα θέσης αλλά δόθηκαν 2
+εκτός από TypeError: # unhashable parameters
+εκτός από TypeError: # ενσωματωμένες κλάσεις
+TypeError: η f() έλαβε πολλαπλές τιμές για το όρισμα λέξης-κλειδιού 'a'\n
+TypeError: αντικείμενο τύπου 'C' δεν έχει len()\n
+TypeError: ο περιγραφέας '__hash__' του αντικειμένου 'int' χρειάζεται ένα
+TypeError: μπορεί να συνενώσει μόνο το str (όχι το "int") με το str
+TypeError: μη υποστηριζόμενοι τύποι τελεστών για /: 'str' και 'str'
+TypeError: κακός τύπος
+TypeError: η συνάρτηση() πήρε πολλές τιμές για το όρισμα "a"
+TypeError: pos_only_arg() έλαβε ορισμένα ορίσματα μόνο θέσης που πέρασαν ως ορίσματα λέξης-κλειδιού: 'arg'
+TypeError: Η kwd_only_arg() παίρνει 0 ορίσματα θέσης αλλά δόθηκε 1
+TypeError: combinationd_example() παίρνει 2 ορίσματα θέσης αλλά δόθηκαν 3
+TypeError: combinationd_example() πήρε ορισμένα ορίσματα μόνο θέσης που μεταβιβάστηκαν ως ορίσματα λέξης-κλειδιού: 'pos_only'
+TypeError: foo() πήρε πολλές τιμές για το όρισμα 'name'
+Τύπος Σφάλμα: Το αντικείμενο 'tple' δεν υποστηρίζει την εκχώρηση στοιχείων
+TypeError: Το αντικείμενο 'str' δεν υποστηρίζει την εκχώρηση στοιχείων
+TypeError: Το αντικείμενο 'str' δεν υποστηρίζει την εκχώρηση στοιχείων
+TypeError: Το divmod() δεν δέχεται ορίσματα λέξης-κλειδιού
+Τύπος Σφάλμα: Το αντικείμενο 'tple' δεν υποστηρίζει την εκχώρηση στοιχείων
+Τύπος Σφάλμα: Το αντικείμενο 'tple' δεν υποστηρίζει την εκχώρηση στοιχείων
+Τύπος Σφάλμα: Το αντικείμενο 'tple' δεν υποστηρίζει την εκχώρηση στοιχείων
+Τύπος Σφάλμα: Το αντικείμενο 'tple' δεν υποστηρίζει την εκχώρηση στοιχείων
+TypeError: δεν είναι δυνατή η διαγραφή του χαρακτηριστικού αριθμητικού/χαρακτήρα
+TypeError: απαιτείται ακέραιος αριθμός (λήφθηκε τύπος str)
+TypeError: Δεν είναι δυνατή η διαγραφή του πρώτου χαρακτηριστικού
+TypeError: Η πρώτη τιμή χαρακτηριστικού πρέπει να είναι μια συμβολοσειρά
+TypeError: απαιτείται ακέραιος αριθμός (λήφθηκε τύπος str)
+TypeError: Δεν είναι δυνατή η διαγραφή του πρώτου χαρακτηριστικού
+TypeError: δεν είναι δυνατή η διαγραφή του χαρακτηριστικού αριθμητικού/χαρακτήρα
+TypeError: Η πρώτη τιμή χαρακτηριστικού πρέπει να είναι μια συμβολοσειρά
+TypeError: απαιτείται ακέραιος αριθμός (λήφθηκε τύπος str)
+TypeError: Το '>' δεν υποστηρίζεται μεταξύ των παρουσιών του 'datetime.timedelta' και του 'int'
+TypeError: f() λείπει 1 απαιτούμενο όρισμα θέσης: 'a'
+TypeError: μη υποστηριζόμενοι τύποι τελεστών για +: 'int' και 'NoneType'
+TypeError: μη υποστηριζόμενοι τύποι τελεστών για +: 'int' και 'NoneType'
+TypeError: «<» δεν υποστηρίζεται μεταξύ των παρουσιών του «PureWindowsPath» και του «PurePosixPath»
+TypeError: <lambda>() παίρνει ακριβώς 3 ορίσματα (1 δίνεται)
+TypeError: Το αντικείμενο "NonCallableMock" δεν μπορεί να κληθεί
+TypeError: <lambda>() παίρνει τουλάχιστον 2 ορίσματα (1 δεδομένο)
+TypeError: δεν είναι δυνατή η τροποποίηση της μνήμης μόνο για ανάγνωση
+TypeError: το όρισμα 2 της ininstance() δεν μπορεί να είναι γενικό παραμετροποιημένο
+TypeError: Δεν έχουν απομείνει μεταβλητές τύπου στο dict[str]
+TypeError: το όρισμα 2 της ininstance() δεν μπορεί να περιέχει ένα παραμετροποιημένο γενικό
+TypeError: δεν είναι δυνατή η δημιουργία παρουσιών "types.UnionType".
+ArgumentError: όρισμα 2: TypeError: Δεν ξέρω πώς να μετατρέψω την παράμετρο 2
+ArgumentError: όρισμα 2: TypeError: λάθος τύπος
+ctypes.ArgumentError: όρισμα 2: TypeError: byte ενός χαρακτήρα, bytearray ή ακέραιος αναμενόμενος
+TypeError: πάρα πολλοί αρχικοποιητές
+TypeError: αναμένεται c_long αντί για int
+TypeError: μη συμβατοί τύποι, παρουσία c_byte_Array_4 αντί για παρουσία LP_c_long
+TypeError: Το %b απαιτεί bytes ή ένα αντικείμενο που υλοποιεί __bytes__, όχι "str"
+TypeError: Το 'str' δεν υποστηρίζει τη διεπαφή buffer
+TypeError: η κωδικοποίηση με κωδικοποιητή 'bz2' απέτυχε (TypeError: το 'str' δεν υποστηρίζει τη διεπαφή buffer)
+TypeError: Μπορείτε να αλληλεπιδράσετε με το Decimal μόνο με τύπους δεδομένων int, long ή Decimal.
+TypeError: Δεν είναι δυνατή η δημιουργία αφηρημένης κλάσης Circle με αφηρημένες μεθόδους σχεδίασης
+TypeError: δεν είναι δυνατή η τροποποίηση της μνήμης μόνο για ανάγνωση
+TypeError: η f() παίρνει τουλάχιστον 1 όρισμα (δίνεται 0)
+TypeError: Το αντικείμενο "NoneType" δεν είναι εγγεγραμμένο
+TypeError: unhashable type: 'set'
+TypeError: unhashable type: 'set'
+TypeError: η mean() έλαβε ορισμένα ορίσματα μόνο θέσης που μεταβιβάστηκαν ως ορίσματα λέξεων-κλειδιών: 'data'
+TypeError: μπορεί να συνενώσει μόνο το str (όχι το "custom.Custom") με το str
+TypeError: reduce() της κενή ακολουθίας χωρίς αρχική τιμή
+TypeError: Το "SQUARE" έχει ήδη οριστεί ως 2
+TypeError: «<» δεν υποστηρίζεται μεταξύ των παρουσιών του «Color» και του «Color»
+TypeError: Το <enum 'MoreColor'> δεν μπορεί να επεκτείνει το <enum 'Color'>
+TypeError: η σειρά μελών δεν ταιριάζει με _order_:
+TypeError: μη υποστηριζόμενοι τύποι τελεστών για ** ή pow(): 'str' και 'int'
+TypeError: '>=' δεν υποστηρίζεται μεταξύ των παρουσιών του 'NoneType' και 'int'
+TypeError: Αναμενόταν το 'V' να είναι int ή float
+TypeError: Δεν υπάρχει χαρακτηριστικό "__dict__" στην παρουσία "CP" για την προσωρινή αποθήκευση της ιδιότητας "pi".
+TypeError: αντικείμενο τύπου 'C' δεν έχει len()
+TypeError: ο περιγραφέας '__hash__' του αντικειμένου 'int' χρειάζεται όρισμα
+TypeError: η f() πήρε πολλές τιμές για το όρισμα λέξης-κλειδιού "a"
+UnboundLocalError: τοπική μεταβλητή 'x' που αναφέρεται πριν από την εκχώρηση
+raise UnicodeError("Μη έγκυρος χαρακτήρας %r" % c)
+raise UnicodeError ("Παραβίαση της απαίτησης BIDI 2")
+raise UnicodeError ("Παραβίαση της απαίτησης BIDI 3")
+raise UnicodeError ("ετικέτα κενή ή πολύ μεγάλη")
+raise UnicodeError ("ετικέτα κενή ή πολύ μεγάλη")
+raise UnicodeError ("Η ετικέτα ξεκινά με πρόθεμα ACE")
+raise UnicodeError ("ετικέτα κενή ή πολύ μεγάλη")
+raise UnicodeError ("πολύ μεγάλη ετικέτα")
+raise UnicodeError ("Μη έγκυρος χαρακτήρας στην ετικέτα IDN")
+raise UnicodeError("Το IDNA δεν κάνει μετ' επιστροφής", label, label2)
+raise UnicodeError("unsupported error handling "+errors)
+raise UnicodeError ("ετικέτα κενή ή πολύ μεγάλη")
+raise UnicodeError ("ετικέτα πολύ μεγάλη")
+raise UnicodeError("Unsupported error handling "+errors)
+raise UnicodeError("unsupported error handling "+errors)
+raise UnicodeError("Unsupported error handling "+errors)
+raise UnicodeError ("ελλιπής συμβολοσειρά punicode")
+raise UnicodeError("Μη έγκυρο εκτεταμένο σημείο κώδικα '%s'"
+raise UnicodeError("Μη έγκυρος χαρακτήρας U+%x" % char)
+raise UnicodeError("Unsupported error handling "+errors)
+raise UnicodeError("Unsupported error handling "+self.errors)
+raise UnicodeError ("απροσδιόριστη κωδικοποίηση")
+raise UnicodeError ("απροσδιόριστη κωδικοποίηση")
+raise UnicodeError ("απροσδιόριστη κωδικοποίηση")
+raise UnicodeError ("απροσδιόριστη κωδικοποίηση")
+raise UnicodeError ("Η ροή UTF-32 δεν ξεκινά με BOM")
+raise UnicodeError ("Η ροή UTF-32 δεν ξεκινά με BOM")
+raise UnicodeError ("Η ροή UTF-16 δεν ξεκινά με BOM")
+raise UnicodeError ("Η ροή UTF-16 δεν ξεκινά με BOM")
+αυξήστε το UnicodeError
+αυξήστε το UnicodeError
+αυξήστε το UnicodeError
+raise UnicodeError("URL" + repr(url) +
+# UnicodeEncodeError: Εάν το πακέτο_όνομα ή το όνομα_πόρου δεν είναι UTF-8,
+self.assertIn(b"Σφάλμα UnicodeEncode: Ο κωδικοποιητής \'ascii\' δεν μπορεί να κωδικοποιήσει χαρακτήρα "
+``Σφάλμα UnicodeEncode: ο κωδικοποιητής 'latin-1' δεν μπορεί να κωδικοποιήσει τον χαρακτήρα '\u1234' στο
+UnicodeEncodeError: ο κωδικοποιητής 'ascii' δεν μπορεί να κωδικοποιήσει τον χαρακτήρα '\ua000' στο
+# UnicodeDecodeError: Απέτυχε η αποκωδικοποίηση του bytestring tp_name
+# UnicodeDecodeError: Η string() αποτυγχάνει να αποκωδικοποιήσει το bytestring
+UnicodeDecodeError: Ο κωδικοποιητής 'utf-8' δεν μπορεί να αποκωδικοποιήσει το byte 0x80 στη θέση 0:
+// ValueError: το όρισμα zip() 2 είναι μικρότερο από το όρισμα 1
+// ValueError: το όρισμα zip() 3 είναι μικρότερο από τα ορίσματα 1-2
+ValueError: εάν η *διεύθυνση* που περάσατε δεν είναι v4 ή v6
+ValueError: εάν η συμβολοσειρά που διαβιβάστηκε δεν είναι v4 ή v6
+ValueError: εάν η συμβολοσειρά που διαβιβάστηκε δεν είναι v4 ή v6
+ValueError: Εάν ο ακέραιος αριθμός είναι αρνητικός ή πολύ μεγάλος για να είναι an
+ValueError: Αν η είσοδος αναμιγνύει μηδενικά και ένα
+NetmaskValueError: Εάν η είσοδος δεν είναι έγκυρη μάσκα δικτύου
+NetmaskValueError: Εάν η είσοδος δεν είναι έγκυρη μάσκα δικτύου/hostmask
+ValueError: Εάν το άλλο δεν περιλαμβάνεται πλήρως από τον εαυτό του.
+ValueError: Το prefixlen_diff είναι πολύ μικρό ή πολύ μεγάλο.
+ValueError: Εάν self.prefixlen - prefixlen_diff < 0. Δηλαδή, έχετε
+AddressValueError: εάν η ip_str δεν είναι έγκυρη διεύθυνση IPv4.
+ValueError: αν η οκτάδα δεν είναι αυστηρά δεκαδική από [0..255].
+AddressValueError: Εάν η διεύθυνση ipad δεν είναι έγκυρη διεύθυνση IPv4.
+AddressValueError: Εάν η διεύθυνση ipad δεν είναι έγκυρη διεύθυνση IPv4.
+NetmaskValueError: Εάν η μάσκα δικτύου δεν είναι έγκυρη για
+ValueError: Εάν το αυστηρό είναι True και μια διεύθυνση δικτύου όχι
+AddressValueError: εάν η ip_str δεν είναι έγκυρη διεύθυνση IPv6.
+ValueError: εάν η είσοδος δεν είναι αυστηρά δεκαεξαδικός αριθμός από
+ValueError: Η διεύθυνση είναι μεγαλύτερη από 128 bit όλων.
+AddressValueError: Εάν η διεύθυνση δεν είναι έγκυρη διεύθυνση IPv6.
+AddressValueError: Εάν η διεύθυνση δεν είναι έγκυρη διεύθυνση IPv6.
+NetmaskValueError: Εάν η μάσκα δικτύου δεν είναι έγκυρη για
+ValueError: Αν το αυστηρό ήταν True και μια διεύθυνση δικτύου όχι
+εάν b'ValueError: ο αριθμός των πλαισίων πρέπει να είναι εντός εύρους' στο stderr:
+εάν b'ValueError: ο αριθμός των πλαισίων πρέπει να είναι εντός εύρους' στο stderr:
+εκτός ValueError: pass
+εκτός ValueError: pass
+εκτός ValueError: pass
+εκτός ValueError: pass
+try: pass\nexcept ValueError: pass\nexcept* TypeError: pass\n
+try: pass\nexcept* ValueError: pass\nexcept TypeError: pass\n
+try: pass\nexcept ValueError: pass\nexcept* TypeError as e: pass\n
+try: pass\nexcept* ValueError: pass\nexcept TypeError as e: pass\n
+try: pass\nexcept ValueError: pass\nexcept*: pass\n
+try: pass\nexcept* ValueError: pass\nexcept: pass\n
+self.assertIn("ValueError: κάποιο σφάλμα", err)
+ValueError: πάρα πολλές τιμές για αποσυσκευασία (αναμένονται 2)
+ValueError: πάρα πολλές τιμές για αποσυσκευασία (αναμένονται 2)
+ValueError: δεν υπάρχουν αρκετές τιμές για αποσυσκευασία (αναμενόταν 4, λήφθηκαν 3)
+ValueError: πάρα πολλές τιμές για αποσυσκευασία (αναμένονται 2)
+ValueError: πάρα πολλές τιμές για αποσυσκευασία (αναμενόμενο 0)
+self.assertIn('ValueError: η εκτέλεση απέτυχε', stderr)
+self.assertIn('ValueError: bug', stderr)
+self._check_error("try: pass\nexcept ValueError: pass\nexcept* TypeError: pass",
+self._check_error("try: pass\nexcept* ValueError: pass\nexcept TypeError: pass",
+ValueError: η γεννήτρια εκτελείται ήδη
+# ValueError: _unsafe_setprec, _unsafe_setemin, _unsafe_setemax
+# ValueError: Μπορεί να εκχωρηθεί μόνο ακολουθία ίδιου μεγέθους
+# ArgumentError: όρισμα 1: ValueError: 99
+ValueError: η γεννήτρια εκτελείται ήδη
+ValueError: 6
+ValueError: 7
+ValueError: σφάλμα μαθηματικού τομέα
+ValueError: σφάλμα μαθηματικού τομέα
+ValueError: σφάλμα μαθηματικού τομέα
+ValueError: σφάλμα μαθηματικού τομέα
+ValueError: σφάλμα μαθηματικού τομέα
+ValueError: σφάλμα μαθηματικού τομέα
+ValueError: σφάλμα μαθηματικού τομέα
+ValueError: σφάλμα μαθηματικού τομέα
+ValueError: δεν υπάρχουν αρκετές τιμές για αποσυσκευασία (αναμενόταν τουλάχιστον 4, λήφθηκαν 3)
+ValueError: δεν υπάρχουν αρκετές τιμές για αποσυσκευασία (αναμενόταν τουλάχιστον 4, λήφθηκαν 3)
+# "ValueError: Λειτουργία εισόδου/εξόδου σε κλειστό αρχείο" που καταγράφεται ως
+self.assertIn('ValueError: bad cleanup2', formatted_exc)
+self.assertIn('ValueError: bad cleanup2', formatted_exc)
+self.assertIn('ValueError: bad cleanup2', formatted_exc)
+self.assertIn('ValueError: bad cleanup2', formatted_exc)
+self.assertIn('ValueError: bad cleanup2', formatted_exc)
+self.assertIn('ValueError: bad cleanup2', formatted_exc)
+self.assertIn('ValueError: bad cleanup2', formatted_exc)
+self.assertIn('ValueError: bad cleanup2', formatted_exc)
+self.assertIn('ValueError: bad cleanup2', formatted_exc)
+με self._assert_logged('ValueError: σφάλμα στον αρχικοποιητή'):
+ValueError: [Ρουτίνες ψηφιακού φακέλου: EVP_DigestInit_ex] απενεργοποιημένο για FIPS
+ValueError: μη υποστηριζόμενος τύπος κατακερματισμού md4
+>>> exc_msg = 'Σφάλμα τιμής: 1\n 2'
+'ValueError: 1\n 2\n'
+>>> exc_msg = 'Σφάλμα τιμής: 1\n 2\n'
+'ValueError: 1\n 2\n'
+ValueError: η γραμμή 4 της συμβολοσειράς docstring για some_test έχει ασυνεπή κενό κενό στην αρχή: 'εσοχή'
+ValueError: η γραμμή 2 της συμβολοσειράς εγγράφων για some_test έχει ασυνεπή κενό κενό στην αρχή: '... 2))'
+ValueError: η γραμμή 1 της συμβολοσειράς docstring για some_test δεν είναι κενή μετά από >>>: '>>>print(1)'
+ValueError: η γραμμή 2 της συμβολοσειράς docstring για some_test δεν είναι κενή μετά από ...: '...print(1)'
+... ValueError: multi
+... ValueError: λάθος μήνυμα
+ValueError: λάθος μήνυμα
+ValueError: μήνυμα
+... ValueError: λάθος μήνυμα
+ValueError: μήνυμα
+ValueError: 2
+ValueError: 2
+ValueError: η γραμμή 1 του doctest για s έχει μη έγκυρη επιλογή: '+BADOPTION'
+ValueError: η γραμμή 1 του doctest για s έχει μη έγκυρη επιλογή: 'ELLIPSIS'
+ValueError: η γραμμή 0 του doctest για s έχει μια οδηγία επιλογής σε μια γραμμή χωρίς παράδειγμα: '# doctest: +ELLIPSIS'
+ValueError: Το πακέτο μπορεί να καθοριστεί μόνο για διαδρομές που σχετίζονται με λειτουργικές μονάδες.
+self.assertTrue(err.getvalue().endswith("ValueError: 42\n"))
+self.assertIn('ValueError: 42\n', err)
+r'ValueError: bug\n'
+# ValueError: ο περιγραφέας αρχείου δεν μπορεί να είναι αρνητικός ακέραιος αριθμός (-1)
+στ' | ValueError: 1\n'
+exp = ' Αρχείο "<δεν υπάρχει>", γραμμή 3, στο <module>\nValueError: 42\n'
+στ' | ValueError: 1\n'
+στ' | ValueError: 1\n'
+στ' | ValueError: 3\n'
+στ' | ValueError: 1\n'
+στ' | ValueError: 3\n'
+στ' | ValueError: 1\n'
+στ' | ValueError: 4\n'
+στ' | ValueError: 5\n'
+' | ValueError: 0\n'
+' | ValueError: 1\n'
+' | ValueError: 2\n'
+' | ValueError: 3\n'
+' | ValueError: 4\n'
+' | ValueError: 5\n'
+' | ValueError: 6\n'
+' | ValueError: 7\n'
+' | ValueError: 8\n'
+' | ValueError: 9\n'
+' | ValueError: 10\n'
+' | ValueError: 11\n'
+' | ValueError: 12\n'
+' | ValueError: 13\n'
+' | ValueError: 14\n'
+' | ValueError: 999\n'
+' | ValueError: 998\n'
+' | ValueError: 997\n'
+' | ValueError: 996\n'
+' | ValueError: 995\n'
+' | ValueError: 994\n'
+' | ValueError: 993\n'
+' | ValueError: 992\n'
+' | ValueError: 991\n'
+' | ValueError: 990\n'
+' | ValueError: -990\n'
+' | ValueError: -991\n'
+' | ValueError: -992\n'
+' | ValueError: -993\n'
+' | ValueError: -994\n'
+' | ValueError: -995\n'
+' | ValueError: -996\n'
+' | ValueError: -997\n'
+' | ValueError: -998\n'
+' | ValueError: -999\n'
+στ' | ValueError: κακή τιμή\n'
+στ' | ValueError: τρομερή τιμή\n'
+στ' | ValueError: κακή τιμή\n'
+στ' | ValueError: τρομερή τιμή\n'
+στ' | ValueError: 42',
+στ' | ValueError: 24',
+στ' | ValueError: 0',
+στ' | ValueError: 1',
+στ' | ValueError: -2',
+στ' | ValueError: -1',
+στ' | ValueError: 1',
+στ' | ValueError: 2',
+εκτός ValueError: pass
+εκτός ValueError: pass
+εκτός ValueError: # ValueError: το σήμα λειτουργεί μόνο στο κύριο νήμα
+ValueError: δεν υπάρχουν εισαγωγικά συμβολοσειρών γύρω από το b''
+ValueError: δεν βρέθηκε νέα γραμμή κατά την προσπάθεια ανάγνωσης stringnl
+ValueError: αναμενόμενα 50331648 byte σε μια συμβολοσειρά4, αλλά απομένουν μόνο 6
+ValueError: αναμενόμενα 50331648 byte σε ένα bytes4, αλλά απομένουν μόνο 6
+ValueError: αναμενόμενα ... byte σε ένα bytes8, αλλά απομένουν μόνο 6
+ValueError: αναμενόμενα ... byte σε έναν bytearray8, αλλά απομένουν μόνο 6
+ValueError: αναμένονται 7 byte σε ένα unicodestring1, αλλά απομένουν μόνο 6
+ValueError: αναμένονται 7 byte σε ένα unicodestring4, αλλά απομένουν μόνο 6
+ValueError: αναμένονται 7 byte σε ένα unicodestring8, αλλά απομένουν μόνο 6
+ValueError: μη έγκυρο literal για int() με βάση 10: b'1234L'
+ValueError: ('Επιτρέπονται μόνο οι σημαίες αναφοράς', 8)
+ValueError: Αναμενόταν ακριβώς ένα στοιχείο στο iterable, αλλά έλαβε 1, 2,
+:raises ValueError: Όταν παρέχεται μια μη έγκυρη τιμή για το όνομα.
+εκτός από το ValueError: # προσθέστε μόνο εάν λείπει, δηλαδή κάντε μία φορά
+εκτός από το ValueError: # Χρειάζεστε αυτό μέχρι να επιδιορθωθεί.
+εκτός από το ValueError: # δείτε το ζήτημα1207589
+' | ValueError: 1\n'
+' | ValueError: 1\n'
+ValueError: δεν μπορεί να στρογγυλοποιηθεί ένα NaN
+εκτός ValueError: # pragma: χωρίς εξώφυλλο
+ValueError: Λειτουργία εισόδου/εξόδου σε κλειστό αρχείο.
+ValueError: το όρισμα zip() 2 είναι μεγαλύτερο από το όρισμα 1
+ValueError: Δεν είναι boolean: όχι
+ValueError: ψευδώνυμα βρέθηκαν στο <enum 'Color'>: CRIMSON -> RED
+ValueError: μη έγκυρο αριθμό "Χρώμα": λείπουν οι τιμές 3, 4
+ValueError: μη έγκυρη Σημαία "Χρώμα": από τα ψευδώνυμα WHITE και NEON λείπουν συνδυασμένες τιμές 0x18 [χρησιμοποιήστε enum.show_flag_values(τιμή) για λεπτομέρειες]
+ValueError: <flag 'StrictFlag'> μη έγκυρη τιμή 20
+ValueError: διπλότυπες τιμές βρέθηκαν στο <enum 'Λάθος'>: FOUR -> THREE
+ValueError: n πρέπει να είναι >= 0
+ValueError: n πρέπει να είναι ακριβής ακέραιος
+ValueError: list.remove(x): x δεν είναι στη λίστα
+ValueError: πολλαπλές
+ValueError: πολλαπλές
+Το ``ValueError: 42 is prime`` θα περάσει αν το :exc:`ValueError` είναι όντως
+Για παράδειγμα, ένα παράδειγμα που αναμένει ``ValueError: 42`` θα περάσει αν το πραγματικό
+Η εξαίρεση που προκύπτει είναι ``ValueError: 3*14``, αλλά θα αποτύχει εάν, ας πούμε,
+ValueError: Το '/etc/passwd' δεν βρίσκεται στην υποδιαδρομή του '/usr' Ή ένα μονοπάτι είναι σχετικό και το άλλο είναι απόλυτο.
+ValueError: Το '/etc/passwd' δεν βρίσκεται στην ίδια μονάδα δίσκου με το 'foo' Ή μία διαδρομή είναι σχετική και η άλλη είναι απόλυτη.
+ValueError: Το PureWindowsPath('c:/') έχει ένα κενό όνομα
+ValueError: Το PureWindowsPath('c:/') έχει ένα κενό όνομα
+ValueError: το όρισμα zip() 2 είναι μικρότερο από το όρισμα 1
+ValueError: Μη έγκυρο σύμβολο κράτησης θέσης στη συμβολοσειρά: γραμμή 1, στήλη 11
+ValueError: Ορίστε τη μεταβλητή `my_name`!
+ValueError: ανάθεση προβολής μνήμης: lvalue και rvalue έχουν διαφορετικές δομές
+ValueError: Απαγορεύεται η λειτουργία σε απελευθερωμένο αντικείμενο memoryview
+ValueError: Απαγορεύεται η λειτουργία σε απελευθερωμένο αντικείμενο memoryview
+ValueError: memoryview: μη έγκυρη τιμή για τη μορφή "B"
+ValueError: Υπερβαίνει το όριο (4300 ψηφία) για τη μετατροπή ακέραιων συμβολοσειρών: η τιμή έχει 5432 ψηφία. χρησιμοποιήστε sys.set_int_max_str_digits() για να αυξήσετε το όριο.
+ValueError: Υπερβαίνει το όριο (4300 ψηφία) για μετατροπή ακέραιων συμβολοσειρών: η τιμή έχει 8599 ψηφία. χρησιμοποιήστε sys.set_int_max_str_digits() για να αυξήσετε το όριο.
+ipaddress.AddressValueError: 4294967296 (>= 2**32) δεν επιτρέπεται ως διεύθυνση IPv4
+ValueError: το νέο πρόθεμα πρέπει να είναι μεγαλύτερο
+ValueError: υπερβαίνει τον διαθέσιμο χώρο αποθήκευσης για την υπάρχουσα οδό
+ValueError: Η διαδικασία πιθανώς κλήθηκε χωρίς αρκετά ορίσματα (λείπουν 4 byte)
+ValueError: Η διαδικασία πιθανώς κλήθηκε με πάρα πολλά ορίσματα (περισσότερα 4 byte)
+ValueError: NULL πρόσβαση δείκτη
+ValueError: NULL πρόσβαση δείκτη
+ValueError: ελάχιστο μέγεθος είναι 8
+ValueError: όχι δεκαδικό
+ValueError: κόμβος ή συμβολοσειρά με κακή μορφή: <_ast.Αντικείμενο κλήσης στο 0x101739a10>
+ValueError: προσπαθήστε να αντιστοιχίσετε ακολουθία μεγέθους 3 σε εκτεταμένο τμήμα μεγέθους 2
+ValueError: δείγμα μεγαλύτερο από τον πληθυσμό
+εκτός από TypeError, ValueError: # Λάθος!
+ValueError: συμβολοσειρά με κακή μορφή
+ValueError: διπλότυπες τιμές βρέθηκαν στο <enum 'Λάθος'>: FOUR -> THREE
+ValueError: τα ψευδώνυμα δεν επιτρέπονται στο DuplicateFreeEnum: 'GRENE' --> 'GREEN'
+ValueError: Το 192.0.2.1/24 έχει ορίσει bits κεντρικού υπολογιστή
+ValueError: Το '192.168.0.256' δεν φαίνεται να είναι διεύθυνση IPv4 ή IPv6
+ipaddress.AddressValueError: Octet 256 (> 255) δεν επιτρέπεται στο '192.168.0.256'
+ValueError: Το '192.168.0.1/64' δεν φαίνεται να είναι δίκτυο IPv4 ή IPv6
+ipaddress.NetmaskValueError: Το '64' δεν είναι έγκυρη μάσκα δικτύου
+ValueError: Αναμενόταν η <μέθοδος 'isupper' των αντικειμένων 'str'> να ισχύει για το 'Widget'
+ValueError: Το αναμενόμενο 'metle' να είναι ένα από τα {'metal', 'plastic', 'wood'}
+ValueError: Αναμενόταν -5 να είναι τουλάχιστον 0
+| ValueError: 1
+εκτός ZeroDivisionError: pass
+ZeroDivisionError: διαίρεση με μηδέν
+ZeroDivisionError: διαίρεση ακέραιου αριθμού ή modulo με μηδέν
+ZeroDivisionError: διαίρεση ακέραιου αριθμού ή modulo με μηδέν
+ZeroDivisionError: Το 0,0 δεν μπορεί να αυξηθεί σε αρνητική ισχύ
+εκτός ZeroDivisionError: pass
+self.assertIn('ZeroDivisionError: διαίρεση με μηδέν', formatted_exc)
+self.assertIn('ZeroDivisionError: διαίρεση με μηδέν', formatted_exc)
+self.assertIn('ZeroDivisionError: διαίρεση με μηδέν', formatted_exc)
+self.assertIn('ZeroDivisionError: διαίρεση με μηδέν', formatted_exc)
+self.assertIn('ZeroDivisionError: διαίρεση με μηδέν', formatted_exc)
+self.assertIn('ZeroDivisionError: διαίρεση με μηδέν', formatted_exc)
+self.assertIn('ZeroDivisionError: διαίρεση με μηδέν', formatted_exc)
+self.assertIn('ZeroDivisionError: διαίρεση με μηδέν', formatted_exc)
+self.assertIn('ZeroDivisionError: διαίρεση με μηδέν', formatted_exc)
+self.assertIn('ZeroDivisionError: διαίρεση με μηδέν', formatted_exc)
+self.assertIn('ZeroDivisionError: διαίρεση με μηδέν', formatted_exc)
+self.assertIn('ZeroDivisionError: διαίρεση με μηδέν', formatted_exc)
+... ZeroDivisionError: διαίρεση ακέραιου αριθμού ή modulo με μηδέν
+... ZeroDivisionError: διαίρεση ακέραιου αριθμού ή modulo με μηδέν
+ZeroDivisionError: διαίρεση ακέραιου αριθμού ή modulo με μηδέν
+ZeroDivisionError: διαίρεση ακέραιου αριθμού ή modulo με μηδέν
+b'ZeroDivisionError: διαίρεση με μηδέν'
+self.assertEqual(γραμμές[3], b'ZeroDivisionError: διαίρεση με μηδέν')
+self.assertEqual(γραμμές[3], b'ZeroDivisionError: διαίρεση με μηδέν')
+b'ZeroDivisionError: διαίρεση με μηδέν']
+'ZeroDivisionError: διαίρεση με μηδέν',
+στ' | ZeroDivisionError: διαίρεση με μηδέν',
+εκτός ZeroDivisionError: pass
+εκτός ZeroDivisionError: pass
+εκτός ZeroDivisionError: pass
+εκτός ZeroDivisionError: pass
+εκτός ZeroDivisionError: pass
+εκτός ZeroDivisionError: pass
+' ZeroDivisionError: διαίρεση με μηδέν\n'
+' ZeroDivisionError: διαίρεση με μηδέν\n'
+ZeroDivisionError: διαίρεση με μηδέν
+ZeroDivisionError: διαίρεση ακέραιου αριθμού ή modulo με μηδέν
+ZeroDivisionError: διαίρεση ακέραιου αριθμού ή modulo με μηδέν
+ZeroDivisionError: διαίρεση με μηδέν
+logging.exception('ZeroDivisionError: %s', e)
+28/01/2015 07:21:23|ΣΦΑΛΜΑ|ZeroDivisionError: διαίρεση ακέραιου αριθμού ή modulo με μηδέν|'Traceback (τελευταία κλήση):\n Αρχείο "logtest7.py", γραμμή 30, στο κύριο\n x = 1 / 0\nΣφάλμα ZeroDivision: διαίρεση ακέραιου αριθμού ή modulo με μηδέν'|
+ΠΡΟΕΙΔΟΠΟΙΗΣΗ:demo:ZeroDivisionError: διαίρεση με μηδέν
+ZeroDivisionError: διαίρεση με μηδέν
+ZeroDivisionError: διαίρεση με μηδέν
+NameError: το όνομα 'valeur' ​​δεν έχει οριστεί
+Σφάλμα σύνταξης: ασυμβίβαστο ')'
+NameError: το όνομα 'imprime' δεν έχει οριστεί
+Σφάλμα σύνταξης: EOL κατά τη σάρωση συμβολοσειράς κυριολεκτικά
+NameError: το όνομα 'z' δεν έχει οριστεί
+NameError: το όνομα 'impimir' δεν έχει οριστεί
+NameError: το όνομα 'imprimer' δεν έχει οριστεί
+NameError: το όνομα 'imprimir' δεν έχει οριστεί

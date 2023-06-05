@@ -1,0 +1,1952 @@
+Daxuyaniya Çewtiya: Sernivîsan (('Naverok-Tîpe', 'nivis/sade')) divê
+('200', 'AssertionError: Divê statû herî kêm 4 tîpan be'),
+('20X OK', 'EssertionError: Divê peyama statûyê bi koda 3-reqemî dest pê bike'),
+('200OK', 'EssertionError: Peyama statûyê divê cîhek li dû kodê hebe'),
+"çap bike('Error:0:CLOEXEC têkçû.')"]).bisekine()
+self.assertIn('AssertionError: xerab tearDown', result.failures[0][1])
+self.assertIn('AssertionError: xerab tearDown', result.failures[0][1])
+ji bilî AssertionError:
+# AssertionError: 'v@entry=()' != '()'
+Daxuyaniya Çewtiya: 1 != 0
+Daxuyaniya Çewtiya: 1 != 0
+Daxuyaniya Çewtiya: 1 != 0
+Daxuyaniya Çewtiya: 1 != 0
+AssertionError: "3" ji nişka ve ne ji "4" mezintir an wekhev
+AssertionError: Tê çaverêkirin ku carekê were bang kirin. 2 caran bang kirin.
+Daxuyaniya Çewtî: Tê çaverêkirin: (({6},), {})
+AssertionError: Banga çaverêkirî: mock({1})
+Daxuyaniya Çewtî: Tê çaverêkirin: bang (<__main__. Foo object at 0x...>)
+Daxuyaniya Çewtî: Tê çaverêkirin: ((<Tişta hevber li 0x...>,), {})
+AssertionError: 'rêbaza' ya çaverêkirî ku carekê were gazî kirin. 2 caran bang kirin.
+AssertionError: Tê çaverêkirin ku 'mack' carekê were gotin. 2 caran bang kirin.
+AssertionError: Tê çaverêkirin ku 'silav' nehatibe gazîkirin. 1 caran gazî kirin.
+AssertionError: Li benda tinazê ku dihat hêvîkirin.
+AssertionError: tinazê çaverêkirî ku carekê li bendê be. Li benda 2 caran.
+AssertionError: banga hêvîkirî nehat dîtin.
+AssertionError: tinazê çaverêkirî ku carekê li bendê be. Li benda 2 caran.
+Daxuyaniya Çewtiya: tinazê ('yên din') li bendê ne hat dîtin
+Daxuyaniya Çewtiya: Li bendê nayê dîtin.
+AssertionError: Tê çaverêkirin ku 'mack' carekê were gotin. 2 caran bang kirin.
+TaybetmendîError: Tişta 'MyLocal' tu taybetmendiya 'reng' nîne
+A().a # Raised AttributeError: Mînakî taybetmendiyek 'a' nîne
+# TaybetmendîError: tişta 'Nav' binivîsîne ku taybetmendiya 'x' nîne
+# TaybetmendîError: 'x' di _anonîm__ de lê ne di _qadan_ de tê diyarkirin
+TaybetmendîError: taybetmendiya 'gi_running' ya tiştên 'jenerator' nayê nivîsandin
+TaybetmendîError: Tişta 'defaultdict2' taybetmendiya 'x1' nîne
+TaybetmendîError: modula 'test.test_doctest' taybetmendiya 'sillySetup' nîne
+TaybetmendîError: modula 'test.test_doctest' taybetmendiya 'sillySetup' nîne
+# AttributeError: Tişta 'str' xwedan taybetmendiyek 'is_attachment' nîne
+# AtributeError: Tişta 'SMTP' taybetmendiya 'sock' nîne)
+ji bilî AtributeError: # ne hemî tiştan __dict__ ne (mînak çîn cîhan diyar dike)
+ji bilî AttributeError: vegere Tune
+ji bilî AttributeError: derbas
+ji bilî AttributeError: derbas
+ji bilî AttributeError: # Ji bo platformên bê _getframemodulename()
+ji bilî AttributeError: # soket tune
+ji bilî AttributeError: # soket tune
+ji bilî AttributeError: # shell dibe ku girtibe
+ji bilî AttributeError: # shell dibe ku girtibe
+ji bilî AttributeError: # dibe ku PyShell be
+ji bilî AttributeError: # bpo-35379: du caran tê gotin
+AtributeError: Tişta 'rêbazê' tu taybetmendiyek tune
+TaybetmendîError: yekem
+TaybetmendîError: yekem
+TaybetmendîError: yekem
+TaybetmendîError: yekem
+TaybetmendîError: yekem
+TaybetmendîError: modula 'sys' taybetmendiya '__file__' nîne
+TaybetmendîError: Tiştek taybetmendiyek 'old_method' nîne
+AttributeError: Tişta 'NoneType' taybetmendiya 'kom' nîne
+Xeletiya Taybetiyê: f
+TaybetmendîError: <modula 'sys' (avakirin)> taybetmendiya 'ne_existing_ttribute' nîne
+TaybetmendîError: Tişta mock xwedan taybetmendiyek 'assret_called_with' nîne
+TaybetmendîError: Tişta mock xwedan taybetmendiyek 'assret_called_with' nîne
+TaybetmendîError: Tişta mock taybetmendiya 'a' nîne
+TaybetmendîError: Tişta mock taybetmendiya 'a' nîne
+AttributeError: Tişta 'rêbaz' xwedan taybetmendiyek 'whoami' nîne
+TaybetmendîError: Tişta 'modul' taybetmendiya 'f' nîne
+TaybetmendîError: Tişta 'modul' taybetmendiya 'f' nîne
+TaybetmendîError: Tişta 'modul' taybetmendiya 'f' nîne
+TaybetmendîError: fonksiyona 'MyOwnFunction' nehat dîtin
+AtributeError: fonksiyona rêzî 0 nehat dîtin
+Xeletiya Taybetmendiyê: x
+Xeletiya Taybetmendiyê: x
+TaybetmendîError: Tişta 'C' xwedan taybetmendiyek 'newattr' nîne
+TaybetmendîError: Tişta 'NoneType' taybetmendiya 'x' nîne
+TaybetmendîError: modula 'collections' taybetmendiya 'namedtoplo' nîne. Mebesta te: namedtuple?
+TaybetmendîError: Tişta 'ClassWithoutGetAttr' taybetmendiya 'z' nîne
+TaybetmendîError: Tişta 'C' xwedî taybetmendiyek '_C__x' nîne
+TaybetmendîError: Tişta 'wesayît' xwedî taybetmendiya 'id_nubmer' nîne
+AtributeError: taybetmendiya 'dept' ya nesneya 'Immutable' tu sazker tune
+AttributeError: Tişta 'neguherbar' taybetmendiya 'cih' nîne
+TaybetmendîError: Tişta 'H' taybetmendiya 'xz' nîne
+EXPORT_DATA(PyExc_EOFEçewt)
+EOF. Naha ew :exc:`~ssl.SSLEOFError` bilind dike, reftarên berê li hev dike.
+ssl.wrap_socket() naha ssl.SSLEOFE xeletî ji OSErrorê dema peer bilind dike
+ji ber ku ``xwendin()`` dikare :exc:`ssl.SSLEOFError` li ser Windowsê bilind bike. Patch by
+- Pirsgirêk # 1159051: GzipFile naha dema ku pelek xerabûyî dixwîne EOFError zêde dike
+- Pirsgirêk #5334: array.fromfile() nekarî nirxan têxe dema ku EOFError rabû.
+[data.PyExc_EOFError]
+Objects/exceptions.c:PyExc_EOFError statîk PyTypeObject PyExc_EOFError
+Objects/exceptions.c:_PyExc_EOFError statîk PyTypeObject _PyExc_EOFError
+Objects/exceptions.c - _PyExc_EOFError -
+Objects/exceptions.c - PyExc_EOFError -
+Ger bikarhêner EOF (* nix: Ctrl-D, Windows: Ctrl-Z + Vegere) lêxe, EOFErrorê bilind bike.
+PyErr_SetNone(PyExc_EOFError);
+PyErr_SetString(PyExc_EOFE çewtî,
+PyErr_SetString(PyExc_EOFE çewtî,
+PyErr_SetString(PyExc_EOFE çewtî,
+PyErr_SetString(PyExc_EOFE çewtî,
+PyErr_SetString(PyExc_EOFE çewtî,
+guhertoya nerazî ya marshal), EOFError, ValueError an jî bilind bikin
+Ger nirxek derbasdar neyê dîtin, EOFError, ValueError an TypeError bilind bikin. Biserde
+Ger bikarhêner EOF (*nix: Ctrl-D, Windows: Ctrl-Z+Return) lêxe, EOFErrorê zêde bike.\n
+guhertoya 's formata marshal ya hevgirtî), EOFError, ValueError an\n zêde bike
+Ger nirxek derbasdar neyê dîtin, EOFError, ValueError an TypeError bilind bikin. Zêde\n
+PyAPI_DATA(PyObject *) PyExc_EOFError;
+* EOFError Exception dirêj dike
+SimpleExtendsException(PyExc_Exception, EOFEçewt,
+ITEM(EOFExelet),
+PyErr_SetString(PyExc_EOFE çewtî,
+PyErr_SetString(PyExc_EOFE çewtî,
+ji bilî EOFError:
+ji bilî (EOFError, aifc.Error):
+ji bilî (EOFExelet, pêl.Çewtî):
+EOFErrorê bilind bike("Pelê pêçayî berî ku"
+EOFErrorê bilind bike("Pelê pêçayî berî ku"
+EOFErrorê bilind bike("Pelê pêçayî berî dawiya herikandinê qediya"
+ji bilî (OSError, EOFError, ValueError) wekî xelet:
+ji bilî (OSError, EOFError):
+Ger girêdan girtî be EOFError bilind bikin.
+heke ne rêz be: EOFError rabe
+EOFError
+ji bilî EOFError:
+EOFErrorê zêde bike ('EOF li cihê ku nayê hêvîkirin xwend')
+EOFErrorê zêde bike ('EOF li cihê ku nayê hêvîkirin xwend')
+EOFErrorê zêde bike ('EOF li cihê ku nayê hêvîkirin xwend')
+ji bilî ssl.SSLEOFE xelet:
+bi self.assertRaises(EOFError):
+ji bilî EOFError:
+self.assertRaises(EOFExelet, telnet.read_very_lazy)
+ji bilî EOFError:
+self.assertRaises(EOFExelet, gzip.decompress, compressed_data[:-4])
+self.assertRaises(EOFExelet, gzip.decompress, compressed_data[:-8])
+self.assertRaises(EOFError, f.read)
+self.assertRaises(EOFError, f.read, 1)
+self.assertRaises(EOFError, f.read, 1)
+self.assertRaises(EOFError, conn.recv)
+self.assertRaises(EOFE çewtî, conn.recv_bytes)
+ji bilî EOFError:
+self.assertRaises(EOFExelet, marshal.loads, data[0: i])
+bi self.assertRaises(EOFError):
+bi self.assertRaises(EOFError):
+bi self.assertRaises(EOFError):
+bi self.assertRaises(EOFError):
+PyExc_EOFE çewtî
+ji bilî (OSError, EOFError):
+EOF_ÇEWT = (EOFE çewtî,)
+EOF_ERRORS += (ssl.SSLEOFEçewt,)
+truncated_errors = (pickle.UnpicklingError, EOFError,
+truncated_errors = (pickle.UnpicklingError, EOFError,
+EOFE xelet,
+self.check_unpickling_error(EOFExelet, b'')
+self.check_unpickling_error(EOFExelet, b'N')
+self.assertRaises((EOFExelet, struct.error, pickle.UnpicklingError), self.load, s)
+self.assertRaises(EOFExelet, unpickler.load)
+self.assertRaises(EOFError, lzd.decompress, b"quux")
+self.assertRaises(EOFError, lzd.decompress, b"nyan")
+self.assertRaises(EOFError, f.read)
+self.assertRaises(EOFError, f.read)
+self.assertRaises(EOFError, f.read, 1)
+self.assertRaises(EOFError, f.read, 1)
+bi self.assertRaises(EOFError):
+self.assertRaises(EOFError, b.fromfile, f, len(self.example)+1)
+# li şûna EOFError.
+bi self.assertRaises(EOFError):
+bi self.assertRaises(EOFError):
+# din EOFErrorê bilind bikin.
+# EOFErrorê bilind bikin.
+# Dema ku ala qismî bin, .pyc ji nû ve çêkin, wekî din EOFErrorê bilind bikin.
+# Dema ku haş qismî be, .pyc ji nû ve çêkin, wekî din EOFErrorê bilind bikin.
+# EOFErrorê bilind bikin.
+# Gava ku tenê jimareya sêrbaz û demjimar hebe, EOFError bilind bikin.
+bi self.assertRaises(EOFError):
+bi self.assertRaises(EOFError):
+bi self.assertRaises(EOFError):
+bi self.assertRaises(EOFError):
+bi self.assertRaises(EOFError):
+# Ger bytecode were bikar anîn wê hingê EOFError dê ji hêla marşal ve were rakirin.
+# Ger bytecode were bikar anîn wê hingê EOFError dê ji hêla marşal ve were rakirin.
+ji bilî EOFError: derbas
+ji bilî (EOFError, TypeError, ZeroDivisionError): derbas
+ji bilî (EOFError, TypeError, ZeroDivisionError) wekî msg: derbas bibe
+ji bilî * EOFError: derbas
+ji bilî * (EOFError, TypeError, ZeroDivisionError): derbas
+ji bilî* (EOFError, TypeError, ZeroDivisionError) wekî msg: derbas bibe
+self.assertRaises(EOFError, f.read)
+self.assertRaises(EOFError, f.read, 1)
+self.assertRaises(EOFError, f.read, 1)
+def testEOFE xelet(xwe):
+self.assertRaises(EOFE çewtî, bz2d.decompress, b"tiştek")
+self.assertRaises(EOFError, bz2d.decompress, b"")
+self.raise_catch (EOFEçewtî, "EOFExelet")
+ji bilî EOFError:
+bi self.assertRaises(EOFError):
+bi self.assertRaises(EOFError):
+bi self.assertRaises(EOFError):
+# Hin win32 buildbot eger stdin mîras be EOFError zêde dike
+├── EOFError
+self.assertRaises(ssl.SSLEOFExelet, sslobj.read)
+ji bilî ssl.SSLEOFE xelet:
+self.assertRaises(EOFExelet, getpass._raw_input, input=input)
+("EOFError" di xelet.sebeb))) an
+def testEOFE xelet(xwe):
+self.assertRaises(EOFE çewtî, zlibd.decompress, b"tiştek")
+self.assertRaises(EOFExelet, zlibd.decompress, b"")
+self.infunc.side_effect = EOFE çewtî('Qediya')
+self.infunc.side_effect = EOFE çewtî('Qediya')
+self.infunc.side_effect = ["'antioch'", "", EOFError('Qediya')]
+self.infunc.side_effect = ["nenas", EOFError('Qediya')]
+EOFError ('Qediya')]
+self.infunc.side_effect = EOFE çewtî('Qediya')
+self.infunc.side_effect = EOFE çewtî('Qediya')
+self.infunc.side_effect = EOFE çewtî('Qediya')
+self.infunc.side_effect = EOFE çewtî('Qediya')
+self.infunc.side_effect = EOFE çewtî('Qediya')
+EOFError ('Qediya')]
+EOFError ('Qediya')]
+self.assertRaises(EOFExelet, aifc._read_ulong, f)
+self.assertRaises(EOFExelet, aifc._read_long, f)
+self.assertRaises(EOFExelet, aifc._read_ushort, f)
+self.assertRaises(EOFExelet, aifc._read_kurt, f)
+ji bilî EOFError: derbas
+ji bilî (EOFError, TypeError, ZeroDivisionError): derbas
+ji bilî (EOFError, TypeError, ZeroDivisionError), msg: derbas bibe
+ji bilî EOFError: derbas
+ji bilî (EOFError, TypeError, ZeroDivisionError): derbas
+ji bilî (EOFError, TypeError, ZeroDivisionError) wekî msg: derbas bibe
+self.assertRaises(EOFE çewtî, têketin)
+ji bo exctype di OSError, EOFError, RuntimeError:
+self.assertRaises(EOFExelet, up.unpack_uint)
+EOFE xelet)
+ji bilî (OSError, EOFError):
+EOFError bilind bikin
+EOFError ji None rakin
+EOFError bilind bikin
+ji bilî EOFError:
+EOFError ji None rakin
+EOFError ji None rakin
+EOFError bilind bikin
+EOFError ji None rakin
+EOFErrorê bilind bike("Pelê pêçayî berî ku"
+EOFError bilind bikin
+EOFError zêde bike ('EOF neçaverê')
+EOFError bilind bikin
+EOFError bilind bikin
+ji bilî (EOFError, OSError):
+util.debug('karker EOFEerror an OSError girt -- derket')
+ji bilî (OSError, EOFError):
+util.debug('rêberê encam EOFError/OSError girt -- derket')
+ji bilî (OSError, EOFError):
+util.debug('rêberê encam EOFError/OSError girt -- derket')
+ji bilî (OSError, EOFError):
+ji bilî (OSError, EOFError):
+ji bilî EOFError:
+EOFError bilind bikin
+ji bilî EOFError:
+Dema ku bikarhêner têkeve rêzika mifteya EOF, EOFError bilind dibe.
+ji bilî (KeyboardInterrupt, EOFError):
+ji bilî (KeyboardInterrupt, EOFError):
+EOFError bilind bikin
+EOFError bilind bikin
+EOFError bilind bikin
+EOFError bilind bikin
+EOFError bilind bikin
+all_errors = (Çewtî, OSEçewtî, EOFEçewtî)
+ji bilî (OSError, EOFError):
+# Ger girêdan girtî be EOFError bilind bikin
+EOFError bilind bikin
+all_errors = (Çewtî, OSEçewtî, EOFEçewtî, ssl.SSLEçewtî)
+ya pelê, afirandina mînakek nû dê bi EOFE-çewtiyek têk bibe
+ji bilî EOFError:
+EOFError bilind bikin
+EOFError ji None rakin
+EOFError bilind bikin
+ji bilî EOFError:
+dane xwar. Ji ber vê yekê EOFError di hin rewşan de hewce ye ku ji hev cuda bikin
+rabe EOFError dema ku dawiya girêdanê tê xwendin, ji ber
+dibe ku rêza vala. Ger pêwendiyê EOFError bilind bikin
+Ger girêdan girtî be û daneya pijyayî tunebe, EOFErrorê bilind bikin
+Ger girêdan girtî be û daneya pijyayî tunebe, EOFErrorê bilind bikin
+Ger pêwendiyek girtî be û daneya peyda nebe EOFError bilind bikin.
+Ger pêwendiyek girtî be û daneya peyda nebe EOFError bilind bikin.
+EOFError zêde bike ('girêdana têlnetê girtî')
+ji bilî EOFE xelet: # ji hêla xwe ve hatî rakirin.rawq_getchar()
+Ger tu daneyek tavilê peyda nebe asteng bike. EOFError bilind bikin
+EOFError bilind bikin
+ji bilî EOFError:
+ji bilî EOFError:
+Ger EOF were xwendin û ti nivîs nehat xwendin, EOFErrorê bilind bikin.
+EOFError bilind bikin
+EOFError: Ger têketina me tty an stdin girtî bû.
+EOFError bilind bikin
+(lê ne pêdivî ye ku bi sînorkirî) AttributeError, EOFError, ImportError,
+EOFError bilind bikin
+EOFError bilind bikin
+ji bilî (OSError, EOFError) wekî e:
+ji bilî (LZMAError, EOFError) wekî e:
+zevî nederbasdar e. Dema ku daneyan qutkirî têne dîtin EOFError tê bilind kirin.
+EOFError zêde bike (peyam)
+ji bilî (ImportError, EOFError):
+Dersa bingehîn hilweşînin - tenê EOFError ji nû ve bilind bikin
+EOFError bilind bikin
+ji bilî (EOFError, OSError, KeyboardInterrupt):
+ji bilî EOFError:
+EOFError bilind bikin
+qet nayê, û li ser EOFError derkeve.
+ji bilî EOFError:
+EOFError bilind bikin
+EOFError bilind bikin
+ji bilî EOFError:
+EOFError bilind bikin
+ji bilî EOFError:
+SSLSyscallError, SSLEOFError, SSLCertVerificationError
+çîna NecompleteReadError (EOFError):
+EOFError ji None rakin
+EOFError ji None rakin
+EOFError ji None rakin
+EOFError ji None rakin
+ji bilî EOFError:
+ji bilî EOFError:
+'EOFError', 'Ellipsis', 'Errore Environment', 'Exception', 'Derew',
+:exc:`EOFEerror` radike. Tiştek daneyên ku piştî dawiya vê yekê têne dîtin
+bixwîne, :exc:`EOFError` tê bilind kirin. Mînak::
+Ev îstîsna binkifla :exc:`EOFError` e.
+format), bilind bike :exc:`EOFEError`, :exc:`NirxError` an :exc:`TypeError`. Ew
+. Bytes zêde di nav de
+newline. Dema ku bikarhêner têxe rêza bişkojka EOF, :exc:`EOFError` tê bilind kirin.
+(lê ne hewceyî bi sînorkirî ye) AttributeError, EOFError, ImportError, û
+ji bilî EOFError:
+:exc:`EOFError` tê bilind kirin, lê tiştên ku hebûn hîn jî hene
+mînak dê bi îstîsnayek :exc:`EOFError` têk biçe.
+:exc:`EOFError` dema ku dawiya pêwendiyê tê xwendin, ji ber ku ew dikarin vegerin
+bytes. Heke girêdan girtî be û daneya pijyayî tune be, :exc:`EOFError` bilind bike
+Ger girêdan girtî be û daneya pijyayî peyda nebe :exc:`EOFError` bilind bike.
+Ger girêdan girtî be û daneya pijyayî peyda nebe :exc:`EOFError` bilind bike.
+Ger pêwendiya girtî be û dane peyda nebe :exc:`EOFError` bilind bikin. Vegerr
+Ger pêwendiya girtî be û dane peyda nebe :exc:`EOFError` bilind bikin. Vegerr
+Ger dawiya pelê hat dîtin û tu byte nehat xwendin, :exc:`EOFError` bilind bikin.
+:exc:`EOFError` û :exc:`zlib.error` jî dikarin ji bo gzip nederbasdar werin rakirin.
+çar îstîsnayên ku li jor hatine rêz kirin û her weha :exc:`OSError` û :exc:`EOFError`.
+.. îstîsna:: SSLEOFError
+:exc:`SSLEOFError` awarte.
+:exc:`EOFExeletî` heger tiştek ji bo wergirtinê nemîne
+Ger tiştek nemîne :exc:`EOFError` bilind dike
+:exc:`EOFError` heke tiştek ji bo wergirtinê nemabe û dawiya din bû
+ji bilî EOFError:
+:exc:`EOFEerror` radike. Tiştek daneyên ku piştî dawiya vê yekê têne dîtin
+.. îstîsna:: EOFE çewtî
+Ger têketin zû bi dawî bibe ew :exc:`EOFError` zêde dike.
+var,PyExc_EOFEçewtî,3.2,,
+Li ser xeletiyê, îstîsna guncav destnîşan dike (:exc:`EOFError`) û vedigere
+Li ser xeletiyê, îstîsna guncav destnîşan dike (:exc:`EOFError`) û vedigere
+Li ser xeletiyê, îstîsna guncan destnîşan dike (:exc:`EOFError`, :exc:`ValueError`
+Li ser xeletiyê, îstîsna guncan destnîşan dike (:exc:`EOFError`, :exc:`ValueError`
+Li ser xeletiyê, îstîsna guncan destnîşan dike (:exc:`EOFError`, :exc:`ValueError`
+.. index:: single: EOFE çewtî (îstîsna çêkirî)
+``0``, lêbelê, rêzek bêyî dirêjahî tê xwendin, lê :exc:`EOFError` e
+yek: PyExc_EOFError
+| :c:data:`PyExc_EOFError` | :exc:`EOFError` | |
+PyErr_SetString(PyExc_EOFE çewtî,
+EOFError. Hemî daneyên ku piştî dawiya weşanê têne dîtin têne paşguh kirin û tê tomar kirin
+PyErr_SetString(PyExc_EOFError, "Jixwe li dawiya weşanê");
+PyErr_Format(PyExc_EOFError, "Derketina têketinê qediya");
+EOFError. Hemî daneyên ku piştî dawiya weşanê têne dîtin têne paşguh kirin û tê tomar kirin
+PyErr_SetString(PyExc_EOFError, "Dawiya weşanê jixwe gihîştiye");
+PyDoc_STRVAR(SSLEOFEError_doc,
+type = dewlet->PySSLEOFErrorObject;
+type = dewlet->PySSLEOFErrorObject;
+type = dewlet->PySSLEOFErrorObject;
+dewlet->PySSLEOFErrorObject,
+SSLEOFError
+SSLEOFError_doc,
+Py_VISIT(dewlet->PySSLEOFErrorObject);
+Py_CLEAR(dewlet->PySSLEOFErrorObject);
+PyErr_SetString(PyExc_EOFE çewtî,
+EOFError. Hemî daneyên ku piştî dawiya weşanê têne dîtin têne paşguh kirin û tê tomar kirin
+PyErr_SetString(PyExc_EOFError, "Dawiya weşanê jixwe gihîştiye");
+EOFError. Daneyên ku piştî dawiya weşanê têne dîtin têne paşguh kirin û di\n de têne tomar kirin
+EOFError. Daneyên ku piştî dawiya weşanê têne dîtin têne paşguh kirin û di\n de têne tomar kirin
+EOFError. Daneyên ku piştî dawiya weşanê têne dîtin têne paşguh kirin û di\n de têne tomar kirin
+PyObject *PySSLEOFErrorObject;
+* Îstîsnayên XXX.
+# ImportError: Ger navê pakêtê tune be (mînak, heke tzdata tune
+ji bilî ImportError: # pragma: nocover
+- ZipImportError: îstîsna ku ji hêla tiştên zipimporter ve hatî rakirin. Ew a
+self.assertIn("ImportError: No module bi navê t_main.__main__",
+ji bilî ImportError: # pragma: nixumandî
+text = 'Çewtiya Import: ' + str(exc)
+f'ImportError: modula {name} barkirina li jêrwergêran piştgirî nake',
+f'ImportError: modula {name} barkirina li jêrwergêran piştgirî nake',
+ji bilî ImportError: # heke modulek pwd tune be
+ji bilî ImportError: # şîrove\n
+ji bilî ImportError: # pragma: nixumandî
+f'Çewtiya Import: 5\n')
+self.msgout(4, "Raise ImportError: No module named", qname)
+self.msgout(4, "Raise ImportError: No module named", mname)
+self.msgout(2, "Raise ImportError: " + str(exc), navê rê)
+ji bilî ImportError: # li ser Windows-ê nayê xebitandin - tiştek maqûl bike
+ji bilî ImportError: # pragma: nixumandî
+ji bilî ImportError: # pragma: nixumandî
+ji bilî ImportError: # pragma: nixumandî
+ImportError: nikare navê 'chainmap' ji 'koleksiyonan' bike. Mebesta we bû: 'ChainMap'?
+IndentationError: piştî daxuyaniya 'while' ya li ser rêza 1-ê bloka binavkirî tê hêvîkirin
+IndentationError: piştî daxuyaniya 'ji bo' ya li ser rêza 1-ê bloka binavkirî tê hêvîkirin
+IndentationError: piştî daxuyaniya 'din' a li ser rêza 3-ê bloka binavkirî tê hêvîkirin
+IndentationError: piştî daxuyaniya 'ji bo' ya li ser rêza 1-ê bloka binavkirî tê hêvîkirin
+IndentationError: piştî daxuyaniya 'din' a li ser rêza 3-ê bloka binavkirî tê hêvîkirin
+IndentationError: piştî daxuyaniya 'heke' ya li ser rêza 1-ê bloka binavkirî tê hêvîkirin
+IndentationError: piştî daxuyaniya 'elif' ya li ser rêza 3-ê bloka binavkirî tê hêvîkirin
+IndentationError: piştî daxuyaniya 'din' a li ser rêza 5-ê bloka binavkirî tê hêvîkirin
+IndentationError: piştî daxuyaniya 'ceribandin' a li ser rêza 1-ê bloka binavkirî tê hêvîkirin
+IndentationError: piştî daxuyaniya 'ji bilî' ya li ser rêza 3-ê bloka binavkirî tê hêvîkirin
+IndentationError: piştî daxuyaniya 'ji bilî' ya li ser rêza 3-ê bloka binavkirî tê hêvîkirin
+IndentationError: piştî daxuyaniya 'ji bilî*' ya li ser rêza 3-ê bloka binavkirî tê hêvîkirin
+IndentationError: piştî daxuyaniya 'dawî' ya li ser rêza 5-ê, bloka binavkirî tê hêvîkirin
+IndentationError: piştî daxuyaniya 'dawî' ya li ser rêza 5-ê, bloka binavkirî tê hêvîkirin
+IndentationError: piştî daxuyaniya 'bi' ya li ser rêza 1-ê bloka binavkirî tê hêvîkirin
+IndentationError: piştî daxuyaniya 'bi' ya li ser rêza 1-ê bloka binavkirî tê hêvîkirin
+IndentationError: piştî daxuyaniya 'bi' ya li ser rêza 1-ê bloka binavkirî tê hêvîkirin
+IndentationError: piştî daxuyaniya 'bi' ya li ser rêza 1-ê bloka binavkirî tê hêvîkirin
+IndentationError: piştî daxuyaniya 'bi' ya li ser rêza 1-ê bloka binavkirî tê hêvîkirin
+IndentationError: piştî daxuyaniya 'bi' ya li ser rêza 1-ê bloka binavkirî tê hêvîkirin
+IndentationError: piştî pênasekirina fonksiyonê ya li ser rêza 1-ê bloka binavkirî tê hêvîkirin
+IndentationError: piştî pênasekirina polê ya li ser rêza 1-ê bloka binavkirî tê hêvîkirin
+IndentationError: piştî daxuyaniya 'hevberdanê' ya li ser xeta 1, bloka binavkirî tê hêvîkirin
+IndentationError: piştî daxuyaniya 'doz' li ser rêza 2-ê bloka binavkirî tê hêvîkirin
+IndentationError: piştî daxuyaniya 'doz' a li ser rêza 4-ê bloka pêvekirî tê hêvîkirin
+IndentationError: piştî daxuyaniya 'heke' ya di rêza 2-ê de bloka binavkirî tê hêvîkirin
+>>> exc_msg = 'Çewtiya Indeksê: ji lîsteya vala derkeve'
+('[].pop()\n', '', 'Çewtiya Indeksê: ji lîsteya vala derkeve\n', 5, 4, {8: Rast e})
+>>> exc_msg = 'Çewtiya Indeksê: ji lîsteya vala derkeve'
+'Çewtiya Indeksê: ji lîsteya vala derkeve\n'
+>>> exc_msg = 'Çewtiya Indeksê: ji lîsteya vala derkeve\n'
+'Çewtiya Indeksê: ji lîsteya vala derkeve\n'
+IndexError: ji deqek vala derkeve
+IndexError: Indeksa rêzê li derveyî rêzê ye
+IndexError: Indeksa pirjimar ji rêzê ye
+IndexError: Indeksa pirjimar ji rêzê ye
+IndexError: Indeksa pirjimar ji rêzê ye
+'Çewtiya Indeksê: Indeksa piralî li derveyî rêzê\n']
+['Çewtiya Indeksê: jimareya piralî li derveyî rêzê\n']
+IndexError: navnîşa navnîşê ji rêzê ye
+IndexError: index nederbasdar
+IndexError: ji deqek vala derkeve
+shutdown_error = "Çewtiya lêgerînê: kodkirina nenas: ascii"
+shutdown_error = "Çewtiya lêgerînê: kodkirina nenas: ascii"
+# Çewtiya lêgerînê: fonksiyonên lêgerîna kodê nehatine qeyd kirin: kodkirinê nayê dîtin"
+ji bilî LookupError: # no IncrementalEncoder
+ji bilî LookupError: # no IncrementalEncoder
+ji bilî LookupError: # no IncrementalEncoder
+ji bilî LookupError: # no IncrementalEncoder
+LookupError: 'hex' ne kodkirina nivîsê ye; codecs.decode() bikar bînin da ku kodekên keyfî birêve bibin
+LookupError: 'rot13' ne kodkirina nivîsê ye; codecs.encode() bikar bînin da ku kodekên keyfî birêve bibin
+LookupError: 'hex' ne kodkirina nivîsê ye; codecs.open() bikar bînin da ku kodekên keyfî birêve bibin
+dawîkirin. Çewtiyên wekî: ``Navê Çewtî: Navê 'vekirî' nehatiye diyarkirin`` rast bikin.
+- Pirsgirêk #17032: Di "NameError" de "gerdûnî": Navê gerdûnî 'x' nayê diyarkirin"
+ji bilî NameError: derbas
+self.assertNotIn(b"Navê Çewtî: navê 'nederbasdar' nehatiye diyarkirin",
+((Pdb)) *** NameError: Navê 'tune heye' nehatiye diyarkirin
+ji bilî NameError: derbas
+ji bilî NameError: derbas
+*** NameError: navê 'foo' nehatiye diyarkirin
+NameError: navê 'favorite_color' nehatiye diyarkirin
+NameError: navê 'favorite_color' nehatiye diyarkirin
+NameError: navê 'favorite_color' nehatiye diyarkirin
+NameError: navê 'ham' nehatiye diyarkirin
+NameError: navê 'hêk' nehatiye diyarkirin
+# rê li "NameError: Navê 'dane' ne diyar e"
+ji bilî NameError: # Di rewşê de ku python bi -S dest pê kir.
+ji bilî NameError: # Di rewşê de ku pêvajoyek bi -S dest pê kir (dibe ku di pêşerojê de).
+NameError: 'spam'\n
+'Navê Çewtî: spam\n'
+NameError: navê 'spam' nehatiye diyarkirin
+NameError: Hi There
+NameError: Hi There
+NameError: navê 'n' nehatiye diyarkirin
+NameError: navê 'hucre' nehatiye diyarkirin
+NameError: 'spam'
+NameError: spam
+NameError: navê 'sys' nehatiye diyarkirin. We ji bîr kir ku 'sys' îtxal bikin?
+NameError: navê 'blech' nehatiye diyarkirin. Mebesta te: 'self.blech'?
+NameError: navê 'schwarschild_black_hole' nehatiye diyarkirin. Mebesta te: schwarzschild_black_hole?
+NotImplementedError: Cureyê sembolê hîna di nivîsarên Python de nayê piştgirî kirin.
+@Unitest.skip('xxx NotImplementationError: toList() tenê dîtinên byte piştgirî dike')
+NotImplementedError: nikare 'WindowsPath' li ser pergala we destnîşan bike
+# OSError: [Errno 28] Argumana nederbasdar: '.'
+ji bilî OSError: # Mînak. îcrakar xerab
+ji bilî OSError: # Mînak. ferman nehat dîtin
+ji bilî OSError: # Mînak. îcrakar xerab
+ji bilî OSError: # Mînak. ferman nehat dîtin
+ji bilî OSError: # Mînak. îcrakar xerab
+ji bilî OSError: # Vê carê navê xeletiyê bikar bînin
+# getlogin() bi "OSError: [Errno 25] ioctl neguncaw
+ji xeynî xeletiya OSE: # syslogd dibe ku peyda nebe
+# "OSError: [Errno 12] Nikare bîranînê veqetîne"
+# bi "OSError: [Errno 12] Nikare bîranînê veqetîne"
+'Di nav de îstîsna hate paşguhkirin.*\nÇewtî: .*')
+self.fail("Çewtiya OSE-ya çaverêkirî: struct.pack(%r, "
+self.fail("Çewtiya OSE ya Hêvî: %s" % xwestin_exception)
+self.fail("Çewtiya OSE ya Hêvî: %s" % xwestin_exception)
+self.fail("Çewtiya OSE ya Hêvî: %s" % xwestin_exception)
+self.assertIn(b'OSEÇewtî: koda çavkaniyê peyda nabe', stderr)
+eger ('OSExelet: [Errno %d]' % errno.EBADF) ne di xeletiyê de ye:
+self.assertIn(b'OSEÇewtî: Nîşana 2 ji ber rewşa nijadê hate paşguh kirin', xelet)
+ji bilî OSError: # EIO texmîn bikin
+# OSError: [Errno 9] Danasîna pelê xirab
+# Divê ev xeletiya OSE ranebe: [Errno 17] Pelê heye
+ji bilî OSError: # Linux
+ji bilî OSError: derbas
+# OSError: [Errno 38] Fonksiyon nayê pêkanîn
+print("Pêvajoya jêrîn IDLE: OSEçewtî: " + err.args[1] +
+ji bilî OSError: #pragma: no cover
+ji bilî OSError: #pragma: no cover
+| OSError: xelet 1
+| OSError: operasyon bi ser neket
+| OSError: operasyon bi ser neket
+| OSError: operasyon bi ser neket
+OSError: [Errno 98] Navnîşan jixwe tê bikaranîn
+OSError: [Errno 9] Danasîna pelê xirab
+OSEçewtî: îstîsna: xwendina binpêkirina gihîştina 0x00000020
+OSError: [Errno 126] Modula diyarkirî nehat dîtin.
+# OverflowError: _unsafe_setprec, _unsafe_setemin, _unsafe_setemax
+OverflowError: nikare bêdawîtiyê dorpêç bike
+OverflowError: n pir mezin e
+OverflowError: n pir mezin e
+:mod:`asyncio` êdî ``Çewtiya dema xebitandinê: çerxa bûyerê girtî`` dernaxe ser
+*"Çewtiya dema xebatê: ferheng di dema dubarekirinê de mezinahiya guhertoya ferhengê guhert"* muhtemel dûr bixin.
+*"Çewtiya dema xebatê: ferheng di dema dubarekirinê de mezinahiya guhertoya ferhengê guhert"* muhtemel dûr bixin.
+li şûna RuntimeError: OSError taybetmendiyek errno heye.
+# Çewtiya Runtime: Tewra meriv nikariye tiştê bi tevahî bixwîne?
+# Çewtiya dema xebitandinê: Nîşaneyên NULL
+#RuntimeError: Di dema dubarekirinê de mezinahiya ferhengê guherî
+msg = '\nÇewtiya dema xebitandinê: xeletiya qestî\n'
+self.assertTrue(r.exc_text.endswith('\nÇewtiya Dema Xebatê:'
+self.assertIn("Çewtiya dema xebitandinê: piştî girtinê nikaribe derketinê qeyd bike",
+ji bilî RuntimeError: derbas
+Çewtiya Runtime: jeneratorê GeneratorExit paşguh kir
+Çewtiya Runtime: Di dema dubarekirinê de mezinahiya ferhengê guherî
+Çewtiya Runtime: Di dema dubarekirinê de mezinahiya ferhengê guherî
+self.assertIn("Çewtiya Demjimêr: nikare pêşerojên nû destnîşan bike", err.decode())
+ji bilî RuntimeError: derbas
+ji bilî RuntimeError: derbas
+ji bilî RuntimeError: # pêkanîn hate diyarkirin
+ji bilî RuntimeError: # pêkanîn hate diyarkirin
+err_msg = "Çewtiya Dema Xebatê: {0}".format(message_ascii)
+Çewtiya Runtime: heke ev rêbaz jixwe hate gazî kirin an heke set_result()
+'Çewtiya Runtime: Tiştek xirab qewimî\n'
+'Çewtiya Runtime: Tiştek xirab qewimî\n'
+'Çewtiya Runtime: Tiştek xirab qewimî\n'
+RuntimeError: nekare bi xeletiyê rabe
+RuntimeError: Vekirina databasê têk çû
+Çewtiya Runtime: jenerator derneket
+li şûna RuntimeError: OSError taybetmendiyek errno heye.
+RuntimeError: jenerator StopIteration rakir
+Çewtiya Runtime: Di dema dubarekirinê de mezinahiya ferhengê guherî
+RuntimeError: Tiştek xirab qewimî
+RuntimeError: Tiştek xirab qewimî
+RuntimeError: Tiştek xirab qewimî
+Rawestandina dubare: 1
+Rawestandina dubare: 1
+Rawestandina Navxweyî: 1
+Rawestandina Navxweyî: 1
+Bala xwe bidinê ku veger her gav bi bilindkirina StopIteration re ne wekhev e: ya
+... ji bilî StopIteration: derbas
+StopIteration:
+StopIteration: spam
+StopIteration: spam
+Çewtiya hevoksaziyê: çaverêkirî '('
+tîpên ne-ascii di navê wê de dikarin bi xeletiyek "SyntaxError: None" têk biçin.
+Koda jêrîn naha xeletiyek Hevoksaziyê derdixe: foo(a = i ji bo i di rêzê de (10))
+errprint("%s: Çewtiya Hevoksaziyê: %s" % (pel, str(se)))
+Çewtiya Hevoksaziyê: ...
+Çewtiya Hevoksaziyê: ...
+b'Çewtiya hevoksaziyê: f-string: îfadeya vala nayê destûr kirin',
+b'Çewtiya Hevoksaziyê: rêzika revê ya nederbasdar \'\\q\''
+b'Çewtiya hevoksaziyê: koda çavkaniyê nikare baytên null bigire'
+self.assertTrue(f"Çewtiya Hevoksaziyê: hevoksaziya nederbasdar" di tb de)
+Nîşandana +: ** rakir Hevoksaziyê Çewtî: hevoksaziya nederbasdar **
+'(Pdb) *** Çewtiya Hevoksaziyê: \'(\' qet nehat girtin',
+'*** Çewtiya Hevoksaziyê: \'(\' qet nehat girtin',
+Çewtiya hevoksaziyê: navê 'x' parameter û gerdûnî ye
+Çewtiya hevoksaziyê: hevoksaziya nederbasdar
+Çewtiya Hevoksaziyê: nikare ji None re were veqetandin
+Çewtiya hevoksaziyê: hevoksaziya nederbasdar
+Çewtiya hevoksaziyê: nikare bi Rastî veqetîne
+Çewtiya hevoksaziyê: nikare bêjeyên peywirê bi True bikar bîne
+Çewtiya Hevoksaziyê: nikare ji __debug__ re were veqetandin
+Çewtiya Hevoksaziyê: nikare ji __debug__ re were veqetandin
+Çewtiya Hevoksaziyê: nikare ji __debug__ re were veqetandin
+Çewtiya Syntax: nikare __debug__ jê bibe
+Çewtiya Hevoksaziyê: nikare li vir banga fonksiyonê were veqetandin. Dibe ku te mebesta '==' li şûna '=' bû?
+Çewtiya hevoksaziyê: peywirdarkirina vegotinê ne gengaz e
+Çewtiya Syntax: nikare banga fonksiyonê jê bibe
+Çewtiya hevoksaziyê: nikare li vir bi îfadeyê veqetîne. Dibe ku te mebesta '==' li şûna '=' bû?
+Çewtiya hevoksaziyê: nikare bi îfadeya jeneratorê veqetîne
+Çewtiya Hevoksaziyê: nikare li vir bi rastî were veqetandin. Dibe ku te mebesta '==' li şûna '=' bû?
+Çewtiya Hevoksaziyê: nikare li vir bi rastî were veqetandin. Dibe ku te mebesta '==' li şûna '=' bû?
+Çewtiya Hevoksaziyê: nikare li vir bi rastî were veqetandin. Dibe ku te mebesta '==' li şûna '=' bû?
+Çewtiya Hevoksaziyê: li vir nikare ji elipsisê re were veqetandin. Dibe ku te mebesta '==' li şûna '=' bû?
+Çewtiya hevoksaziyê: hevoksaziya nederbasdar
+Çewtiya hevoksaziyê: nikare bi peyvsaziyê veqetîne
+Çewtiya hevoksaziyê: nikare bi Rastî veqetîne
+Çewtiya Hevoksaziyê: nikare ji __debug__ re were veqetandin
+Çewtiya hevoksaziyê: nikare bi Rastî veqetîne
+Çewtiya Hevoksaziyê: nikare ji __debug__ re were veqetandin
+Çewtiya Hevoksaziyê: nikare ji îfadeyê re were veqetandin
+Çewtiya Hevoksaziyê: nikare ji îfadeyê re were veqetandin
+Çewtiya Hevoksaziyê: nikare ji îfadeyê re were veqetandin
+Çewtiya hevoksaziyê: nikare ji îfadeya şertî re were veqetandin
+Çewtiya hevoksaziyê: piştî îfadeya 'heke' 'ya din' tê hêvîkirin
+Çewtiya hevoksaziyê: piştî îfadeya 'heke' 'ya din' tê hêvîkirin
+Çewtiya hevoksaziyê: piştî îfadeya 'heke' 'ya din' tê hêvîkirin
+Çewtiya hevoksaziyê: hevoksaziya nederbasdar
+Çewtiya hevoksaziyê: nikare bi Rastî veqetîne
+Çewtiya hevoksaziyê: nikare bi Rastî veqetîne
+Çewtiya hevoksaziyê: peywirdarkirina vegotinê ne gengaz e
+Çewtiya hevoksaziyê: 'tuple' ji bo peywira zêdekirî vegotinek neqanûnî ye
+Çewtiya hevoksaziyê: 'tuple' ji bo peywira zêdekirî vegotinek neqanûnî ye
+Çewtiya hevoksaziyê: 'lîste' ji bo peywira zêdekirî îfadeyek neqanûnî ye
+Çewtiya hevoksaziyê: nikare ji bo banga fonksiyonê were veqetandin
+Çewtiya hevoksaziyê: nikare ji bo banga fonksiyonê were veqetandin
+Çewtiya hevoksaziyê: nikare ji bo banga fonksiyonê were veqetandin
+Çewtiya Hevoksaziyê: nikare ji îfadeyê re were veqetandin
+Çewtiya hevoksaziyê: nikare ji bo banga fonksiyonê were veqetandin
+Çewtiya hevoksaziyê: nikare ji bo banga fonksiyonê were veqetandin
+Çewtiya Hevoksaziyê: nikare ji îfadeyê re were veqetandin
+Çewtiya hevoksaziyê: hevoksaziya nederbasdar
+Çewtiya hevoksaziyê: hevoksaziya nederbasdar
+Çewtiya hevoksaziyê: nikare ji bo banga fonksiyonê were veqetandin
+Çewtiya hevoksaziyê: nikare ji bo banga fonksiyonê were veqetandin
+Çewtiya hevoksaziyê: nikare ji bo banga fonksiyonê were veqetandin
+Çewtiya Hevoksaziyê: nikare ji îfadeyê re were veqetandin
+Çewtiya hevoksaziyê: nikare ji bo banga fonksiyonê were veqetandin
+Çewtiya hevoksaziyê: nikare ji bo banga fonksiyonê were veqetandin
+Çewtiya hevoksaziyê: çaverêkirî ':'
+Çewtiya hevoksaziyê: hevoksaziya nederbasdar
+Çewtiya Hevoksaziyê: Ma we parantezê li dora armanca têgihiştinê ji bîr kir?
+Çewtiya Hevoksaziyê: Ma we parantezê li dora armanca têgihiştinê ji bîr kir?
+Çewtiya hevoksaziyê: hevoksaziya nederbasdar. Dibe ku we comma ji bîr kir?
+Çewtiya hevoksaziyê: hevoksaziya nederbasdar. Dibe ku we comma ji bîr kir?
+Çewtiya hevoksaziyê: hevoksaziya nederbasdar. Dibe ku we comma ji bîr kir?
+Çewtiya hevoksaziyê: hevoksaziya nederbasdar. Dibe ku we comma ji bîr kir?
+Çewtiya hevoksaziyê: hevoksaziya nederbasdar
+Çewtiya hevoksaziyê: hevoksaziya nederbasdar
+Çewtiya hevoksaziyê: hevoksaziya nederbasdar
+Çewtiya hevoksaziyê: hevoksaziya nederbasdar
+Çewtiya hevoksaziyê: hevoksaziya nederbasdar
+Çewtiya hevoksaziyê: hevoksaziya nederbasdar
+Çewtiya hevoksaziyê: Parametreya bêyî xwerû li gorî pîvana xwerû tê
+Çewtiya hevoksaziyê: Parametreya bêyî xwerû li gorî pîvana xwerû tê
+Çewtiya hevoksaziyê: hevoksaziya nederbasdar
+Çewtiya hevoksaziyê: hevoksaziya nederbasdar
+Çewtiya hevoksaziyê: hevoksaziya nederbasdar
+Çewtiya Hevoksaziyê: divê herî kêm argumanek li pêş be /
+Çewtiya Hevoksaziyê: / dibe ku tenê carekê xuya bibe
+Çewtiya Hevoksaziyê: / dibe ku tenê carekê xuya bibe
+Çewtiya Hevoksaziyê: / dibe ku tenê carekê xuya bibe
+Çewtiya Hevoksaziyê: / dibe ku tenê carekê xuya bibe
+Çewtiya hevoksaziyê: / divê li pêş be *
+Çewtiya hevoksaziyê: / divê li pêş be *
+Çewtiya hevoksaziyê: argumana var-pozîsyonê nikare nirxa xwerû hebe
+Çewtiya hevoksaziyê: argumana var-pozîsyonê nikare nirxa xwerû hebe
+Çewtiya hevoksaziyê: argumana var-keyword nikare nirxa xwerû hebe
+Çewtiya hevoksaziyê: argumana var-keyword nikare nirxa xwerû hebe
+Çewtiya hevoksaziyê: arguman nikarin argumana var-keyword bişopînin
+Çewtiya hevoksaziyê: arguman nikarin argumana var-keyword bişopînin
+Çewtiya hevoksaziyê: arguman nikarin argumana var-keyword bişopînin
+Çewtiya hevoksaziyê: arguman nikarin argumana var-keyword bişopînin
+Çewtiya hevoksaziyê: arguman nikarin argumana var-keyword bişopînin
+Çewtiya Hevoksaziyê: * arguman tenê carekê xuya dibe
+Çewtiya Hevoksaziyê: * arguman tenê carekê xuya dibe
+Çewtiya Hevoksaziyê: * arguman tenê carekê xuya dibe
+Çewtiya Hevoksaziyê: * arguman tenê carekê xuya dibe
+Çewtiya hevoksaziyê: kommaya çaverêkirî di navbera / û * de
+SyntaxError: îfadeya nirxa xwerû ya çaverêkirî
+SyntaxError: îfadeya nirxa xwerû ya çaverêkirî
+SyntaxError: îfadeya nirxa xwerû ya çaverêkirî
+Çewtiya Hevoksaziyê: divê herî kêm argumanek li pêş be /
+Çewtiya Hevoksaziyê: / dibe ku tenê carekê xuya bibe
+Çewtiya Hevoksaziyê: / dibe ku tenê carekê xuya bibe
+Çewtiya Hevoksaziyê: / dibe ku tenê carekê xuya bibe
+Çewtiya Hevoksaziyê: / dibe ku tenê carekê xuya bibe
+Çewtiya hevoksaziyê: / divê li pêş be *
+Çewtiya hevoksaziyê: / divê li pêş be *
+Çewtiya hevoksaziyê: kommaya çaverêkirî di navbera / û * de
+Çewtiya hevoksaziyê: argumana var-pozîsyonê nikare nirxa xwerû hebe
+Çewtiya hevoksaziyê: argumana var-keyword nikare nirxa xwerû hebe
+Çewtiya hevoksaziyê: arguman nikarin argumana var-keyword bişopînin
+Çewtiya hevoksaziyê: arguman nikarin argumana var-keyword bişopînin
+Çewtiya hevoksaziyê: arguman nikarin argumana var-keyword bişopînin
+Çewtiya hevoksaziyê: arguman nikarin argumana var-keyword bişopînin
+Çewtiya hevoksaziyê: arguman nikarin argumana var-keyword bişopînin
+Çewtiya Hevoksaziyê: * arguman tenê carekê xuya dibe
+Çewtiya Hevoksaziyê: * arguman tenê carekê xuya dibe
+Çewtiya Hevoksaziyê: * arguman tenê carekê xuya dibe
+Çewtiya Hevoksaziyê: * arguman tenê carekê xuya dibe
+SyntaxError: îfadeya nirxa xwerû ya çaverêkirî
+SyntaxError: îfadeya nirxa xwerû ya çaverêkirî
+Çewtiya hevoksaziyê: Parametreya bêyî xwerû li gorî pîvana xwerû tê
+Çewtiya hevoksaziyê: Parametreya bêyî xwerû li gorî pîvana xwerû tê
+Çewtiya hevoksaziyê: bare * şîroveya cureyê girêdayî ye
+Çewtiya hevoksaziyê: hevoksaziya nederbasdar
+Çewtiya Hevoksaziyê: Divê îfadeya jeneratorê bê nav parantezê
+Çewtiya Hevoksaziyê: Divê îfadeya jeneratorê bê nav parantezê
+Çewtiya Hevoksaziyê: Divê îfadeya jeneratorê bê nav parantezê
+Çewtiya Hevoksaziyê: Divê îfadeya jeneratorê bê nav parantezê
+Çewtiya Hevoksaziyê: Divê îfadeya jeneratorê bê nav parantezê
+Çewtiya Hevoksaziyê: Divê îfadeya jeneratorê bê nav parantezê
+Çewtiya Hevoksaziyê: Divê îfadeya jeneratorê bê nav parantezê
+Çewtiya hevoksaziyê: hevoksaziya nederbasdar
+Çewtiya hevoksaziyê: îfade nikare peywirê bigire, belkî mebesta we "==" bû?
+Çewtiya hevoksaziyê: hevoksaziya nederbasdar
+Çewtiya hevoksaziyê: îfade nikare peywirê bigire, belkî mebesta we "==" bû?
+Çewtiya hevoksaziyê: îfade nikare peywirê bigire, belkî mebesta we "==" bû?
+Çewtiya hevoksaziyê: îfade nikare peywirê bigire, belkî mebesta we "==" bû?
+Çewtiya hevoksaziyê: îfade nikare peywirê bigire, belkî mebesta we "==" bû?
+Çewtiya hevoksaziyê: nikare bi Rastî veqetîne
+Çewtiya hevoksaziyê: nikare bi xeletî veqetîne
+Çewtiya Hevoksaziyê: nikare ji None re were veqetandin
+Çewtiya Hevoksaziyê: nikare ji __debug__ re were veqetandin
+Çewtiya Hevoksaziyê: nikare ji __debug__ re were veqetandin
+Çewtiya hevoksaziyê: îfadeya nirxa argumana çaverêkirî
+Çewtiya hevoksaziyê: îfadeya nirxa argumana çaverêkirî
+Çewtiya hevoksaziyê: îfadeya nirxa argumana çaverêkirî
+Çewtiya Hevoksaziyê: nikare vekêşana argûmana dubare were veqetandin
+Çewtiya Hevoksaziyê: nikare vekêşana argûmana dubare were veqetandin
+Çewtiya Hevoksaziyê: nikare vekêşana argumana keywordê were veqetandin
+Çewtiya Hevoksaziyê: nikare vekêşana argumana keywordê were veqetandin
+Çewtiya hevoksaziyê: 'biwêja jenerator' ji bo peywira zêdekirî vegotinek neqanûnî ye
+Çewtiya Hevoksaziyê: 'Tu kes' ji bo peywira zêdekirî îfadeyek neqanûnî ye
+Çewtiya Hevoksaziyê: nikare ji __debug__ re were veqetandin
+Çewtiya Hevoksaziyê: 'banga fonksiyonê' ji bo peywira zêdekirî vegotinek neqanûnî ye
+Çewtiya hevoksaziyê: 'berdewam' ne bi rêkûpêk di lûkê de ye
+Çewtiya hevoksaziyê: 'şikestin' çerxa derve
+Çewtiya hevoksaziyê: navê 'x' beriya danezana gerdûnî tê bikar anîn
+Çewtiya hevoksaziyê: navê 'x' ji berî danezana gerdûnî re tê destnîşankirin
+Çewtiya hevoksaziyê: navê 'x' parameter û gerdûnî ye
+Çewtiya hevoksaziyê: navê 'x' beriya daxuyaniya neherêmî tê bikaranîn
+Çewtiya Hevoksaziyê: Navê 'x' li ber daxuyaniya neherêmî tê destnîşankirin
+Çewtiya hevoksaziyê: navê 'x' parameter û neherêmî ye
+Çewtiya Hevoksaziyê: navê 'x' ne herêmî û gerdûnî ye
+Çewtiya hevoksaziyê: ji bo 'x' ya neherêmî girêdanek nayê dîtin
+Çewtiya Hevoksaziyê: Danezana neherêmî di asta modulê de destûr nayê dayîn
+Çewtiya hevoksaziyê: ji bo '_A__x' neherêmî girêdanek nehat dîtin
+Çewtiya Hevoksaziyê: nikare li vir banga fonksiyonê were veqetandin. Dibe ku te mebesta '==' li şûna '=' bû?
+Çewtiya Hevoksaziyê: nikare li vir banga fonksiyonê were veqetandin. Dibe ku te mebesta '==' li şûna '=' bû?
+Çewtiya Hevoksaziyê: nikare li vir banga fonksiyonê were veqetandin. Dibe ku te mebesta '==' li şûna '=' bû?
+Çewtiya Hevoksaziyê: nikare li vir banga fonksiyonê were veqetandin. Dibe ku te mebesta '==' li şûna '=' bû?
+Çewtiya Hevoksaziyê: nikare li vir banga fonksiyonê were veqetandin. Dibe ku te mebesta '==' li şûna '=' bû?
+Çewtiya hevoksaziyê: çaverêkirî ':'
+Çewtiya hevoksaziyê: çaverêkirî ':'
+Çewtiya hevoksaziyê: hevoksaziya nederbasdar
+Çewtiya hevoksaziyê: çaverêkirî ':'
+Çewtiya hevoksaziyê: çaverêkirî ':'
+Çewtiya hevoksaziyê: çaverêkirî ':'
+Çewtiya hevoksaziyê: çaverêkirî ':'
+Çewtiya hevoksaziyê: hevoksaziya nederbasdar
+Çewtiya hevoksaziyê: çaverêkirî ':'
+Çewtiya hevoksaziyê: çaverêkirî ':'
+Çewtiya hevoksaziyê: çaverêkirî ':'
+Çewtiya hevoksaziyê: çaverêkirî ':'
+Çewtiya hevoksaziyê: çaverêkirî ':'
+Çewtiya hevoksaziyê: çaverêkirî ':'
+Çewtiya hevoksaziyê: çaverêkirî ':'
+Çewtiya hevoksaziyê: çaverêkirî ':'
+Çewtiya hevoksaziyê: çaverêkirî ':'
+Çewtiya hevoksaziyê: hevoksaziya nederbasdar
+Çewtiya hevoksaziyê: çaverêkirî ':'
+Çewtiya hevoksaziyê: çaverêkirî ':'
+Çewtiya hevoksaziyê: çaverêkirî ':'
+Çewtiya hevoksaziyê: hevoksaziya nederbasdar
+Çewtiya hevoksaziyê: çaverêkirî ':'
+Çewtiya hevoksaziyê: çaverêkirî ':'
+Çewtiya hevoksaziyê: hevoksaziya nederbasdar. Dibe ku we li şûna '=' mebesta '==' an ':=' bû?
+Çewtiya hevoksaziyê: hevoksaziya nederbasdar. Dibe ku we li şûna '=' mebesta '==' an ':=' bû?
+Çewtiya Hevoksaziyê: nikare li vir taybetmendiyê were veqetandin. Dibe ku te mebesta '==' li şûna '=' bû?
+Çewtiya Hevoksaziyê: nikare li vir taybetmendiyê were veqetandin. Dibe ku te mebesta '==' li şûna '=' bû?
+Çewtiya hevoksaziyê: çaverêkirî '('
+Çewtiya hevoksaziyê: çaverêkirî '('
+Çewtiya Hevoksaziyê: Parametreyên fonksîyonê nayên nav parantezê
+Çewtiya Hevoksaziyê: Parametreyên fonksîyonê nayên nav parantezê
+Çewtiya Hevoksaziyê: Parametreyên fonksîyonê nayên nav parantezê
+Çewtiya Hevoksaziyê: Parametreyên fonksîyonê nayên nav parantezê
+Çewtiya Hevoksaziyê: Parametreyên îfadeya Lambda nikarin bên danîn
+Çewtiya Hevoksaziyê: Parametreyên îfadeya Lambda nikarin bên danîn
+Çewtiya Hevoksaziyê: Parametreyên îfadeya Lambda nikarin bên danîn
+Çewtiya Hevoksaziyê: Parametreyên îfadeya Lambda nikarin bên danîn
+Çewtiya Syntax: bloka 'ji bilî' an 'dawî' tê hêvîkirin
+Çewtiya hevoksaziyê: nikare hem 'ji bilî' û hem jî 'ji bilî*' di heman 'ceribandinê' de hebe
+Çewtiya hevoksaziyê: nikare hem 'ji bilî' û hem jî 'ji bilî*' di heman 'ceribandinê' de hebe
+Çewtiya hevoksaziyê: nikare hem 'ji bilî' û hem jî 'ji bilî*' di heman 'ceribandinê' de hebe
+Çewtiya hevoksaziyê: nikare hem 'ji bilî' û hem jî 'ji bilî*' di heman 'ceribandinê' de hebe
+Çewtiya hevoksaziyê: hevoksaziya nederbasdar
+Çewtiya hevoksaziyê: hevoksaziya nederbasdar
+Çewtiya hevoksaziyê: hevoksaziya nederbasdar
+Çewtiya hevoksaziyê: hevoksaziya nederbasdar
+Çewtiya hevoksaziyê: ':' piştî mifteya ferhengê tê hêvîkirin
+Çewtiya hevoksaziyê: îfadeya ku piştî mifteya ferhengê tê hêvîkirin û ':'
+Çewtiya Hevoksaziyê: nikare di nirxek ferhengê de bêjeyek stêrk bikar bîne
+Çewtiya Hevoksaziyê: nikare di nirxek ferhengê de bêjeyek stêrk bikar bîne
+Çewtiya Hevoksaziyê: nikare di nirxek ferhengê de bêjeyek stêrk bikar bîne
+Çewtiya hevoksaziyê: îfadeya ku piştî mifteya ferhengê tê hêvîkirin û ':'
+Çewtiya hevoksaziyê: hevoksaziya nederbasdar
+Çewtiya hevoksaziyê: hevoksaziya nederbasdar
+Çewtiya hevoksaziyê: hevoksaziya nederbasdar
+Çewtiya hevoksaziyê: hevoksaziya nederbasdar
+Çewtiya hevoksaziyê: hevoksaziya nederbasdar
+Çewtiya Hevoksaziyê: Gelek cureyên îstîsnayan divê bên nav parantezê
+Çewtiya Hevoksaziyê: Gelek cureyên îstîsnayan divê bên nav parantezê
+Çewtiya Hevoksaziyê: Gelek cureyên îstîsnayan divê bên nav parantezê
+Çewtiya Hevoksaziyê: Gelek cureyên îstîsnayan divê bên nav parantezê
+Çewtiya Hevoksaziyê: Gelek cureyên îstîsnayan divê bên nav parantezê
+Çewtiya Hevoksaziyê: Gelek cureyên îstîsnayan divê bên nav parantezê
+Çewtiya Hevoksaziyê: Gelek cureyên îstîsnayan divê bên nav parantezê
+Çewtiya Hevoksaziyê: Gelek cureyên îstîsnayan divê bên nav parantezê
+Çewtiya hevoksaziyê: yek an çend celebên îstîsnayê tê hêvîkirin
+Çewtiya hevoksaziyê: argumana peyva key dubare: a
+Çewtiya Hevoksaziyê: nikare ji bo danîna pêşandana li vir were veqetandin. Dibe ku te mebesta '==' li şûna '=' bû?
+Çewtiya Hevoksaziyê: nikare li vir biwêjê binivîsîne. Dibe ku te mebesta '==' li şûna '=' bû?
+Çewtiya hevoksaziyê: li vir nikare ji îfadeya f-string re were veqetandin. Dibe ku te mebesta '==' li şûna '=' bû?
+Çewtiya hevoksaziyê: li vir nikare ji îfadeya f-string re were veqetandin. Dibe ku te mebesta '==' li şûna '=' bû?
+Çewtiya hevoksaziyê: hevoksaziya nederbasdar. Dibe ku we li şûna '=' mebesta '==' an ':=' bû?
+Çewtiya hevoksaziyê: hevoksaziya nederbasdar. Dibe ku we li şûna '=' mebesta '==' an ':=' bû?
+Çewtiya hevoksaziyê: hevoksaziya nederbasdar. Dibe ku we li şûna '=' mebesta '==' an ':=' bû?
+Çewtiya hevoksaziyê: hevoksaziya nederbasdar. Dibe ku we li şûna '=' mebesta '==' an ':=' bû?
+Çewtiya hevoksaziyê: hevoksaziya nederbasdar. Dibe ku we li şûna '=' mebesta '==' an ':=' bû?
+Çewtiya Hevoksaziyê: Bêyî parantezê dorhêla komê nayê destûr kirin
+Çewtiya Hevoksaziyê: Bêyî parantezê dorhêla komê nayê destûr kirin
+Çewtiya Hevoksaziyê: Mebesta we bû ku hûn li şûna 'ji ... import ...' bikar bînin?
+Çewtiya Hevoksaziyê: Mebesta we bû ku hûn li şûna 'ji ... import ...' bikar bînin?
+Çewtiya Hevoksaziyê: Mebesta we bû ku hûn li şûna 'ji ... import ...' bikar bînin?
+Çewtiya Hevoksaziyê: Mebesta we bû ku hûn li şûna 'ji ... import ...' bikar bînin?
+Çewtiya hevoksaziyê: hevoksaziya nederbasdar
+Çewtiya hevoksaziyê: tenê armancek yekane (ne piralî) dikare were şîrove kirin
+Çewtiya Hevoksaziyê: tenê armancek yekane (ne navnîş) dikare were şîrove kirin
+Çewtiya hevoksaziyê: tenê armancek yekane (ne piralî) dikare were şîrove kirin
+Çewtiya Hevoksaziyê: tenê armancek yekane (ne navnîş) dikare were şîrove kirin
+Çewtiya Hevoksaziyê: nikare ji __debug__ re were veqetandin
+Çewtiya Hevoksaziyê: nikare ji __debug__ re were veqetandin
+Çewtiya Hevoksaziyê: nikare ji __debug__ re were veqetandin
+Çewtiya Hevoksaziyê: Divê argumanên binavkirî bişopînin *
+Çewtiya Hevoksaziyê: nikare ji __debug__ re were veqetandin
+Çewtiya Hevoksaziyê: nikare ji __debug__ re were veqetandin
+Çewtiya Hevoksaziyê: Karaktera nederbasdar '£' (U+00A3)
+Çewtiya hevoksaziyê: nikare '_' wekî armanc bikar bîne
+Çewtiya Hevoksaziyê: Armanca nimûneya nederbasdar
+Çewtiya Hevoksaziyê: Nimûneyên pozîsyonê li pey qalibên peyvên sereke dikevin
+Çewtiya Hevoksaziyê: Nimûneyên pozîsyonê li pey qalibên peyvên sereke dikevin
+Çewtiya Hevoksaziyê: Nimûneyên pozîsyonê li pey qalibên peyvên sereke dikevin
+Çewtiya Hevoksaziyê: Nimûneyên pozîsyonê li pey qalibên peyvên sereke dikevin
+Çewtiya hevoksaziyê: hevoksaziya nederbasdar
+Çewtiya Hevoksaziyê: nikare li vir îfadeya stêrkkirî bikar bîne
+Çewtiya hevoksaziyê: hevoksaziya nederbasdar
+Çewtiya hevoksaziyê: hevoksaziya nederbasdar
+Çewtiya hevoksaziyê: hevoksaziya nederbasdar
+Çewtiya Hevoksaziyê: nikare li vir îfadeya stêrkkirî bikar bîne
+Çewtiya hevoksaziyê: hevoksaziya nederbasdar
+Çewtiya hevoksaziyê: hevoksaziya nederbasdar
+Çewtiya hevoksaziyê: hevoksaziya nederbasdar
+Çewtiya hevoksaziyê: hevoksaziya nederbasdar
+Çewtiya hevoksaziyê: hevoksaziya nederbasdar
+Çewtiya hevoksaziyê: hevoksaziya nederbasdar
+Çewtiya hevoksaziyê: hevoksaziya nederbasdar
+Çewtiya hevoksaziyê: hevoksaziya nederbasdar
+Çewtiya hevoksaziyê: hevoksaziya nederbasdar
+Çewtiya hevoksaziyê: hevoksaziya nederbasdar
+Çewtiya hevoksaziyê: hevoksaziya nederbasdar
+Çewtiya hevoksaziyê: hevoksaziya nederbasdar
+Çewtiya hevoksaziyê: hevoksaziya nederbasdar
+Çewtiya hevoksaziyê: hevoksaziya nederbasdar
+Çewtiya hevoksaziyê: hevoksaziya nederbasdar
+Çewtiya hevoksaziyê: hevoksaziya nederbasdar
+Çewtiya hevoksaziyê: hevoksaziya nederbasdar
+Çewtiya hevoksaziyê: hevoksaziya nederbasdar
+Çewtiya hevoksaziyê: hevoksaziya nederbasdar
+Çewtiya hevoksaziyê: hevoksaziya nederbasdar
+Çewtiya hevoksaziyê: hevoksaziya nederbasdar
+Çewtiya hevoksaziyê: hevoksaziya nederbasdar
+Çewtiya hevoksaziyê: hevoksaziya nederbasdar. Dibe ku we li şûna '=' mebesta '==' an ':=' bû?
+Çewtiya hevoksaziyê: nikare bi îfadeya jeneratorê veqetîne
+Çewtiya hevoksaziyê: 'biwêja jenerator' ji bo peywira zêdekirî vegotinek neqanûnî ye
+ji bilî SyntaxError: derbas
+Çewtiya hevoksaziyê: fonksiyona derveyî 'berdan'
+# Çewtiya Hevoksaziyê: peywira ku bilêvkirina îfadeyê ne gengaz e
+Çewtiya Hevoksaziyê: nikare li vir îfadeyê bide. Dibe ku te mebesta '==' li şûna '=' bû?
+Çewtiya hevoksaziyê: 'îfada berhemê' ji bo peywira zêdekirî îfadeyek neqanûnî ye
+ji bilî SyntaxError: derbas
+Çewtiya hevoksaziyê: xirab xirab
+Çewtiya hevoksaziyê: xirab xirab
+Çewtiya hevoksaziyê: xirab xirab
+Çewtiya hevoksaziyê: xirab xirab
+Çewtiya hevoksaziyê: xirab xirab
+Çewtiya hevoksaziyê: xirab xirab
+Çewtiya hevoksaziyê: xirab xirab
+Çewtiya hevoksaziyê: xirab xirab
+Çewtiya hevoksaziyê: xirab xirab
+self.assertIn("Çewtiya Hevoksaziyê: Koda ne-UTF-8 ku di pelê de bi '\\x89' dest pê dike", xelet[-1])
+Çewtiya Hevoksaziyê: Vekêşana dubare di têgihiştinê de nayê bikar anîn
+Çewtiya Hevoksaziyê: Vekêşana dubare di têgihiştinê de nayê bikar anîn
+Çewtiya Hevoksaziyê: Vekêşana dubare di têgihiştinê de nayê bikar anîn
+Çewtiya Hevoksaziyê: Vekêşana dubare di têgihiştinê de nayê bikar anîn
+Çewtiya Hevoksaziyê: Di têgihîştina dîktatorê de vekêşana dîktatorê nayê bikar anîn
+# Çewtiya Hevoksaziyê: hevoksaziya nederbasdar
+Çewtiya hevoksaziyê: hevoksaziya nederbasdar
+Çewtiya hevoksaziyê: di peywirê de gelek bêjeyên stêrkkirî
+Çewtiya hevoksaziyê: di peywirê de gelek bêjeyên stêrkkirî
+Çewtiya hevoksaziyê: di peywirê de gelek bêjeyên stêrkkirî
+Çewtiya Hevoksaziyê: Armanca peywira stêrkkirî divê di navnîşek an pirjimar de be
+Çewtiya Hevoksaziyê: nikare li vir îfadeya stêrk bikar bîne
+Çewtiya Hevoksaziyê: nikare li vir îfadeya stêrk bikar bîne
+Çewtiya Hevoksaziyê: nikare li vir îfadeya stêrk bikar bîne
+Çewtiya Hevoksaziyê: nikare li vir îfadeya stêrkkirî bikar bîne
+Çewtiya Hevoksaziyê: nikare li vir îfadeya stêrkkirî bikar bîne
+Çewtiya Hevoksaziyê: nikare li vir îfadeya stêrkkirî bikar bîne
+Çewtiya Hevoksaziyê: nikare li vir îfadeya stêrkkirî bikar bîne
+Çewtiya Hevoksaziyê: nikare li vir îfadeya stêrkkirî bikar bîne
+Çewtiya hevoksaziyê: di peywira vekirina stêrk de gelek bêje
+Çewtiya hevoksaziyê: di peywira vekirina stêrk de gelek bêje
+'Çewtiya Hevoksaziyê: hevoksaziya nederbasdar'
+Çewtiya Hevoksaziyê: ...
+Çewtiya Hevoksaziyê: ...
+? # Çewtiya Hevoksaziyê: hevoksaziya nederbasdar
+self.assertTrue(err.endswith("SyntaxError: msg\n"))
+Çewtiya hevoksaziyê: hevoksaziya nederbasdar
+Çewtiya hevoksaziyê: argumana peyva key dubare: metaclass
+çewtî = "Çewtiya hevoksaziyê: (çewtiya unîkodê) \\N nayê destek kirin " \
+['Çewtiya Hevoksaziyê: hevoksaziya xerab'])
+[' Pela "<string>", rêza 100', 'Çewtiya hevoksaziyê: hevoksaziya xirab'])
+['Çewtiya Hevoksaziyê: hevoksaziya xirab (myfile.py)'])
+[' Dosya "myfile.py", rêza 100', 'Çewtiya hevoksaziyê: hevoksaziya xerab'])
+expect.append("Çewtiya Hevoksaziyê: msg")
+ji bilî SyntaxError: # Bila xeletiyên din ên berhevkar() belav bibin.
+self.write("Çewtiya Hevoksaziyê: %s\n" % msg)
+Çewtiya hevoksaziyê: hevoksaziya nederbasdar
+Çewtiya Hevoksaziyê: Ma we parantezê li dora armanca têgihiştinê ji bîr kir?
+Çewtiya hevoksaziyê: hevoksaziya nederbasdar
+Çewtiya hevoksaziyê: hevoksaziya nederbasdar
+Çewtiya hevoksaziyê: Dehiya dehiyê nederbasdar e
+Çewtiya hevoksaziyê: rêzika bêdawî ya rast (li rêza 1-ê tê dîtin)
+Çewtiya Hevoksaziyê: Mebesta we bû ku hûn li şûna 'ji ... import ...' bikar bînin?
+*Çewtiya Hevoksaziyê: EOF-a neçaverêkirî dema parskirin* an nîşankirina cîhek nerast nîşan dide.
+Çewtiya hevoksaziyê: hevoksaziya nederbasdar
+Çewtiya Hevoksaziyê: '{' qet nehat girtin
+Çewtiya Hevoksaziyê: Divê îfadeya jeneratorê bê nav parantezê
+Çewtiya Hevoksaziyê: Divê îfadeya jeneratorê bê nav parantezê
+Çewtiya hevoksaziyê: çaverêkirî ':'
+Çewtiya Hevoksaziyê: Ma we parantezê li dora armanca têgihiştinê ji bîr kir?
+Çewtiya hevoksaziyê: hevoksaziya nederbasdar. Dibe ku we comma ji bîr kir?
+Çewtiya Hevoksaziyê: Gelek cureyên îstîsnayan divê bên nav parantezê
+Çewtiya hevoksaziyê: îfadeya ku piştî mifteya ferhengê tê hêvîkirin û ':'
+Çewtiya hevoksaziyê: ':' piştî mifteya ferhengê tê hêvîkirin
+Çewtiya Syntax: bloka 'ji bilî' an 'dawî' tê hêvîkirin
+Çewtiya Hevoksaziyê: nikare li vir taybetmendiyê were veqetandin. Dibe ku te mebesta '==' li şûna '=' bû?
+Çewtiya hevoksaziyê: f-string: nikare li vir îfadeya stêrkkirî bikar bîne
+else: self.fail ("TabError nehat raberkirin")
+ckmsg(s, "bikaranîna nakokî ya tabel û valahiyan di nav de", TabError)
+EXPORT_DATA(PyExc_SystemError)
+rabe :exc:`TypeError` li şûna :exe:`Çewtiya pergalê` dema ku li ser tê kirin
+PyObject_Call() û PyCFunction_Call() naha heke fonksiyonek çewtiyek Sîstemê radike
+encamekê vedigerîne û îstîsnayekê derdixe. Sîstema Error bi zincîranê ve girêdayî ye
+pir bîra û SystemError an MemoryError rakir. Patch orjînal ji hêla Aleksi ve
+SystemError.
+Di doza warnings.onceregistry de di şûna SystemError de TypeError bilind bikin
+têkçûna bi SystemError. Îxraca têkildar a ji pakêtê naha bi ser nakeve
+ImportError li şûna SystemError.
+Pêşîlêgirtina codecs.escape_encode() ji bilindkirina SystemError dema vala
+Heke importek têkildar be, li şûna SystemErrorê ImportError zêde dike
+Dema ku dirêjiyek negatîf tê derbas kirin ji bilî SystemErrorê ValueError bilind bike
+Çewtiya pergalê rast kir ku ji hêla unpicker ve li ser daneyên şikestî yên şikestî rabû.
+SystemError naha di hemî xeletiyên bernamesaziyê de bi karanîna ve hatî zêde kirin
+yekîneyên formatê "es#" û "et#". SystemError niha li şûna rakir
+Di pêkanîna daxuyaniya "raise" de çewtiyek Sîstemê rast bikin. Di nûvek nû de
+SystemError.
+Pêşîlêgirtina codecs.escape_encode() ji bilindkirina SystemError dema vala
+Li ser platformên ku tê de li şûna ``SystemError`` ``NotImplementedError`` bilind bikin.
+rabe :exc:`TypeError` li şûna :exe:`Çewtiya pergalê` dema ku li ser tê kirin
+Ger vekerek xwerû (ji bo vekirî()) jimareyek neyînî vedigerîne Error Sîstemê rast dike
+Li ser platformên ku tê de li şûna ``SystemError`` ``NotImplementedError`` bilind bikin.
+Pêşîlêgirtina codecs.escape_encode() ji bilindkirina SystemError dema vala
+Zêdekirina Sîstema Error di importê de dê nuha sedema wê li orîjînal were danîn
+Çewtiya pergalê / xeletiya dabeşkirinê di nav "__kêmkirina__`" de gava hundurîn rast bikin
+Dema ku tê gazîkirin :class:`SystemError` îteratorên ku werin gazîkirin êdî zêde nakin
+Di pêkanîna daxuyaniya "raise" de çewtiyek Sîstemê rast bikin. Di nûvek nû de
+Dema ku rêbazên
+têkçûna bi SystemError. Îxraca têkildar a ji pakêtê naha bi ser nakeve
+ImportError li şûna SystemError.
+Di :mod:`ctypes` de ``SystemError`` rast bikin dema ku îstîsna di dema
+Ger têkçûnek îhtîmalê, xeletiyek kujer, an :exc:`Çewtiya pergalê` rast bikin
+Berê ew dikare bibe sedema SystemError an tevgerek din a nedilxwaz.
+:c:func:`PyUnicode_FromFormatV` niha :exc:`Çewtiya pergalê` destnîşan dike. Di berê de
+Dema ku :c:func:`PyArg_ParseTupleAndKeywords` tê rakirin, ``Çewtiya pergalê`` rast bike
+Dema ku fonksiyona hêlînkirî tenê li ser pozîsyonê annotasyon hebe ``Çewtiya pergalê`` rast bikin
+Di doza warnings.onceregistry de di şûna SystemError de TypeError bilind bikin
+têkçûna bi SystemError. Îxraca têkildar a ji pakêtê naha bi ser nakeve
+ImportError li şûna SystemError.
+Dema ku hin taybetmendiyan jêbirin, segfaults û :exe:`Çewtiya pergalê` rast bikin.
+Dema ku taybetmendiya characters_written a an jêbirin, xeletiyek pergalê rast kir
+Rewşa îstîsna a wergerek kêm a ku nayê hilanîn rast bikin SîstemError tenê dema ku tê dîtin
+rabe :exc:`TypeError` li şûna :exe:`Çewtiya pergalê` dema ku li ser tê kirin
+Dema ku
+:exc:`SystemError` istisna. Patch ji hêla Victor Stinner ve.
+Di ``matematîkê de :exc:`Çewtiya Sîstemê` ya muhtemel rast bikin.{atan2,copysign,mainder}()``
+Navê rêbazê di peyama çewtiyê ya SystemError "alayên banga xirab" de ji bo hêsankirina xeletiyê.
+:c:func:`PyNumber_ToBase` niha li şûna
+Ger vekerek xwerû (ji bo vekirî()) jimareyek neyînî vedigerîne Error Sîstemê rast dike
+Dema ku dirêjiyek negatîf tê derbas kirin ji bilî SystemErrorê ValueError bilind bike
+importlib.__import__() Çewtiya Sîstemê mîna çêkeran zêde dike.__import__() dema
+Çewtiya pergalê rast kir ku ji hêla unpicker ve li ser daneyên şikestî yên şikestî rabû.
+Dema ku ``PyArg_Parse*()`` bi ``#`` re tê bikaranîn, '`SystemError`` rast bike.
+- Pirsgirêk #23914: Çewtiya Pergalê Serast kir ku ji hêla unpicler ve li ser daneyên şikestî yên şikestî rabû.
+pir zêde bîranîn xwar û SystemError an MemoryError zêde kir.
+- Pirsgirêk #15839: Çewtiyên Sîstemê yên di `super()` de veguherînin Çewtiyên Runtime.
+- Pirsgirêk #15846: Çewtiya pergalê ya ku di dema karanîna `ast.parse()` de çêbû, rast bike
+- Pirsgirêk #17710: Pişka ku li ser têketina derewîn xeletiyek pergalê zêde dike rast bikin.
+- Pirsgirêk #13343: Dema ku vegotinek lambda gerdûnek bikar tîne, xeletiyek pergalê rast bike
+- Pirsgirêk #6373: Dema ku bi kodek latînî-1 û kodkirina kodkirina pergalê çewtiyek rast kir
+- Çewtiya Sîstemê Serast kir ku ji hêla "range([], 1, -1) ve hatî destpêkirin.
+ku dê SystemError bilind bike.
+- Pirsgirêk #2221: "Bêyî îstîsna vegerandina çewtiyê ya Sîstema Çewtiya Serast kir
+- Pirsgirêk #1973: bytes.fromhex('') Sîstema çewtiyê rakir.
+Di heman demê de dema ku hûn hewl didin ku ji bo vegotinan veqetînin, çewtiyek Sîstemê rast bikin.
+- Xeletiya #1487966: Di peywirê de çewtiya pergalê bi îfadeya şertî rast bike
+- SF Bug #976608: Çewtiya pergalê rast bike dema ku mtime ya pelek îthalkirî -1 e.
+- Bûka SF 762891: "del p[key]" li ser tiştê proxy êdî Çewtiya Sîstemê zêde nake.
+diyarkirina __delitem__. Berê, ew xeletiyek Sîstemê çêkir.
+veguherîna wan di SystemError de, em destûr didin îstîsna orîjînal
+xeletî û ji ber vê yekê ew ji Exception û ne SystemError tê. Ew
+[data.PyExc_SystemError]
+Objects/exceptions.c:PyExc_SystemError statîk PyTypeObject PyExc_SystemError
+Objects/exceptions.c:_PyExc_SystemError statîk PyTypeObject _PyExc_SystemError
+Objects/exceptions.c - _PyExc_SystemError -
+Objects/exceptions.c - PyExc_SystemError -
+PyErr_SetString(PyExc_SystemError, "hejmara komkirî ya ne-ascii");
+PyErr_SetString(PyExc_SystemError, "ne symtable");
+PyErr_Format(PyExc_SystemError,
+PyErr_Format(PyExc_SystemError,
+PyErr_Format(PyExc_SystemError,
+PyErr_Format(PyExc_SystemError,
+PyErr_Format(PyExc_SystemError, "%s op %d divê ne mumkin be",
+PyErr_Format(PyExc_SystemError,
+PyErr_Format(PyExc_SystemError,
+PyErr_Format(PyExc_SystemError,
+PyErr_Format(PyExc_SystemError,
+PyErr_Format(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError, "bi hedefa NULL bazdan");
+PyErr_SetString(PyExc_SystemError,
+/* Heke bazdan an derketin ne talîmata dawîn a di blokê de ye, çewtiya pergalê bilind bikin. */
+PyErr_SetString(PyExc_SystemError, "grafika herikîna kontrolê ya çewt.");
+PyErr_SetString(PyExc_SystemError, "xuyana nediyar");
+PyErr_SetString(PyExc_SystemError, "nimûneya nediyar");
+PyErr_SetString(PyExc_SystemError, "daxuyaniya nediyar");
+PyErr_SetString(PyExc_SystemError, "node modula nemumkun");
+PyErr_Format(PyExc_SystemError,
+PyErr_SetString(dewlet, PyExc_SystemError,
+_PyErr_SetString(tstate, PyExc_SystemError, "dawîn ne int e");
+_PyErr_Format(tstate, PyExc_SystemError,
+_PyErr_Format(tstate, PyExc_SystemError,
+_PyErr_Format(tstate, PyExc_SystemError,
+_PyErr_Format(tstate, PyExc_SystemError,
+PyErr_SetString(dewlet, PyExc_SystemError,
+_PyErr_Format(tstate, PyExc_SystemError,
+PyErr_Format(PyExc_SystemError,
+PyErr_Format(PyExc_SystemError,
+PyErr_Format(PyExc_SystemError,
+PyErr_Format(PyExc_SystemError,
+PyErr_SetString(dewlet, PyExc_SystemError,
+_PyErr_SetString(tstate, PyExc_SystemError, "dawîn ne int e");
+_PyErr_Format(tstate, PyExc_SystemError,
+_PyErr_Format(tstate, PyExc_SystemError,
+_PyErr_Format(tstate, PyExc_SystemError,
+_PyErr_Format(tstate, PyExc_SystemError,
+PyErr_SetString(dewlet, PyExc_SystemError,
+_PyErr_Format(tstate, PyExc_SystemError,
+PyExc_SystemError,
+PyExc_SystemError,
+PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_Format(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString (PyExc_SystemError, peyam);
+PyErr_SetString(PyExc_SystemError, \
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_Format(PyExc_SystemError,
+PyErr_Format(PyExc_SystemError, "%s: '%s'", msg,
+PyErr_Format(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_Format(PyExc_SystemError,
+PyErr_Format(PyExc_SystemError, "%s: '%s'", msg,
+PyErr_Format(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString (dewlet, PyExc_SystemError, "navbera wenda");
+_PyErr_SetString(tstate, PyExc_SystemError, "new_object func");
+_PyErr_Format(tstate, PyExc_SystemError,
+PyErr_SetString(dewlet, PyExc_SystemError,
+_PyErr_SetString(tstate, PyExc_SystemError, "çarçove tune");
+PyExc_SystemError,
+PyExc_SystemError,
+PyErr_Format(PyExc_SystemError,
+PyExc_SystemError,
+PyErr_Format(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError, \
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_Format(PyExc_SystemError, "modula '%s' __dict__ nîne",
+PyErr_SetString(PyExc_SystemError, "type endamdescr xerab");
+PyErr_Format(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+_PyErr_Format(tstate, PyExc_SystemError,
+_PyErr_Format(tstate, PyExc_SystemError,
+_PyErr_Format(tstate, PyExc_SystemError,
+PyErr_SetString(dewlet, PyExc_SystemError,
+PyErr_SetString(dewlet, PyExc_SystemError,
+_PyErr_SetString(tstate, PyExc_SystemError, "fonksiyona xwerû ya nederbasdar");
+PyErr_SetString(dewlet, PyExc_SystemError,
+PyAPI_DATA(PyObject *) PyExc_SystemError;
+PyErr_SetString(PyExc_SystemError,
+tê danîn. NULL vegerînin û li ser xeletiyê îstîsnayekê rakin. Heke çewtiyek Sîstemê bilind bikin
+/* Di paqijkirin an nûvekirina koma cemidî de çewtiya pergalê bilind bikin */
+assertRaises(PySet_Clear(f) == -1, PyExc_SystemError);
+assertRaises(_PySet_Update(f, dup) == -1, PyExc_SystemError);
+assertRaises(PySet_Add(f, elem) == -1, PyExc_SystemError);
+/* Dema ku argumana xwe ne set an cemidî be, xeletiya pergalê bilind bike. */
+assertRaises(PySet_Size(t) == -1, PyExc_SystemError);
+assertRaises(PySet_Contains(t, elem) == -1, PyExc_SystemError);
+/* Dema ku argumana xwe ne set be çewtiya pergalê bilind bike. */
+assertRaises(PySet_Discard(f, elem) == -1, PyExc_SystemError);
+assertRaises(PySet_Pop(f) == NULL, PyExc_SystemError);
+PyErr_SetString(PyExc_SystemError,
+PyExc_SystemError,
+PyExc_SystemError,
+PyExc_SystemError,
+PyExc_SystemError,
+PyExc_SystemError,
+PyExc_SystemError,
+PyExc_SystemError,
+PyExc_SystemError,
+PyExc_SystemError,
+PyExc_SystemError,
+PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError, "modula bênav");
+PyErr_SetString(PyExc_SystemError, "navê pelê modulê winda ye");
+PyErr_SetString(PyExc_SystemError, "Py_tp_bases ne pirçek e");
+PyExc_SystemError,
+PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_Format(PyExc_SystemError,
+PyErr_Format(PyExc_SystemError,
+PyErr_Format(PyExc_SystemError,
+PyErr_Format(PyExc_SystemError,
+PyErr_Format(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_Format(PyExc_SystemError,
+PyErr_Format(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError, "çi_çend nikare bibe neyînî");
+PyErr_Format(PyExc_SystemError,
+PyErr_Format(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError, "Cûreya nederbasdar");
+PyErr_Format(PyExc_SystemError,
+PyErr_Format(PyExc_SystemError, "Rêza formata nederbasdar: %s", p);
+PyErr_SetString(PyExc_SystemError, "argsên xwerû yên ne-çetalî");
+PyErr_SetString(PyExc_SystemError,
+PyErr_Format(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_Format(PyExc_SystemError, "Di structseq_repr(), endam %zd navê NULL ye"
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(dewlet, PyExc_SystemError,
+PyErr_Format(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+* SystemError Exception dirêj dike
+SimpleExtendsException(PyExc_Exception, Çewtiya pergalê,
+ITEM (Çewtiya Pergalê),
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(dewlet, PyExc_SystemError,
+_PyErr_Format(tstate, PyExc_SystemError,
+_PyErr_Format(tstate, PyExc_SystemError,
+Py_FatalError() îstîsna Sîstema Errorê ya ku li jor hatî raberkirin tomar dike. */
+tstate, PyExc_SystemError,
+tstate, PyExc_SystemError,
+Py_FatalError() îstîsna Sîstema Errorê ya ku li jor hatî raberkirin tomar dike. */
+PyErr_Format(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_Format(PyExc_SystemError,
+PyErr_Format(PyExc_SystemError,
+çîna CodecRegistryError (Çewtiya lêgerînê, Çewtiya pergalê):
+raise SystemError("sizeof(%s) xelet: %d li şûna %d" % \
+Çewtiya Sîstemê zêde bike(f"Mezinahiya neçaverêkirî(dem_t): {SIZEOF_TIME_T=}")
+SystemError
+# ya jêrîn di 2.4 de çewtiyek Sîstemê derdixe
+# PyTuple_New heke argumanek nederbasdar derbas bibe, Sîstema çewtiyê zêde dike.
+bi self.assertRaises(SystemError):
+PyExc_SystemError
+# cihê ku ev bangên `__kêmkirina__` dibe ku bibe sedema xeletiyek an xeletiya pergalê
+Çewtiya pergalê,
+# Ev yek Çewtiyek Syntax radike, ew bikar anîn ku çewtiyek Sîstemê bilind bike. Hevgirêk
+# Testek ji bo xeletiya SF #1022953. Piştrast bike ku SystemError nayê rakirin.
+bi self.assertRaises(SystemError):
+bi self.assertRaises(SystemError):
+# Ceribandina Sîstema Çewtiya ji bo dirêjkirina çewtî tê rakirin.
+bi self.assertRaises(SystemError) wek cm:
+# bi `Çewtiya Sîstemê`.
+# Ev bi SystemError re têk diçe: arg xirab a fonksiyona hundurîn
+self.assertRaises((OverflowError, MemoryError, SystemError),
+self.assertRaises((OverflowError, MemoryError, SystemError),
+Divê # __setstate__ ne çewtiyek Sîstemê derxe û ne jî di rewşê de têk bibe
+newcode = code.replace(co_name = "func") # Divê çewtiya Sîstemê rabe
+bi self.assertRaisesRegex(SystemError, msg):
+self.assertRaises(SystemError, SetExtra, 42, FREE_INDEX,
+self.assertRaises(SystemError, GetExtra, 42, FREE_INDEX,
+self.assertRaises(SystemError, SetExtra, f.__code__,
+self.raise_catch (SystemError, "SystemError")
+self.assertRaises(SystemError, _testcapi.raise_exception,
+self.assertRaises(SystemError, _testcapi.make_exception_with_doc,
+# Çewtiya Sîstemê rakin.
+def test_del__CHUNK_SIZE_SystemError(xwe):
+Divê # warn_explicit() ne çewtiyek Sîstemê derxe û ne jî bibe sedema an
+Divê # warn_explicit() di rewşê de çewtiyek Sîstemê dernekeve
+çewtiya Sîstemê zêde bike('kablooie')
+self.assertRaises(SystemError, mock, 1, 2, fish=3)
+raise SystemError ('divê ev neyê bilind kirin')
+bilindkirina Sîstema Error ('nêzîkî cîhê ye')
+bi self.assertRaises(SystemError) wek xelet:
+# import di bloka 'dawî' de di Sîstema Error de derket
+├── Çewtiya pergalê
+# lê ew bikar anî Sîstema Errorê dide
+bi self.assertRaises(SystemError):
+self.assertRaises(SystemError, getargs_s_hash_int, buf, "abc")
+self.assertRaises(SystemError, getargs_s_hash_int, buf, x=42)
+self.assertRaises(SystemError, getargs_s_hash_int, buf, x="abc")
+self.assertRaises(SystemError, getargs_s_hash_int2, buf, ("abc",))
+self.assertRaises(SystemError, getargs_s_hash_int2, buf, x=42)
+self.assertRaises(SystemError, getargs_s_hash_int2, buf, x="abc")
+# getargs_s_hash_int(buf) dibe ku Sîstema çewtiyê ranebe ji ber ku skipitem()
+ji bilî SystemError wek e:
+ji bilî SystemError wek e:
+bi self.assertRaisesRegex(SystemError,
+bi self.assertRaisesRegex(SystemError,
+self.assertRaises(SystemError, _testcapi.parse_tuple_and_keywords,
+self.assertRaises(SystemError, _testcapi.parse_tuple_and_keywords,
+self.assertRaises(SystemError, _testcapi.parse_tuple_and_keywords,
+self.assertRaises(SystemError, _testcapi.parse_tuple_and_keywords,
+self.assertRaises(SystemError, _testcapi.parse_tuple_and_keywords,
+self.assertRaises(SystemError, _testcapi.parse_tuple_and_keywords,
+self.assertRaises(SystemError, _testcapi.parse_tuple_and_keywords,
+self.assertRaises(SystemError, _testcapi.parse_tuple_and_keywords,
+self.assertRaises(SystemError, _testcapi.parse_tuple_and_keywords,
+self.assertRaises(SystemError, _testcapi.parse_tuple_and_keywords,
+bi self.assertRaisesRegex(SystemError, r'Navê parameterê vala piştî \$'):
+bi self.assertRaisesRegex(Çewtiya Sîstemê, 'Peyva sereke vala'):
+self.assertRaisesRegex(Çewtiya Sîstemê, 'rêzika formata nederbasdar',
+self.assertRaisesRegex(Çewtiya Sîstemê, 'rêzika formata nederbasdar',
+self.assertRaises(SystemError, unicode_asucs4, s, l-1, True)
+self.assertRaises(SystemError, unicode_asucs4, s, l-2, False)
+self.assertRaises(SystemError, join, '|', NULL)
+self.assertRaises(Çewtiya pergalê, format, 'x=%d!', NULL)
+self.assertRaises(Çewtiya pergalê, format, NULL, 42)
+Çewtiya pergalê,
+self.assertRaises(SystemError, unicode_copycharacters, s, 1, s, 0, 5)
+self.assertRaises(SystemError, unicode_copycharacters, s, 0, s, 0, -1)
+self.assertRaises(SystemError, unicode_copycharacters, s, 0, b'', 0, 0)
+r'Çewtiya pergalê: <fonksiyona çêkirî return_null_without_error> '
+bi self.assertRaises(SystemError) wek cm:
+r'Çewtiya pergalê: <avakirî'
+bi self.assertRaises(SystemError) wek cm:
+heke 'Çewtiya Sîstemê:' ne di xeletiyê de ye:
+bi self.assertRaises(SystemError):
+self.assertRaises(SystemError, pynumber_tobase, 123, 0)
+bi self.assertRaises(SystemError):
+bi self.assertRaises(SystemError):
+bi self.assertRaises(SystemError):
+bi self.assertRaises(SystemError):
+bi self.assertRaises(SystemError):
+bi self.assertRaises(SystemError):
+bi self.assertRaises(SystemError):
+bi self.assertRaises(SystemError):
+bi self.assertRaises(SystemError):
+# Ev ji bo rakirina "Error System: Encama NULL bêyî xeletî" tê bikar anîn
+# tê bikaranîn ku bi çewtiyek Sîstemê têk biçe.
+# Ji bo bilindkirina Sîstema Errorê tê bikar anîn ('vegera xeletiyê bêyî îstîsna vegere')
+self.assertRaises(SystemError, dict_getitem_knownhash, [], 1, hash(1))
+# Ger arg yekem bi atan2() re çewtiyek Sîstemê neyê rakirin,
+ji bilî Sîstema Error:
+ji bilî SystemError: # mezinbûnê bi gerdûnî nayê piştgirî kirin
+ji bilî Sîstema Error:
+ji bilî Sîstema Error:
+# Çewtiya pergalê.
+raise SystemError('Dabarkirina kodekên çêkirî bi ser neket: %s' % çima)
+çewtiya pergalê zêde bike(
+Çewtiya pergalê zêde bike (çawa, çi)
+... excs = [OSEÇewtî('çewtî 1'), Çewtiya Sîstemê('çewtiya 2')]
+| Çewtiya pergalê: xeletî 2
+... Çewtiya pergalê(2),
+... ji bilî* Sîstema Çewtiya wek e:
+... çap bike ("Çewtiyên pergalê hebûn")
+Çewtiyên Sîstemê hebûn
+'StopIteration', 'SyntaxError', 'SyntaxWarning', 'SystemError',
+.. îstîsna:: Çewtiya pergalê
+:exc:`ImportError` dê were rakirin. Berê, :exc:`Çewtiya pergalê` dibe
+:c:func:`PyUnicode_FromFormatV` niha :exc:`Çewtiya pergalê` destnîşan dike.
+li ku,PyExc_SystemError,3.2,,
+Ev fonksiyon dema ku:
+Karaktera formata nenaskirî niha :exc:`Çewtiya pergalê` destnîşan dike.
+bi taybetî, heke *buflen* ji dirêjahiya
+bilind dike :exc:`Çewtiya Bîrê` an :exc:`Çewtiya Sîstemê`.
+:exc:`SystemError` bilind dike û li ser têkçûnê ``-1`` vedigerîne.
+:exc:`SystemError` bilind dike û li ser têkçûnê ``-1`` vedigerîne.
+:exc:`SystemError` bilind dike û li ser têkçûnê ``-1`` vedigerîne.
+``len(anyset)``. Heke *anyset* ne be :exc:`PyExc_SystemError` radike
+* mifteya * bêhêz e. Heke *anyset* ne be :exc:`PyExc_SystemError` bilind bikin
+:exc:`SystemError` heke *set* ne mînakek :class:`set` an wê be
+cemidandinên demkî. Heke *set* ne be :exc:`PyExc_SystemError` bilind bikin
+set vala ye. Heke *set* ne mînakek be :exc:`SystemError` bilind bikin
+ya obje *o*. Li ser têkçûnê, :exc:`SystemError` bilind dike û ``NULL`` vedigerîne. Ev
+:exc:`SystemError` tê bilind kirin û ``NULL`` tê vegerandin.
+yek: Çewtiya pergalê (îstîsna çêkirî)
+yan eger ew ne rêzek be, :exc:`SystemError` tê bilind kirin û ``NULL`` tê vegerandin.
+yek: Çewtiya pergalê (îstîsna çêkirî)
+rêzika unicode, bilind bike :exc:`SystemError` û vegerîne ``NULL``; wekî din vegere
+rabe a awarte. Ger hîna îstîsna nehatibe rakirin, :exc:`SystemError` e
+Ger di rêzika formatê de xeletiyek hebe, îstîsna :exc:`SystemError` e
+Ev kurtenivîsek ji bo ``PyErr_SetString(PyExc_SystemError, peyam)``,
+yek: PyExc_SystemError
+| :c:data:`PyExc_SystemError` | :exc:`Çewtiya pergalê` | |
+PyErr_SetString(PyExc_SystemError, "Tevlî rêyan têk çû");
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError, "def li hev nayê");
+PyErr_SetString(PyExc_SystemError, "fonksiyona îxracata xirab");
+PyErr_SetString(PyExc_SystemError, "fonksiyona îxracata xirab");
+PyErr_SetString(PyExc_SystemError, "xebata afirandina fonksiyonê");
+PyErr_SetString(PyExc_SystemError, "xebata afirandina fonksiyonê");
+PyErr_SetString(PyExc_SystemError, "xerab fonksiyona exec");
+PyErr_SetString(PyExc_SystemError, "xerab fonksiyona exec");
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+heke (PyErr_ExceptionMatches (PyExc_SystemError)) {
+heke (!PyErr_ExceptionMatches(PyExc_SystemError)) {
+heke (!PyErr_ExceptionMatches(PyExc_SystemError)) {
+heke (!PyErr_ExceptionMatches(PyExc_SystemError)) {
+heke (!PyErr_ExceptionMatches(PyExc_SystemError)) {
+PyErr_Format(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError, "_WindowsConsoleIO moda nederbasdar e");
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+PyErr_SetString(PyExc_SystemError,
+/* Me qutkirina Klavyeyê an Çewtiya Sîstemê heye; dîsa bilind bike */
+heke (nepakkirî == NULL && PyErr_ExceptionMatches (PyExc_SystemError)) {
+Çewtiya pergalê nehat rakirin: %s
+heke (PyErr_ExceptionMatches (PyExc_SystemError)) {
+heke (!PyErr_ExceptionMatches(PyExc_SystemError)) {
+"tiştek ji bilî SystemError");
+PyErr_Format(PyExc_SystemError,
+SystemExit bilind bike ('Ji kerema xwe nexşeya xwe ya JIS X 0213 bi karanîna jisx0213-2000-std.txt.diff eyar bike')
+SystemExit bilind bike (f'{çavkanî} pêdivî ye')
+SystemExit bilind bike ("Divê wekî bernameya sereke were xebitandin")
+SystemExit bilind bike ("Tenê yek ji --8-bit û --unicode destûr e")
+bilindkirina SystemExit (derketina_rewşa)
+- derketin (sts): SystemExit bilind bikin
+SystemExit (kod) bilind bike
+SystemExit bilind bike ("Tenê dikare ji bo pelek arşîvê agahdarî bistîne")
+raise SystemExit ("Guherandina di cih de ya arşîvan nayê piştgirî kirin")
+SystemExit bilind bike ("Dema kopîkirinê nikare fonksiyona sereke biguhezîne")
+bilindkirina SystemExit(0)"""
+SystemExit bilind bike
+SystemExit bilind bike
+SystemExit bilind bike
+rc, derket, err = assert_python_failure('-c', 'SîstemaExit bilind bike(47)')
+SystemExit bilind bike
+interpreters.run_string(self.id, 'Raise SystemExit(42)')
+SystemExit bilind bike
+SystemExit bilind bike
+SystemExit (kod) bilind bike
+bilindkirina SystemExit(e)
+bilindkirina SystemExit (1)
+SystemExit bilind bike
+# Kontrol bikin ku dir-ya bikarhêner tune ye û têkçûyî hatî çêkirin divê SystemExit bilind bike
+# Kontrol bikin ku dir-ya bikarhêner tune ye û têkçûyî hatî çêkirin divê SystemExit bilind bike
+Ev hevwate ye ku `` SystemExit bilind bike. Ew ê bibe sedema niha\n\
+TypeError rakin: "Tişta 'duple' nayê gazîkirin" li şûna ya çaverêkirî
+* TypeError: Tişta 'NoneType' nayê abonetiyê
+const char *const msg = "TypeError: print_exception(): Îstîsna çaverêkirî ye"
+TypeError: Ger navnîşek tiştên guhertoya tevlihev derbas bibe.
+TypeError: Ger xwe û yên din navnîşanên cihê ne
+ji bilî TypeError: derbas
+# TypeError: BNotMeta ne jî a
+ji bilî TypeError: derbas
+ji bilî TypeError: derbas
+ji bilî TypeError: derbas
+ji bilî TypeError: derbas
+ji bilî TypeError: derbas
+ji bilî TypeError: derbas
+ji bilî TypeError: derbas
+ji bilî TypeError: derbas
+##ji bilî TypeError: derbas
+biceribîne: derbas bibe\nûnî NirxError: derbas\nexşe* TypeError: derbas\n
+biceribîne: derbas bibe\nek* NirxÇewtî: derbas bibe\nê ji TîpaÇewtî: derbas\n
+biceribîne: derbas bibe\nekNirxError wek e: derbas\nek* TypeError: derbas\n
+biceribîne: derbas bibe\nexêr* NirxError wek e: derbas\neji TypeError: derbas\n
+Tîpa Çewtî: nekare tişta int-ê ne-veger ji pakkirinê veke
+Tîpa Çewtî: nekare tişta int-ê ne-veger ji pakkirinê veke
+TypeError: exec() arg 1 divê rêzek, byte an jî kodek kod be
+TypeError: eval() arg 1 divê string, byte an jî kodek be
+self._check_error("biceribîne: derbas bibe\nexê
+self._check_error("biceribîne: derbas bibe\nexê
+TypeError: Tişta 'int' nayê dubarekirin
+# Divê bê guman TypeError zêde bike: navnîş tenê argumanek digire.
+# `TypeError: nekare taybetmendiyên cûreya çêkirî/berfireh 'dict' destnîşan bike
+(Telefon)TypeError:
+"(Telefon) TypeError: Gelek destpêkker")
+# TypeError: int li şûna mînaka str
+# TypeError: int li şûna mînaka str
+# TypeError: li şûna mînaka float tê hêvîkirin
+# TypeError: rêbaza from_param tune
+# di Python 2.3 de, ev TypeError zêde dike: Nakokiya MRO di nav çînên bingehîn de,
+argumana 1: Çewtiya Tîp: byte yek karakter,
+argumana 2: TypeError: rêzika unicode ya çaverêkirî
+argumana 2: TypeError: rêzika unicode yek karakter
+# TypeError: _anonymous_ divê rêzek be
+TypeError: nikare nirxa ne-None ji jeneratorek nû-destpêkirî re bişîne
+TypeError: îstîsna nimûneyê dibe ku nirxek cuda nebe
+TypeError: argûmana sêyem avêtin() divê bireserê şopandinê be
+TypeError: îstîsna divê çîn an nimûneyên ku ji BaseException derdikevin bin, ne str
+TypeError: îstîsna divê çîn an nimûneyên ku ji BaseException derdikevin bin, ne int
+TypeError: îstîsna divê çîn an mînakên ku ji BaseException derdikevin bin, ne tîp bin
+TypeError: fey!
+ji bilî TypeError: derbas
+TypeError: Tişta 'int' nayê dubarekirin
+TypeError: Tişta 'int' ne nexşeyek e
+TypeError: Tişta 'lîste' ne nexşeyek e
+TypeError: test.test_unpack_ex.f() ji bo argumana peyva sereke "x" gelek nirx girt
+TypeError: test.test_unpack_ex.f() ji bo argumana peyva sereke "x" gelek nirx girt
+TypeError: test.test_unpack_ex.f() ji bo argumana peyva sereke "x" gelek nirx girt
+TypeError: test.test_unpack_ex.f() ji bo argumana peyva sereke "x" gelek nirx girt
+TypeError: test.test_unpack_ex.f() ji bo argumana peyva sereke "1" gelek nirx girt
+Tîpa Çewtî: nekare tişta int-ê ne-veger ji pakkirinê veke
+# "TypeError: fork_exec() tam N argumanan digire (M hatiye dayîn)"
+self.assertIn('TypeError: Paqijkirina xerab1', formatted_exc)
+self.assertIn('TypeError: Paqijkirina xerab1', formatted_exc)
+self.assertIn('TypeError: Paqijkirina xerab1', formatted_exc)
+self.assertIn('TypeError: Paqijkirina xerab1', formatted_exc)
+self.assertIn('TypeError: Paqijkirina xerab1', formatted_exc)
+self.assertIn('TypeError: Paqijkirina xerab1', formatted_exc)
+...TypeError: tîpa çewt
+TypeError: cureyê çewt
+self.assertTrue("TypeError: print_exception(): Ji bo " \
+Çewtiya tîp: __build_class__() ji bo argumana peyva sereke "metaclass" gelek nirx girt
+# TypeError: argûman divê int be, an jî rêbazek fileno() hebe.
+f' | Çewtiya tîp: 2\n')
+('TypeError: print_exception():'
+f' | Çewtiya tîp: 2\n'
+f' | Çewtiya tîp: 2\n'
+f' | Çewtiya tîp: 4\n'
+f' | Çewtiya tîp: 2\n'
+f' | Çewtiya tîp: 4\n'
+f' | Çewtiya tîp: 2\n'
+f' | Çewtiya tîp: 3\n'
+f' | Çewtiya tîp: 0',
+f' | Çewtiya tîp: 1',
+# TypeError: BNotMeta ne jî a
+TypeError: test.test_extcall.f() ji bo argumana peyva key 'a' gelek nirx girt
+TypeError: test.test_extcall.f() ji bo argumana peyva key 'a' gelek nirx girt
+TypeError: test.test_extcall.f() ji bo argumana peyva key 'a' gelek nirx girt
+TypeError: e() argumanek keywordê ya nediyar 'c' girt
+TypeError: g() 1 argumana pozîsyonê ya pêwîst winda ye: 'x'
+TypeError: g() 1 argumana pozîsyonê ya pêwîst winda ye: 'x'
+TypeError: g() 1 argumana pozîsyonê ya pêwîst winda ye: 'x'
+TypeError: test.test_extcall.g() argûmana piştî * divê dubare be, ne tiştek
+TypeError: test.test_extcall.g() argûmana piştî * divê dubare be, ne tiştek
+TypeError: myerror
+TypeError: myerror
+TypeError: myerror
+TypeError: myerror
+TypeError: myerror
+TypeError: myerror
+TypeError: myerror
+TypeError: myerror
+TypeError: g() ji bo argumana 'x' gelek nirx girt
+TypeError: peyvên sereke divê rêzik bin
+TypeError: h() argumanek keywordê ya nediyar 'e' girt
+TypeError: test.test_extcall.h() argûmana piştî * divê bibe fonksiyonek dubare, ne fonksiyonek
+TypeError: Nirxa piştî * divê fonksiyonek dubare be, ne fonksiyonek be
+TypeError: Nirxa piştî * divê fonksiyonek dubare be, ne fonksiyonek be
+TypeError: argûmana dir() piştî * divê bibe fonksiyonek dubare, ne fonksiyonek
+TypeError: Tu argûmanek piştî * divê dubare nebe, \
+TypeError: test.test_extcall.h() argûmana piştî ** divê nexşeyek be, ne fonksiyonek
+TypeError: test.test_extcall.h() argûmana piştî ** divê nexşeyek be, ne lîste
+TypeError: test.test_extcall.h() argûmana piştî ** divê nexşeyek be, ne fonksiyonek
+TypeError: test.test_extcall.h() argûmana piştî ** divê nexşeyek be, ne lîste
+TypeError: test.test_extcall.h() argûmana piştî ** divê nexşeyek be, ne fonksiyonek
+TypeError: test.test_extcall.h() argûmana piştî ** divê nexşeyek be, ne lîste
+TypeError: argumana dir() piştî ** divê nexşeyek be, ne fonksiyonek
+TypeError: Tu argumanek piştî ** divê nexşeyek be, \
+TypeError: dir() ji bo argumana keyword 'b' gelek nirx girt
+TypeError: test.test_extcall.g() ji bo argumana keyword 'x' gelek nirx girt
+TypeError: test.test_extcall.g() ji bo argumana keyword 'x' gelek nirx girt
+TypeError: test.test_extcall.g() ji bo argumana keyword 'x' gelek nirx girt
+Çewtiya tîp: s3() 1 argumana bi tenê keyword-ya pêwîst tune: 'n'
+TypeError: id() tu argumanên peyva sereke nagire
+TypeError: f() 0 argumanên pozîsyonê digire lê 1 hate dayîn
+TypeError: f() 1 argumana pozîsyonê digire lê 2 hatine dayîn
+TypeError: f() ji 1 heta 2 argumanên pozîsyonê digire lê 3 hatine dayîn
+TypeError: f() 0 argumanên pozîsyonê digire lê 1 argumanên pozîsyonê (û 1 argumana tenê-peyva sereke) hate dayîn.
+TypeError: f() 0 argumanên pozîsyonê digire lê 3 argumanên pozîsyonê (û 2 argumanên tenê-peyva sereke) hatin dayîn.
+TypeError: f() ji 1 heta 2 argumanên pozîsyonê digire lê 3 argumanên pozîsyonê (û 1 argumana tenê-peyva sereke) hatin dayîn.
+TypeError: f() 1 argumana pozîsyonê ya pêwîst winda ye: 'a'
+TypeError: f() 2 argumanên pozîsyonê yên pêwîst winda ne: 'a' û 'b'
+TypeError: f() 3 argumanên pozîsyonê yên pêwîst winda ne: 'a', 'b', û 'c'
+TypeError: f() 5 argumanên pozîsyonê yên pêwîst winda ne: 'a', 'b', 'c', 'd', û 'e'
+TypeError: f() 1 argumana pozîsyonê ya pêwîst winda ye: 'a'
+Tîpa Çewtî: f() 1 argumana bi tenê keyword-ya pêwîst tune: 'w'
+Tîpa Çewtî: f() 5 argumanên bi tenê yên keywordê hene: 'a', 'b', 'c', 'd', û 'e'
+# TypeError: setvar () tam 3 argumanan digire (2 hatine dayîn)
+TypeError: pelan() ji 0 heta 1 argumanên pozîsyonê digire lê 2 hatine dayîn
+ji bilî TypeError: # Parametreyên nehashable
+ji bilî TypeError: # çînên çêkirî
+TypeError: f() ji bo argumana keyword 'a'\n gelek nirx girt
+TypeError: tişta tîpa 'C' len() tune ye\n
+TypeError: şirovekarê '__hash__' ya nesna 'int' hewce dike
+TypeError: tenê dikare str (ne "int") bi str
+TypeError: Tîp(ên) operandê ne piştgirî ji bo /: 'str' û 'str'
+TypeError: cureyê xerab
+TypeError: fonksiyonê() ji bo argumana 'a' gelek nirx girt
+TypeError: pos_only_arg() hin argumanên tenê-pozîsyonê wekî argumanên peyva sereke derbas kirin: 'arg'
+TypeError: kwd_only_arg() 0 argumanên pozîsyonê digire lê 1 hate dayîn
+TypeError: combined_example() 2 argumanên pozîsyonê digire lê 3 hatine dayîn
+TypeError: combinationd_example() hin argumanên tenê-pozîsyonê wekî argumanên keyword derbas kirin: 'pos_only'
+TypeError: foo() ji bo argumana 'name' gelek nirx girt
+TypeError: Tişta 'duple' piştgirî nade tayînkirina babetê
+TypeError: Tişta 'str' peywira babetê piştgirî nake
+TypeError: Tişta 'str' peywira babetê piştgirî nake
+TypeError: divmod() tu argumanên peyva sereke nagire
+TypeError: Tişta 'duple' piştgirî nade tayînkirina babetê
+TypeError: Tişta 'duple' piştgirî nade tayînkirina babetê
+TypeError: Tişta 'duple' piştgirî nade tayînkirina babetê
+TypeError: Tişta 'duple' piştgirî nade tayînkirina babetê
+TypeError: nikare taybetmendiya hejmar/char jê bibe
+Tîpa Çewtî: jimarek pêvek hewce ye (nivîsa str wergirt)
+TypeError: Nekarî taybetmendiya yekem jê bibe
+TypeError: Nirxa taybetmendiyê ya yekem divê rêzek be
+Tîpa Çewtî: jimarek pêvek hewce ye (nivîsa str wergirt)
+TypeError: Nekarî taybetmendiya yekem jê bibe
+TypeError: nikare taybetmendiya hejmar/char jê bibe
+TypeError: Nirxa taybetmendiyê ya yekem divê rêzek be
+Tîpa Çewtî: jimarek pêvek hewce ye (nivîsa str wergirt)
+TypeError: '>' di navbera mînakên 'datetime.timedelta' û 'int' de nayê piştgirî kirin
+TypeError: f() 1 argumana pozîsyonê ya pêwîst winda ye: 'a'
+TypeError: Tîp(ên) operanda nepiştgirî ji bo +: 'int' û 'NoneType'
+TypeError: Tîp(ên) operanda nepiştgirî ji bo +: 'int' û 'NoneType'
+TypeError: '<' di navbera nimûneyên 'PureWindowsPath' û 'PurePosixPath' de nayê piştgirî kirin
+TypeError: <lambda>() tam 3 argumanan digire (1 dayîn)
+TypeError: Tişta 'NonCallableMock' nayê gazîkirin
+TypeError: <lambda>() herî kêm 2 argumanan digire (1 hatî dayîn)
+TypeError: nikare bîranîna tenê xwendinê biguherîne
+TypeError: argumana isinstance() 2 nikare bibe gelemperîyek parameterkirî
+TypeError: Di dict[str] de guherbarên cureyê nemane
+TypeError: argumana isinstance() 2 nikare giştek parameterkirî bihewîne
+TypeError: nikare nimûneyên 'types.UnionType' biafirîne
+ArgumentError: argumana 2: TypeError: Nizanim meriv çawa parametre 2 veguherîne
+ArgumentError: argumana 2: TypeError: cureyê çewt
+ctypes.ArgumentError: argumana 2: Çewtiya Tîp: yek karakter byte, bitearray an jî jimarek tê hêvîkirin
+TypeError: gelek destpêkker
+TypeError: c_long çaverêkirî li şûna int
+TypeError: cureyên nelihev, c_byte_Array_4 mînak li şûna mînaka LP_c_long
+TypeError: %b bytes, an jî tiştekî ku __bytes__ pêk tîne, ne 'str' dixwaze.
+TypeError: 'str' pêwendiya tampon piştgirî nake
+TypeError: kodkirina bi kodek 'bz2' têk çû (TypeError: 'str' navbeynkariya tampon piştgirî nake)
+TypeError: Hûn dikarin Dehanî tenê bi celebên daneya int, dirêj an Dehanî re têkilî daynin.
+TypeError: Bi xêzkirina rêbazên razber nikare çîna abstrakt Circle destnîşan bike
+TypeError: nikare bîranîna tenê xwendinê biguherîne
+TypeError: f() herî kêm 1 arguman digire (0 dayîn)
+TypeError: Tişta 'NoneType' nayê abonetiyê
+TypeError: Tîpa nehêşkirin: 'set'
+TypeError: Tîpa nehêşkirin: 'set'
+TypeError: mean() hin argumanên tenê-pozîsyonê wekî argumanên peyva sereke derbas kirin: 'dane'
+TypeError: tenê dikare str (ne "custom.Custom") bi str
+TypeError: kêmkirina() rêzika vala bêyî nirxa destpêkê
+TypeError: 'SQUARE' jixwe wekî 2 hatiye diyarkirin
+TypeError: '<' di navbera nimûneyên 'Color' û 'Color' de nayê piştgirî kirin
+TypeError: <enum 'MoreColor'> nikare <enum 'Color'> dirêj bike
+TypeError: Rêza endaman bi _order_ nagire:
+TypeError: Tîp(ên) operandê ne piştgirîkirî ji bo ** an pow(): 'str' û 'int'
+TypeError: '>=' di navbera nimûneyên 'NoneType' û 'int' de nayê piştgirî kirin
+TypeError: Tê çaverêkirin ku 'V' bibe int an float
+TypeError: Di mînaka 'CP' de taybetmendiya '__dict__' tune ku taybetmendiya 'pi' veşêre.
+TypeError: Tişta tîpa 'C' lens nîne()
+TypeError: ravekerê '__hash__' ya "int" argûmanek hewce dike
+TypeError: f() ji bo argumana peyva key 'a' gelek nirx girt
+UnboundLocalError: guherbara herêmî 'x' berî peywirê hatiye referans kirin
+raise UnicodeError ("Keymanên nederbasdar %r" % c)
+raise UnicodeError ("Binpêkirina pêdiviya BIDI 2")
+raise UnicodeError ("Binpêkirina pêdiviya BIDI 3")
+UnicodeError bilind bike ("etîket vala an pir dirêj")
+UnicodeError bilind bike ("etîket vala an pir dirêj")
+UnicodeError bilind bike ("Etîket bi pêşgira ACE dest pê dike")
+UnicodeError bilind bike ("etîket vala an pir dirêj")
+UnicodeError bilind bike ("etîket pir dirêj e")
+UnicodeError bilind bike ("Di etîketa IDN de karakterek nederbasdar")
+UnicodeError bilind bike ("IDNA dor nayê", label, label2)
+raise UnicodeError("destewerdana xeletiya nepiştgir"+çewtî)
+UnicodeError bilind bike ("etîket vala an pir dirêj")
+UnicodeError bilind bike ("etîket pir dirêj")
+raise UnicodeError ("Rêvekirina xeletiya nepiştgir" + xeletî)
+raise UnicodeError("destewerdana xeletiya nepiştgir"+çewtî)
+raise UnicodeError ("Rêvekirina xeletiya nepiştgir" + xeletî)
+raise UnicodeError ("rêzika punicode netemam")
+raise UnicodeError("Xala koda dirêjkirî nederbasdar '%s'"
+raise UnicodeError ("Keymer nederbasdar U+%x" % char)
+raise UnicodeError ("Rêvekirina xeletiya nepiştgir" + xeletî)
+raise UnicodeError ("Rêvekirina xeletiya nepiştgirî"+self.errors)
+UnicodeError zêde bike ("kodkirina nediyar")
+UnicodeError zêde bike ("kodkirina nediyar")
+UnicodeError zêde bike ("kodkirina nediyar")
+UnicodeError zêde bike ("kodkirina nediyar")
+UnicodeError zêde bike ("Rêveka UTF-32 bi BOM dest pê nake")
+UnicodeError zêde bike ("Rêveka UTF-32 bi BOM dest pê nake")
+UnicodeError bilind bike ("Rêveka UTF-16 bi BOM dest pê nake")
+UnicodeError bilind bike ("Rêveka UTF-16 bi BOM dest pê nake")
+UnicodeError bilind bikin
+UnicodeError bilind bikin
+UnicodeError bilind bikin
+bilind bike UnicodeError("URL" + repr(url) +
+# UnicodeEncodeError: Ger navê_pakêtê an navê_çavkaniyê ne UTF-8 bin,
+self.assertIn(b"Çewtiya UnicodeEncode: \'ascii\' kodek nikare karakterê kod bike"
+``UnicodeEncodeError: Kodeka 'latin-1' nikare karaktera '\u1234' di nav de kod bike
+UnicodeEncodeError: 'ascii' codec nikare karaktera '\ua000' di nav de kod bike
+# UnicodeDecodeError: Deşîfrekirina tp_name bytestring bi ser neket
+# UnicodeDecodeError: string() nikare bytestringê deşîfre bike
+UnicodeDecodeError: Kodek 'utf-8' nikare byte 0x80 di pozîsyona 0 de deşîfre bike:
+// ValueError: argumana zip() 2 ji argumana 1 kurttir e
+// ValueError: argumana zip() 3 ji argumanên 1-2 kurttir e
+ValueError: heke *navnîşana* derbasbûyî ne v4 an jî v6 be
+ValueError: ger rêzika derbasbûyî ne v4 an jî v6 be
+ValueError: ger rêzika derbasbûyî ne v4 an jî v6 be
+ValueError: Heke jimare negatîf an pir mezin be ku bibe an
+ValueError: Ger têketin sifir û yekan bi hev re bike yek
+NetmaskValueError: Heke têketin ne maskek ne derbasdar be
+NetmaskValueError: Heke têketin ne tormask/hostmaskek derbasdar be
+ValueError: Ger ya din bi tevahî ji hêla xwe ve neyê girtin.
+ValueError: Prefixlen_diff pir piçûk an pir mezin e.
+ValueError: Ger self.prefixlen - prefixlen_diff < 0. Ango, te heye
+AddressValueError: heke ip_str ne navnîşek IPv4 derbasdar e.
+ValueError: heke oktet bi hişkî ji [0..255] dehiyek nebe.
+AddressValueError: Heke ipaddress ne navnîşek IPv4 derbasdar e.
+AddressValueError: Heke ipaddress ne navnîşek IPv4 derbasdar e.
+NetmaskValueError: Heke netmask ji bo ne derbasdar e
+ValueError: Heke hişk rast e û navnîşek torê ne
+AddressValueError: heke ip_str ne navnîşek IPv6 derbasdar e.
+ValueError: heke têketin bi hişkî jimareyek hex ne ji
+ValueError: Navnîşan ji hemûyan 128 bit mezintir e.
+AddressValueError: Ger navnîş ne navnîşek IPv6 derbasdar be.
+AddressValueError: Ger navnîş ne navnîşek IPv6 derbasdar be.
+NetmaskValueError: Heke netmask ji bo ne derbasdar e
+ValueError: Heke hişk rast bû û navnîşek torê ne bû
+heke b'ValueError: divê hejmara çarçoweyan di rêzê de be' di stderr de:
+heke b'ValueError: divê hejmara çarçoweyan di rêzê de be' di stderr de:
+ji bilî ValueError: derbas
+ji bilî ValueError: derbas
+ji bilî ValueError: derbas
+ji bilî ValueError: derbas
+biceribîne: derbas bibe\nûnî NirxError: derbas\nexşe* TypeError: derbas\n
+biceribîne: derbas bibe\nek* NirxÇewtî: derbas bibe\nê ji TîpaÇewtî: derbas\n
+biceribîne: derbas bibe\nekNirxError: derbas\nexçe* TypeError wek e: derbas\n
+biceribîne: derbas bibe\nek* NirxError: derbas\nji bilî TypeError wekî e: derbas\n
+biceribîne: derbas bibe\nekNirxError: derbas\nek*: derbas\n
+biceribîne: derbas bibe\nek* NirxError: derbas bibe\next: derbas\n
+self.assertIn ("ValueError: hin xeletî", xelet)
+ValueError: gelek nirx ji bo venekişandinê (2 tê hêvîkirin)
+ValueError: gelek nirx ji bo venekişandinê (2 tê hêvîkirin)
+ValueError: nirx ne bes in ku ji pakkirinê veqetin (4 dihat hêvîkirin, 3 hate girtin)
+ValueError: gelek nirx ji bo venekişandinê (2 tê hêvîkirin)
+ValueError: gelek nirx ji bo venekirina (0 çaverêkirî)
+self.assertIn('ValueError: bi ser neket', stderr)
+self.assertIn('ValueError: bug', stderr)
+self._check_error("biceribîne: derbas bibe\nexê
+self._check_error("biceribîne: derbas bibe\nexê
+ValueError: jenerator jixwe tê xebitandin
+# ValueError: _unsafe_setprec, _unsafe_setemin, _unsafe_setemax
+# ValueError: Tenê dikare rêzika heman mezinahiyê destnîşan bike
+# ArgumentError: argumana 1: ValueError: 99
+ValueError: jenerator jixwe tê xebitandin
+ValueError: 6
+ValueError: 7
+ValueError: xeletiya domaina matematîkî
+ValueError: xeletiya domaina matematîkî
+ValueError: xeletiya domaina matematîkî
+ValueError: xeletiya domaina matematîkî
+ValueError: xeletiya domaina matematîkî
+ValueError: xeletiya domaina matematîkî
+ValueError: xeletiya domaina matematîkî
+ValueError: xeletiya domaina matematîkî
+ValueError: Nirxên têr nînin ku ji pakkirinê vebikin (bi kêmî ve 4 hate hêvî kirin, 3 hate girtin)
+ValueError: Nirxên têr nînin ku ji pakkirinê vebikin (bi kêmî ve 4 hate hêvî kirin, 3 hate girtin)
+# "ValueError: Operasyona I/O li ser pelê girtî" ya ku wekî pelek tê tomar kirin
+self.assertIn('ValueError: Paqijkirina xerab2', formatted_exc)
+self.assertIn('ValueError: Paqijkirina xerab2', formatted_exc)
+self.assertIn('ValueError: Paqijkirina xerab2', formatted_exc)
+self.assertIn('ValueError: Paqijkirina xerab2', formatted_exc)
+self.assertIn('ValueError: Paqijkirina xerab2', formatted_exc)
+self.assertIn('ValueError: Paqijkirina xerab2', formatted_exc)
+self.assertIn('ValueError: Paqijkirina xerab2', formatted_exc)
+self.assertIn('ValueError: Paqijkirina xerab2', formatted_exc)
+self.assertIn('ValueError: Paqijkirina xerab2', formatted_exc)
+bi self._assert_logged('ValueError: di destpêkê de çewtî'):
+ValueError: [Rûtînên zerfa dîjîtal: EVP_DigestInit_ex] ji bo FIPS neçalak kirin
+ValueError: cureyê hash-a ku nayê piştgirî kirin md4
+>>> exc_msg = 'Çewtiya nirxê: 1\n 2'
+'Çewtiya nirx: 1\n 2\n'
+>>> exc_msg = 'Çewtiya nirxê: 1\n 2\n'
+'Çewtiya nirx: 1\n 2\n'
+ValueError: Rêza 4 ya docstringê ji bo some_test cîhê spî yê sereke yê nehevgirtî heye: 'indentation'
+ValueError: rêzika 2 ya docstringê ji bo some_test cîhê spî yê sereke yê nehevgirtî heye: '... 2))'
+ValueError: rêzika 1 ya docstringê ji bo some_test piştî >>>: '>>>çap bike(1)'
+ValueError: Rêza 2 ya docstringê ji bo some_test piştî ...: '...çap bike(1)'
+... ValueError: pir
+... ValueError: peyama çewt
+ValueError: peyama çewt
+ValueError: peyam
+... ValueError: peyama çewt
+ValueError: peyam
+ValueError: 2
+ValueError: 2
+ValueError: Rêza 1 ya doctest ji bo s vebijarkek nederbasdar heye: '+ BADOPTION'
+ValueError: Rêza 1 ya doctest ji bo s vebijarkek nederbasdar heye: 'ELLIPSIS'
+ValueError: rêzika 0 ya doctest ji bo s-yê rêwerzek vebijarkî li ser rêzek bê mînak heye: '# doctest: +ELLIPSIS'
+ValueError: Dibe ku pakêt tenê ji bo rêyên têkildar-module were destnîşan kirin.
+self.assertTrue(err.getvalue().endswith("ValueError: 42\n"))
+self.assertIn('ValueError: 42\n', err)
+r'ValueError: bug\n'
+# ValueError: Danasîna pelê nikare bibe jimareyek neyînî (-1)
+f' | ValueError: 1\n'
+exp = ' Dosya "< tune>", rêza 3, di <module> de\nValueError: 42\n'
+f' | ValueError: 1\n'
+f' | ValueError: 1\n'
+f' | ValueError: 3\n'
+f' | ValueError: 1\n'
+f' | ValueError: 3\n'
+f' | ValueError: 1\n'
+f' | ValueError: 4\n'
+f' | ValueError: 5\n'
+' | ValueError: 0\n'
+' | ValueError: 1\n'
+' | ValueError: 2\n'
+' | ValueError: 3\n'
+' | ValueError: 4\n'
+' | ValueError: 5\n'
+' | ValueError: 6\n'
+' | ValueError: 7\n'
+' | ValueError: 8\n'
+' | ValueError: 9\n'
+' | ValueError: 10\n'
+' | ValueError: 11\n'
+' | ValueError: 12\n'
+' | ValueError: 13\n'
+' | ValueError: 14\n'
+' | ValueError: 999\n'
+' | ValueError: 998\n'
+' | ValueError: 997\n'
+' | ValueError: 996\n'
+' | ValueError: 995\n'
+' | ValueError: 994\n'
+' | ValueError: 993\n'
+' | ValueError: 992\n'
+' | ValueError: 991\n'
+' | ValueError: 990\n'
+' | ValueError: -990\n'
+' | ValueError: -991\n'
+' | ValueError: -992\n'
+' | ValueError: -993\n'
+' | ValueError: -994\n'
+' | ValueError: -995\n'
+' | ValueError: -996\n'
+' | ValueError: -997\n'
+' | ValueError: -998\n'
+' | ValueError: -999\n'
+f' | ValueError: nirxa xirab\n'
+f' | ValueError: nirxek tirsnak\n'
+f' | ValueError: nirxa xirab\n'
+f' | ValueError: nirxek tirsnak\n'
+f' | ValueError: 42',
+f' | ValueError: 24',
+f' | ValueError: 0',
+f' | ValueError: 1',
+f' | ValueError: -2',
+f' | ValueError: -1',
+f' | ValueError: 1',
+f' | ValueError: 2',
+ji bilî ValueError: derbas
+ji bilî ValueError: derbas
+ji bilî ValueError: # ValueError: sînyala tenê di mijara sereke de dixebite
+ValueError: li dor b'' binavkên rêzê tune
+ValueError: Dema ku hewl didin ku stringnl bixwînin xetek nû nehat dîtin
+ValueError: 50331648 bytes di string4 de tê çaverê kirin, lê tenê 6 dimîne
+ValueError: çaverêkirî 50331648 bytes di bytes4 de, lê tenê 6 dimîne
+ValueError: çaverêkirî ... bytes di bytes8 de, lê tenê 6 dimîne
+ValueError: çaverêkirî ... byte di bytearray8 de, lê tenê 6 dimîne
+ValueError: Di unicodestring1 de 7 byte tê çaverêkirin, lê tenê 6 dimîne
+ValueError: Di unicodestring4 de 7 byte çaverêkirî ye, lê tenê 6 dimîne
+ValueError: Di unicodestring8 de 7 byte tê çaverêkirin, lê tenê 6 dimîne
+ValueError: ji bo int() ya bi bingeh 10: b'1234L' raveya nederbasdar
+ValueError: ('Tenê alayên raporkirinê destûr in', 8)
+ValueError: Tam li bendê bû ku yek tişt di dubarekirinê de be, lê 1, 2,
+:raises ValueError: Dema ku nirxek nederbasdar ji bo navê tê peyda kirin.
+ji bilî ValueError: # tenê lê zêde bike heke tune be, ango carekê bike
+ji bilî ValueError: # Vê hewce bike heta ku .Serast bikin.
+ji bilî ValueError: # li pirsgirêka1207589 binêre
+' | ValueError: 1\n'
+' | ValueError: 1\n'
+ValueError: nikare NaN dorpêç bike
+ji bilî ValueError: # pragma: nixumandî
+ValueError: Operasyona I/O li ser pelê girtî.
+ValueError: argumana zip() 2 ji argumana 1 dirêjtir e
+ValueError: Ne belkî: na
+ValueError: navên nav <enum 'Reng'> hatin dîtin: CRIMSON -> SOR
+ValueError: jimareya nederbasdar 'Reng': nirxên 3, 4 winda ne
+ValueError: Alê nederbasdar 'Reng': navên SPÎ û NEON nirxên hevgirtî yên 0x18 winda ne [ji bo hûrguliyan enum.show_flag_values(nirx) bikar bînin]
+ValueError: <ala 'StrictFlag'> nirxa nederbasdar 20
+ValueError: nirxên dubare yên di <enum 'Şaş'> de hatin dîtin: ÇAR -> SÊ
+ValueError: n divê >= 0 be
+ValueError: n divê jimareya rast be
+ValueError: list.remove(x): x ne di lîsteyê de ye
+ValueError: pir
+ValueError: pir
+``ValueError: 42 sereke ye`` dê derbas bibe ka :exc:`ValueError` bi rastî
+Mînakî, mînakek ku li hêviya ``ValueError: 42`` dê derbas bibe heke rast be
+îstîsna bilindkirî ``NirxError: 3*14`` e, lê heke, bêje, a
+ValueError: '/etc/passwd' ne di binê rêça '/usr' de ye AN rêyek nisbî ye û ya din jî mutleq e.
+ValueError: '/etc/passwd' ne li ser heman ajokera 'foo' ye AN rêyek nisbî ye û ya din jî mutleq e.
+ValueError: PureWindowsPath('c:/') navekî vala heye
+ValueError: PureWindowsPath('c:/') navekî vala heye
+ValueError: argumana zip() 2 ji argumana 1 kurttir e
+ValueError: Cihê nederbasdar di rêzikê de: rêz 1, hêl 11
+ValueError: Guherbara `min_name` diyar bike!
+ValueError: peywira dîtina bîranînê: lvalue û rvalue strukturên cûda hene
+ValueError: Operasyona li ser objeya memoryviewê ya hatî berdan qedexe ye
+ValueError: Operasyona li ser objeya memoryviewê ya hatî berdan qedexe ye
+ValueError: Memoryview: nirxa nederbasdar ji bo format "B"
+ValueError: Sînorê (4300 reqeman) ji bo veguhertina rêzika yekjimar derbas dike: nirx 5432 reqeman e; sys.set_int_max_str_digits() bikar bînin da ku sînor zêde bikin.
+ValueError: Sînorê (4300 reqem) ji bo veguhertina rêzika yekjimar derbas dike: nirx 8599 reqeman e; sys.set_int_max_str_digits() bikar bînin da ku sînor zêde bikin.
+ipaddress.AddressValueError: 4294967296 (>= 2**32) wekî navnîşana IPv4 nayê destûr kirin
+ValueError: Pêşgira nû divê dirêjtir be
+ValueError: ji depoya berdest ji bo str
+ValueError: Pêvajoya ku têra argumanan nake tê gotin (4 bytes winda ne)
+ValueError: Pêvajoya belkî bi gelek argumanan tê gotin (4 bytes zêde)
+ValueError: Gihîştina nîşana NULL
+ValueError: Gihîştina nîşana NULL
+ValueError: Mezinahiya herî kêm 8 e
+ValueError: ne dehiyek
+ValueError: girêk an rêzika çewt: <_ast. Tişta bang li 0x101739a10>
+ValueError: hewl bidin ku rêzika mezinahiya 3 li perçeya dirêjkirî ya mezinahiya 2 veqetînin
+ValueError: Nimûne ji nifûsê mezintir
+ji bilî TypeError, ValueError: # Çewt!
+ValueError: rêzika çewt
+ValueError: nirxên dubare yên di <enum 'Şaş'> de hatin dîtin: ÇAR -> SÊ
+ValueError: navên navên di DuplicateFreeEnum de nayên destûr kirin: 'GRENE' --> 'KEK'
+ValueError: 192.0.2.1/24 bitên mêvandar hatine danîn
+ValueError: '192.168.0.256' wekî navnîşana IPv4 an IPv6 xuya nake
+ipaddress.AddressValueError: Octet 256 (> 255) di '192.168.0.256' de nayê destûr kirin
+ValueError: '192.168.0.1/64' wekî tora IPv4 an IPv6 xuya nake
+ipaddress.NetmaskValueError: '64' ne maskeya torê ya derbasdar e
+ValueError: Tê çaverêkirin ku <rêbaza 'isupper' ya tiştên 'str'> ji bo 'Widget' rast be.
+ValueError: Tê çaverêkirin ku 'metle' yek ji {'metal', 'plastîk', 'dar'} be.
+ValueError: Tê payîn ku -5 herî kêm 0 be
+| ValueError: 1
+ji bilî ZeroDivisionError: derbas
+ZeroDivisionError: dabeşkirina bi sifir
+ZeroDivisionError: Dabeşkirina yekjimar an modul bi sifir
+ZeroDivisionError: Dabeşkirina yekjimar an modul bi sifir
+ZeroDivisionError: 0.0 nikare bi hêzek neyînî were bilind kirin
+ji bilî ZeroDivisionError: derbas
+self.assertIn('ZeroDivisionError: dabeşkirina bi sifir', formatted_exc)
+self.assertIn('ZeroDivisionError: dabeşkirina bi sifir', formatted_exc)
+self.assertIn('ZeroDivisionError: dabeşkirina bi sifir', formatted_exc)
+self.assertIn('ZeroDivisionError: dabeşkirina bi sifir', formatted_exc)
+self.assertIn('ZeroDivisionError: dabeşkirina bi sifir', formatted_exc)
+self.assertIn('ZeroDivisionError: dabeşkirina bi sifir', formatted_exc)
+self.assertIn('ZeroDivisionError: dabeşkirina bi sifir', formatted_exc)
+self.assertIn('ZeroDivisionError: dabeşkirina bi sifir', formatted_exc)
+self.assertIn('ZeroDivisionError: dabeşkirina bi sifir', formatted_exc)
+self.assertIn('ZeroDivisionError: dabeşkirina bi sifir', formatted_exc)
+self.assertIn('ZeroDivisionError: dabeşkirina bi sifir', formatted_exc)
+self.assertIn('ZeroDivisionError: dabeşkirina bi sifir', formatted_exc)
+... ZeroDivisionError: dabeşkirina yekjimar an jî modul bi sifir
+... ZeroDivisionError: dabeşkirina yekjimar an jî modul bi sifir
+ZeroDivisionError: Dabeşkirina yekjimar an modul bi sifir
+ZeroDivisionError: Dabeşkirina yekjimar an modul bi sifir
+b'ZeroDivisionError: dabeşkirina bi sifir'
+self.assertEqual(xetên[3], b'ZeroDivisionError: dabeşkirina bi sifir')
+self.assertEqual(xetên[3], b'ZeroDivisionError: dabeşkirina bi sifir')
+b'ZeroDivisionError: dabeşkirina bi sifir']
+'ZeroDivisionError: dabeşkirina bi sifir',
+f' | ZeroDivisionError: dabeşkirina bi sifir',
+ji bilî ZeroDivisionError: derbas
+ji bilî ZeroDivisionError: derbas
+ji bilî ZeroDivisionError: derbas
+ji bilî ZeroDivisionError: derbas
+ji bilî ZeroDivisionError: derbas
+ji bilî ZeroDivisionError: derbas
+'ZeroDivisionError: dabeşkirina bi sifir\n'
+'ZeroDivisionError: dabeşkirina bi sifir\n'
+ZeroDivisionError: dabeşkirina bi sifir
+ZeroDivisionError: Dabeşkirina yekjimar an modul bi sifir
+ZeroDivisionError: Dabeşkirina yekjimar an modul bi sifir
+ZeroDivisionError: dabeşkirina bi sifir
+logging.exception('ZeroDivisionError: %s', e)
+28/01/2015 07:21:23|ÇEWT|ZeroDivisionÇewtî: Dabeşkirina yekjimar an modul bi sifir|'Traceback (banga herî dawî):\n Pela "logtest7.py", rêza 30, di sereke de\n x = 1 / 0\nZeroDivisionError: Dabeşkirina jimare an modul bi sifir'|
+HIŞYARÎ:demo:ZeroDivisionError: dabeşkirina bi sifir
+ZeroDivisionError: dabeşkirina bi sifir
+ZeroDivisionError: dabeşkirina bi sifir
+NameError: navê 'valeur' ​​nehatiye diyarkirin
+Çewtiya hevoksaziyê: nehevkirî ')'
+NameError: navê 'imprime' nehatiye diyarkirin
+Çewtiya hevoksaziyê: EOL dema ku rêzika biwêj digere
+NameError: navê 'z' nehatiye diyarkirin
+NameError: navê 'impimir' nehatiye diyarkirin
+NameError: navê 'imprimer' nehatiye diyarkirin
+NameError: navê 'imprimir' nehatiye diyarkirin

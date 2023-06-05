@@ -8,15 +8,30 @@ body {
   color: green;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
-    color: yellow;
-}
-
 
 input[type=text] {
     width: 50%;
     height: 4cm;
     
 }
+
+.editor {
+  display: flex;
+  align-items: center;
+  
+}
+
+.editor label {
+    margin-right: 10px;
+}
+
+.outputBoxes {
+  display: flex;
+  align-items: center;
+  
+}
+
+.outputBoxes label {
+    margin-right: 10px;
+}
+
