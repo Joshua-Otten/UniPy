@@ -1948,5 +1948,3 @@ NameError: el nombre 'imprime' no está definido
 SyntaxError: EOL al escanear literal de cadena
 NameError: el nombre 'z' no está definido
 NameError: el nombre 'impimir' no está definido
-NameError: el nombre 'imprimer' no está definido
-NameError: el nombre 'imprimir' no está definido

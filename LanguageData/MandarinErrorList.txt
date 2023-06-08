@@ -1948,5 +1948,3 @@ NameError：未定义名称“imprime”
 SyntaxError：扫描字符串文字时 EOL
 NameError: 名称 'z' 未定义
 NameError：未定义名称“impimir”
-NameError：名称“imprimer”未定义
-NameError：未定义名称“imprimir”

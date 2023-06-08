@@ -189,6 +189,7 @@ class App extends Component {
                     <option value="Spanish">Spanish</option>
                     <option value="Greek">Greek</option>
                     <option value="Mandarin">Mandarin</option>
+                    <option value="Kurdish">Kurdish</option>
                   </select>
 
                   <select id="Language2" name="Language2">
@@ -196,6 +197,7 @@ class App extends Component {
                     <option value="Spanish">Spanish</option>
                     <option value="Greek">Greek</option>
                     <option value="Mandarin">Mandarin</option>
+                    <option value="Kurdish">Kurdish</option>
                     <option value="English">English</option>
                   </select>
                 </div>

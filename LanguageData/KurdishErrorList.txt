@@ -1948,5 +1948,3 @@ NameError: navê 'imprime' nehatiye diyarkirin
 Çewtiya hevoksaziyê: EOL dema ku rêzika biwêj digere
 NameError: navê 'z' nehatiye diyarkirin
 NameError: navê 'impimir' nehatiye diyarkirin
-NameError: navê 'imprimer' nehatiye diyarkirin
-NameError: navê 'imprimir' nehatiye diyarkirin

@@ -1948,6 +1948,3 @@ NameError: name 'imprime' is not defined
 SyntaxError: EOL while scanning string literal
 NameError: name 'z' is not defined
 NameError: name 'impimir' is not defined
-NameError: name 'imprimer' is not defined
-NameError: name 'imprimer' is not defined
-NameError: name 'imprimir' is not defined

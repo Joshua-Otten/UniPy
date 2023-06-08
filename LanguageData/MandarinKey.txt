@@ -215,8 +215,8 @@ ascii码
 输入错误
 未绑定本地错误
 统一码错误
-Unicode 编码错误
-Unicode 解码错误
-Unicode 翻译错误
+Unicode_编码错误
+Unicode_解码错误
+Unicode_翻译错误
 值错误
 零除法误差
