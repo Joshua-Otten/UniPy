@@ -39,7 +39,7 @@ app.get('/', (req, res) => {
   res.send('Hello World!')
 })*/
 
-app.get('/Python', (req, res) => {
+app.get('/Translate', (req, res) => {
     //res.json(codeText)
     // gets the value of "result" after execution of the py program above
     res.json(result)
@@ -47,7 +47,7 @@ app.get('/Python', (req, res) => {
 
 // NOTE:  CHATGPT HELPED EXTENSIVELY ON THIS FUNCTION
 // this is for translation
-app.post('/Python', (req, res) => {
+app.post('/Translate', (req, res) => {
   const code = req.body.code;
   const lang1 = req.body.lang1;
   const lang2 = req.body.lang2;

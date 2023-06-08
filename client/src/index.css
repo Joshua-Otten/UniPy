@@ -1,5 +1,5 @@
 body {
-  margin: 0;
+  margin: 75px;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
@@ -8,30 +8,62 @@ body {
   color: green;
 }
 
+input[type="text"] {
+  width: 50%;
+  height: 4cm;
+  color: green;
+}
 
-input[type=text] {
-    width: 50%;
-    height: 4cm;
-    
+.Language {
+    align-items: center;
+    margin: 10px;
+
 }
 
 .editor {
-  display: flex;
-  align-items: center;
-  
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); /* Two columns */
+  grid-gap: 10px; /* Gap between grid items */
 }
 
 .editor label {
-    margin-right: 10px;
+  margin-right: 10px;
+}
+
+.editor textarea {
+    align-items: center;
+    margin-right: 20px;
+    margin-left: 20px;
 }
 
 .outputBoxes {
-  display: flex;
-  align-items: center;
-  
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); /* Two columns */
+    grid-gap: 10px; /* Gap between grid items */
+    justify-items: start;
 }
 
-.outputBoxes label {
-    margin-right: 10px;
+.outputBoxes textarea {
+    align-items: center;
+
+}
+
+#ToTranslate {
+  color: white;
+  background-color: black;
+}
+
+#outputTextBox1 {
+    color: white;
+    background-color: black;
+}
+
+#outputTextBox2 {
+}
+
+button {
+  color: green;
+  margin-right: 100px;
+  margin-left: 100px;
 }
 
