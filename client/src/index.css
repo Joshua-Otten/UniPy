@@ -50,12 +50,12 @@ input[type="text"] {
 
 #ToTranslate {
   color: white;
-  background-color: black;
+  background-color: #221;
 }
 
 #outputTextBox1 {
     color: white;
-    background-color: black;
+    background-color: #221;
 }
 
 #outputTextBox2 {

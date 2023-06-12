@@ -229,7 +229,7 @@ class App extends Component {
                 <div className="editor">
                   <p>
                     <label htmlFor="ToTranslate" style={{ verticalAlign: 'top' }}>
-                      The original
+                      Original
                     </label>
                     <textarea rows="22" cols="35" id="ToTranslate" name="ToTranslate"></textarea>
                   </p>
