@@ -24,7 +24,26 @@ class App extends Component {
       .then(codeText => this.setState({ codeText }));
   }
     
-
+    Swap = () => {
+        
+        // swap what's in the editor boxes
+        const box1 = document.getElementById('ToTranslate');
+        const code1 = box1.value;
+        const box2 = document.getElementById('Translation');
+        const code2 = box2.value;
+        
+        box1.value = code2;
+        box2.value = code1;
+        
+        // swap the languages
+        const lang1 = document.getElementById('Language1');
+        const lang2 = document.getElementById('Language2');
+        const temp = lang1.value;
+        lang1.value = lang2.value;
+        lang2.value = temp;
+        
+    }
+    
 
   DoTranslate = () => {
     const englBox = document.getElementById('ToTranslate');
@@ -182,6 +201,7 @@ class App extends Component {
             <div className="App">
               <div>
                 <h1>UniPython</h1>
+            <button type="button" onClick={this.Swap} style={{fontSize: '0.75em', padding: '5px' }}>Swap</button>
                 <div className="Language">
                   <select id="Language1" name="Language1">
                     <option value="English">English</option>
