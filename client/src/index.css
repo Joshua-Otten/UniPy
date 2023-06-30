@@ -67,3 +67,6 @@ button {
   margin-left: 100px;
 }
 
+.rtl-textbox {
+    text-align: right;
+}

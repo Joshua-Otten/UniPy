@@ -3,7 +3,8 @@ import './App.css';
 
 class App extends Component {
   state = {
-    /*codeText: [],*/
+    selectedLang1: 'English',
+    selectedLang2: 'Spanish',
     translation: [],
     output: []
   };
@@ -139,7 +140,12 @@ class App extends Component {
         console.error('Error:', error);
       });
   };
-    
+    changeLanguage1 = (event) => {
+        this.setState({ selectedLang1: event.target.value });
+    };
+    changeLanguage2 = (event) => {
+        this.setState({ selectedLang2: event.target.value });
+    };
     // NOTE: CHATGPT helped extensively with these next two functions
     handleTabKey = (event) => {
       if (event.key === 'Tab') {
@@ -203,7 +209,7 @@ class App extends Component {
                 <h1>UniPython</h1>
             <button type="button" onClick={this.Swap} style={{fontSize: '0.75em', padding: '5px' }}>Swap</button>
                 <div className="Language">
-                  <select id="Language1" name="Language1">
+                <select id="Language1" name="Language1" onChange={this.changeLanguage1}>
                     <option value="English">English</option>
                     <option value="French">French</option>
                     <option value="Spanish">Spanish</option>
@@ -212,9 +218,9 @@ class App extends Component {
                     <option value="Kurdish">Kurdish</option>
                   </select>
 
-                  <select id="Language2" name="Language2">
-                    <option value="French">French</option>
-                    <option value="Spanish">Spanish</option>
+                <select id="Language2" name="Language2" onChange={this.changeLanguage2}>
+                    <option value="Spanish">French</option>
+                    <option value="French">Spanish</option>
                     <option value="Greek">Greek</option>
                     <option value="Mandarin">Mandarin</option>
                     <option value="Kurdish">Kurdish</option>
@@ -231,13 +237,13 @@ class App extends Component {
                     <label htmlFor="ToTranslate" style={{ verticalAlign: 'top' }}>
                       Original
                     </label>
-                    <textarea rows="22" cols="35" id="ToTranslate" name="ToTranslate"></textarea>
+            <textarea rows="22" cols="35" id="ToTranslate" name="ToTranslate" className={this.state.selectedLang1 === 'Kurdish' ? 'rtl-textbox' : ''}></textarea>
                   </p>
                   <p>
                     <label htmlFor="Translation" style={{ verticalAlign: 'top' }}>
                       Translation
                     </label>
-                    <textarea rows="22" cols="35" id="Translation" name="Translation"></textarea>
+            <textarea rows="22" cols="35" id="Translation" name="Translation" className={this.state.selectedLang2 === 'Kurdish' ? 'rtl-textbox' : ''}></textarea>
                   </p>
                 </div>
                 <div className="exec">
