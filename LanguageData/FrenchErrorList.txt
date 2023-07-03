@@ -1949,3 +1949,4 @@ SyntaxError : EOL lors de l'analyse du littéral de chaîne
 NameError : le nom 'z' n'est pas défini
 NameError : le nom 'impimir' n'est pas défini
 NameError : le nom 'τύωσε' n'est pas défini
+Erreur de syntaxe : EOF inattendu lors de l'analyse

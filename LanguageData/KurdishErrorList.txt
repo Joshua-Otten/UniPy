@@ -1949,3 +1949,4 @@ NameError: navê 'imprime' nehatiye diyarkirin
 NameError: navê 'z' nehatiye diyarkirin
 NameError: navê 'impimir' nehatiye diyarkirin
 NameError: navê 'τύωσε' nehatiye diyarkirin
+Çewtiya Hevoksaziyê: Di dema parskirinê de EOF ya nediyar

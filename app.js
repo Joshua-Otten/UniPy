@@ -1,7 +1,7 @@
 const express = require('express')
 const fetch = require('node-fetch')
 const path = require('path');
-//const admin = require('firebase-admin'); // uncomment to use Firebase
+
 const app = express()
 
 app.use(express.static(path.join(__dirname, 'client/build')));
@@ -10,34 +10,11 @@ app.use(express.json());
 // MUST INSTALL:  npm install body-parser
 const bodyParser = require('body-parser');
 const fs = require('fs');
-//app.use(bodyParser.json());
-//app.use(bodyParser.urlencoded({ extended: true }));
-
-
-// Firebase starter code appears below
-
-// let serviceAccount = require('[YOUR JSON FILE PATH HERE]');
-// admin.initializeApp({
-// credential: admin.credential.cert(serviceAccount)
-// });
-// let db = admin.firestore();
-
-//const codeText = ["print('Hello World')"];
 
 var result = [''];
 
-// this code seems to correctly run a simple Python program and store the output in teh "result" variable
-const { exec } = require('child_process');
-exec('python test_proc.py', (error, stdout, stderr) => {
-    result = [stdout];
-    console.log(result);
-});
+const {exec} = require('child_process');
 
-//for testing
-/*
-app.get('/', (req, res) => {
-  res.send('Hello World!')
-})*/
 
 app.get('/Translate', (req, res) => {
     //res.json(codeText)
@@ -103,10 +80,10 @@ app.post('/RunCode',(req, res) => {
         
         console.log('Python code written to file:', filename);
     });
-    // Executing the french code!
+    // Executing the foreign code!
     // WARNING:  CONSIDER CYBERSECURITY RISKS OF CODE EXECUTION
     let this_result = ''
-    //exec(`python frpython.py code.frpy`, (error, stdout, stderr) => {
+
     exec(`python uniPython.py `+lang+` code1.unipy`, (error, stdout, stderr) => {
         this_result = [stdout];
         console.log('returning output:',this_result);
@@ -132,10 +109,10 @@ app.post('/RunCode2',(req, res) => {
         
         console.log('Python code written to file:', filename);
     });
-    // Executing the french code!
+    // Executing the foreign code!
     // WARNING:  CONSIDER CYBERSECURITY RISKS OF CODE EXECUTION
     let this_result = ''
-    //exec(`python frpython.py code.frpy`, (error, stdout, stderr) => {
+
     exec(`python uniPython.py `+lang+` code2.unipy`, (error, stdout, stderr) => {
         this_result = [stdout];
         console.log('returning output:',this_result);
