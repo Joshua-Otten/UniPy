@@ -1,5 +1,7 @@
-x = 4
-if x==4:
-	print('4')
-else:
-	print('not 4')
+# test code
+print('Hello World')
+x = 3
+for i in range(x):
+	print(i)
+	if i % 2 == 0:
+		print('even')

@@ -206,21 +206,21 @@ class App extends Component {
     return (
             <div className="App">
               <div>
-                <h1>UniPython</h1>
+                <h1>UniPy</h1>
             <button type="button" onClick={this.Swap} style={{fontSize: '0.75em', padding: '5px' }}>Swap</button>
                 <div className="Language">
                 <select id="Language1" name="Language1" onChange={this.changeLanguage1}>
                     <option value="English">English</option>
-                    <option value="French">French</option>
                     <option value="Spanish">Spanish</option>
+                    <option value="French">French</option>
                     <option value="Greek">Greek</option>
                     <option value="Mandarin">Mandarin</option>
                     <option value="Kurdish">Kurdish</option>
                   </select>
 
                 <select id="Language2" name="Language2" onChange={this.changeLanguage2}>
-                    <option value="Spanish">French</option>
-                    <option value="French">Spanish</option>
+                    <option value="Spanish">Spanish</option>
+                    <option value="French">French</option>
                     <option value="Greek">Greek</option>
                     <option value="Mandarin">Mandarin</option>
                     <option value="Kurdish">Kurdish</option>

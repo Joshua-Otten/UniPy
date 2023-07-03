@@ -1,5 +1,7 @@
-x = 4
-ئەگەر x==4:
-	چاپکردن('4')
-ئی_تر:
-	چاپکردن('not 4')
+# test code
+imprimir('Hello World')
+x = 3
+para i en rango(x):
+	imprimir(i)
+	si i % 2 == 0:
+		imprimir('even')
