@@ -1950,3 +1950,5 @@ NameError : le nom 'z' n'est pas défini
 NameError : le nom 'impimir' n'est pas défini
 NameError : le nom 'τύωσε' n'est pas défini
 Erreur de syntaxe : EOF inattendu lors de l'analyse
+SyntaxError : caractère non imprimable non valide U+202C
+SyntaxError : caractère non imprimable U+202A non valide

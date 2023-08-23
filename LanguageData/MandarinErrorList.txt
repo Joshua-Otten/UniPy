@@ -1950,3 +1950,5 @@ NameError: 名称 'z' 未定义
 NameError：未定义名称“impimir”
 NameError：名称“τύωσε”未定义
 SyntaxError：解析时出现意外的 EOF
+SyntaxError：无效的不可打印字符 U+202C
+SyntaxError：无效的不可打印字符 U+202A

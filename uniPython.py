@@ -7,6 +7,94 @@ import subprocess
 import sys
 from googletrans import Translator
 
+
+
+#################
+# For RTL languages
+
+def swapLineOrder(line):
+    # goes through line similarly to main program, but just swaps order
+    tokens = list()
+    del_quotes = False
+    i = 0
+    while i < len(line):
+        # finding the words
+        word = ""
+        word_flag = False
+        while i<len(line) and ((line[i].isalpha()) or (line[i] == '_')):
+            word_flag = True
+            word += line[i]
+            i += 1
+        # word must be found, so add it
+        if word != '':
+            if del_quotes:
+                #tokens.append(word)
+                tokens.insert(str_start_point, word)
+                str_start_point += 1
+            else:
+                tokens.insert(0,word)
+            
+        # now write the other separators/operators/etc.
+        while (i < len(line) and (not line[i].isalpha()) and line[i] != '_'):
+            # for not reordering comments, things in quotes, etc.
+            if line[i] == "#":
+                # no need to reorder anything after this
+                # reorder, clean up, and return
+                tokens.reverse()
+                delimiterSwap(tokens)
+                return "".join(tokens.append(line[i:]))
+                
+            elif (line[i] == "'" or line[i] == '"'):
+                if del_quotes == True:
+                    del_quotes = False
+                    tokens.insert(str_start_point, line[i])
+                elif del_quotes == False:
+                    del_quotes = True
+                    tokens.insert(0, line[i])
+                    str_start_point = 1
+            # time to add the item to the token list
+            elif del_quotes == False:
+                # swapping delimiters if necessary
+                if line[i] == ')':#'\u202C)\u202C':
+                    tokens.insert(0,'(')#'\u202C(\u202C'
+                elif line[i] == '(':#'\u202C(\u202C':
+                    tokens.insert(0,')')#'\u202C)\u202C'
+                elif line[i] == '[':#'\u202C[\u202C':
+                    tokens.insert(0,']')#'\u202C]\u202C'
+                elif line[i] == ']':#'\u202C]\u202C':
+                    tokens.insert(0,'[')#'\u202C[\u202C'
+                elif line[i] == '{':#'\u202C{\u202C':
+                    tokens.insert(0,'}')#'\u202C}\u202C'
+                elif line[i] == '}':#'\u202C}\u202C':
+                    tokens.insert(0,'{')#'\u202C{\u202C'
+                elif line[i] == '<':#'\u202C<\u202C':
+                    tokens.insert(0,'>')#'\u202C>\u202C'
+                elif line[i] == '>':#'\u202C>\u202C':
+                    tokens.insert(0,'<')#'\u202C<\u202C'
+                else:
+                    tokens.insert(0,line[i])
+            else:
+                #tokens.append(line[i])
+                tokens.insert(str_start_point, line[i])
+                str_start_point += 1
+            i += 1
+    # join the resulting tokens list, return the string
+    result = ''.join(tokens)
+    #print('result after swapping:',result)
+    return result
+
+#################
+
+
+
+# determining whether term order needs to be switched (support for right-left languages)
+RTL = ['Kurdish'] # UPDATE THIS AND StringCodeTranslator.py AS LANGUAGE LIST GROWS!!!
+lang1 = sys.argv[1]
+lang2 = 'English'
+orderSwap = False
+if (lang1 not in RTL and lang2 in RTL) or (lang1 in RTL and lang2 not in RTL):
+    orderSwap = True
+
 language = sys.argv[1]
 file_to_translate = str(sys.argv[2])
 rest_of_arguments = sys.argv[3:]
@@ -41,11 +129,20 @@ Foreign_file.close()
 foreign_code = open(file_to_translate,'r')
 temp = open(file_to_translate[:len(file_to_translate)-6]+".py","w")
 
+
 line = foreign_code.readline()
 delimeter_quotes = (False,'')
 fstring = False
 fstring_braces = False
 while line != "":
+
+    tokenList = list()
+    tokenIndex = list()
+    
+    ### if changing word order, must swap first to avoid complications with key orderings
+    if orderSwap == True:
+        line = swapLineOrder(line)
+
     comment = False
     i = 0
     while i < len(line): # throughout the entire line
@@ -54,10 +151,11 @@ while line != "":
         # all entries in foreign dict either '_' or alphabetic characters
         #   (foregin font scripts or otherwise)
         word_flag = False
-        while (line[i].isalpha()) or (line[i] == '_'):
+        while i<len(line) and ((line[i].isalpha()) or (line[i] == '_')):
             #print("'"+line[i]+"'")
             word_flag = True
-            word += line[i]
+            if line[i] != '\u202A' and line[i] != '\u202C':
+                word += line[i]
             i += 1
         #print(word)
         if word_flag == True:
@@ -75,13 +173,17 @@ while line != "":
                         # write the English version of the word in the new Py file
                         replace_flag = True
                         #print('found a match in the foreign list')
-                        temp.write(English_list[j])
+                        #temp.write(English_list[j])
+                        # Instead of translating now, save the (index,translation) and wait until later
+                        tokenList.append(word)
+                        tokenIndex.append(len(tokenList)-1)
                         break
             
             if replace_flag == False:
                 # there was no foreign word to replace,
                 #   so just copy to the new Py file
-                temp.write(word)
+                #temp.write(word)
+                tokenList.append(word)
 
         # now write the other separators/operators/etc.
         # if a separator is first in the line, the prior part of loop is skipped
@@ -106,8 +208,32 @@ while line != "":
                 fstring_braces = True
             elif not comment and line[i]=='}' and fstring:
                 fstring_braces = False
-            temp.write(line[i])
+            if line[i] != '\u202A' and line[i] != '\u202C':
+                #temp.write(line[i])
+                tokenList.append(line[i])
             i += 1
+            
+            
+    for index in tokenIndex:
+        word = tokenList[index]
+        #print(word)
+        for j in range(0, len(Foreign_list)-1):
+            if Foreign_list[j] == word:
+                #print('found a word:',word)
+                replacement = English_list[j]
+                tokenList[index] = replacement
+                #tokenList.pop(index)
+                #tokenList.insert(index, replacement)
+                break
+    
+    #print(tokenList)
+    if tokenList[0]=='\n':
+        tokenList.pop(0)
+        to_write = ''.join(tokenList) + '\n'
+    else:
+        to_write = ''.join(tokenList)
+    #print('to write:',to_write)
+    temp.write(to_write)
 
     line = foreign_code.readline()
 foreign_code.close()

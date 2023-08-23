@@ -51,7 +51,8 @@ app.post('/Translate', (req, res) => {
       }
       
       console.log('code1.unipy translated');
-      const this_result = stdout.trim(); // Assign the result to the variable and remove leading/trailing whitespace
+      //const this_result = stdout.trim(); // Assign the result to the variable and remove leading/trailing whitespace
+      const this_result = stdout; // assign result to the variable
       console.log('returning:', this_result);
       
       // Send the result to the frontend

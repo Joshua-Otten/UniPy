@@ -1950,3 +1950,5 @@ NameError: name 'z' is not defined
 NameError: name 'impimir' is not defined
 NameError: name 'τύωσε' is not defined
 SyntaxError: unexpected EOF while parsing
+SyntaxError: invalid non-printable character U+202C
+SyntaxError: invalid non-printable character U+202A

@@ -1,1 +1,9 @@
-imprimir('hello world')
+‪‪‬‪‬‪‪imprimir‬‬‪‬‪‬‬('Hello World')
+x = 3
+‪‪‬‪‬‪‪para‬‬‪‬‪‬‬ i ‪‪‬‪‬‪‪en‬‬‪‬‪‬‬ ‪‪‬‪‬‪‪rango‬‬‪‬‪‬‬(3):
+	‪‪‬‪‬‪‪imprimir‬‬‪‬‪‬‬(i)
+	‪‪‬‪‬‪‪si‬‬‪‬‪‬‬ i%2 == 0:
+		‪‪‬‪‬‪‪imprimir‬‬‪‬‪‬‬('even')
+
+
+

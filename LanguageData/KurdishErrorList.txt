@@ -1950,3 +1950,5 @@ NameError: navê 'z' nehatiye diyarkirin
 NameError: navê 'impimir' nehatiye diyarkirin
 NameError: navê 'τύωσε' nehatiye diyarkirin
 Çewtiya Hevoksaziyê: Di dema parskirinê de EOF ya nediyar
+Çewtiya Hevoksaziyê: Karaktera nederbasdar U+202C ya neçapkirî
+Çewtiya Hevoksaziyê: Karaktera nederbasdar U+202A ya neçapkirî

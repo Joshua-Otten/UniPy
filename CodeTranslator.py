@@ -9,7 +9,6 @@
 #   the same name as 'lang1Key.txt'.  Otherwise the program will not be able
 #   to find the right key mapping.
 #
-
 import sys
 
 Lang1_list = list()
