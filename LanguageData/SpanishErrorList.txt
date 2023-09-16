@@ -1952,3 +1952,4 @@ NameError: el nombre 'τύωσε' no está definido
 SyntaxError: EOF inesperado durante el análisis
 SyntaxError: carácter no imprimible no válido U+202C
 Error de sintaxis: carácter no imprimible no válido U+202A
+NameError: el nombre 'प्रिंट' no está definido

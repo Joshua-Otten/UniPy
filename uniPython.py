@@ -5,6 +5,7 @@
 
 import subprocess
 import sys
+import string
 from googletrans import Translator
 
 
@@ -21,7 +22,7 @@ def swapLineOrder(line):
         # finding the words
         word = ""
         word_flag = False
-        while i<len(line) and ((line[i].isalpha()) or (line[i] == '_')):
+        while i<len(line) and line[i] not in non_alpha:#((line[i].isalpha()) or (line[i] == '_')):
             word_flag = True
             word += line[i]
             i += 1
@@ -35,7 +36,7 @@ def swapLineOrder(line):
                 tokens.insert(0,word)
             
         # now write the other separators/operators/etc.
-        while (i < len(line) and (not line[i].isalpha()) and line[i] != '_'):
+        while (i < len(line) and line[i] in non_alpha):#(not line[i].isalpha()) and line[i] != '_'):
             # for not reordering comments, things in quotes, etc.
             if line[i] == "#":
                 # no need to reorder anything after this
@@ -95,6 +96,11 @@ orderSwap = False
 if (lang1 not in RTL and lang2 in RTL) or (lang1 in RTL and lang2 not in RTL):
     orderSwap = True
 
+# set of non-alphanumeric characters used in Python
+non_alpha = {' ','\t','\n'}
+non_alpha = non_alpha.union(string.punctuation)
+non_alpha.remove('_')
+
 language = sys.argv[1]
 file_to_translate = str(sys.argv[2])
 rest_of_arguments = sys.argv[3:]
@@ -151,7 +157,7 @@ while line != "":
         # all entries in foreign dict either '_' or alphabetic characters
         #   (foregin font scripts or otherwise)
         word_flag = False
-        while i<len(line) and ((line[i].isalpha()) or (line[i] == '_')):
+        while i<len(line) and line[i] not in non_alpha:#(line[i] == '_' or line[i] not in non_alpha):  #((line[i].isalpha()) or (line[i] == '_')):
             #print("'"+line[i]+"'")
             word_flag = True
             if line[i] != '\u202A' and line[i] != '\u202C':
@@ -187,7 +193,7 @@ while line != "":
 
         # now write the other separators/operators/etc.
         # if a separator is first in the line, the prior part of loop is skipped
-        while (i < len(line) and (not line[i].isalpha()) and line[i] != '_'):
+        while (i < len(line) and line[i] in non_alpha):#(not line[i].isalpha()) and line[i] != '_'):
             # for not translating comments, things in quotes, etc.
             if line[i] == "#":
                 comment = True
@@ -269,7 +275,7 @@ while list_index < len(output_list)-1:
         # all entries in foreign dict either '_' or alphabetic characters
         #   (foregin font scripts or otherwise)
         word_flag = False
-        while (i<len(line) and (line[i].isalpha()) or (line[i] == '_')):
+        while (i<len(line) and line[i] not in non_alpha):#(line[i].isalpha()) or (line[i] == '_')):
             #print("'"+line[i]+"'")
             #print(Foreign_output)
             word_flag = True
@@ -300,7 +306,7 @@ while list_index < len(output_list)-1:
 
         # now write the other separators/operators/etc.
         # if a separator is first in the line, the prior part of loop is skipped
-        while (i < len(line) and (not line[i].isalpha()) and line[i] != '_'):
+        while (i < len(line) and line[i] in non_alpha):#(not line[i].isalpha()) and line[i] != '_'):
             # for not translating things in quotes
             if line[i] == "#":
                 comment = True
@@ -441,7 +447,7 @@ for line in error_list:
         comment = False
         index = 0
         for i in line:
-            if i.isalpha() or i=='_':
+            if i not in non_alpha:#i.isalpha() or i=='_':
                 # if this isn't a comment, and we're either not in a string or we are within fstring braces, then translate
                 if not comment and ((not string[0]) or fstr_braces):
                     word_flag = True

@@ -11,6 +11,7 @@
 #
 
 import sys
+import string
 
 ### MAIN IDEA OF THIS VERSION IS, AFTER REORDERING THE SENTENCE, TOKENIZE EVERYTHING IN AN ARRAY, AND TRANSLATE AFTERWARDS
 
@@ -23,7 +24,7 @@ def swapLineOrder(line):
         # finding the words
         word = ""
         word_flag = False
-        while i<len(line) and ((line[i].isalpha()) or (line[i] == '_')):
+        while i<len(line) and line[i] not in non_alpha:#(line[i].isalpha()) or (line[i] == '_')):
             word_flag = True
             word += line[i]
             i += 1
@@ -37,7 +38,7 @@ def swapLineOrder(line):
                 tokens.insert(0,word)
             
         # now write the other separators/operators/etc.
-        while (i < len(line) and (not line[i].isalpha()) and line[i] != '_'):
+        while (i < len(line) and line[i] in non_alpha):#(not line[i].isalpha()) and line[i] != '_'):
             # for not reordering comments, things in quotes, etc.
             if line[i] == "#":
                 # no need to reorder anything after this
@@ -102,6 +103,10 @@ orderSwap = False
 if (lang1 not in RTL and lang2 in RTL) or (lang1 in RTL and lang2 not in RTL):
     orderSwap = True
     
+# set of non-alphanumeric characters used in Python
+non_alpha = {' ','\t','\n', '\r', '\b'}
+non_alpha = non_alpha.union(string.punctuation)
+non_alpha.remove('_')
 
 Lang1_file = open('LanguageData/'+sys.argv[2]+'Key.txt','r')
 # reading data for first language
@@ -163,13 +168,17 @@ while line != "":
         # all entries in foreign dict either '_' or alphabetic characters
         #   (foregin font scripts or otherwise)
         word_flag = False
-        while i<len(line) and ((line[i].isalpha()) or (line[i] == '_')):
+        while i<len(line) and line[i] not in non_alpha:#(line[i] == '_' or line[i] not in non_alpha): #((line[i].isalpha()) or (line[i] == '_')):
+            #print(line[i])
+            # Milind: check for nltk, stopwords, numbers, escape sequences in ASCII instead
             #print("'"+line[i]+"', i =",i)
             word_flag = True
-            word += line[i]
+            if (line[i] != '\u202A' and line[i] != '\u202C'):
+                word += line[i]
             i += 1
 
         #print(word)
+            
         if word_flag == True:
             #print('word_flag is true')
             # if there is a word, must have encountered a non-alpha or '_',
@@ -183,7 +192,7 @@ while line != "":
                         # set replace flag to True and break
                         # write the English version of the word in the new Py file
                         replace_flag = True
-                        #print('found a match in the foreign list')
+                        #print('must be a match in the foreign list')
                         #new_py.write(Lang2_list[j])
                         # Instead of translating now, save the (index,translation) and wait until later
                         tokenList.append(word)
@@ -195,11 +204,12 @@ while line != "":
                 # there was no foreign word to replace,
                 #   so just copy to the new Py file
                 #new_py.write(word)
+                #print('no match found, appending word')
                 tokenList.append(word)
 
         # now write the other separators/operators/etc.
         # if a separator is first in the line, the prior part of loop is skipped
-        while (i < len(line) and (not line[i].isalpha()) and line[i] != '_'):
+        while (i < len(line) and line[i] in non_alpha):#(not line[i].isalpha()) and line[i] != '_'):
             # for not translating comments, things in quotes, etc.
             if line[i] == "#":
                 comment = True

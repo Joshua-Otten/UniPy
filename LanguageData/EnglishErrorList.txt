@@ -1952,3 +1952,4 @@ NameError: name 'τύωσε' is not defined
 SyntaxError: unexpected EOF while parsing
 SyntaxError: invalid non-printable character U+202C
 SyntaxError: invalid non-printable character U+202A
+NameError: name 'प्रिंट' is not defined
