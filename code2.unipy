@@ -1,11 +1,1 @@
-‪imprimir‬('hello, world!')
-i = 3
-‪mientras‬ i > 0:
-	‪imprimir‬('hello there',f'i={i}')
-	i -= 1
-
-
-
-
-
-
+('hello world')prnt

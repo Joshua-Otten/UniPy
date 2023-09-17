@@ -1953,3 +1953,7 @@ SyntaxError：解析时出现意外的 EOF
 SyntaxError：无效的不可打印字符 U+202C
 SyntaxError：无效的不可打印字符 U+202A
 NameError：名称“प्रिंट”未定义
+NameError：名称“prit”未定义
+NameError：名称“prin”未定义
+NameError：名称“prt”未定义
+NameError：名称“print”未定义

@@ -362,6 +362,7 @@ err_line = error_list[len(error_list)-2] # -2 here because there is an extra ele
 found = False
 if err_line in English_Error_Translation_List:
     found = True
+    #print('line is:',err_line)
     err_line = Foreign_Error_Translation_List[English_Error_Translation_List.index(err_line)]
     error_list[len(error_list)-2] = err_line
 

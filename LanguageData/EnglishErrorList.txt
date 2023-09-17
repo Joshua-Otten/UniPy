@@ -1953,3 +1953,7 @@ SyntaxError: unexpected EOF while parsing
 SyntaxError: invalid non-printable character U+202C
 SyntaxError: invalid non-printable character U+202A
 NameError: name 'प्रिंट' is not defined
+NameError: name 'prit' is not defined
+NameError: name 'prin' is not defined
+NameError: name 'prt' is not defined
+NameError: name 'prnt' is not defined

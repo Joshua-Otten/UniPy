@@ -1953,3 +1953,7 @@ NameError: navê 'τύωσε' nehatiye diyarkirin
 Çewtiya Hevoksaziyê: Karaktera nederbasdar U+202C ya neçapkirî
 Çewtiya Hevoksaziyê: Karaktera nederbasdar U+202A ya neçapkirî
 NameError: Navê 'Daxuyan' nehatiye diyarkirin
+NameError: navê 'prit' nehatiye diyarkirin
+NameError: navê 'prin' nehatiye diyarkirin
+NameError: navê 'prt' nehatiye diyarkirin
+NameError: navê 'çapkirin' nehatiye diyarkirin

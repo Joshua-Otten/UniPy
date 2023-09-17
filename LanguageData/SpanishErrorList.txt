@@ -1953,3 +1953,7 @@ SyntaxError: EOF inesperado durante el análisis
 SyntaxError: carácter no imprimible no válido U+202C
 Error de sintaxis: carácter no imprimible no válido U+202A
 NameError: el nombre 'प्रिंट' no está definido
+NameError: el nombre 'prit' no está definido
+NameError: el nombre 'prin' no está definido
+NameError: el nombre 'prt' no está definido
+NameError: el nombre 'imprimir' no está definido
