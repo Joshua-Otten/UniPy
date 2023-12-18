@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This repo contains a demo of our UniPy application.  (Note that the most recent version resides in the "RTL" branch.)  Currently, it allows a user to type Python code in either editor box and translate across 6 different languages (including English).  Languages can be flipped by using the "swap" feature.  Two output boxes below display the corresponding output after an Execution button is clicked.  
+This repo contains a demo of our UniPy application.  (Note that the most recent version resides in the "RTL" branch.)  Currently, it allows a user to type Python code in either editor box and translate across 8 different languages (including English).  Languages can be flipped by using the "swap" feature.  Two output boxes below display the corresponding output after an Execution button is clicked.  
 
 ## File Layout
 
