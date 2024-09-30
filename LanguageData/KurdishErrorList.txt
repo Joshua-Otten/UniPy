@@ -1960,3 +1960,6 @@ NameError: navê 'çapkirin' nehatiye diyarkirin
 IndentationError: ketina neçaverêkirî
 NameError: navê 'çapkirin' nehatiye diyarkirin
 NameError: navê 'Çapkirinê' nehatiye diyarkirin
+NameError: Navê '__' nayê destnîşankirin
+NameError: Navê '__' nayê destnîşankirin
+NameError: Nav '_' nayê destnîşankirin

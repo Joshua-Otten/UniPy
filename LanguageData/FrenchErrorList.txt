@@ -1960,3 +1960,6 @@ NameError : le nom « imprimer » n'est pas défini
 IndentationError : retrait inattendu
 NameError : le nom « imprimer » n'est pas défini
 NameError : le nom « Imprimer » n'est pas défini
+Nameerror: le nom '__' n'est pas défini
+Nameerror: le nom '__' n'est pas défini
+NameError: le nom '_' n'est pas défini

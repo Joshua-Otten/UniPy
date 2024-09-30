@@ -1960,3 +1960,6 @@ NameError: el nombre 'imprimir' no está definido
 IndentationError: sangría inesperada
 NameError: el nombre 'imprimir' no está definido
 NameError: el nombre 'Imprimir' no está definido
+NameError: el nombre '__' no está definido
+NameError: el nombre '__' no está definido
+NameError: el nombre '_' no está definido

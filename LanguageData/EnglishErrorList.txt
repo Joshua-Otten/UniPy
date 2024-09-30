@@ -1960,3 +1960,9 @@ NameError: name 'prnt' is not defined
 IndentationError: unexpected indent
 NameError: name '打印' is not defined
 NameError: name 'طباعة' is not defined
+NameError: name '__' is not defined
+NameError: name '__' is not defined
+NameError: name '__' is not defined
+NameError: name '__' is not defined
+NameError: name '_' is not defined
+NameError: name '_' is not defined

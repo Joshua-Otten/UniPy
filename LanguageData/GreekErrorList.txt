@@ -1960,3 +1960,6 @@ NameError: το όνομα "print" δεν έχει οριστεί
 IndentationError: μη αναμενόμενη εσοχή
 NameError: το όνομα "print" δεν έχει οριστεί
 NameError: το όνομα "Print" δεν έχει οριστεί
+NameError: Το όνομα '__' δεν έχει οριστεί
+NameError: Το όνομα '__' δεν έχει οριστεί
+NameError: Το όνομα '_' δεν έχει οριστεί

@@ -1960,3 +1960,6 @@ logging.exception('ZeroDivisionError: %s', e)
 خطأ المسافة البادئة: مسافة بادئة غير متوقعة
 خطأ في الاسم: لم يتم تعريف الاسم "طباعة".
 NameError: name 'طباعة' is not defined
+Nameerror: الاسم "__" غير محدد
+Nameerror: الاسم "__" غير محدد
+NameError: الاسم "_" غير محدد

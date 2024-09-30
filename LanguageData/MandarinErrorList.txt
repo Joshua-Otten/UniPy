@@ -1960,3 +1960,6 @@ NameError：名称“print”未定义
 IndentationError：意外缩进
 NameError: name '打印' is not defined
 NameError：名称“Print”未定义
+名称：未定义的名称'__'
+名称：未定义的名称'__'
+名称：未定义的名称'_'

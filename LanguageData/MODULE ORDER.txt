@@ -1,0 +1,8 @@
+Following is the order of modules for terms in each language.  These MUST be kept consistent.
+
+1. Standard Library
+2. Random
+3. NumPy (subset)
+4. Pandas
+5. TensorFlow
+6. PyTorch

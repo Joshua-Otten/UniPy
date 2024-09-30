@@ -241,11 +241,17 @@ class App extends Component {
                 </label>
                 <select id="Language1" name="Language1" onChange={this.changeLanguage1}>
                 <option value="English">English</option>
+		<option value="Expanded">English Expand</option>
                 <option value="Spanish">Spanish</option>
+		<option value="abbrev_Spanish">Spanish abbrev</option>
                 <option value="French">French</option>
+		<option value="abbrev_French">French abbrev</option>
                 <option value="Greek">Greek</option>
+		<option value="abbrev_Greek">Greek abbrev</option>
                 <option value="Hindi">Hindi</option>
+		<option value="abbrev_Hindi">Hindi abbrev</option>
                 <option value="Bengali">Bengali</option>
+		<option value="abbrev_Bengali">Bengali abbrev</option>
                 <option value="Mandarin">Mandarin</option>
                 <option value="Kurdish">Kurdish</option>
                 <option value="Arabic">Arabic</option>
@@ -271,13 +277,19 @@ class App extends Component {
                         </label>
                         <select id="Language2" name="Language2" onChange={this.changeLanguage2}>
                 <option value="Spanish">Spanish</option>
+		<option value="abbrev_Spanish">Spanish abbrev</option>
                 <option value="French">French</option>
+		<option value="abbrev_French">French abbrev</option>
                 <option value="Greek">Greek</option>
+		<option value="abbrev_Greek">Greek abbrev</option>
                 <option value="Hindi">Hindi</option>
+		<option value="abbrev_Hindi">Hindi abbrev</option>
                 <option value="Bengali">Bengali</option>
+		<option value="abbrev_Bengali">Bengali abbrev</option>
                 <option value="Mandarin">Mandarin</option>
                 <option value="Kurdish">Kurdish</option>
                 <option value="Arabic">Arabic</option>
+		<option value="Expanded">English Expand</option>
                 <option value="English">English</option>
               </select>
                 <textarea rows="22" cols="35" id="Translation" name="Translation" className={
