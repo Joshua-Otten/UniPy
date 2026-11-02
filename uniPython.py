@@ -375,7 +375,7 @@ temp.close()
 
 # Now we have a temp.py executable file!
 # So first, run it.  Then we'll grab the output and print it out in this program
-run = subprocess.run(["python",file_to_translate[:len(file_to_translate)-6]+".py"]+rest_of_arguments, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+run = subprocess.run(["python3",file_to_translate[:len(file_to_translate)-6]+".py"]+rest_of_arguments, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
 # not currently supporting extra command-line arguments...
 
 output = run.stdout.decode()

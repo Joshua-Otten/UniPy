@@ -17,8 +17,6 @@ const {exec} = require('child_process');
 
 
 app.get('/Translate', (req, res) => {
-    //res.json(codeText)
-    // gets the value of "result" after execution of the py program above
     res.json(result)
 })
 
@@ -43,19 +41,18 @@ app.post('/Translate', (req, res) => {
 
     console.log('Python code written to file:', filename);
 
-    exec(`python StringCodeTranslator.py code1.unipy `+lang1+` `+lang2+` .unipy`, (error, stdout, stderr) => {
+    exec(`python3 StringCodeTranslator.py code1.unipy `+lang1+` `+lang2+` .unipy`, (error, stdout, stderr) => {
       if (error) {
         console.error('Error translating Python code:', error);
+        console.error('stderr:', stderr);
         res.status(500).json({ error: 'Error translating Python code' });
         return;
       }
-      
+
       console.log('code1.unipy translated');
-      //const this_result = stdout.trim(); // Assign the result to the variable and remove leading/trailing whitespace
-      const this_result = stdout; // assign result to the variable
+      const this_result = stdout;
       console.log('returning:', this_result);
-      
-      // Send the result to the frontend
+
       res.status(200).json({ result: this_result });
     });
   });
@@ -72,25 +69,26 @@ app.post('/RunCode',(req, res) => {
     console.log('language indicated for execution:', lang);
     const filename = 'code1.unipy';
 
+    // FIX: exec must be INSIDE the writeFile callback so the file exists before running Python
     fs.writeFile(filename, code, (error) => {
         if (error) {
             console.error('Error writing Python code to file:', error);
             res.status(500).json({ error: 'Error writing Python code to file' });
             return;
         }
-        
-        console.log('Python code written to file:', filename);
-    });
-    // Executing the foreign code!
-    // WARNING:  CONSIDER CYBERSECURITY RISKS OF CODE EXECUTION
-    let this_result = ''
 
-    exec(`python uniPython.py `+lang+` code1.unipy`, (error, stdout, stderr) => {
-        this_result = [stdout];
-        console.log('returning output:',this_result);
-        
-        // Send the result to the frontend
-        res.status(200).json({ result: this_result });
+        console.log('Python code written to file:', filename);
+
+        // Executing the foreign code!
+        // WARNING:  CONSIDER CYBERSECURITY RISKS OF CODE EXECUTION
+        exec(`python3 uniPython.py `+lang+` code1.unipy`, (error, stdout, stderr) => {
+            console.log('stdout:', stdout);
+            console.log('stderr:', stderr);
+            const this_result = [stdout];
+            console.log('returning output:',this_result);
+
+            res.status(200).json({ result: this_result });
+        });
     });
 });
 
@@ -101,30 +99,28 @@ app.post('/RunCode2',(req, res) => {
     console.log('language indicated for execution:', lang);
     const filename = 'code2.unipy';
 
+    // FIX: exec must be INSIDE the writeFile callback so the file exists before running Python
     fs.writeFile(filename, code, (error) => {
         if (error) {
             console.error('Error writing Python code to file:', error);
             res.status(500).json({ error: 'Error writing Python code to file' });
             return;
         }
-        
-        console.log('Python code written to file:', filename);
-    });
-    // Executing the foreign code!
-    // WARNING:  CONSIDER CYBERSECURITY RISKS OF CODE EXECUTION
-    let this_result = ''
 
-    exec(`python uniPython.py `+lang+` code2.unipy`, (error, stdout, stderr) => {
-        this_result = [stdout];
-        console.log('returning output:',this_result);
-        
-        // Send the result to the frontend
-        res.status(200).json({ result: this_result });
+        console.log('Python code written to file:', filename);
+
+        // Executing the foreign code!
+        // WARNING:  CONSIDER CYBERSECURITY RISKS OF CODE EXECUTION
+        exec(`python3 uniPython.py `+lang+` code2.unipy`, (error, stdout, stderr) => {
+            console.log('stdout:', stdout);
+            console.log('stderr:', stderr);
+            const this_result = [stdout];
+            console.log('returning output:',this_result);
+
+            res.status(200).json({ result: this_result });
+        });
     });
 });
-
-
-
 
 
 // The "catchall" handler: for any request that doesn't

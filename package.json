@@ -6,7 +6,7 @@
   "scripts": {
     "test:backend": "jest --findRelatedTests app.test.js",
     "test:frontend": "cd client && npm test",
-    "setup": "cd client && npm install && npm run-script build && cd ..",
+    "setup": "pip3 install -r requirements.txt && cd client && npm install && npm run-script build && cd ..",
     "start": "concurrently \"node server.js\" \"cd client && npm run-script start\"",
     "start-express": "node server.js",
     "start-react": "cd client && npm run-script start",
